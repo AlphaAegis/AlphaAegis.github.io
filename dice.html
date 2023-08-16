@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Random Number Generation and Sum</title>
+</head>
+<body>
+    <input type="number" id="numberInput" placeholder="Enter a number">
+    <button id="generateButton">Generate and Sum</button>
+    <p id="result"></p>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            const numberInput = document.getElementById("numberInput");
+            const generateButton = document.getElementById("generateButton");
+            const resultElement = document.getElementById("result");
+
+            generateButton.addEventListener("click", function() {
+                const inputNumber = parseFloat(numberInput.value);
+                if (!isNaN(inputNumber)) {
+                    let sum = 0;
+                    for (let i = 0; i < inputNumber; i++) {
+                        const randomNumber = Math.floor(Math.random() * 6) + 1;
+                        sum += randomNumber;
+                    }
+                    resultElement.textContent = `Sum of ${inputNumber} random numbers: ${sum}`;
+                } else {
+                    resultElement.textContent = "Please enter a valid number.";
+                }
+            });
+        });
+    </script>
+</body>
+</html>
