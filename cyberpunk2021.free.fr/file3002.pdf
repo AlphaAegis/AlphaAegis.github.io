@@ -1,0 +1,668 @@
+%PDF-1.3
+1 0 obj
+<< /Type /Catalog
+/Outlines 2 0 R
+/Pages 3 0 R >>
+endobj
+2 0 obj
+<< /Type /Outlines /Count 0 >>
+endobj
+3 0 obj
+<< /Type /Pages
+/Kids [6 0 R
+20 0 R
+35 0 R
+50 0 R
+]
+/Count 4
+/Resources <<
+/ProcSet 4 0 R
+/Font << 
+/F1 8 0 R
+/F2 9 0 R
+/F3 37 0 R
+>>
+>>
+/MediaBox [0.000 0.000 612.000 792.000]
+ >>
+endobj
+4 0 obj
+[/PDF /Text ]
+endobj
+5 0 obj
+<<
+/Creator (DOMPDF)
+/CreationDate (D:20230828003600+02'00')
+/ModDate (D:20230828003600+02'00')
+>>
+endobj
+6 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Annots [ 10 0 R 12 0 R 14 0 R 16 0 R 18 0 R ]
+/Contents 7 0 R
+>>
+endobj
+7 0 obj
+<<
+/Length 5922 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 94.995 725.937 Td /F1 18.0 Tf  [(Ubiquitous Computing : An Interesting New Paradigm)] TJ ET
+BT 272.508 695.200 Td /F1 12.0 Tf  [(Marcia Riley)] TJ ET
+BT 34.016 668.915 Td /F2 12.0 Tf  [( )] TJ ET
+BT 34.016 630.659 Td 2.177 Tw /F2 12.0 Tf  [(What is ubiquitous computing ? An exciting new approach to serving us with technology ? A difficult yet )] TJ ET
+BT 34.016 616.403 Td 2.209 Tw /F2 12.0 Tf  [(rewarding technical challenge ? A concern for privacy advocates ? A good tool in the right hands, and an )] TJ ET
+BT 34.016 602.147 Td 0.466 Tw /F2 12.0 Tf  [(oppressive one in other hands ? To help us answer these questions, this essay examines the current definition of )] TJ ET
+BT 34.016 587.891 Td 1.436 Tw /F2 12.0 Tf  [(ubiquitous computing, its development, including the key people and places influencing its development, and )] TJ ET
+BT 34.016 573.635 Td 0.000 Tw /F2 12.0 Tf  [(finally some concerns raised by this new approach for putting technology and people together.)] TJ ET
+BT 34.016 504.641 Td /F1 14.0 Tf  [(What is Ubiquitous Computing ?)] TJ ET
+BT 34.016 477.900 Td 0.619 Tw /F2 12.0 Tf  [(Ubiquitous computing, or calm technology, is a paradigm shift where technology becomes virtually invisible in )] TJ ET
+BT 34.016 463.644 Td 1.892 Tw /F2 12.0 Tf  [(our lives. Instead of having a desk-top or lap-top machine, the technology we use will be embedded in our )] TJ ET
+BT 34.016 449.388 Td 3.999 Tw /F2 12.0 Tf  [(environment. From the )] TJ ET
+0.000 0.000 0.800 rg
+BT 159.342 449.388 Td 3.999 Tw /F2 12.0 Tf  [(ubiquitous computing page at Xerox PARC)] TJ ET
+0.000 0.000 0.800 RG
+0.24 w 0 J [  ] 0 d
+159.342 447.994 m 389.003 447.994 l S
+0.000 0.000 0.000 rg
+BT 389.003 449.388 Td 3.999 Tw /F2 12.0 Tf  [( [UBPARC] we have the following )] TJ ET
+BT 34.016 435.132 Td 0.630 Tw /F2 12.0 Tf  [(description : imagine a world with hundreds of wireless computing devices of different sizes in the same room. )] TJ ET
+BT 34.016 420.876 Td 0.551 Tw /F2 12.0 Tf  [(In order to bring this type of computing out into the environment, among the things we need to rethink are user )] TJ ET
+BT 34.016 406.620 Td 0.000 Tw /F2 12.0 Tf  [(interfaces, displays, operating systems, networks, and wireless communications.)] TJ ET
+BT 34.016 380.364 Td 0.826 Tw /F2 12.0 Tf  [(This rethinking demands a radical departure from the tradition of putting machines out for our use, and having )] TJ ET
+BT 34.016 366.108 Td 0.331 Tw /F2 12.0 Tf  [(us adapt to them. Instead, in the world of ubiquitous computing, technology will be implicit in our lives, built in )] TJ ET
+BT 34.016 351.852 Td 1.000 Tw /F2 12.0 Tf  [(to the things we use, including the spaces. The proponents of this technology hold that this type of computing )] TJ ET
+BT 34.016 337.596 Td 0.000 Tw /F2 12.0 Tf  [(will be a more natural tool, and thus a more powerful and effective one for us to use.)] TJ ET
+BT 34.016 311.340 Td 1.283 Tw /F2 12.0 Tf  [(Now that it is defined, what are some uses envisioned by its proponents and authors ? In 1991 Mark Weiser, )] TJ ET
+BT 34.016 297.084 Td 0.788 Tw /F2 12.0 Tf  [(thought of as the founder of what we now term ubiquitous computing, wrote an article for Scientific American )] TJ ET
+BT 34.016 282.828 Td 0.595 Tw /F2 12.0 Tf  [(entitled ")] TJ ET
+0.000 0.000 0.800 rg
+BT 78.507 282.828 Td 0.595 Tw /F2 12.0 Tf  [(The Computer for the 21st Century)] TJ ET
+0.24 w 0 J [  ] 0 d
+78.507 281.434 m 250.466 281.434 l S
+0.000 0.000 0.000 rg
+BT 250.466 282.828 Td 0.595 Tw /F2 12.0 Tf  [(". In it, Weiser describes the multiple computers in a room as tabs, )] TJ ET
+BT 34.016 268.572 Td 2.566 Tw /F2 12.0 Tf  [(pads and boards, which roughly correspond to active Post-It notes, sheets of paper, and white boards and )] TJ ET
+BT 34.016 254.316 Td 0.288 Tw /F2 12.0 Tf  [(bulletin boards. A good description of these items can be found in the article ")] TJ ET
+0.000 0.000 0.800 rg
+BT 413.225 254.316 Td 0.288 Tw /F2 12.0 Tf  [(Some Computer Science Issues in )] TJ ET
+0.24 w 0 J [  ] 0 d
+413.225 252.922 m 580.984 252.922 l S
+BT 34.016 240.060 Td 1.125 Tw /F2 12.0 Tf  [(Ubiquitous Computing)] TJ ET
+0.24 w 0 J [  ] 0 d
+34.016 238.666 m 145.493 238.666 l S
+0.000 0.000 0.000 rg
+BT 145.493 240.060 Td 1.125 Tw /F2 12.0 Tf  [(". These computers serve many functions as people come in and out of the rooms. The )] TJ ET
+BT 34.016 225.804 Td 1.569 Tw /F2 12.0 Tf  [(people themselves could be tracked by active badges \(based on infrared sensors\) or other devices, and email )] TJ ET
+BT 34.016 211.548 Td 2.493 Tw /F2 12.0 Tf  [(could be forwarded automatically to wherever the person is. Locating people at work to deliver important )] TJ ET
+BT 34.016 197.292 Td 0.298 Tw /F2 12.0 Tf  [(messages, or for other reasons, is made easy \(the possible misuses of these capabilities are probably entering the )] TJ ET
+BT 34.016 183.036 Td 0.000 Tw /F2 12.0 Tf  [(reader's mind at this point. This concern will be discussed in the )] TJ ET
+0.000 0.000 0.800 rg
+BT 344.480 183.036 Td /F2 12.0 Tf  [(Issues and Concerns)] TJ ET
+0.24 w 0 J [  ] 0 d
+344.480 181.642 m 442.460 181.642 l S
+0.000 0.000 0.000 rg
+BT 442.460 183.036 Td /F2 12.0 Tf  [( section below\).)] TJ ET
+BT 34.016 156.780 Td 0.357 Tw /F2 12.0 Tf  [(Other scenarios given in the article include the coffee starting at your request when the alarm wakes you, seeing )] TJ ET
+BT 34.016 142.524 Td 0.517 Tw /F2 12.0 Tf  [("electronic trails" left by people passing through the neighborhood, and automatically transmitting a quote from )] TJ ET
+BT 34.016 128.268 Td 0.000 Tw /F2 12.0 Tf  [(a newspaper to the office with the swipe of a pen over the newspaper.)] TJ ET
+BT 34.016 102.012 Td 1.408 Tw /F2 12.0 Tf  [(With these definitions and examples, we have an idea of what ubiquitous computing is, and what it hopes to )] TJ ET
+BT 34.016 87.756 Td 0.000 Tw /F2 12.0 Tf  [(achieve. To see how it has evolved, we'll now look at its history.)] TJ ET
+endstream
+endobj
+8 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Times-Bold
+/Encoding /WinAnsiEncoding
+>>
+endobj
+9 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F2
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+>>
+endobj
+10 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 11 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 159.3420 448.3079 389.0031 460.1879 ]
+>>
+endobj
+11 0 obj
+<< /Type /Action
+/S /URI
+/URI (http://sandbox.xerox.com/ubicomp/)
+>>
+endobj
+12 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 13 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 78.5068 281.7479 250.4659 293.6279 ]
+>>
+endobj
+13 0 obj
+<< /Type /Action
+/S /URI
+/URI (cp_project.php?txt=149&lng=us)
+>>
+endobj
+14 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 15 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 413.2252 253.2359 580.9843 265.1159 ]
+>>
+endobj
+15 0 obj
+<< /Type /Action
+/S /URI
+/URI (http://nano.xerox.com/hypertext/weiser/UbiCACM.html)
+>>
+endobj
+16 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 17 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 34.0157 238.9799 145.4927 250.8599 ]
+>>
+endobj
+17 0 obj
+<< /Type /Action
+/S /URI
+/URI (http://nano.xerox.com/hypertext/weiser/UbiCACM.html)
+>>
+endobj
+18 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 19 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 344.4797 181.9559 442.4597 193.8359 ]
+>>
+endobj
+19 0 obj
+<< /Type /Action
+/S /GoTo
+/D 34 0 R
+>>
+endobj
+20 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Annots [ 22 0 R 24 0 R 26 0 R 28 0 R 30 0 R 32 0 R ]
+/Contents 21 0 R
+>>
+endobj
+21 0 obj
+<<
+/Length 6992 >>
+stream
+
+0.000 0.000 0.000 rg
+0.000 0.000 0.800 RG
+0.24 w 0 J [  ] 0 d
+BT 34.016 730.601 Td /F1 14.0 Tf  [(Development : Short, Active, and Ongoing)] TJ ET
+BT 34.016 705.900 Td 1.449 Tw /F2 12.0 Tf  [(Already, one name has been reoccurring when talking about ubiquitous computing : Mark Weiser. The place )] TJ ET
+BT 34.016 691.644 Td 1.134 Tw /F2 12.0 Tf  [(which has pioneered research on this topic, and where Mark is located is the Computer Science Lab at Xerox )] TJ ET
+BT 34.016 677.388 Td 2.201 Tw /F2 12.0 Tf  [(PARC. Today's field got started at PARC in 1988, where Mark articulated the approach and the reasoning )] TJ ET
+BT 34.016 663.132 Td 1.086 Tw /F2 12.0 Tf  [(behind it. As he describes in [UBPARC], interface and computer design had historically been aiming to make )] TJ ET
+BT 34.016 648.876 Td 0.169 Tw /F2 12.0 Tf  [(computers more "dramatic", that is so exciting and interesting to use that we would not want to do without them. )] TJ ET
+BT 34.016 634.620 Td 0.163 Tw /F2 12.0 Tf  [(He reasoned that a better approach would be to make the machine disappear, or become hidden from the user, so )] TJ ET
+BT 34.016 620.364 Td 0.000 Tw /F2 12.0 Tf  [(that its use would be non-intrusive, becoming a graceful part of our everyday life.)] TJ ET
+BT 34.016 594.108 Td 0.741 Tw /F2 12.0 Tf  [(In the brief description above, we saw that a re-thinking of almost every aspect of computing needs to be done )] TJ ET
+BT 34.016 579.852 Td 1.495 Tw /F2 12.0 Tf  [(to realize this vision. For example, power requirements need to decreased. This can be done by reducing the )] TJ ET
+BT 34.016 565.596 Td 0.505 Tw /F2 12.0 Tf  [(clocking frequency of chips by increasing parallelism or pipelining. Wireless networking needs to be developed )] TJ ET
+BT 34.016 551.340 Td 1.636 Tw /F2 12.0 Tf  [(to accommodate remote computers "hiding" in our environment. At present, the capability of handling many )] TJ ET
+BT 34.016 537.084 Td 0.691 Tw /F2 12.0 Tf  [(high speed devices for one person is not available. Besides wireless technology, networking issues such as real-)] TJ ET
+BT 34.016 522.828 Td 0.649 Tw /F2 12.0 Tf  [(time capabilities for multimedia over standard networks and packet routing need to be addressed. For the white )] TJ ET
+BT 34.016 508.572 Td 0.785 Tw /F2 12.0 Tf  [(boards, new types of pens working over a large area and with back projection were needed. One approach was )] TJ ET
+BT 34.016 494.316 Td 2.848 Tw /F2 12.0 Tf  [(to develop infrared pens which rely on a camera-like device behind the screen to sense the pen position )] TJ ET
+BT 34.016 480.060 Td 0.000 Tw /F2 12.0 Tf  [([Elrod92].)] TJ ET
+BT 34.016 453.804 Td 0.827 Tw /F2 12.0 Tf  [(One can see from just a few of these computer science issues that making ubiquitous computing a reality is an )] TJ ET
+BT 34.016 439.548 Td 2.978 Tw /F2 12.0 Tf  [(interesting technical challenge. Much of the history since 1988 has involved addressing the technological )] TJ ET
+BT 34.016 425.292 Td 0.609 Tw /F2 12.0 Tf  [(problems. In addition, )] TJ ET
+0.000 0.000 0.800 rg
+BT 144.838 425.292 Td 0.609 Tw /F2 12.0 Tf  [(conferences)] TJ ET
+0.24 w 0 J [  ] 0 d
+144.838 423.898 m 202.138 423.898 l S
+0.000 0.000 0.000 rg
+BT 202.138 425.292 Td 0.609 Tw /F2 12.0 Tf  [( have sprung up, and other groups have developed and begun work on issues )] TJ ET
+BT 34.016 411.036 Td 1.111 Tw /F2 12.0 Tf  [(related to ubiquitous computing. One such group is the )] TJ ET
+0.000 0.000 0.800 rg
+BT 310.666 411.036 Td 1.111 Tw /F2 12.0 Tf  [(Future Computing Environments)] TJ ET
+0.24 w 0 J [  ] 0 d
+310.666 409.642 m 471.564 409.642 l S
+0.000 0.000 0.000 rg
+BT 471.564 411.036 Td 1.111 Tw /F2 12.0 Tf  [( group at the Georgia )] TJ ET
+BT 34.016 396.780 Td 3.782 Tw /F2 12.0 Tf  [(Institute of Technology's College of Computing. This group is exploring interesting uses of technology )] TJ ET
+BT 34.016 382.524 Td 1.335 Tw /F2 12.0 Tf  [(including teaching applications, such as Classroom 2000, and unconventional at-home use in projects such as )] TJ ET
+BT 34.016 368.268 Td 1.802 Tw /F2 12.0 Tf  [(Domisilica, formerly known as the CyberFridge project \()] TJ ET
+0.000 0.000 0.800 rg
+BT 320.591 368.268 Td 1.802 Tw /F2 12.0 Tf  [(FCE Projects)] TJ ET
+0.24 w 0 J [  ] 0 d
+320.591 366.874 m 386.065 366.874 l S
+0.000 0.000 0.000 rg
+BT 386.065 368.268 Td 1.802 Tw /F2 12.0 Tf  [(\). An interesting application of active )] TJ ET
+BT 34.016 354.012 Td 0.000 Tw /F2 12.0 Tf  [(badges and music to be presented at the next CHI conference called Audio Aura can be found at )] TJ ET
+0.000 0.000 0.800 rg
+BT 498.560 354.012 Td /F2 12.0 Tf  [(here)] TJ ET
+0.24 w 0 J [  ] 0 d
+498.560 352.618 m 519.212 352.618 l S
+0.000 0.000 0.000 rg
+BT 519.212 354.012 Td /F2 12.0 Tf  [(.)] TJ ET
+0.000 0.000 0.800 rg
+BT 34.016 327.756 Td 1.640 Tw /F2 12.0 Tf  [(Active badges)] TJ ET
+0.24 w 0 J [  ] 0 d
+34.016 326.362 m 103.972 326.362 l S
+0.000 0.000 0.000 rg
+BT 103.972 327.756 Td 1.640 Tw /F2 12.0 Tf  [( are the work of Olivetti's research center in Cambridge, England. Besides this group, a major )] TJ ET
+BT 34.016 313.500 Td 1.564 Tw /F2 12.0 Tf  [(interest in computers we can wear has grown out of the ubiquitous computing philosophy, gathering its own )] TJ ET
+BT 34.016 299.244 Td 1.282 Tw /F2 12.0 Tf  [(momentum and its own particular goals. In the explanation of what a wearable is, the )] TJ ET
+0.000 0.000 0.800 rg
+BT 464.843 299.244 Td 1.282 Tw /F2 12.0 Tf  [(MIT Wearables Group)] TJ ET
+0.24 w 0 J [  ] 0 d
+464.843 297.850 m 576.702 297.850 l S
+0.000 0.000 0.000 rg
+BT 34.016 284.988 Td 0.000 Tw /F2 12.0 Tf  [(states :)] TJ ET
+BT 34.016 258.732 Td 0.316 Tw /F2 12.0 Tf  [("A person's computer should be worn, much as eyeglasses or clothing are worn, and interact with the user based )] TJ ET
+BT 34.016 244.476 Td 0.981 Tw /F2 12.0 Tf  [(on the context of the situation. With heads-up displays, unobtrusive input devices, personal wireless local area )] TJ ET
+BT 34.016 230.220 Td 1.396 Tw /F2 12.0 Tf  [(networks, and a host of other context sensing and communication tools, the wearable computer can act as an )] TJ ET
+BT 34.016 215.964 Td 0.000 Tw /F2 12.0 Tf  [(intelligent assistant, whether it be through a Remembrance Agent, augmented reality, or intellectual collectives.")] TJ ET
+BT 34.016 189.708 Td 1.197 Tw /F2 12.0 Tf  [(Wearable computing seems perhaps less intrusive than the "invisible" computers of ubiquitous computing, for )] TJ ET
+BT 34.016 175.452 Td 1.114 Tw /F2 12.0 Tf  [(we decide to wear them or not. With ubiquitous computing, we can be tracked, among other things, albeit for )] TJ ET
+BT 34.016 161.196 Td 1.917 Tw /F2 12.0 Tf  [(helpful purposes. However, the same capabilities can be used for less honorable purposes, which raises one )] TJ ET
+BT 34.016 146.940 Td 0.000 Tw /F2 12.0 Tf  [(major concern about ubiquitous computing which we will consider in the next section : invasion of privacy.)] TJ ET
+BT 34.016 91.884 Td /F2 12.0 Tf  [( )] TJ ET
+BT 34.016 61.649 Td /F1 14.0 Tf  [(Privacy and Related Issues)] TJ ET
+endstream
+endobj
+22 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 23 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 144.8381 424.2119 202.1381 436.0919 ]
+>>
+endobj
+23 0 obj
+<< /Type /Action
+/S /GoTo
+/D 52 0 R
+>>
+endobj
+24 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 25 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 310.6665 409.9559 471.5644 421.8359 ]
+>>
+endobj
+25 0 obj
+<< /Type /Action
+/S /URI
+/URI (http://www.cc.gatech.edu/fce/)
+>>
+endobj
+26 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 27 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 320.5909 367.1879 386.0651 379.0679 ]
+>>
+endobj
+27 0 obj
+<< /Type /Action
+/S /URI
+/URI (http://www.cc.gatech.edu/fce/projects.html)
+>>
+endobj
+28 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 29 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 498.5597 352.9319 519.2117 364.8119 ]
+>>
+endobj
+29 0 obj
+<< /Type /Action
+/S /URI
+/URI (http://xenia.media.mit.edu/~mbb/audio-auramb.html)
+>>
+endobj
+30 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 31 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 34.0157 326.6759 103.9718 338.5559 ]
+>>
+endobj
+31 0 obj
+<< /Type /Action
+/S /URI
+/URI (http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.36.123&rep=rep1&type=pdf)
+>>
+endobj
+32 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 33 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 464.8428 298.1639 576.7024 310.0439 ]
+>>
+endobj
+33 0 obj
+<< /Type /Action
+/S /URI
+/URI (http://www.media.mit.edu/wearables/)
+>>
+endobj
+34 0 obj
+[20 0 R /Fit]
+endobj
+35 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Annots [ 38 0 R 40 0 R 42 0 R 44 0 R 46 0 R 48 0 R ]
+/Contents 36 0 R
+>>
+endobj
+36 0 obj
+<<
+/Length 6161 >>
+stream
+
+0.000 0.000 0.000 rg
+0.000 0.000 0.800 RG
+0.24 w 0 J [  ] 0 d
+BT 34.016 732.539 Td 1.207 Tw /F2 12.0 Tf  [(In his Scientific American article, Weiser says that having so many computers in one place may at first seem )] TJ ET
+BT 34.016 718.283 Td 0.579 Tw /F2 12.0 Tf  [(intimidating, but "like the wires in the walls, these hundreds of computers will come to be invisible to common )] TJ ET
+BT 34.016 704.027 Td 1.083 Tw /F2 12.0 Tf  [(awareness" [SciAm9_91]. Is it good that the computers are invisible ? Who can turn them off ? Who controls )] TJ ET
+BT 34.016 689.771 Td 0.000 Tw /F2 12.0 Tf  [(the flow of information, and who has access to it ?)] TJ ET
+BT 34.016 665.555 Td 0.728 Tw /F2 12.0 Tf  [(In an )] TJ ET
+0.000 0.000 0.800 rg
+BT 62.796 665.555 Td 0.728 Tw /F2 12.0 Tf  [(article)] TJ ET
+0.24 w 0 J [  ] 0 d
+62.796 664.161 m 92.784 664.161 l S
+0.000 0.000 0.000 rg
+BT 92.784 665.555 Td 0.728 Tw /F2 12.0 Tf  [( in the October 1994 issue of )] TJ ET
+BT 239.530 665.555 Td 0.728 Tw /F3 12.0 Tf  [(The Last Link)] TJ ET
+BT 306.999 665.555 Td 0.728 Tw /F2 12.0 Tf  [(, a computer-mediated communication magazine which )] TJ ET
+BT 34.016 651.299 Td 3.761 Tw /F2 12.0 Tf  [(reports about topics concerning human communication via computers, Stephen Doheny-Farina writes on )] TJ ET
+BT 34.016 637.043 Td 0.418 Tw /F2 12.0 Tf  [("Default = Offline Or Why Ubicomp Scares Me". In this article he voices concerns that touch on several issues. )] TJ ET
+BT 34.016 622.787 Td 0.348 Tw /F2 12.0 Tf  [(Referring to the Orwellian nature of being monitored by active badges or other means, he suggests that Weiser's )] TJ ET
+BT 34.016 608.531 Td 0.586 Tw /F2 12.0 Tf  [(response -- supporting our right to dissent and not wear a badge -- is backwards. We should not have to dissent )] TJ ET
+BT 34.016 594.275 Td 0.688 Tw /F2 12.0 Tf  [(to ensure our right to privacy. The default condition should be offline, thus not tracked. He voices concern that )] TJ ET
+BT 34.016 580.019 Td 0.493 Tw /F2 12.0 Tf  [(PARC is an organization that encourages freedom and privacy among its employees. In other organizations less )] TJ ET
+BT 34.016 565.763 Td 0.000 Tw /F2 12.0 Tf  [(tolerant of dissent, he wonders what would happen.)] TJ ET
+BT 34.016 539.507 Td 3.336 Tw /F2 12.0 Tf  [(Others have wondered the same thing, and the unintended \(at least by some\) applications of ubiquitous )] TJ ET
+BT 34.016 525.251 Td 2.071 Tw /F2 12.0 Tf  [(computing technology has people worried. In a broader sense, privacy and computing has been an ongoing )] TJ ET
+BT 34.016 510.995 Td 0.897 Tw /F2 12.0 Tf  [(issues, well before the arrival of the ubiquitous computing philosophy. What ubiquitous computing contributes )] TJ ET
+BT 34.016 496.739 Td 1.702 Tw /F2 12.0 Tf  [(to the debate, however, is the condoned tracking of people's movements wrapped in the benevolent guise of )] TJ ET
+BT 34.016 482.483 Td 0.668 Tw /F2 12.0 Tf  [(helping them. And many people would not use the technology for other purposes. However, is it responsible to )] TJ ET
+BT 34.016 468.227 Td 0.265 Tw /F2 12.0 Tf  [(ignore or minimize the potential for misuse of a technology simply to realize its benefits ? Perhaps the answer is )] TJ ET
+BT 34.016 453.971 Td 3.318 Tw /F2 12.0 Tf  [(to ensure checks are in place, legislative and technical, to minimize abuse and maximize use of a new )] TJ ET
+BT 34.016 439.715 Td 5.285 Tw /F2 12.0 Tf  [(technology. As Doheny-Farina says, "everyone must assume that only extraordinary conditions merit )] TJ ET
+BT 34.016 425.459 Td 1.818 Tw /F2 12.0 Tf  [(surveillance. The requisite argument must not be, 'why do you not want to wear the badge ?'. The requisite )] TJ ET
+BT 34.016 411.203 Td 1.942 Tw /F2 12.0 Tf  [(argument must be 'why do you want me to wear it ?'. We must demand that the burden of proof is on the )] TJ ET
+BT 34.016 396.947 Td 0.000 Tw /F2 12.0 Tf  [(watcher, not the watched".)] TJ ET
+BT 34.016 325.913 Td /F1 14.0 Tf  [(References)] TJ ET
+BT 34.016 301.212 Td /F3 12.0 Tf  [(Scientific American)] TJ ET
+BT 128.336 301.212 Td /F2 12.0 Tf  [(, September 1991 [SciAm9_91].)] TJ ET
+0.000 0.000 0.800 rg
+BT 34.016 274.956 Td /F2 12.0 Tf  [(Mark Weiser's papers)] TJ ET
+0.24 w 0 J [  ] 0 d
+34.016 273.562 m 138.140 273.562 l S
+0.000 0.000 0.000 rg
+BT 138.140 274.956 Td /F2 12.0 Tf  [( and )] TJ ET
+0.000 0.000 0.800 rg
+BT 161.468 274.956 Td /F2 12.0 Tf  [(list of research papers)] TJ ET
+0.24 w 0 J [  ] 0 d
+161.468 273.562 m 266.432 273.562 l S
+0.000 0.000 0.000 rg
+BT 266.432 274.956 Td /F2 12.0 Tf  [(.)] TJ ET
+0.000 0.000 0.800 rg
+BT 34.016 248.700 Td /F2 12.0 Tf  [(Wired 2.02 article)] TJ ET
+0.24 w 0 J [  ] 0 d
+34.016 247.306 m 120.992 247.306 l S
+0.000 0.000 0.000 rg
+BT 120.992 248.700 Td /F2 12.0 Tf  [(, by Howard Rheingold.)] TJ ET
+BT 34.016 222.444 Td 2.955 Tw /F2 12.0 Tf  [([Elrod92] Elrod, Bruce, Gold, Goldberg, Halasz, Janssen, Lee, McCall, Pedersen, Pier, Tang, and Welch. )] TJ ET
+BT 34.016 208.188 Td 1.286 Tw /F2 12.0 Tf  [(Liveboard : a large interactive display supporting group meetings, presentations and remote collaboration. pp. )] TJ ET
+BT 34.016 193.932 Td 0.000 Tw /F2 12.0 Tf  [(599-607. CHI '92 Conference proceedings. May 1992. ACM, New York, NY.)] TJ ET
+0.000 0.000 0.800 rg
+BT 34.016 167.676 Td /F2 12.0 Tf  [(Olivetti's Active badges)] TJ ET
+0.24 w 0 J [  ] 0 d
+34.016 166.282 m 148.832 166.282 l S
+0.000 0.000 0.000 rg
+BT 148.832 167.676 Td /F2 12.0 Tf  [(.)] TJ ET
+0.000 0.000 0.800 rg
+BT 34.016 141.420 Td /F2 12.0 Tf  [(Ubiquitous Computing Movies)] TJ ET
+0.24 w 0 J [  ] 0 d
+34.016 140.026 m 183.368 140.026 l S
+0.000 0.000 0.000 rg
+BT 183.368 141.420 Td /F2 12.0 Tf  [(.)] TJ ET
+BT 34.016 111.204 Td /F1 12.0 Tf  [(For further reading)] TJ ET
+BT 34.016 80.988 Td /F2 12.0 Tf  [(Marx, Gary. "Privacy and Technology". )] TJ ET
+BT 229.100 80.988 Td /F3 12.0 Tf  [(The World and I)] TJ ET
+BT 308.096 80.988 Td /F2 12.0 Tf  [(, September 1990.)] TJ ET
+BT 34.016 54.732 Td 0.795 Tw /F2 12.0 Tf  [(Rheingold, Howard. )] TJ ET
+BT 136.261 54.732 Td 0.795 Tw /F3 12.0 Tf  [(Virtual Communities: Homesteading on the Electronic Frontiers)] TJ ET
+BT 451.684 54.732 Td 0.795 Tw /F2 12.0 Tf  [(. Reading, MA : Addison-)] TJ ET
+endstream
+endobj
+37 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F3
+/BaseFont /Times-Italic
+/Encoding /WinAnsiEncoding
+>>
+endobj
+38 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 39 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 62.7963 664.4755 92.7843 676.3555 ]
+>>
+endobj
+39 0 obj
+<< /Type /Action
+/S /URI
+/URI (http://www.ibiblio.org/cmc/mag/1994/oct/last.html)
+>>
+endobj
+40 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 41 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 34.0157 273.8759 138.1397 285.7559 ]
+>>
+endobj
+41 0 obj
+<< /Type /Action
+/S /URI
+/URI (http://www.ubiq.com/hypertext/weiser/WeiserPapers.html)
+>>
+endobj
+42 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 43 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 161.4677 273.8759 266.4317 285.7559 ]
+>>
+endobj
+43 0 obj
+<< /Type /Action
+/S /URI
+/URI (http://www.ubiq.com/weiser/researchreports.htm)
+>>
+endobj
+44 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 45 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 34.0157 247.6199 120.9917 259.4999 ]
+>>
+endobj
+45 0 obj
+<< /Type /Action
+/S /URI
+/URI (http://www.wired.com/wired/archive/2.02/parc.html)
+>>
+endobj
+46 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 47 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 34.0157 166.5959 148.8317 178.4759 ]
+>>
+endobj
+47 0 obj
+<< /Type /Action
+/S /URI
+/URI (http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.36.123&rep=rep1&type=pdf)
+>>
+endobj
+48 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 49 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 34.0157 140.3399 183.3677 152.2199 ]
+>>
+endobj
+49 0 obj
+<< /Type /Action
+/S /URI
+/URI (http://www.ubiq.com/hypertext/weiser/UbiMovies.html)
+>>
+endobj
+50 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 51 0 R
+>>
+endobj
+51 0 obj
+<<
+/Length 743 >>
+stream
+
+0.000 0.000 0.000 rg
+0.000 0.000 0.800 RG
+0.24 w 0 J [  ] 0 d
+BT 34.016 746.579 Td 0.000 Tw /F2 12.0 Tf  [(Wesley Publishing Company, 1993.)] TJ ET
+BT 34.016 716.363 Td /F2 12.0 Tf  [( )] TJ ET
+BT 34.016 702.107 Td /F1 12.0 Tf  [(Conferences)] TJ ET
+BT 34.016 671.891 Td /F2 12.0 Tf  [(Nomadic '96.)] TJ ET
+BT 34.016 645.635 Td /F2 12.0 Tf  [(Vanguard Conference : January 13 - 15, 1997.)] TJ ET
+BT 34.016 619.379 Td /F2 12.0 Tf  [(Workshop on Wearable Computer Systems : August 19-21, 1996, Renton, WA.)] TJ ET
+BT 34.016 593.123 Td /F2 12.0 Tf  [(First International Symposium on Wearable Computers : Oct 13-14, 1997.)] TJ ET
+BT 34.016 566.867 Td /F2 12.0 Tf  [(CHI'97 Workshop on Research Issues in Wearable Computers : March 23-24.)] TJ ET
+endstream
+endobj
+52 0 obj
+[50 0 R /Fit]
+endobj
+xref
+0 53
+0000000000 65535 f 
+0000000008 00000 n 
+0000000073 00000 n 
+0000000119 00000 n 
+0000000315 00000 n 
+0000000344 00000 n 
+0000000458 00000 n 
+0000000568 00000 n 
+0000006542 00000 n 
+0000006650 00000 n 
+0000006759 00000 n 
+0000006887 00000 n 
+0000006972 00000 n 
+0000007099 00000 n 
+0000007180 00000 n 
+0000007308 00000 n 
+0000007411 00000 n 
+0000007538 00000 n 
+0000007641 00000 n 
+0000007769 00000 n 
+0000007824 00000 n 
+0000007943 00000 n 
+0000014988 00000 n 
+0000015116 00000 n 
+0000015171 00000 n 
+0000015299 00000 n 
+0000015380 00000 n 
+0000015508 00000 n 
+0000015602 00000 n 
+0000015730 00000 n 
+0000015831 00000 n 
+0000015958 00000 n 
+0000016091 00000 n 
+0000016219 00000 n 
+0000016306 00000 n 
+0000016336 00000 n 
+0000016455 00000 n 
+0000022669 00000 n 
+0000022780 00000 n 
+0000022906 00000 n 
+0000023007 00000 n 
+0000023134 00000 n 
+0000023240 00000 n 
+0000023368 00000 n 
+0000023466 00000 n 
+0000023593 00000 n 
+0000023694 00000 n 
+0000023821 00000 n 
+0000023954 00000 n 
+0000024081 00000 n 
+0000024184 00000 n 
+0000024249 00000 n 
+0000025044 00000 n 
+trailer
+<<
+/Size 53
+/Root 1 0 R
+/Info 5 0 R
+>>
+startxref
+25074
+%%EOF

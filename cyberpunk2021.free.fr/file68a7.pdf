@@ -1,0 +1,196 @@
+%PDF-1.3
+1 0 obj
+<< /Type /Catalog
+/Outlines 2 0 R
+/Pages 3 0 R >>
+endobj
+2 0 obj
+<< /Type /Outlines /Count 0 >>
+endobj
+3 0 obj
+<< /Type /Pages
+/Kids [6 0 R
+10 0 R
+]
+/Count 2
+/Resources <<
+/ProcSet 4 0 R
+/Font << 
+/F1 8 0 R
+/F2 9 0 R
+/F3 12 0 R
+>>
+>>
+/MediaBox [0.000 0.000 612.000 792.000]
+ >>
+endobj
+4 0 obj
+[/PDF /Text ]
+endobj
+5 0 obj
+<<
+/Creator (DOMPDF)
+/CreationDate (D:20230828003600+02'00')
+/ModDate (D:20230828003600+02'00')
+>>
+endobj
+6 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 7 0 R
+>>
+endobj
+7 0 obj
+<<
+/Length 6007 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 163.467 725.937 Td /F1 18.0 Tf  [(Hot Topics in Ubiquitous Computing)] TJ ET
+BT 271.842 695.200 Td /F1 12.0 Tf  [(Mark Weiser)] TJ ET
+BT 265.164 680.800 Td /F1 12.0 Tf  [(August 16, 1996)] TJ ET
+BT 34.016 654.515 Td /F2 12.0 Tf  [( )] TJ ET
+BT 34.016 616.259 Td 1.671 Tw /F2 12.0 Tf  [(A few thousand years ago people of the Fertile Crescent invented the technology of capturing words on flat )] TJ ET
+BT 34.016 602.003 Td 0.879 Tw /F2 12.0 Tf  [(surfaces using abstract symbols : literacy. The technology of literacy when first invented, and for thousands of )] TJ ET
+BT 34.016 587.747 Td 0.699 Tw /F2 12.0 Tf  [(years afterwards, was expensive, tightly controlled, precious. Today it effortlessly, unobtrusively, surrounds us. )] TJ ET
+BT 34.016 573.491 Td 2.756 Tw /F2 12.0 Tf  [(Look around now : how many objects and surfaces do you see with words on them ? Computers in the )] TJ ET
+BT 34.016 559.235 Td 1.024 Tw /F2 12.0 Tf  [(workplace can be as effortless, and ubiquitous, as that. Long-term the PC and workstation will wither because )] TJ ET
+BT 34.016 544.979 Td 0.460 Tw /F2 12.0 Tf  [(computing access will be everywhere : in the walls, on wrists, and in "scrap computers" \(like scrap paper\) lying )] TJ ET
+BT 34.016 530.723 Td 0.000 Tw /F2 12.0 Tf  [(about to be grabbed as needed. This is called "ubiquitous computing", or "ubicomp".)] TJ ET
+BT 34.016 504.467 Td 1.150 Tw /F2 12.0 Tf  [(I first created the idea of ubiquitous computing from contemplation of the place of today's computer in actual )] TJ ET
+BT 34.016 490.211 Td 0.761 Tw /F2 12.0 Tf  [(activities of everyday life. In particular, anthropological studies of work life [Suchman 1985, Lave 1991] teach )] TJ ET
+BT 34.016 475.955 Td 0.523 Tw /F2 12.0 Tf  [(us that people primarily work in a world of shared situations and unexamined technological skills. However the )] TJ ET
+BT 34.016 461.699 Td 0.239 Tw /F2 12.0 Tf  [(computer today is isolated and isolating from the overall situation, and fails to get out of the way of the work. In )] TJ ET
+BT 34.016 447.443 Td 0.616 Tw /F2 12.0 Tf  [(other words, rather than being a tool through which we work, and so which disappears from our awareness, the )] TJ ET
+BT 34.016 433.187 Td 0.236 Tw /F2 12.0 Tf  [(computer too often remains the focus of attention. And this is true throughout the domain of personal computing )] TJ ET
+BT 34.016 418.931 Td 0.367 Tw /F2 12.0 Tf  [(as currently implemented and discussed for the future, whether one thinks of PC's, palmtops, or dynabooks. The )] TJ ET
+BT 34.016 404.675 Td 3.382 Tw /F2 12.0 Tf  [(characterization of the future computer as the "intimate computer" [Kay 1991], or "rather like a human )] TJ ET
+BT 34.016 390.419 Td 0.000 Tw /F2 12.0 Tf  [(assistant" [Tesler 1991] makes this inappropriate attention to the machine itself particularly apparent.)] TJ ET
+BT 34.016 364.163 Td 3.287 Tw /F2 12.0 Tf  [(Ubiquitous computing has as its goal the enhancing computer use by making many computers available )] TJ ET
+BT 34.016 349.907 Td 0.248 Tw /F2 12.0 Tf  [(throughout the physical environment, but making them effectively invisible to the user. A number of researchers )] TJ ET
+BT 34.016 335.651 Td 1.774 Tw /F2 12.0 Tf  [(around the world are now working in the ubiquitous computing framework. Their work impacts all areas of )] TJ ET
+BT 34.016 321.395 Td 1.704 Tw /F2 12.0 Tf  [(computer science, including hardware components \(e.g. chips\), network protocols, interaction substrates \(e.g. )] TJ ET
+BT 34.016 307.139 Td 0.000 Tw /F2 12.0 Tf  [(software for screens and pens\), applications, privacy, and computational methods.)] TJ ET
+BT 34.016 280.883 Td 0.284 Tw /F2 12.0 Tf  [(Ubiquitous computing is not virtual reality, it is not a Personal Digital Assistant \(PDA\) such as Apple's Newton, )] TJ ET
+BT 34.016 266.627 Td 2.249 Tw /F2 12.0 Tf  [(it is not a personal or intimate computer with agents doing your bidding. Unlike virtual reality, ubiquitous )] TJ ET
+BT 34.016 252.371 Td 3.285 Tw /F2 12.0 Tf  [(computing endeavers to integrate information displays into the everyday physical world. It considers the )] TJ ET
+BT 34.016 238.115 Td 3.387 Tw /F2 12.0 Tf  [(nuances of the real world to be wonderful, and aims only to augment them. Unlike PDA's, ubiquitious )] TJ ET
+BT 34.016 223.859 Td 2.518 Tw /F2 12.0 Tf  [(computing envisions a world of fully connected devices, with cheap wireless networks everywhere; unlike )] TJ ET
+BT 34.016 209.603 Td 0.223 Tw /F2 12.0 Tf  [(PDA's, it postulates that you need not carry anything with you, since information will be accessable everywhere. )] TJ ET
+BT 34.016 195.347 Td 0.188 Tw /F2 12.0 Tf  [(Unlike the intimate agent computer that responds to one's voice and is a personal friend and assistant, ubiquitous )] TJ ET
+BT 34.016 181.091 Td 1.069 Tw /F2 12.0 Tf  [(computing envisions computation primarily in the background where it may not even be noticed. Whereas the )] TJ ET
+BT 34.016 166.835 Td 0.000 Tw /F2 12.0 Tf  [(intimate computer does your bidding, the ubiquitous computer leaves you feeling as though you did it yourself.)] TJ ET
+BT 34.016 140.579 Td 2.823 Tw /F2 12.0 Tf  [(Work on ubiquitous computing is still at an early phase. Most work now is concentrating on the mobile )] TJ ET
+BT 34.016 126.323 Td 0.428 Tw /F2 12.0 Tf  [(infrastructure for wireless networking. Because ubiquitous computing envisions hundreds of wireless computers )] TJ ET
+BT 34.016 112.067 Td 0.866 Tw /F2 12.0 Tf  [(in every office, its need for wireless bandwidth is prodigious. For instance, I work in a not-very-large building )] TJ ET
+BT 34.016 97.811 Td 0.776 Tw /F2 12.0 Tf  [(with 300 other people. If each of us has 100 wireless devices in our offices, each demanding 256 kbits/sec, we )] TJ ET
+BT 34.016 83.555 Td 1.589 Tw /F2 12.0 Tf  [(are using 7.5 gigabits of aggregate bandwidth in a single building. This is difficult to achieve with currently )] TJ ET
+BT 34.016 69.299 Td 0.000 Tw /F2 12.0 Tf  [(envisioned wireless technologies.)] TJ ET
+endstream
+endobj
+8 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Times-Bold
+/Encoding /WinAnsiEncoding
+>>
+endobj
+9 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F2
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+>>
+endobj
+10 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 11 0 R
+>>
+endobj
+11 0 obj
+<<
+/Length 4946 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 34.016 734.579 Td 2.551 Tw /F2 12.0 Tf  [(A second challenge of the mobile infrastructure is handling mobility. Networking developed over the past )] TJ ET
+BT 34.016 720.323 Td 1.438 Tw /F2 12.0 Tf  [(twenty years with the assumption that a machine's name, and its network address, were unvarying. However, )] TJ ET
+BT 34.016 706.067 Td 0.393 Tw /F2 12.0 Tf  [(once a computer can move from network to network this assumption is false. Existing protocols such as TCP/IP )] TJ ET
+BT 34.016 691.811 Td 3.693 Tw /F2 12.0 Tf  [(and OSI are unprepared for to handle machine mobility without change. A number of committees and )] TJ ET
+BT 34.016 677.555 Td 0.000 Tw /F2 12.0 Tf  [(researchers are now working on methods of augmenting or replacing existing protocols to handle mobility.)] TJ ET
+BT 34.016 651.299 Td 0.884 Tw /F2 12.0 Tf  [(A third challenge of the mobile infrastructure is window systems. Most window systems, such as those for the )] TJ ET
+BT 34.016 637.043 Td 0.689 Tw /F2 12.0 Tf  [(Macintosh and for DOS, are not able to open remote windows over a network. Even window systems designed )] TJ ET
+BT 34.016 622.787 Td 2.235 Tw /F2 12.0 Tf  [(for networking, such as X, have built into them assumptions about the mobility of people. The X window )] TJ ET
+BT 34.016 608.531 Td 1.002 Tw /F2 12.0 Tf  [(system protocol, for instance, makes it very difficult to migrate the window of a running application from one )] TJ ET
+BT 34.016 594.275 Td 0.000 Tw /F2 12.0 Tf  [(screen to another, although this is just what a person traveling from their office to a meeting might want.)] TJ ET
+BT 34.016 568.019 Td 1.293 Tw /F2 12.0 Tf  [(For further reading in ubiquitous computing, a paper in Scientific American covers the broad themes [Weiser )] TJ ET
+BT 34.016 553.763 Td 1.692 Tw /F2 12.0 Tf  [(91]. For more detailed work, the July 1993 issue of the Communications of the ACM is entitled "Computer )] TJ ET
+BT 34.016 539.507 Td 1.203 Tw /F2 12.0 Tf  [(Augmented Environments: Back to the Real World" [ACM 93]. This issue is a compendium of papers on the )] TJ ET
+BT 34.016 525.251 Td 1.247 Tw /F2 12.0 Tf  [(subject of embedding computation in everyday life. Papers in the August 1993 Usenix Conference on Mobile )] TJ ET
+BT 34.016 510.995 Td 2.268 Tw /F2 12.0 Tf  [(Computing address a number of ubiquitous computing topics [USENIX 93]. The IEEE is launching a new )] TJ ET
+BT 34.016 496.739 Td 3.001 Tw /F2 12.0 Tf  [(journal of potential relevance to this new field : Personal Computing, edited by Hamid Ahmadi, to start )] TJ ET
+BT 34.016 482.483 Td 0.337 Tw /F2 12.0 Tf  [(publication in 1994. ARPA recently published a broad agency announcement on Wireless, Adaptive and Mobile )] TJ ET
+BT 34.016 468.227 Td 0.000 Tw /F2 12.0 Tf  [(Information Systems \(WAMIS\).)] TJ ET
+BT 34.016 401.171 Td /F2 12.0 Tf  [([ACM 93] )] TJ ET
+BT 87.344 401.171 Td /F3 12.0 Tf  [(Communications of the ACM)] TJ ET
+BT 227.012 401.171 Td /F2 12.0 Tf  [(, July 1993.)] TJ ET
+BT 34.016 374.915 Td /F2 12.0 Tf  [([Kay 91]. Kay, Alan. Computers, Networks, and Education. )] TJ ET
+BT 324.632 374.915 Td /F3 12.0 Tf  [(Scientific American)] TJ ET
+BT 418.952 374.915 Td /F2 12.0 Tf  [(, September 1991. pp. 138-148.)] TJ ET
+BT 34.016 348.659 Td 2.668 Tw /F2 12.0 Tf  [([Lave 91]. Lave, Jean. )] TJ ET
+BT 154.979 348.659 Td 2.668 Tw /F3 12.0 Tf  [(Situated learning: legitimate peripheral participation)] TJ ET
+BT 422.989 348.659 Td 2.668 Tw /F2 12.0 Tf  [(. Cambridge University Press. )] TJ ET
+BT 34.016 334.403 Td 0.000 Tw /F2 12.0 Tf  [(Cambridge. New York, NY. 1991.)] TJ ET
+BT 34.016 308.147 Td 0.501 Tw /F2 12.0 Tf  [([Suchman 85]. Suchman, Lucy A. )] TJ ET
+BT 203.166 308.147 Td 0.501 Tw /F3 12.0 Tf  [(Plans and Situated Actions: The problem of human-machine communication)] TJ ET
+BT 574.483 308.147 Td 0.501 Tw /F2 12.0 Tf  [(. )] TJ ET
+BT 34.016 293.891 Td 0.000 Tw /F2 12.0 Tf  [(Xerox PARC Technical Report ISL-6. February 1985)] TJ ET
+BT 34.016 267.635 Td 0.282 Tw /F2 12.0 Tf  [([Tesler 91]. Tesler, Lawrence G. Networked Computing in the 1990's. )] TJ ET
+BT 376.929 267.635 Td 0.282 Tw /F3 12.0 Tf  [(Scientific American)] TJ ET
+BT 471.532 267.635 Td 0.282 Tw /F2 12.0 Tf  [(, September 1991. pp. )] TJ ET
+BT 34.016 253.379 Td 0.000 Tw /F2 12.0 Tf  [(86-93.)] TJ ET
+BT 34.016 227.123 Td 4.517 Tw /F2 12.0 Tf  [([Usenix 93] )] TJ ET
+BT 103.038 227.123 Td 4.517 Tw /F3 12.0 Tf  [(Proceedings from the Mobile and Location-Independent Computing Symposium)] TJ ET
+BT 518.958 227.123 Td 4.517 Tw /F2 12.0 Tf  [(. USENIX )] TJ ET
+BT 34.016 212.867 Td 0.000 Tw /F2 12.0 Tf  [(Association.)] TJ ET
+BT 34.016 186.611 Td 0.909 Tw /F2 12.0 Tf  [([Weiser 91] Weiser, Mark. The Computer for the Twenty-First Century. )] TJ ET
+BT 392.704 186.611 Td 0.909 Tw /F3 12.0 Tf  [(Scientific American)] TJ ET
+BT 487.933 186.611 Td 0.909 Tw /F2 12.0 Tf  [(. September 1991. )] TJ ET
+BT 34.016 172.355 Td 0.000 Tw /F2 12.0 Tf  [(pp. 94-104.)] TJ ET
+endstream
+endobj
+12 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F3
+/BaseFont /Times-Italic
+/Encoding /WinAnsiEncoding
+>>
+endobj
+xref
+0 13
+0000000000 65535 f 
+0000000008 00000 n 
+0000000073 00000 n 
+0000000119 00000 n 
+0000000301 00000 n 
+0000000330 00000 n 
+0000000444 00000 n 
+0000000507 00000 n 
+0000006566 00000 n 
+0000006674 00000 n 
+0000006783 00000 n 
+0000006848 00000 n 
+0000011847 00000 n 
+trailer
+<<
+/Size 13
+/Root 1 0 R
+/Info 5 0 R
+>>
+startxref
+11958
+%%EOF

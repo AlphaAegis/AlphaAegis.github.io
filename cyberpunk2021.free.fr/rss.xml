@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<rss version="2.0">
+<channel>
+<title>Cyberpunk 2021</title>
+<link>http://cyberpunk.asia</link>
+<description>Encyclopédie sur le Cyberpunk en général et le jeu de rôle Cyberpunk 2020 en particulier</description>
+<lastBuildDate>Thu, 06 Jul 2023</lastBuildDate>
+<item>
+	<title>Ajout de conversions pour Cyberpunk Red</title>
+	<link>http://cyberpunk.asia/downloads.php</link>
+	<pubDate>Wed, 20 Oct 2021</pubDate>
+	<description>Ajout de conversions de l'armement et de la cybernétique pour Cyberpunk Red par <b>YC</b></description>
+</item>
+<item>
+	<title>Ajout de mods pour Cyberpunk 2077</title>
+	<link>http://cyberpunk.asia/cyberpunk2077.php?cat=mod</link>
+	<pubDate>Sun, 27 Dec 2020</pubDate>
+	<description>Ajout d'une page pour les mods de Cyberpunk 2077</description>
+</item>
+<item>
+	<title>Ajout d'armures</title>
+	<link>http://cyberpunk.asia/armure.php</link>
+	<pubDate>Wed, 25 Nov 2020</pubDate>
+	<description>Ajout de 4 armures</description>
+</item>
+<item>
+	<title>Ajout de vêtements militaires</title>
+	<link>http://cyberpunk.asia/fashion.php?id=7</link>
+	<pubDate>Wed, 18 Nov 2020</pubDate>
+	<description>Ajout de vêtements militaires à la page fashion</description>
+</item>
+<item>
+	<title>Traduction du netrunning</title>
+	<link>http://cyberpunk.asia/netrunning.php</link>
+	<pubDate>Tue, 17 Nov 2020</pubDate>
+	<description>Traduction du netrunning en anglais</description>
+</item>
+<item>
+	<title>Ajout du Retour au Meilleur des Mondes</title>
+	<link>http://cyberpunk.asia/cp_project.php?txt=249</link>
+	<pubDate>Sun, 15 Nov 2020</pubDate>
+	<description>Ajout du Retour au Meilleur des Mondes d'Aldous Huxley</description>
+</item>
+<item>
+	<title>Publication de la critique de Cyberpunk Red</title>
+	<link>http://cyberpunk.asia/supplement.php?id=76</link>
+	<pubDate>Fri, 13 Nov 2020</pubDate>
+	<description>Publication de la critique de Cyberpunk Red</description>
+</item>
+<item>
+	<title>Finalisation de la traduction de la création de gangs</title>
+	<link>http://cyberpunk.asia/creation_gang.php</link>
+	<pubDate>Thu, 12 Nov 2020</pubDate>
+	<description>Les exemples de gangs ont été traduits.</description>
+</item>
+<item>
+	<title>Ajout de 10 définitions au glossaire Cyberpunk</title>
+	<link>http://cyberpunk.asia/lexique.php</link>
+	<pubDate>Wed, 04 Nov 2020</pubDate>
+	<description>Ajout de 10 définitions au glossaire Cyberpunk et quelques améliorations</description>
+</item>
+<item>
+	<title>Interview d'Eyaura</title>
+	<link>http://cyberpunk.asia/cp_project.php?txt=248</link>
+	<pubDate>Tue, 27 Oct 2020</pubDate>
+	<description>Interview d'Eyaura créatrice de G String</description>
+</item>
+<item>
+	<title>Ajout d'une section interview</title>
+	<link>http://cyberpunk.asia/cp_project.php?cat=7</link>
+	<pubDate>Sun, 25 Oct 2020</pubDate>
+	<description>Ajout d'une section interview au Cyberpunk Project</description>
+</item>
+<item>
+	<title>Ajout de vidéos sur le Cyberpunk</title>
+	<link>http://cyberpunk.asia/cyberpunk2077.php</link>
+	<pubDate>Sat, 24 Oct 2020</pubDate>
+	<description>Ajout de vidéos sur le Cyberpunk dans la section Cyberpunk 2077</description>
+</item>
+<item>
+	<title>Ajout des jeux vidéo Cyberpunk</title>
+	<link>http://cyberpunk.asia/cp_media.php?typ=game</link>
+	<pubDate>Tue, 20 Oct 2020</pubDate>
+	<description>Ajout d'une section dédiée au jeux vidéo Cyberpunk</description>
+</item>
+<item>
+	<title>Traduction des drogues</title>
+	<link>http://cyberpunk.asia/drogue.php</link>
+	<pubDate>Thu, 08 Oct 2020</pubDate>
+	<description>Traduction des drogues en anglais.</description>
+</item>
+<item>
+	<title>Traduction des équipements de GITS</title>
+	<link>http://cyberpunk.asia/gits.php?pg=equip</link>
+	<pubDate>Wed, 07 Oct 2020</pubDate>
+	<description>Traduction des équipements de Ghost in the Shell par mkb0628.</description>
+</item>
+<item>
+	<title>Traduction des descriptions d'armes restantes</title>
+	<link>http://cyberpunk.asia/weapons.php</link>
+	<pubDate>Sun, 04 Oct 2020</pubDate>
+	<description>Traduction des descriptions d'armes restantes par mkb0628.</description>
+</item>
+<item>
+	<title>Traduction du laboratoire de drogues</title>
+	<link>http://cyberpunk.asia/labo.php</link>
+	<pubDate>Thu, 01 Oct 2020</pubDate>
+	<description>Traduction du laboratoire de drogues en anglais.</description>
+</item>
+<item>
+	<title>Amélioration de l'interface du Cyberpunk Project</title>
+	<link>http://cyberpunk.asia/cp_project.php</link>
+	<pubDate>Fri, 25 Sep 2020</pubDate>
+	<description>Amélioration de l'interface du Cyberpunk Project, les préférences sont maintenant sauvegardées.</description>
+</item>
+<item>
+	<title>Traduction des armures</title>
+	<link>http://cyberpunk.asia/armure.php</link>
+	<pubDate>Wed, 23 Sep 2020</pubDate>
+	<description>Traduction des armures en anglais.</description>
+</item>
+<item>
+	<title>Traduction des rencontres</title>
+	<link>http://cyberpunk.asia/rencontre.php</link>
+	<pubDate>Tue, 22 Sep 2020</pubDate>
+	<description>Traduction des rencontres aléatoires en anglais.</description>
+</item>
+<item>
+	<title>Traduction des puces</title>
+	<link>http://cyberpunk.asia/puces.php</link>
+	<pubDate>Sun, 20 Sep 2020</pubDate>
+	<description>Traduction des puces en anglais.</description>
+</item>
+<item>
+	<title>Traduction des suppléments</title>
+	<link>http://cyberpunk.asia/supplement.php</link>
+	<pubDate>Thu, 17 Sep 2020</pubDate>
+	<description>Traduction des suppléments en anglais.</description>
+</item>
+<item>
+	<title>Traduction des armes</title>
+	<link>http://cyberpunk.asia/weapons.php?cat=2&amp;action=show</link>
+	<pubDate>Wed, 09 Sep 2020</pubDate>
+	<description>Traduction des armes restantes en anglais.</description>
+</item>
+<item>
+	<title>Traduction de la page sur les cyber-cerveaux</title>
+	<link>http://cyberpunk.asia/gits.php?pg=cc</link>
+	<pubDate>Sat, 05 Sep 2020</pubDate>
+	<description>Traduction de la page sur les cyber-cerveaux en anglais.</description>
+</item>
+<item>
+	<title>Traduction de la page sur les munitions pour armes lourdes et électrothermales</title>
+	<link>http://cyberpunk.asia/pages_html.php?html=munition4</link>
+	<pubDate>Fri, 04 Sep 2020</pubDate>
+	<description>Traduction de la page sur les munitions pour armes lourdes et électrothermales en anglais.</description>
+</item>
+<item>
+	<title>Traduction de la page sur les munitions pour armes d'épaule</title>
+	<link>http://cyberpunk.asia/pages_html.php?html=munition3</link>
+	<pubDate>Thu, 03 Sep 2020</pubDate>
+	<description>Traduction de la page sur les munitions pour armes d'épaule en anglais.</description>
+</item>
+<item>
+	<title>Traduction de la page sur les panzer-boys</title>
+	<link>http://cyberpunk.asia/pages_html.php?html=panzerboy</link>
+	<pubDate>Wed, 02 Sep 2020</pubDate>
+	<description>Traduction de la page sur les panzer-boys en anglais.</description>
+</item>
+<item>
+	<title>Traduction de la page sur les investissements boursiers</title>
+	<link>http://cyberpunk.asia/pages_html.php?html=bourse</link>
+	<pubDate>Tue, 01 Sep 2020</pubDate>
+	<description>Traduction de la page sur les investissements boursiers en anglais.</description>
+</item>
+<item>
+	<title>Traduction de la page sur les corpos</title>
+	<link>http://cyberpunk.asia/pages_html.php?html=becorporate</link>
+	<pubDate>Mon, 31 Aug 2020</pubDate>
+	<description>Traduction de la page sur les corpos en anglais.</description>
+</item>
+<item>
+	<title>Traduction de la page sur la cyberpsychose</title>
+	<link>http://cyberpunk.asia/cyberpsycho.php</link>
+	<pubDate>Sun, 30 Aug 2020</pubDate>
+	<description>Traduction de la page sur la cyberpsychose en anglais.</description>
+</item>
+<item>
+	<title>Traduction de la page sur la météorologie</title>
+	<link>http://cyberpunk.asia/pages_html.php?html=meteo</link>
+	<pubDate>Sat, 29 Aug 2020</pubDate>
+	<description>Traduction de la page sur la météorologie en anglais.</description>
+</item>
+<item>
+	<title>Traduction de la page sur la législation sur les armes</title>
+	<link>http://cyberpunk.asia/pages_html.php?html=legislation</link>
+	<pubDate>Fri, 28 Aug 2020</pubDate>
+	<description>Traduction de la page sur la législation sur les armes en anglais.</description>
+</item>
+<item>
+	<title>Traduction de la page de présentation de l'univers de Cyberpunk</title>
+	<link>http://cyberpunk.asia/pages_html.php?html=presentation</link>
+	<pubDate>Thu, 27 Aug 2020</pubDate>
+	<description>Traduction de la page de présentation de l'univers de Cyberpunk en anglais.</description>
+</item>
+<item>
+	<title>Traduction de la page des downloads</title>
+	<link>http://cyberpunk.asia/downloads.php</link>
+	<pubDate>Mon, 10 Aug 2020</pubDate>
+	<description>Traduction de la page des downloads en anglais.</description>
+</item>
+<item>
+	<title>Ajout du lore de Cyberpunk 2077</title>
+	<link>http://cyberpunk.asia/cyberpunk2077.php</link>
+	<pubDate>Sat, 20 Jun 2020</pubDate>
+	<description>Ajout d'une section dédiée au lore de Cyberpunk 2077</description>
+</item>
+<item>
+	<title>Refonte de la page sur les corporations</title>
+	<link>http://cyberpunk.asia/corpo.php</link>
+	<pubDate>Sat, 07 Dec 2019</pubDate>
+	<description>Refonte complète de la page sur les corporations avec traduction en anglais</description>
+</item>
+<item>
+	<title>Ajout de 195 définitions au glossaire Cyberpunk</title>
+	<link>http://cyberpunk.asia/lexique.php</link>
+	<pubDate>Sat, 30 Nov 2019</pubDate>
+	<description>Tirées du travail de Gary Astleford avec leur traduction en français et quelques corrections</description>
+</item>
+<item>
+	<title>Intégration des critiques de films et animes de Cyberpunk Review</title>
+	<link>http://cyberpunk.asia/cp_project.php?cat=4</link>
+	<pubDate>Wed, 20 Nov 2019</pubDate>
+	<description>Cyberpunk Review étant malheureusement mort depuis longtemps, les critiques de films et animes ont été intégrées directement au site</description>
+</item>
+<item>
+	<title>Traduction des grenades</title>
+	<link>http://cyberpunk.asia/equip.php?cat=1</link>
+	<pubDate>Tue, 19 Nov 2019</pubDate>
+	<description>Traduction de la totalité des grenades en anglais.</description>
+</item>
+<item>
+	<title>Traduction des équipements pour armes à feu et arcs</title>
+	<link>http://cyberpunk.asia/equip.php?cat=2</link>
+	<pubDate>Sat, 16 Nov 2019</pubDate>
+	<description>Traduction de la totalité des équipements pour armes à feu et arcs en anglais.</description>
+</item>
+<item>
+	<title>Traduction des munitions</title>
+	<link>http://cyberpunk.asia/munitions.php</link>
+	<pubDate>Fri, 15 Nov 2019</pubDate>
+	<description>Traduction de la totalité des munitions en anglais.</description>
+</item>
+<item>
+	<title>Réparation du lecteur MP3 de la page sur Shodan</title>
+	<link>http://cyberpunk.asia/shodan.php</link>
+	<pubDate>Wed, 13 Nov 2019</pubDate>
+	<description>Remplacement par le lecteur Howler.</description>
+</item>
+<item>
+	<title>Ajout de plusieurs équipements pour arme à feu, grenades et munitions spéciales</title>
+	<link>http://cyberpunk.asia/munitions_spec.php</link>
+	<pubDate>Wed, 06 Nov 2019</pubDate>
+	<description>Ecrit par Soleo en 2006.</description>
+</item>
+<item>
+	<title>Ajout d'exemples pour la création de gangs</title>
+	<link>http://cyberpunk.asia/creation_gang.php</link>
+	<pubDate>Tue, 05 Nov 2019</pubDate>
+	<description>La page sur la création de gangs d'Ocelot a été complétée avec des exemples.</description>
+</item>
+<item>
+	<title>Amélioration de la qualité de nombreuses illustrations</title>
+	<link>http://cyberpunk.asia/</link>
+	<pubDate>Sat, 02 Nov 2019</pubDate>
+	<description>A l'aide de waifu2x-caffe notamment et d'autres astuces.</description>
+</item>
+<item>
+	<title>Mise à jour des liens</title>
+	<link>http://cyberpunk.asia/links.php</link>
+	<pubDate>Mon, 28 Oct 2019</pubDate>
+	<description>Avec beaucoup de suppressions de liens morts malheureusement.</description>
+</item>
+<item>
+	<title>Modernisation du code de la majorité du site</title>
+	<link>http://cyberpunk.asia/</link>
+	<pubDate>Fri, 25 Oct 2019</pubDate>
+	<description>A cause du passage à mysqli principalement.</description>
+</item>
+<item>
+	<title>Ajout de 90 articles au compte à rebours vers un monde Cyberpunk</title>
+	<link>http://cyberpunk.asia/countdown.php</link>
+	<pubDate>Tue, 29 Jul 2014</pubDate>
+	<description>Le monde Cyberpunk est un monde dystopique, pourtant chaque jour, nous nous en approchons.</description>
+</item>
+<item>
+	<title>Ajout des règles sur les tasers</title>
+	<link>http://cyberpunk.asia/tasers.php</link>
+	<pubDate>Wed, 29 Jan 2014</pubDate>
+	<description>Ajout des règles sur les tasers écrites par le groupe Flipper is Dead.</description>
+</item>
+<item>
+	<title>Ajout de 77 articles au compte à rebours vers un monde Cyberpunk</title>
+	<link>http://cyberpunk.asia/countdown.php</link>
+	<pubDate>Fri, 03 Jan 2014</pubDate>
+	<description>Le monde Cyberpunk est un monde dystopique, pourtant chaque jour, nous nous en approchons.</description>
+</item>
+<item>
+	<title>Refonte complète des armes blanches</title>
+	<link>http://cyberpunk.asia/armblan.php</link>
+	<pubDate>Sun, 08 Dec 2013</pubDate>
+	<description>Refonte complète en se basant notamment sur le site Blackhammer Project.</description>
+</item>
+<item>
+	<title>Refonte complète des arts martiaux</title>
+	<link>http://cyberpunk.asia/artmart.php</link>
+	<pubDate>Fri, 29 Nov 2013</pubDate>
+	<description>Refonte complète en se basant notamment sur le site Datafortress 2020.</description>
+</item>
+<item>
+	<title>Ajout des phobies</title>
+	<link>http://cyberpunk.asia/cyberpsycho.php</link>
+	<pubDate>Sun, 17 Nov 2013</pubDate>
+	<description>Ajout des phobies aux règles sur la cyberpsychose.</description>
+</item>
+<item>
+	<title>Ajout de la banque à PNJ</title>
+	<link>http://cyberpunk.asia/NPC.php</link>
+	<pubDate>Tue, 12 Nov 2013</pubDate>
+	<description>Aka le bestiaire.</description>
+</item>
+<item>
+	<title>Ajout du texte &quot;From Ike to The Matrix : welcome to the American dystopia&quot;</title>
+	<link>http://cyberpunk.asia/cp_project.php?txt=242</link>
+	<pubDate>Tue, 03 Sep 2013</pubDate>
+	<description>Ecrit par Andrew O'Hehir en juin 2013.</description>
+</item>
+<item>
+	<title>Ajout de 87 articles au compte à rebours vers un monde Cyberpunk</title>
+	<link>http://cyberpunk.asia/countdown.php</link>
+	<pubDate>Wed, 07 Aug 2013</pubDate>
+	<description>Le monde Cyberpunk est un monde dystopique, pourtant chaque jour, nous nous en approchons.</description>
+</item>
+<item>
+	<title>Ajout du texte &quot;Who Owns Cyberpunk ?&quot;</title>
+	<link>http://cyberpunk.asia/cp_project.php?txt=241</link>
+	<pubDate>Thu, 25 Jul 2013</pubDate>
+	<description>Ecrit par James Patrick Kelly en juillet 2013.</description>
+</item>
+<item>
+	<title>Ajout d'une page sur la Trauma Team</title>
+	<link>http://cyberpunk.asia/trauma.php</link>
+	<pubDate>Wed, 24 Jul 2013</pubDate>
+	<description>Traduite en partie par Klare.</description>
+</item>
+<item>
+	<title>Ajout du manifeste Biopunk</title>
+	<link>http://cyberpunk.asia/pages_html.php?html=manifeste#manisfbio</link>
+	<pubDate>Tue, 23 Jul 2013</pubDate>
+	<description>Ecrit par Meredith L. Patterson en janvier 2010.</description>
+</item>
+<item>
+	<title>Ajout du texte &quot;Thank you for choosing Cyberpunk dystopia&quot;</title>
+	<link>http://cyberpunk.asia/cp_project.php?txt=240</link>
+	<pubDate>Wed, 10 Jul 2013</pubDate>
+	<description>Ecrit par Totient en juillet 2013.</description>
+</item>
+<item>
+	<title>Ajout de 35 articles au compte à rebours vers un monde Cyberpunk</title>
+	<link>http://cyberpunk.asia/countdown.php</link>
+	<pubDate>Sun, 14 Apr 2013</pubDate>
+	<description>Le monde Cyberpunk est un monde dystopique, pourtant chaque jour, nous nous en approchons.</description>
+</item>
+<item>
+	<title>Ajout de 175 articles au compte à rebours vers un monde Cyberpunk</title>
+	<link>http://cyberpunk.asia/countdown.php</link>
+	<pubDate>Fri, 15 Mar 2013</pubDate>
+	<description>Le monde Cyberpunk est un monde dystopique, pourtant chaque jour, nous nous en approchons.</description>
+</item>
+<item>
+	<title>Ajout du texte &quot;Cypherpunk rising : WikiLeaks, encryption and the coming surveillance dystopia&quot;</title>
+	<link>http://cyberpunk.asia/cp_project.php?txt=238</link>
+	<pubDate>Sat, 09 Mar 2013</pubDate>
+	<description>Ecrit par R. U. Sirius en mars 2013.</description>
+</item>
+<item>
+	<title>Ajout du texte &quot;Power and the Internet&quot;</title>
+	<link>http://cyberpunk.asia/cp_project.php?txt=239</link>
+	<pubDate>Fri, 08 Mar 2013</pubDate>
+	<description>Ecrit par Bruce Schneier en janvier 2013.</description>
+</item>
+<item>
+	<title>Ajout du texte &quot;Orwell via Huxley&quot;</title>
+	<link>http://cyberpunk.asia/cp_project.php?txt=237</link>
+	<pubDate>Thu, 14 Jun 2012</pubDate>
+	<description>Ecrit par PhilaLawyer en juillet 2011.</description>
+</item>
+<item>
+	<title>Ajout du texte &quot;Down Among the Cyberpunks&quot;</title>
+	<link>http://cyberpunk.asia/cp_project.php?txt=236</link>
+	<pubDate>Tue, 12 Jun 2012</pubDate>
+	<description>Ecrit par Theodore Roszak en 2000.</description>
+</item>
+<item>
+	<title>Ajout de 66 articles au compte à rebours vers un monde Cyberpunk</title>
+	<link>http://cyberpunk.asia/countdown.php</link>
+	<pubDate>Fri, 08 Jun 2012</pubDate>
+	<description>Le monde Cyberpunk est un monde dystopique, pourtant chaque jour, nous nous en approchons.</description>
+</item>
+<item>
+	<title>Ajout des conversions full borg</title>
+	<link>http://cyberpunk.asia/fbc.php</link>
+	<pubDate>Sun, 06 May 2012</pubDate>
+	<description>Ecrit par Mikael van Atta avec l'aide de Snowtiger et d'autres, en cours de traduction par Sébastien.</description>
+</item>
+<item>
+	<title>Ajout du texte &quot;We are the dead : how and why are cyberpunk films dystopic ?&quot;</title>
+	<link>http://cyberpunk.asia/cp_project.php?txt=235</link>
+	<pubDate>Thu, 15 Mar 2012</pubDate>
+	<description>Ecrit par LordNugget en février 2012.</description>
+</item>
+<item>
+	<title>Ajout de 41 articles au compte à rebours vers un monde Cyberpunk</title>
+	<link>http://cyberpunk.asia/countdown.php</link>
+	<pubDate>Wed, 22 Feb 2012</pubDate>
+	<description>Le monde Cyberpunk est un monde dystopique, pourtant chaque jour, nous nous en approchons.</description>
+</item>
+<item>
+	<title>Ajout du texte &quot;Post-Human Nightmares : the World of Japanese Cyberpunk Cinema&quot;</title>
+	<link>http://cyberpunk.asia/cp_project.php?txt=234</link>
+	<pubDate>Fri, 02 Dec 2011</pubDate>
+	<description>Ecrit par Mark Player en mai 2011.</description>
+</item>
+<item>
+	<title>Traduction des équipements pour ACPA</title>
+	<link>http://cyberpunk.asia/veh_equip.php?lng=fr#e9</link>
+	<pubDate>Mon, 24 Oct 2011</pubDate>
+	<description>Traduit et augmenté grâce à l'aide précieuse de Sébastien.</description>
+</item>
+<item>
+	<title>Ajout des équipements pour ACPA</title>
+	<link>http://cyberpunk.asia/veh_equip.php?lng=fr#e9</link>
+	<pubDate>Wed, 19 Oct 2011</pubDate>
+	<description>Equipements pour ACPA.</description>
+</item>
+<item>
+	<title>Ajout de l'interview de Lepht Anonym</title>
+	<link>http://cyberpunk.asia/cp_project.php?txt=233</link>
+	<pubDate>Mon, 03 Oct 2011</pubDate>
+	<description>Interview de Lepht Anonym par Cyb3rmonk.</description>
+</item>
+<item>
+	<title>Traduction des artilleries</title>
+	<link>http://cyberpunk.asia/arty.php</link>
+	<pubDate>Sat, 01 Oct 2011</pubDate>
+	<description>Traduit et augmenté grâce à l'aide précieuse de Sébastien.</description>
+</item>
+<item>
+	<title>Ajout des artilleries</title>
+	<link>http://cyberpunk.asia/arty.php</link>
+	<pubDate>Wed, 28 Sep 2011</pubDate>
+	<description>Contenu originel provenant du site Datafortress 2020.</description>
+</item>
+<item>
+	<title>Ajout du texte &quot;Cyberpunk Cities : Science Fiction Meets Urban Theory&quot;</title>
+	<link>http://cyberpunk.asia/cp_project.php?txt=232</link>
+	<pubDate>Sun, 04 Sep 2011</pubDate>
+	<description>Ecrit par Carl Abbott en décembre 2007.</description>
+</item>
+<item>
+	<title>Traduction de la gestion du stress</title>
+	<link>http://cyberpunk.asia/pages_html.php?html=stress</link>
+	<pubDate>Sat, 03 Sep 2011</pubDate>
+	<description>Traduit par Sébastien.</description>
+</item>
+<item>
+	<title>Ajout du texte &quot;From Chandler to Gibson : How Noir led to Cyberpunk&quot;</title>
+	<link>http://cyberpunk.asia/cp_project.php?txt=231</link>
+	<pubDate>Wed, 31 Aug 2011</pubDate>
+	<description>Ecrit par Danny Bowes en août 2011.</description>
+</item>
+<item>
+	<title>Ajout du texte &quot;H+ Underground : a transhumanist biohacking primer&quot;</title>
+	<link>http://cyberpunk.asia/cp_project.php?txt=230</link>
+	<pubDate>Fri, 26 Aug 2011</pubDate>
+	<description>Ecrit par Lepht Anonym en août 2011.</description>
+</item>
+<item>
+	<title>Ajout d'un nouveau manifeste cyberpunk</title>
+	<link>http://cyberpunk.asia/pages_html.php?html=manifeste&amp;lng=fr#manisf4</link>
+	<pubDate>Thu, 25 Aug 2011</pubDate>
+	<description>Ajout d'un nouveau manifeste cyberpunk écrit par Transceiverfreq et traduit par Screwhead et KBlack.</description>
+</item>
+<item>
+	<title>Ajout de 630 images dans la galerie</title>
+	<link>http://cyberpunk.asia/gallery.php?aff=thumb&amp;ord=addi&amp;page=0&amp;img=0&amp;lng=fr&amp;aut=&amp;limit=16</link>
+	<pubDate>Wed, 17 Aug 2011</pubDate>
+	<description>Ajout de 630 images dans la galerie.</description>
+</item>
+<item>
+	<title>Ajout de la gestion du stress</title>
+	<link>http://cyberpunk.asia/pages_html.php?html=stress</link>
+	<pubDate>Tue, 16 Aug 2011</pubDate>
+	<description>Comment gérer le stress en 2020.</description>
+</item>
+<item>
+	<title>Traduction des bioworks</title>
+	<link>http://cyberpunk.asia/biowork.php</link>
+	<pubDate>Sat, 13 Aug 2011</pubDate>
+	<description>Traduit grâce à l'aide précieuse de Sébastien.</description>
+</item>
+<item>
+	<title>Traduction des armures spécifiques</title>
+	<link>http://cyberpunk.asia/armure.php</link>
+	<pubDate>Sat, 23 Jul 2011</pubDate>
+	<description>Traduit et augmenté grâce à l'aide précieuse de Sébastien.</description>
+</item>
+<item>
+	<title>Ajout d'une interview de William Gibson</title>
+	<link>http://cyberpunk.asia/cp_project.php?txt=229</link>
+	<pubDate>Mon, 27 Jun 2011</pubDate>
+	<description>Interview de William Gibson à propos du cyberespace.</description>
+</item>
+<item>
+	<title>Ajout d'armures spécifiques</title>
+	<link>http://cyberpunk.asia/armure.php</link>
+	<pubDate>Sat, 11 Jun 2011</pubDate>
+	<description>Armures tirées du site Datafortress 2020.</description>
+</item>
+<item>
+	<title>Ajout du texte &quot;Ruminations and convolutions on the substance of Cyberpunk&quot;</title>
+	<link>http://cyberpunk.asia/cp_project.php?txt=228</link>
+	<pubDate>Mon, 30 May 2011</pubDate>
+	<description>Ecrit par Dr. Odd en 1988 dans l'e-zine Screamsheet.</description>
+</item>
+<item>
+	<title>Traduction de la chronologie Cyberpunk</title>
+	<link>http://cyberpunk.asia/cp_timeline.php</link>
+	<pubDate>Tue, 10 May 2011</pubDate>
+	<description>Traduit grâce à l'aide de Laurent C. auteur du site Cyberpunk FR.</description>
+</item>
+<item>
+	<title>Ajout du texte &quot;Philip K. Dick au sujet de Blade Runner&quot;</title>
+	<link>http://cyberpunk.asia/cp_project.php?txt=227</link>
+	<pubDate>Wed, 04 May 2011</pubDate>
+	<description>Ecrit par Philip K. Dick en 1981 et traduit par Laurent C. auteur du site Cyberpunk FR.</description>
+</item>
+<item>
+	<title>Ajout du texte &quot;Cyberpunk&quot;</title>
+	<link>http://cyberpunk.asia/cp_project.php?txt=226</link>
+	<pubDate>Tue, 03 May 2011</pubDate>
+	<description>Ecrit par Wyze en 1996.</description>
+</item>
+<item>
+	<title>Ajout de 9 armes</title>
+	<link>http://cyberpunk.asia/updates.php</link>
+	<pubDate>Mon, 25 Apr 2011</pubDate>
+	<description>Ajout de 9 armes russes et américaines.</description>
+</item>
+<item>
+	<title>Ajout de l'export PDF pour le Cyberpunk Project</title>
+	<link>http://cyberpunk.asia/cp_project.php</link>
+	<pubDate>Sat, 23 Apr 2011</pubDate>
+	<description>Ajout de la possibilité d'exporter les textes du Cyberpunk Project en PDF.</description>
+</item>
+<item>
+	<title>Refonte totale de la page des munitions spéciales</title>
+	<link>http://cyberpunk.asia/munitions_spec.php</link>
+	<pubDate>Wed, 20 Apr 2011</pubDate>
+	<description>Traduit et augmenté grâce à l'aide précieuse de Sébastien. Disponible en français et en anglais.</description>
+</item>
+<item>
+	<title>Traduction du texte &quot;The Hacker's Ethics&quot;</title>
+	<link>http://cyberpunk.asia/cp_project.php?txt=58</link>
+	<pubDate>Sun, 27 Mar 2011</pubDate>
+	<description>Traduit par Jordi Poisson. Disponible en français et en anglais.</description>
+</item>
+<item>
+	<title>Ajout du texte &quot;Chivalry&quot;</title>
+	<link>http://cyberpunk.asia/cp_project.php?txt=225</link>
+	<pubDate>Thu, 17 Mar 2011</pubDate>
+	<description>Ecrit par Jordi Poisson le 16 mars 2011. Disponible en anglais.</description>
+</item>
+<item>
+	<title>Ajout du texte &quot;Cyborg&quot;</title>
+	<link>http://cyberpunk.asia/cp_project.php?txt=224</link>
+	<pubDate>Wed, 16 Mar 2011</pubDate>
+	<description>Ecrit par Jordi Poisson le 15 mars 2011. Disponible en français.</description>
+</item>
+<item>
+	<title>Ajout du texte &quot;Nous ici&quot;</title>
+	<link>http://cyberpunk.asia/cp_project.php?txt=223</link>
+	<pubDate>Sun, 13 Mar 2011</pubDate>
+	<description>Ecrit par un anonyme le 10 juillet 2010. Disponible en français.</description>
+</item>
+<item>
+	<title>Traduction du texte &quot;Cyber + Punk = Cyberpunk&quot;</title>
+	<link>http://cyberpunk.asia/cp_project.php?txt=21</link>
+	<pubDate>Thu, 03 Mar 2011</pubDate>
+	<description>Traduit par Zak Blayde. Disponible en français et en anglais.</description>
+</item>
+<item>
+	<title>Ajout d'un compte à rebours vers un monde Cyberpunk</title>
+	<link>http://cyberpunk.asia/countdown.php</link>
+	<pubDate>Sun, 27 Feb 2011</pubDate>
+	<description>Le monde Cyberpunk est un monde dystopique, pourtant chaque jour, nous nous en approchons.</description>
+</item>
+<item>
+	<title>Traduction du texte &quot;Is Cyberpunk Dead ?&quot;</title>
+	<link>http://cyberpunk.asia/cp_project.php?txt=28</link>
+	<pubDate>Sun, 13 Feb 2011</pubDate>
+	<description>Traduit par Zak Blayde. Disponible en français et en anglais.</description>
+</item>
+<item>
+	<title>Traduction du texte &quot;The Etymology of Cyberpunk&quot;</title>
+	<link>http://cyberpunk.asia/cp_project.php?txt=22</link>
+	<pubDate>Sat, 12 Feb 2011</pubDate>
+	<description>Ecrit par Bruce Bethke en 2001 et traduit par Zak Blayde. Disponible en français et en anglais.</description>
+</item>
+<item>
+	<title>Ajout de 1274 images dans la galerie</title>
+	<link>http://cyberpunk.asia/gallery.php?aff=thumb&amp;ord=addi&amp;page=0&amp;img=0&amp;lng=fr&amp;aut=&amp;limit=16</link>
+	<pubDate>Sun, 09 Jan 2011</pubDate>
+	<description>Ajout de 1274 images dans la galerie. De nombreux artistes ont vu leurs oeuvres mises à jour.</description>
+</item>
+<item>
+	<title>Refonte de la page des liens</title>
+	<link>http://cyberpunk.asia/links.php</link>
+	<pubDate>Tue, 23 Nov 2010</pubDate>
+	<description>Refonte complète du design de la page et ajout de nombreux sites.</description>
+</item>
+<item>
+	<title>Ajout du texte &quot;What is Cyberpunk ?&quot;</title>
+	<link>http://cyberpunk.asia/cp_project.php?txt=221</link>
+	<pubDate>Mon, 22 Nov 2010</pubDate>
+	<description>Ecrit par un anonyme le 31 octobre 2009. Disponible en français et en anglais.</description>
+</item>
+<item>
+	<title>Ajout du texte &quot;A thesis on Gibson and Cyberpunk&quot;</title>
+	<link>http://cyberpunk.asia/cp_project.php?txt=222</link>
+	<pubDate>Sun, 21 Nov 2010</pubDate>
+	<description>Ecrit par Damage en 2002. Disponible en anglais.</description>
+</item>
+<item>
+	<title>Traduction du texte &quot;What is Cyberpunk ?&quot;</title>
+	<link>http://cyberpunk.asia/cp_project.php?txt=54</link>
+	<pubDate>Sat, 20 Nov 2010</pubDate>
+	<description>Ecrit par SFAM le 19 février 2007. Disponible en français et en anglais.</description>
+</item>
+<item>
+	<title>Ajout du Cyberpunk Project</title>
+	<link>http://cyberpunk.asia/cp_project.php</link>
+	<pubDate>Sat, 23 Oct 2010</pubDate>
+	<description>Cette partie du site regroupe plus de 250 textes concernant le Cyberpunk.</description>
+</item>
+</channel>
+</rss>

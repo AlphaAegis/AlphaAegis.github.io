@@ -1,0 +1,293 @@
+%PDF-1.3
+1 0 obj
+<< /Type /Catalog
+/Outlines 2 0 R
+/Pages 3 0 R >>
+endobj
+2 0 obj
+<< /Type /Outlines /Count 0 >>
+endobj
+3 0 obj
+<< /Type /Pages
+/Kids [6 0 R
+11 0 R
+13 0 R
+15 0 R
+]
+/Count 4
+/Resources <<
+/ProcSet 4 0 R
+/Font << 
+/F1 8 0 R
+/F2 9 0 R
+/F3 10 0 R
+>>
+>>
+/MediaBox [0.000 0.000 612.000 792.000]
+ >>
+endobj
+4 0 obj
+[/PDF /Text ]
+endobj
+5 0 obj
+<<
+/Creator (DOMPDF)
+/CreationDate (D:20230828024211+02'00')
+/ModDate (D:20230828024211+02'00')
+>>
+endobj
+6 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 7 0 R
+>>
+endobj
+7 0 obj
+<<
+/Length 5130 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 155.007 725.937 Td /F1 18.0 Tf  [(A Short History of Hacking in America)] TJ ET
+BT 266.172 695.200 Td /F1 12.0 Tf  [(Steve Steinberg)] TJ ET
+BT 294.000 680.800 Td /F1 12.0 Tf  [(1998)] TJ ET
+BT 34.016 654.515 Td /F2 12.0 Tf  [( )] TJ ET
+BT 64.016 604.144 Td /F2 12.0 Tf  [(Big Science. Hallelujah.)] TJ ET
+BT 64.016 589.744 Td /F2 12.0 Tf  [(Big Science. Yodellayheehoo.)] TJ ET
+BT 64.016 575.459 Td /F2 12.0 Tf  [(-- Laurie Anderson)] TJ ET
+BT 34.016 537.203 Td 0.564 Tw /F2 12.0 Tf  [(Big science is dead. Forget the huge research labs bustling with bearded scientists in white lab coats -- we tried )] TJ ET
+BT 34.016 522.947 Td 2.319 Tw /F2 12.0 Tf  [(that route and all we got was overpriced space junk. Cheap technology means that we can all explore the )] TJ ET
+BT 34.016 508.691 Td 1.824 Tw /F2 12.0 Tf  [(electronic frontier instead of getting handouts from the scientific establishment. Bruce Sterling says it best : )] TJ ET
+BT 34.016 494.435 Td 1.697 Tw /F2 12.0 Tf  [("Science in this world is not a source of Mr. Wizard marvels, but an omnipresent, all-permeating, definitive )] TJ ET
+BT 34.016 480.179 Td 0.231 Tw /F2 12.0 Tf  [(force. It is a sheet of mutating radiation pouring through a crowd, a jam-packed Global Bus roaring wildly up an )] TJ ET
+BT 34.016 465.923 Td 0.584 Tw /F2 12.0 Tf  [(exponential slope". OK, so Sterling was talking about the world in William Gibson's Sprawl series \(it rings just )] TJ ET
+BT 34.016 451.667 Td 1.028 Tw /F2 12.0 Tf  [(as true for the US in 1991\). Underground bands such as "Non Serviam" and "Consolidated" are using state-of-)] TJ ET
+BT 34.016 437.411 Td 1.730 Tw /F2 12.0 Tf  [(the-art technology to create sounds that the machine's inventors never thought possible, while fringe graphic )] TJ ET
+BT 34.016 423.155 Td 2.551 Tw /F2 12.0 Tf  [(artists have the equivalent of a $100,000 color studio on their desktop. People on the street, the formerly )] TJ ET
+BT 34.016 408.899 Td 0.581 Tw /F2 12.0 Tf  [(disfranchised, have wrested technology from the capital-S Scientists and are stretching and warping it into their )] TJ ET
+BT 34.016 394.643 Td 0.000 Tw /F2 12.0 Tf  [(own image.)] TJ ET
+BT 34.016 368.387 Td 0.939 Tw /F2 12.0 Tf  [(It's not just artists who are using technology in unintended ways. A movement that is just as important are the )] TJ ET
+BT 34.016 354.131 Td 1.050 Tw /F2 12.0 Tf  [(youths who use computers to illegally joyride through the global communications network. The hackers. Over )] TJ ET
+BT 34.016 339.875 Td 1.004 Tw /F2 12.0 Tf  [(the last few years, the publicity about hackers has been fast and furious, to the point where hacking may even )] TJ ET
+BT 34.016 325.619 Td 0.579 Tw /F2 12.0 Tf  [(seem passe. Many people now believe that hackers are just middle class male teenagers who break a minor law )] TJ ET
+BT 34.016 311.363 Td 2.386 Tw /F2 12.0 Tf  [(or two. This is missing the point. Hackers are important because they are at the front. They're spelunking )] TJ ET
+BT 34.016 297.107 Td 0.495 Tw /F2 12.0 Tf  [(cyberspace, exploring the parts of the network few of us can see. They're not happy with just their IBM PC and )] TJ ET
+BT 34.016 282.851 Td 0.812 Tw /F2 12.0 Tf  [(a local bulletin board. They want it all, the whole god damn global network -- even if it means breaking a few )] TJ ET
+BT 34.016 268.595 Td 0.000 Tw /F2 12.0 Tf  [(laws. If you don't think this is important, listen to cyber-sage John Perry Barlow :)] TJ ET
+BT 64.016 230.339 Td 0.874 Tw /F2 12.0 Tf  [("What crackers are doing is learning about a new place, exploring in a very open ended fashion, a )] TJ ET
+BT 64.016 216.083 Td 0.920 Tw /F2 12.0 Tf  [(place that no one knows very well. If you work for a telco you know that place exists but you are )] TJ ET
+BT 64.016 201.827 Td 0.291 Tw /F2 12.0 Tf  [(only familiar with your little precinct of it. You don't have a broad spectrum sense of it. And I think )] TJ ET
+BT 64.016 187.571 Td 0.000 Tw /F2 12.0 Tf  [(its culturally important to develop such a sense".)] TJ ET
+BT 34.016 132.977 Td /F1 14.0 Tf  [(The Early Days \(1970-1983\))] TJ ET
+BT 34.016 106.236 Td 0.934 Tw /F2 12.0 Tf  [(It all started with phone phreaks. These were people fascinated with the phone system -- what it was made of, )] TJ ET
+BT 34.016 91.980 Td 0.455 Tw /F2 12.0 Tf  [(how it worked -- and how you could avoid paying for your calls. In the early 1970's, Abbie Hoffman put up the )] TJ ET
+BT 34.016 77.724 Td 1.322 Tw /F2 12.0 Tf  [(money to start a newsletter called )] TJ ET
+BT 205.913 77.724 Td 1.322 Tw /F3 12.0 Tf  [(YIPL)] TJ ET
+BT 230.585 77.724 Td 1.322 Tw /F2 12.0 Tf  [( \(the name was later changed to )] TJ ET
+BT 394.792 77.724 Td 1.322 Tw /F3 12.0 Tf  [(TAP)] TJ ET
+BT 416.128 77.724 Td 1.322 Tw /F2 12.0 Tf  [(\). It was a place where all those )] TJ ET
+BT 34.016 63.468 Td 1.501 Tw /F2 12.0 Tf  [(people who loved to dial random numbers just to see if they could find a special Bell test number could get )] TJ ET
+BT 34.016 49.212 Td 1.769 Tw /F2 12.0 Tf  [(together and share their discoveries. The magazine was started just in time to catch the first major phreaker )] TJ ET
+endstream
+endobj
+8 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Times-Bold
+/Encoding /WinAnsiEncoding
+>>
+endobj
+9 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F2
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+>>
+endobj
+10 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F3
+/BaseFont /Times-Italic
+/Encoding /WinAnsiEncoding
+>>
+endobj
+11 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 12 0 R
+>>
+endobj
+12 0 obj
+<<
+/Length 6341 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 34.016 746.579 Td 0.000 Tw /F2 12.0 Tf  [(discovery : the blue box.)] TJ ET
+BT 34.016 720.323 Td 0.472 Tw /F2 12.0 Tf  [(In perhaps one of the biggest mistakes in publishing history, the Bell Technical Journal had published an article )] TJ ET
+BT 34.016 706.067 Td 0.976 Tw /F2 12.0 Tf  [(giving the special tone frequencies that were used to route calls and to control the telephone network. It didn't )] TJ ET
+BT 34.016 691.811 Td 1.043 Tw /F2 12.0 Tf  [(take long before some bright college engineering students realized what this meant : any person with a device )] TJ ET
+BT 34.016 677.555 Td 0.847 Tw /F2 12.0 Tf  [(that could make those tones would have the capabilities of a telephone operator. The tone devices, which soon )] TJ ET
+BT 34.016 663.299 Td 2.443 Tw /F2 12.0 Tf  [(came to be called blue boxes, launched the phreaking career of many luminaries from the outlaw Captain )] TJ ET
+BT 34.016 649.043 Td 0.908 Tw /F2 12.0 Tf  [(Crunch to Apple Computer co-founder Steve Wozniak. A whole community quickly formed, connected by the )] TJ ET
+BT 34.016 634.787 Td 0.356 Tw /F2 12.0 Tf  [(soft beeps of their boxes. Phreaks would set up illegal teleconferences where they would hang out and trade tips )] TJ ET
+BT 34.016 620.531 Td 2.126 Tw /F2 12.0 Tf  [(on how to build and use boxes. Because phone phreaks could make calls for free by using their blue box, )] TJ ET
+BT 34.016 606.275 Td 0.905 Tw /F2 12.0 Tf  [(physical location \(and physical appearance\) were unimportant. It didn't matter if you lived in Tennessee, when )] TJ ET
+BT 34.016 592.019 Td 0.000 Tw /F2 12.0 Tf  [(you )] TJ ET
+BT 55.016 592.019 Td /F1 12.0 Tf  [(really)] TJ ET
+BT 84.344 592.019 Td /F2 12.0 Tf  [( lived in cyberspace.)] TJ ET
+BT 34.016 565.763 Td 0.510 Tw /F2 12.0 Tf  [(But by 1980, blue boxing had become difficult to do without being caught, so a new activity, hacking, began to )] TJ ET
+BT 34.016 551.507 Td 3.124 Tw /F2 12.0 Tf  [(supplant boxing. Computers were now available at prices affordable by many people and phone phreaks )] TJ ET
+BT 34.016 537.251 Td 0.338 Tw /F2 12.0 Tf  [(discovered that from home they could call up and connect to mainframe computers owned by large corporations )] TJ ET
+BT 34.016 522.995 Td 2.369 Tw /F2 12.0 Tf  [(and universities. Security was very minimal at this time, many mainframe computers didn't even require a )] TJ ET
+BT 34.016 508.739 Td 0.423 Tw /F2 12.0 Tf  [(password to gain entry. The exciting thing about hacking was not only the challenge but that there was so much )] TJ ET
+BT 34.016 494.483 Td 1.480 Tw /F2 12.0 Tf  [(to learn. Many computer enthusiasts had quickly grown bored with their simple home computer and its slow )] TJ ET
+BT 34.016 480.227 Td 1.286 Tw /F2 12.0 Tf  [(BASIC language. By hacking into mainframes these computer enthusiasts could access real computing power )] TJ ET
+BT 34.016 465.971 Td 0.353 Tw /F2 12.0 Tf  [(and learn about things like JCL, VMS and Unix. Hacking was getting more and more popular -- and then, along )] TJ ET
+BT 34.016 451.715 Td 0.000 Tw /F2 12.0 Tf  [(came the explosion.)] TJ ET
+BT 34.016 380.681 Td /F1 14.0 Tf  [(The Renaissance \(1983-1988\))] TJ ET
+BT 34.016 355.980 Td 1.067 Tw /F2 12.0 Tf  [(The hacking community always had high turn-over. Every January there would be an influx of young hackers )] TJ ET
+BT 34.016 341.724 Td 2.193 Tw /F2 12.0 Tf  [(who had received modems for Christmas, and every September some of the older hackers would leave for )] TJ ET
+BT 34.016 327.468 Td 0.307 Tw /F2 12.0 Tf  [(college and "go legit". But when the movie )] TJ ET
+BT 246.576 327.468 Td 0.307 Tw /F3 12.0 Tf  [(WarGames)] TJ ET
+BT 300.564 327.468 Td 0.307 Tw /F2 12.0 Tf  [( came out, with Matthew Broderick making hacking look )] TJ ET
+BT 34.016 313.212 Td 1.307 Tw /F2 12.0 Tf  [(fun and easy \(and heck, it even got him the girl\), every 15 year old in the country begged their parents for a )] TJ ET
+BT 34.016 298.956 Td 0.858 Tw /F2 12.0 Tf  [(modem. And then they called the local bulletin boards. And then they discovered code abuse. The well-known )] TJ ET
+BT 34.016 284.700 Td 0.813 Tw /F2 12.0 Tf  [(UNIX hacker Shooting Shark recently declared, "I'll admit it, my interest in hacking was largely influenced by )] TJ ET
+BT 34.016 270.444 Td 0.000 Tw /F2 12.0 Tf  [(that film".)] TJ ET
+BT 34.016 244.188 Td 0.374 Tw /F2 12.0 Tf  [(Codes were what replaced blue boxes in allowing hackers to make free calls, and in the process, keep a national )] TJ ET
+BT 34.016 229.932 Td 2.672 Tw /F2 12.0 Tf  [(\(and increasingly, international\) underground together. Codes were simply telephone calling card numbers, )] TJ ET
+BT 34.016 215.676 Td 0.275 Tw /F2 12.0 Tf  [(usually 5 or 6 digits that allowed someone to use a carrier other than AT&T. Remember : this was before "equal )] TJ ET
+BT 34.016 201.420 Td 1.322 Tw /F2 12.0 Tf  [(access" and 10XXX dialing. Shooting Shark was one of the thousands who discovered, and fell in love with, )] TJ ET
+BT 34.016 187.164 Td 0.215 Tw /F2 12.0 Tf  [(code abuse. "Elric of Imrryr explained that all I needed to do was dial an 800 number, enter a six-digit code, and )] TJ ET
+BT 34.016 172.908 Td 3.640 Tw /F2 12.0 Tf  [(then I could call anywhere I wanted for FREE! It was the most amazing thing". It would be hard to )] TJ ET
+BT 34.016 158.652 Td 5.977 Tw /F2 12.0 Tf  [(overemphasize the importance of codes to the computer underground. Although it quickly became )] TJ ET
+BT 34.016 144.396 Td 1.133 Tw /F2 12.0 Tf  [(unfashionable to be too interested in acquiring codes \(or else you would find yourself labeled a "Codez Kid"\) )] TJ ET
+BT 34.016 130.140 Td 1.968 Tw /F2 12.0 Tf  [(they were a crucial tool. Not only did codes allow hackers to stay in contact and to call electronic bulletin )] TJ ET
+BT 34.016 115.884 Td 2.774 Tw /F2 12.0 Tf  [(boards no matter where the board was located, it also allowed people to make the many calls it took to )] TJ ET
+BT 34.016 101.628 Td 0.000 Tw /F2 12.0 Tf  [(successfully hack a distant computer site.)] TJ ET
+BT 34.016 75.372 Td 0.553 Tw /F2 12.0 Tf  [(These were exciting times. A number of legendary boards and hackers emerged during this period. "Plovernet", )] TJ ET
+BT 34.016 61.116 Td 1.389 Tw /F2 12.0 Tf  [("Metal Shop Private" and "Catch-22" were datahavens in the net where notorious hackers and phone phreaks )] TJ ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 14 0 R
+>>
+endobj
+14 0 obj
+<<
+/Length 6757 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 34.016 746.579 Td 1.806 Tw /F2 12.0 Tf  [(could freely share secret, arcane information. Here, the incredible talents of hackers like King Blotto, Sharp )] TJ ET
+BT 34.016 732.323 Td 2.750 Tw /F2 12.0 Tf  [(Razor and Mark Tabas were displayed. Things moved at lightspeed -- a hacker could make or lose their )] TJ ET
+BT 34.016 718.067 Td 0.670 Tw /F2 12.0 Tf  [(reputation in a week. Many hackers dedicated every waking moment to their illicit pursuits. The now infamous )] TJ ET
+BT 34.016 703.811 Td 1.890 Tw /F2 12.0 Tf  [(Legion of Doom group was formed by Lex Luthor around this time. Membership in LoD, as in most other )] TJ ET
+BT 34.016 689.555 Td 0.369 Tw /F2 12.0 Tf  [(hacking groups, was by invitation only. LoD was able to attract some of the best people and got a reputation for )] TJ ET
+BT 34.016 675.299 Td 3.308 Tw /F2 12.0 Tf  [(being very, very heavy. Of course, there were plenty of hackers who thought the LoD's reputation was )] TJ ET
+BT 34.016 661.043 Td 1.168 Tw /F2 12.0 Tf  [(undeserved and they would get into fights with the LoD. Hacker wars could get vicious with people trying to )] TJ ET
+BT 34.016 646.787 Td 0.211 Tw /F2 12.0 Tf  [(find out their enemy's real name and phone number so they could disconnect the line, or even listen in on enemy )] TJ ET
+BT 34.016 632.531 Td 0.000 Tw /F2 12.0 Tf  [(hacker conversations.)] TJ ET
+BT 34.016 606.275 Td 0.793 Tw /F2 12.0 Tf  [(By 1988, things were beginning to slow down. A number of prominent members of the computer underground )] TJ ET
+BT 34.016 592.019 Td 1.137 Tw /F2 12.0 Tf  [(including Knight Lightning and The Prophet were leaving for college. Furthermore, a large bust occurred that )] TJ ET
+BT 34.016 577.763 Td 1.101 Tw /F2 12.0 Tf  [(year which netted a number of talented hackers including Bill From RNOC and Lock Lifter. And things were )] TJ ET
+BT 34.016 563.507 Td 0.255 Tw /F2 12.0 Tf  [(about to get much worse. Hacker Erik Bloodaxe remembers this renaissance period and lamented : "I don't think )] TJ ET
+BT 34.016 549.251 Td 0.160 Tw /F2 12.0 Tf  [(it's ever going to be the same. There will never be this wild, rampant, trading of information and just...it was like )] TJ ET
+BT 34.016 534.995 Td 0.000 Tw /F2 12.0 Tf  [(sex in the streets. Stuff going around left and right. It will never be like that again".)] TJ ET
+BT 34.016 463.961 Td /F1 14.0 Tf  [(End of an Era \(1988-1990\))] TJ ET
+BT 34.016 439.260 Td 0.793 Tw /F2 12.0 Tf  [(What really broke up the party was the cops. The Secret Service to be exact. Although known primarily for its )] TJ ET
+BT 34.016 425.004 Td 0.263 Tw /F2 12.0 Tf  [(protection of the US president, in 1990, over one-third of all Secret Service agents were busy tracking down and )] TJ ET
+BT 34.016 410.748 Td 2.044 Tw /F2 12.0 Tf  [(arresting hackers. In January the SS busted Phiber Optik and Acid Phreak, two prominent East Cost phone )] TJ ET
+BT 34.016 396.492 Td 0.201 Tw /F2 12.0 Tf  [(phreaks. Then in February, stemming from an innocuous \(but admittedly pilfered\) Bell South document that was )] TJ ET
+BT 34.016 382.236 Td 2.377 Tw /F2 12.0 Tf  [(published in the electronic underground magazine )] TJ ET
+BT 291.567 382.236 Td 2.377 Tw /F3 12.0 Tf  [(Phrack)] TJ ET
+BT 326.223 382.236 Td 2.377 Tw /F2 12.0 Tf  [(, three of the top US hackers were busted : The )] TJ ET
+BT 34.016 367.980 Td 0.961 Tw /F2 12.0 Tf  [(Prophet, The Leftist and The Urville. Craig Neidorf, co-editor of )] TJ ET
+BT 357.237 367.980 Td 0.961 Tw /F3 12.0 Tf  [(Phrack)] TJ ET
+BT 391.893 367.980 Td 0.961 Tw /F2 12.0 Tf  [( and known as Knight Lightning, was )] TJ ET
+BT 34.016 353.724 Td 1.445 Tw /F2 12.0 Tf  [(also charged with illegally publishing the purloined document. Things just got more ridiculous. In March the )] TJ ET
+BT 34.016 339.468 Td 1.546 Tw /F2 12.0 Tf  [(Secret Service raided Steve Jackson Games, a publisher of role playing games, calling one of the companies )] TJ ET
+BT 34.016 325.212 Td 1.413 Tw /F2 12.0 Tf  [(game books a "handbook for computer crime". During all this Gail Thackeray, a district attorney in Arizona, )] TJ ET
+BT 34.016 310.956 Td 2.491 Tw /F2 12.0 Tf  [(was coordinating Operation Sun Devil which culminated in 28 raids in May. The investigations reeked of )] TJ ET
+BT 34.016 296.700 Td 2.423 Tw /F2 12.0 Tf  [(Keystone Kop-style tactics due to the Secret Service's ignorance of computer technology and their general )] TJ ET
+BT 34.016 282.444 Td 1.076 Tw /F2 12.0 Tf  [(heavy handed manner. In one effort to get something on these "dirty hackers" the Secret Service videotaped a )] TJ ET
+BT 34.016 268.188 Td 0.000 Tw /F2 12.0 Tf  [(bunch of hackers drinking beer from behind a one-way mirror.)] TJ ET
+BT 34.016 241.932 Td 1.922 Tw /F2 12.0 Tf  [(Although many of the arrests and charges detailed above were later dropped \(most notably the case against )] TJ ET
+BT 34.016 227.676 Td 0.647 Tw /F2 12.0 Tf  [(Neidorf\) the large number of busts and resulting details about police infiltration into the computer underground )] TJ ET
+BT 34.016 213.420 Td 1.422 Tw /F2 12.0 Tf  [(raised hacker's paranoia to a fever pitch. Bloodaxe pointed out to me last year that "even on the elite private )] TJ ET
+BT 34.016 199.164 Td 2.553 Tw /F2 12.0 Tf  [(boards that still kinda float around, there still isn't much camaraderie. You're not going to see, 'here's the )] TJ ET
+BT 34.016 184.908 Td 0.652 Tw /F2 12.0 Tf  [(password for Telenet's PRIME's so you can use TDT'. Maybe two hackers know it, but they're not going to tell )] TJ ET
+BT 34.016 170.652 Td 0.602 Tw /F2 12.0 Tf  [(anybody, not even on the most elite board. Because, as far as everyone is concerned, there are leaks. No matter )] TJ ET
+BT 34.016 156.396 Td 0.000 Tw /F2 12.0 Tf  [(how secure it seems, people are convinced there is a leak".)] TJ ET
+BT 34.016 130.140 Td 1.181 Tw /F2 12.0 Tf  [(In reaction to the governments witch hunt against hackers, Mitch Kapor \(founder of Lotus Corporation\), John )] TJ ET
+BT 34.016 115.884 Td 5.034 Tw /F2 12.0 Tf  [(Perry Barlow \(Grateful Dead lyricist\), and John Gilmore \(generalist\) founded the Electronic Frontier )] TJ ET
+BT 34.016 101.628 Td 0.346 Tw /F2 12.0 Tf  [(Foundation. While the EFF is not the "hacker defense fund" it was accused of being by early media reports, it is )] TJ ET
+BT 34.016 87.372 Td 2.348 Tw /F2 12.0 Tf  [(interested in curbing the government's excess zeal in busting hackers. The EFF has made some significant )] TJ ET
+BT 34.016 73.116 Td 3.043 Tw /F2 12.0 Tf  [(strides towards this goal of treating computer crime rationally, but interestingly, the EFF has also had a )] TJ ET
+BT 34.016 58.860 Td 1.531 Tw /F2 12.0 Tf  [(deleterious effect on the computer underground. With the increase in favorable publicity, many hackers have )] TJ ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 16 0 R
+>>
+endobj
+16 0 obj
+<<
+/Length 2310 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 34.016 746.579 Td 1.062 Tw /F2 12.0 Tf  [(become less feral -- more interested in talking to reporters than breaking into computers. This was typified by )] TJ ET
+BT 34.016 732.323 Td 1.702 Tw /F2 12.0 Tf  [(Eric Bloodaxe's highly publicized announcement in June of 1991 that he and several other hackers from the )] TJ ET
+BT 34.016 718.067 Td 3.158 Tw /F2 12.0 Tf  [(Legion of Doom group were forming a computer security firm called COMSEC. Many in the computer )] TJ ET
+BT 34.016 703.811 Td 0.000 Tw /F2 12.0 Tf  [(underground saw this as selling out, while others saw it as simply survival.)] TJ ET
+BT 34.016 677.555 Td 1.609 Tw /F2 12.0 Tf  [(Hackers are beginning to regroup now. They often have to relearn information which was known during the )] TJ ET
+BT 34.016 663.299 Td 0.383 Tw /F2 12.0 Tf  [(renaissance of the computer underground, but which was not passed down. More and more hack/phreak bulletin )] TJ ET
+BT 34.016 649.043 Td 0.523 Tw /F2 12.0 Tf  [(boards are springing back up across the country. Hackers are being more careful this time around -- and that's a )] TJ ET
+BT 34.016 634.787 Td 0.000 Tw /F2 12.0 Tf  [(good thing.)] TJ ET
+BT 34.016 563.753 Td /F1 14.0 Tf  [(Future)] TJ ET
+BT 34.016 539.052 Td 0.443 Tw /F2 12.0 Tf  [(Hacking will never be obsolete. There will always be kids who want to explore, and the terrain of cyberspace is )] TJ ET
+BT 34.016 524.796 Td 0.396 Tw /F2 12.0 Tf  [(only going to get more alluring. Technology reporter John Markoff points out "I mean, think about being a high )] TJ ET
+BT 34.016 510.540 Td 1.262 Tw /F2 12.0 Tf  [(school kid... what can you do in the world ? You can go hang out at the mall, or... from your room, you can )] TJ ET
+BT 34.016 496.284 Td 1.451 Tw /F2 12.0 Tf  [(travel all over the world. It's very compelling". Hacking will continue to get harder, as security gets smarter. )] TJ ET
+BT 34.016 482.028 Td 1.548 Tw /F2 12.0 Tf  [(But, that's what street tech is all about : exploiting technological loop holes for education, fun, and profit. If )] TJ ET
+BT 34.016 467.772 Td 0.360 Tw /F2 12.0 Tf  [(there isn't just a little part of you that wants to be a hacker, an electronic rat furrowing through the network, you )] TJ ET
+BT 34.016 453.516 Td 0.000 Tw /F2 12.0 Tf  [(don't belong in cyberspace.)] TJ ET
+endstream
+endobj
+xref
+0 17
+0000000000 65535 f 
+0000000008 00000 n 
+0000000073 00000 n 
+0000000119 00000 n 
+0000000315 00000 n 
+0000000344 00000 n 
+0000000458 00000 n 
+0000000521 00000 n 
+0000005703 00000 n 
+0000005811 00000 n 
+0000005920 00000 n 
+0000006031 00000 n 
+0000006096 00000 n 
+0000012490 00000 n 
+0000012555 00000 n 
+0000019365 00000 n 
+0000019430 00000 n 
+trailer
+<<
+/Size 17
+/Root 1 0 R
+/Info 5 0 R
+>>
+startxref
+21793
+%%EOF

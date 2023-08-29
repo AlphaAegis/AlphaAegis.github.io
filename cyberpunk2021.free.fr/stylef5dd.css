@@ -1,0 +1,15 @@
+
+a {
+	text-decoration: none;
+	color: silver
+}
+body {
+	font-family: verdana;
+	background: black;
+	color: white
+}
+td {
+	padding-right: 10;
+	padding-left: 10;
+	height: 20
+}

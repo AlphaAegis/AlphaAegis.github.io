@@ -1,0 +1,74 @@
+
+a {
+	color: white;
+	text-decoration: none
+}
+a.l { color: #A0A0A0; }
+a.r { color: red; }
+body {
+	font-family: verdana;
+	text-align: justify;
+	color: white;
+	background-color: black
+}
+img {
+	display: block;
+	margin: auto
+}
+div.c {
+	margin: auto;
+	width: 95%
+}
+div.n {
+	margin: auto;
+	width: 1132px;
+}
+div.t {
+	margin: auto;
+	border: 1px solid #7d7d7d;
+	width: 1132px
+}
+div.t table { width: 100% }
+h4 { margin-bottom: 5px }
+table.r td { padding-right: 20px }
+thead.h th {
+	text-align: center;
+	background: #939393;
+	font-weight: bold;
+	color: black;
+	border-right: 1px solid #7d7d7d;
+	padding: 3px;
+	width: 70px
+}
+thead.h th.l {
+	text-align: left;
+	width: 275px
+}
+thead.h th.s { width: 110px }
+tbody.d td {
+	text-align: center;
+	padding: 3px 4px 4px 3px;
+	width: 70px
+}
+tbody.d td.f {
+	background: #939393;
+	font-weight: bold;
+	color: black;
+	border-right: 1px solid #7d7d7d;
+	padding: 3px;
+	width: 70px
+}
+tbody.d td.d {
+	text-align: left;
+	width: 110px
+}
+tbody.d td.l {
+	text-align: left;
+	width: 275px
+}
+tbody.d td.p { text-align: left; }
+tbody.d td.s {
+	text-align: left;
+	width: 110px
+}
+tbody.d tr.c { background: #1f1f1f }

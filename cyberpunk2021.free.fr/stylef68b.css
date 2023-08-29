@@ -1,0 +1,19 @@
+
+a {
+	color: #898989;
+	font-weight: bold
+}
+body {
+	font-family: verdana;
+	background: black;
+	color: white
+}
+div.c {
+	margin: auto;
+	width: 95%
+}
+td {
+	font-size: x-small;
+	padding: 3;
+	width: 250
+}

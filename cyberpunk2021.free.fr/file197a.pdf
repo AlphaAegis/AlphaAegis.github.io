@@ -1,0 +1,283 @@
+%PDF-1.3
+1 0 obj
+<< /Type /Catalog
+/Outlines 2 0 R
+/Pages 3 0 R >>
+endobj
+2 0 obj
+<< /Type /Outlines /Count 0 >>
+endobj
+3 0 obj
+<< /Type /Pages
+/Kids [6 0 R
+11 0 R
+]
+/Count 2
+/Resources <<
+/ProcSet 4 0 R
+/Font << 
+/F1 8 0 R
+/F2 9 0 R
+/F3 10 0 R
+>>
+>>
+/MediaBox [0.000 0.000 612.000 792.000]
+ >>
+endobj
+4 0 obj
+[/PDF /Text ]
+endobj
+5 0 obj
+<<
+/Creator (DOMPDF)
+/CreationDate (D:20230827221417+02'00')
+/ModDate (D:20230827221417+02'00')
+>>
+endobj
+6 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 7 0 R
+>>
+endobj
+7 0 obj
+<<
+/Length 5509 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 274.509 725.937 Td /F1 18.0 Tf  [(Internet)] TJ ET
+BT 245.004 695.200 Td /F1 12.0 Tf  [(The Cyberpunk Project)] TJ ET
+BT 34.016 668.915 Td /F2 12.0 Tf  [( )] TJ ET
+BT 64.016 618.659 Td 3.047 Tw /F2 12.0 Tf  [(Today, in its \(the World Wide Web\) clumsy, larval, curiously innocent way, it offers us the )] TJ ET
+BT 64.016 604.403 Td 1.739 Tw /F2 12.0 Tf  [(opportunity to waste time, to wander aimlessly, to daydream about the countless other lives, the )] TJ ET
+BT 64.016 590.147 Td 0.742 Tw /F2 12.0 Tf  [(other people, on the far sides of however many monitors in that postgeographical meta-country we )] TJ ET
+BT 64.016 575.891 Td 1.206 Tw /F2 12.0 Tf  [(increasingly call home. It will probably evolve into something considerably less random, and less )] TJ ET
+BT 64.016 561.635 Td 1.335 Tw /F2 12.0 Tf  [(fun -- we seem to have a knack for that -- but in the meantime, in its gloriously unsorted Global )] TJ ET
+BT 64.016 547.379 Td 0.582 Tw /F2 12.0 Tf  [(Ham Television Postcard Universes phase, surfing the Web is a procrastinator's dream. And people )] TJ ET
+BT 64.016 533.008 Td 0.000 Tw /F2 12.0 Tf  [(who see you doing it might even imagine you're working.)] TJ ET
+BT 64.016 518.723 Td /F2 12.0 Tf  [(-- William Gibson, )] TJ ET
+BT 158.012 518.723 Td /F3 12.0 Tf  [(The Net is a Waste of Time, and that's exactly what's right about it)] TJ ET
+BT 34.016 466.067 Td 0.257 Tw /F2 12.0 Tf  [(The Internet is a world-wide network of interconnected computers. Internet is the present form of cyberspace, or )] TJ ET
+BT 34.016 451.811 Td 0.000 Tw /F2 12.0 Tf  [(the Matrix.)] TJ ET
+BT 34.016 425.555 Td 1.871 Tw /F2 12.0 Tf  [(This is from book )] TJ ET
+BT 130.168 425.555 Td 1.871 Tw /F3 12.0 Tf  [(Escape Velocity - Cyberculture at the End of the Century)] TJ ET
+BT 421.305 425.555 Td 1.871 Tw /F2 12.0 Tf  [( by Mark Dery. Although little )] TJ ET
+BT 34.016 411.299 Td 0.000 Tw /F2 12.0 Tf  [(oldish, it describes well what's happened and tells briefly the history of the Net :)] TJ ET
+BT 34.016 385.043 Td 0.273 Tw /F2 12.0 Tf  [(The Internet was born of ARPANet, a decentralized computer network developed at the University of California )] TJ ET
+BT 34.016 370.787 Td 0.454 Tw /F2 12.0 Tf  [(at Los Angeles in 1969 by the Department of Defence's Advanced Research Projects Agency \(ARPA\) to ensure )] TJ ET
+BT 34.016 356.531 Td 2.492 Tw /F2 12.0 Tf  [(military communications in the event of a nuclear attack. By using a technique called packet-switching to )] TJ ET
+BT 34.016 342.275 Td 0.826 Tw /F2 12.0 Tf  [(disassemble data into addressed parcels, blip them over high-speed lines, and reassemble them just before they )] TJ ET
+BT 34.016 328.019 Td 2.932 Tw /F2 12.0 Tf  [(reach their destination, ARPANet rendered itself invulnerable to conventional attack; if a portition of the )] TJ ET
+BT 34.016 313.763 Td 0.847 Tw /F2 12.0 Tf  [(network went down, traffic would automatically be rerouted. In 1983, ARPANet was divided into military and )] TJ ET
+BT 34.016 299.507 Td 4.006 Tw /F2 12.0 Tf  [(civilian networks \(Milnet and Arpa Internet, respectively\); shortly thereafter, the U.S. National Science )] TJ ET
+BT 34.016 285.251 Td 0.919 Tw /F2 12.0 Tf  [(Foundation \(NSF\) took charge of the administration and maintenance of the lines and equipment that made up )] TJ ET
+BT 34.016 270.995 Td 4.108 Tw /F2 12.0 Tf  [(the Arpa Internet "backbone". Whereas the Defense Department restricted system access to institutions )] TJ ET
+BT 34.016 256.739 Td 0.708 Tw /F2 12.0 Tf  [(receiving Pentagon or NSF funding, the NFS made the network available to all faculty and students at member )] TJ ET
+BT 34.016 242.483 Td 0.553 Tw /F2 12.0 Tf  [(institutions. As universities, R&D companies, and government agencies connected their computers to the NFS's )] TJ ET
+BT 34.016 228.227 Td 1.838 Tw /F2 12.0 Tf  [(system, what had once been the Arpa Internet mutated into an anarchic global network of networks known, )] TJ ET
+BT 34.016 213.971 Td 0.000 Tw /F2 12.0 Tf  [(increasingly, as the Internet \(from "internetworking\).)] TJ ET
+BT 34.016 187.715 Td 1.617 Tw /F2 12.0 Tf  [(By 1990, ARPANet had ceased to exist as a discrete entity; the kudzulike growth of the Internet, or Net, as )] TJ ET
+BT 34.016 173.459 Td 2.014 Tw /F2 12.0 Tf  [(netsurfers have come to call it, had engulfed it. The global metanetwork of today's Net embraces some ten )] TJ ET
+BT 34.016 159.203 Td 1.892 Tw /F2 12.0 Tf  [(thousand networks, among them nationwide commercial services such as CompuServe, Prodigy, GEnie, and )] TJ ET
+BT 34.016 144.947 Td 4.211 Tw /F2 12.0 Tf  [(America Online; the private, academic, and goverment institutions interwoven by NSFNET \(the NFS's )] TJ ET
+BT 34.016 130.691 Td 1.541 Tw /F2 12.0 Tf  [(network\); and esoteric regional BBSs \(bulletin board systems\) such as the Sausalito, California-based WELL )] TJ ET
+BT 34.016 116.435 Td 1.941 Tw /F2 12.0 Tf  [(\(Whole Earth 'Lectronic Link\) and New York's ECHO. Ming-bogglingly, the Internet is itself part of a still )] TJ ET
+BT 34.016 102.179 Td 0.410 Tw /F2 12.0 Tf  [(larger complex of interconnected networks commonly called the Matrix, which also includes UseNet \(a buzzing )] TJ ET
+BT 34.016 87.923 Td 1.015 Tw /F2 12.0 Tf  [(hive of discussion groups called "newsgroups"\), FidoNet \(a constellation of more than twenty thousand BBSs, )] TJ ET
+BT 34.016 73.667 Td 0.000 Tw /F2 12.0 Tf  [(scattered over six continents\), and BITNET \(Because It's Time Network, an academic system\), among others.)] TJ ET
+endstream
+endobj
+8 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Times-Bold
+/Encoding /WinAnsiEncoding
+>>
+endobj
+9 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F2
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+>>
+endobj
+10 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F3
+/BaseFont /Times-Italic
+/Encoding /WinAnsiEncoding
+>>
+endobj
+11 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Annots [ 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R ]
+/Contents 12 0 R
+>>
+endobj
+12 0 obj
+<<
+/Length 3920 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 34.016 734.579 Td 1.217 Tw /F2 12.0 Tf  [(As this is written, an estimated thirty million Internet users in more than 137 countries traverse the electronic )] TJ ET
+BT 34.016 720.323 Td 0.755 Tw /F2 12.0 Tf  [(geography of what the science fiction novelist William Gibson has called cyberspace - an imaginary space that )] TJ ET
+BT 34.016 706.067 Td 0.954 Tw /F2 12.0 Tf  [(exists entirely inside a computer - and their ranks are growing by as many as a million a month. Based on the )] TJ ET
+BT 34.016 691.811 Td 0.179 Tw /F2 12.0 Tf  [(rate at which computer networks are building on-ramps onto the Internet, a 1993 estimate put its growth rate at a )] TJ ET
+BT 34.016 677.555 Td 0.000 Tw /F2 12.0 Tf  [(staggering 25 percent every three months - a delirious pace that shows no sign of abating.)] TJ ET
+BT 34.016 651.299 Td 2.295 Tw /F2 12.0 Tf  [(The ephemeralization of labor and the evanescence of the commodity, in cyberculture, is paralleled by the )] TJ ET
+BT 34.016 637.043 Td 2.670 Tw /F2 12.0 Tf  [(disembodiment of the human. In growing numbers, we are spending ever greater amounts of our lives in )] TJ ET
+BT 34.016 622.787 Td 1.364 Tw /F2 12.0 Tf  [(cyberspace; like the sagely cyborg in Bruce Sterling's SF novel )] TJ ET
+BT 353.771 622.787 Td 1.364 Tw /F3 12.0 Tf  [(Schismatrix)] TJ ET
+BT 410.435 622.787 Td 1.364 Tw /F2 12.0 Tf  [(, we are convinced that "there's a )] TJ ET
+BT 34.016 608.531 Td 1.273 Tw /F2 12.0 Tf  [(whole world behind this screen". The electronically disembodied are zapping e-mail around the world, typing )] TJ ET
+BT 34.016 594.275 Td 1.549 Tw /F2 12.0 Tf  [(messages back and forth in real-time "chat", and flocking to BBS discussion topics and UseNet newsgroups. )] TJ ET
+BT 34.016 580.019 Td 2.431 Tw /F2 12.0 Tf  [(They're lurking and flaming and ROTFLOL \(Rolling on the Floor Laughing Out Loud\). They're swapping )] TJ ET
+BT 34.016 565.763 Td 0.337 Tw /F2 12.0 Tf  [(pornographic .GIFs \(digitized photos\) and swinging in anonymous "text sex" trysts. They're mousing around the )] TJ ET
+BT 34.016 551.507 Td 1.268 Tw /F2 12.0 Tf  [(Net's latest additions, the World Wide Web, a hyper-text based system that enables users around the globe to )] TJ ET
+BT 34.016 537.251 Td 0.462 Tw /F2 12.0 Tf  [(point and click from one multimedia site to another, bouncing from digitized video clips to snippets of sound to )] TJ ET
+BT 34.016 522.995 Td 0.000 Tw /F2 12.0 Tf  [(screenfuls of text without end.)] TJ ET
+BT 34.016 496.739 Td /F2 12.0 Tf  [(Overwhelmingly, they're convinced that there is a "there" there, after all.)] TJ ET
+BT 34.016 427.745 Td /F1 14.0 Tf  [(References & Links)] TJ ET
+0.000 0.000 0.800 rg
+BT 34.016 401.004 Td /F2 12.0 Tf  [(Access : Not Just Wires)] TJ ET
+0.000 0.000 0.800 RG
+0.24 w 0 J [  ] 0 d
+34.016 399.610 m 148.664 399.610 l S
+BT 34.016 374.748 Td /F2 12.0 Tf  [(Power and the Internet)] TJ ET
+0.24 w 0 J [  ] 0 d
+34.016 373.354 m 142.988 373.354 l S
+BT 34.016 348.492 Td /F2 12.0 Tf  [(What is the Internet, Anyway ?)] TJ ET
+0.24 w 0 J [  ] 0 d
+34.016 347.098 m 183.980 347.098 l S
+0.000 0.000 0.000 rg
+BT 64.016 334.236 Td /F2 12.0 Tf  [(By John S. Quarterman and Smoot Carl-Mitchell.)] TJ ET
+0.000 0.000 0.800 rg
+BT 34.016 307.980 Td /F2 12.0 Tf  [(Hobbes' Internet Timeline)] TJ ET
+0.24 w 0 J [  ] 0 d
+34.016 306.586 m 159.488 306.586 l S
+0.000 0.000 0.000 rg
+BT 64.016 293.724 Td /F2 12.0 Tf  [(Internet timeline by Robert Hobbes Zakon.)] TJ ET
+0.000 0.000 0.800 rg
+BT 34.016 267.468 Td /F2 12.0 Tf  [(Netizens : On the History and Impact of Usenet and the Internet)] TJ ET
+0.24 w 0 J [  ] 0 d
+34.016 266.074 m 340.952 266.074 l S
+0.000 0.000 0.000 rg
+BT 64.016 253.212 Td 1.348 Tw /F2 12.0 Tf  [(Michael and Ronda Hauben's on-line Netbook. This netbook presents the history and impact of various )] TJ ET
+BT 64.016 238.956 Td 0.000 Tw /F2 12.0 Tf  [(aspects of the Net : the Internet, ARPANET, Usenet, etc.)] TJ ET
+endstream
+endobj
+13 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 14 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 34.0157 399.9239 148.6637 411.8039 ]
+>>
+endobj
+14 0 obj
+<< /Type /Action
+/S /URI
+/URI (cp_project.php?txt=163&lng=us)
+>>
+endobj
+15 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 16 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 34.0157 373.6679 142.9877 385.5479 ]
+>>
+endobj
+16 0 obj
+<< /Type /Action
+/S /URI
+/URI (cp_project.php?txt=238&lng=us)
+>>
+endobj
+17 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 18 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 34.0157 347.4119 183.9797 359.2919 ]
+>>
+endobj
+18 0 obj
+<< /Type /Action
+/S /URI
+/URI (http://www.faqs.org/rfcs/rfc1935.html)
+>>
+endobj
+19 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 20 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 34.0157 306.8999 159.4877 318.7799 ]
+>>
+endobj
+20 0 obj
+<< /Type /Action
+/S /URI
+/URI (http://www.zakon.org/robert/internet/timeline/)
+>>
+endobj
+21 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 22 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 34.0157 266.3879 340.9517 278.2679 ]
+>>
+endobj
+22 0 obj
+<< /Type /Action
+/S /URI
+/URI (http://www.columbia.edu/~rh120/)
+>>
+endobj
+xref
+0 23
+0000000000 65535 f 
+0000000008 00000 n 
+0000000073 00000 n 
+0000000119 00000 n 
+0000000301 00000 n 
+0000000330 00000 n 
+0000000444 00000 n 
+0000000507 00000 n 
+0000006068 00000 n 
+0000006176 00000 n 
+0000006285 00000 n 
+0000006396 00000 n 
+0000006508 00000 n 
+0000010481 00000 n 
+0000010608 00000 n 
+0000010689 00000 n 
+0000010816 00000 n 
+0000010897 00000 n 
+0000011024 00000 n 
+0000011113 00000 n 
+0000011240 00000 n 
+0000011338 00000 n 
+0000011465 00000 n 
+trailer
+<<
+/Size 23
+/Root 1 0 R
+/Info 5 0 R
+>>
+startxref
+11548
+%%EOF

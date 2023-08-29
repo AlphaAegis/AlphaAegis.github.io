@@ -1,0 +1,176 @@
+%PDF-1.3
+1 0 obj
+<< /Type /Catalog
+/Outlines 2 0 R
+/Pages 3 0 R >>
+endobj
+2 0 obj
+<< /Type /Outlines /Count 0 >>
+endobj
+3 0 obj
+<< /Type /Pages
+/Kids [6 0 R
+11 0 R
+]
+/Count 2
+/Resources <<
+/ProcSet 4 0 R
+/Font << 
+/F1 8 0 R
+/F2 9 0 R
+/F3 10 0 R
+>>
+>>
+/MediaBox [0.000 0.000 612.000 792.000]
+ >>
+endobj
+4 0 obj
+[/PDF /Text ]
+endobj
+5 0 obj
+<<
+/Creator (DOMPDF)
+/CreationDate (D:20230827213806+02'00')
+/ModDate (D:20230827213806+02'00')
+>>
+endobj
+6 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 7 0 R
+>>
+endobj
+7 0 obj
+<<
+/Length 5635 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 227.997 725.937 Td /F1 18.0 Tf  [(The Hacker's Ethics)] TJ ET
+BT 245.004 695.200 Td /F1 12.0 Tf  [(The Cyberpunk Project)] TJ ET
+BT 34.016 668.915 Td /F2 12.0 Tf  [( )] TJ ET
+BT 34.016 630.659 Td 1.470 Tw /F2 12.0 Tf  [(The idea of a "hacker ethic" is perhaps best formulated in Steven Levy's 1984 book, )] TJ ET
+BT 461.939 630.659 Td 1.470 Tw /F3 12.0 Tf  [(Hackers: Heroes of the )] TJ ET
+BT 34.016 616.403 Td 0.000 Tw /F3 12.0 Tf  [(Computer Revolution)] TJ ET
+BT 137.012 616.403 Td /F2 12.0 Tf  [(. Levy came up with six tenets :)] TJ ET
+BT 48.816 590.152 Td /F2 12.0 Tf  [(1.)] TJ ET
+BT 64.016 590.147 Td 1.355 Tw /F2 12.0 Tf  [(Access to computers - and anything which might teach you omething about the way the world works - )] TJ ET
+BT 64.016 575.891 Td 0.000 Tw /F2 12.0 Tf  [(should be unlimited and total. Always yield to the Hands-On imperative !)] TJ ET
+BT 48.816 561.640 Td /F2 12.0 Tf  [(2.)] TJ ET
+BT 64.016 561.635 Td /F2 12.0 Tf  [(All information should be free.)] TJ ET
+BT 48.816 547.384 Td /F2 12.0 Tf  [(3.)] TJ ET
+BT 64.016 547.379 Td /F2 12.0 Tf  [(Mistrust authority - promote decentralization.)] TJ ET
+BT 48.816 533.128 Td /F2 12.0 Tf  [(4.)] TJ ET
+BT 64.016 533.123 Td /F2 12.0 Tf  [(Hackers should be judged by their hacking, not bogus criteria such as degress, age, race, or position.)] TJ ET
+BT 48.816 518.872 Td /F2 12.0 Tf  [(5.)] TJ ET
+BT 64.016 518.867 Td /F2 12.0 Tf  [(You can create art and beauty on a computer.)] TJ ET
+BT 48.816 504.616 Td /F2 12.0 Tf  [(6.)] TJ ET
+BT 64.016 504.611 Td /F2 12.0 Tf  [(Computers can change your life for the better.)] TJ ET
+BT 34.016 463.955 Td 1.587 Tw /F3 12.0 Tf  [(Phrack)] TJ ET
+BT 68.672 463.955 Td 1.587 Tw /F2 12.0 Tf  [(, recognized as the "official" p/hacker newsletter, expanded on this creed with a rationale that can be )] TJ ET
+BT 34.016 449.699 Td 0.766 Tw /F2 12.0 Tf  [(summarized in three principles. 1\) First, hackers reject the notion that "businesses" are the only groups entitled )] TJ ET
+BT 34.016 435.443 Td 0.522 Tw /F2 12.0 Tf  [(to access and use of modern technology. 2\) Second, hacking is a major weapon in the fight against encroaching )] TJ ET
+BT 34.016 421.187 Td 0.354 Tw /F2 12.0 Tf  [(computer technology. 3\) Finally, the high cost of equipment is beyond the means of most hackers, which results )] TJ ET
+BT 34.016 406.931 Td 0.000 Tw /F2 12.0 Tf  [(in the perception that hacking and phreaking are the only recourse to spreading computer literacy to the masses :)] TJ ET
+BT 64.016 368.675 Td 0.406 Tw /F2 12.0 Tf  [("Hacking. It is a full time hobby, taking countless hours per week to learn, experiment, and execute )] TJ ET
+BT 64.016 354.419 Td 1.711 Tw /F2 12.0 Tf  [(the art of penetrating multi-user computers : why do hackers spend a good portion of their time )] TJ ET
+BT 64.016 340.163 Td 0.998 Tw /F2 12.0 Tf  [(hacking ? Some might say it is scientific curiosity, others that it is for mental stimulation. But the )] TJ ET
+BT 64.016 325.907 Td 1.258 Tw /F2 12.0 Tf  [(true roots of hacker motives run much deeper than that. In this file I will describe the underlying )] TJ ET
+BT 64.016 311.651 Td 0.784 Tw /F2 12.0 Tf  [(motives of the aware hackers, make known the connections between Hacking, Phreaking, Carding, )] TJ ET
+BT 64.016 297.395 Td 0.861 Tw /F2 12.0 Tf  [(and Anarchy, and make known the "techno-revolution" which is laying seeds in the mind of every )] TJ ET
+BT 64.016 283.139 Td 1.436 Tw /F2 12.0 Tf  [(hacker... If you need a tutorial on how to perform any of the above stated methods [of hacking], )] TJ ET
+BT 64.016 268.883 Td 0.587 Tw /F2 12.0 Tf  [(please read a [)] TJ ET
+BT 134.740 268.883 Td 0.587 Tw /F3 12.0 Tf  [(Phrack)] TJ ET
+BT 169.396 268.883 Td 0.587 Tw /F2 12.0 Tf  [(] file on it. And whatever you do, continue the fight. Whether you know it or )] TJ ET
+BT 64.016 254.627 Td 1.619 Tw /F2 12.0 Tf  [(not, if you are a hacker, you are a revolutionary. Don't worry, you're on the right side." \(Doctor )] TJ ET
+BT 64.016 240.371 Td 0.000 Tw /F2 12.0 Tf  [(Crash, 1986\))] TJ ET
+BT 34.016 202.115 Td 0.774 Tw /F2 12.0 Tf  [(Although hackers freely acknowledge that their activities may be occasionally illegal, considerable emphasis is )] TJ ET
+BT 34.016 187.859 Td 2.511 Tw /F2 12.0 Tf  [(placed on limiting violations only to those required to obtain access and learn a system, and they display )] TJ ET
+BT 34.016 173.603 Td 1.475 Tw /F2 12.0 Tf  [(hostility toward those who transgress beyond these limits. Most experienced computer underground members )] TJ ET
+BT 34.016 159.347 Td 2.508 Tw /F2 12.0 Tf  [(are suspicious of young novices who are often entranced with what they perceive to be the "romance" of )] TJ ET
+BT 34.016 145.091 Td 0.568 Tw /F2 12.0 Tf  [(hacking. Elite hackers complain continuously that novices are at an increased risk of apprehension and also can )] TJ ET
+BT 34.016 130.835 Td 0.000 Tw /F2 12.0 Tf  [("trash" accounts on which experienced hackers have gained and hidden their access.)] TJ ET
+BT 34.016 104.579 Td 0.383 Tw /F2 12.0 Tf  [(In sum, the hacker style reflects well-defined goals, communication networks, values, and an ethos of resistance )] TJ ET
+BT 34.016 90.323 Td 1.629 Tw /F2 12.0 Tf  [(to authority. Because hacking requires a broader range of knowledge than does phreaking, and because such )] TJ ET
+BT 34.016 76.067 Td 1.651 Tw /F2 12.0 Tf  [(knowledge can be acquired only through experience, hackers tend to be both older and more knowledgeable )] TJ ET
+BT 34.016 61.811 Td 4.336 Tw /F2 12.0 Tf  [(than phreaks. In addition, despite some overlap, the goals of the two are somewhat dissimilar. As a )] TJ ET
+endstream
+endobj
+8 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Times-Bold
+/Encoding /WinAnsiEncoding
+>>
+endobj
+9 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F2
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+>>
+endobj
+10 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F3
+/BaseFont /Times-Italic
+/Encoding /WinAnsiEncoding
+>>
+endobj
+11 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 12 0 R
+>>
+endobj
+12 0 obj
+<<
+/Length 2319 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 34.016 746.579 Td 0.000 Tw /F2 12.0 Tf  [(consequence, each group constitutes a separate analytic category.)] TJ ET
+BT 34.016 679.523 Td 0.713 Tw /F2 12.0 Tf  [(This is from Richard Stallman, who found his way to the M.I.T. AI Lab in 1971, toward the tail end of the big )] TJ ET
+BT 34.016 665.267 Td 0.671 Tw /F2 12.0 Tf  [(sixties hacking burst there. He is perhaps best known for having written the mother of all freeware programs, a )] TJ ET
+BT 34.016 651.011 Td 0.000 Tw /F2 12.0 Tf  [(text-editor known as Emacs.)] TJ ET
+BT 64.016 612.755 Td 1.492 Tw /F2 12.0 Tf  [("I don't know if there actually is a hacker's ethic as such, but there sure was an M.I.T. Artificial )] TJ ET
+BT 64.016 598.499 Td 0.748 Tw /F2 12.0 Tf  [(Intelligence Lab ethic. This was that bureaucracy should not be allowed to get in the way of doing )] TJ ET
+BT 64.016 584.243 Td 0.730 Tw /F2 12.0 Tf  [(anything useful. Rules did not matter - results mattered. Rules, in the form of computer security or )] TJ ET
+BT 64.016 569.987 Td 2.107 Tw /F2 12.0 Tf  [(locks on doors, were held in total, absolute disrespect. We would be proud of how quickly we )] TJ ET
+BT 64.016 555.731 Td 1.316 Tw /F2 12.0 Tf  [(would sweep away whatever little piece of bureaucracy was getting in the way, how little time it )] TJ ET
+BT 64.016 541.475 Td 2.078 Tw /F2 12.0 Tf  [(forced you to waste. Anyone who dared to lock a terminal in his office, say because he was a )] TJ ET
+BT 64.016 527.219 Td 0.231 Tw /F2 12.0 Tf  [(professor and thought he was more important than other people, would likely find his door left open )] TJ ET
+BT 64.016 512.963 Td 0.871 Tw /F2 12.0 Tf  [(the next morning. I would just climb over the ceiling or under the floor, move the terminal out, or )] TJ ET
+BT 64.016 498.707 Td 0.519 Tw /F2 12.0 Tf  [(leave the door open with a note saying what a big inconvenience it is to have to go under the floor, )] TJ ET
+BT 64.016 484.451 Td 1.015 Tw /F2 12.0 Tf  [("so please do not inconvenience people by locking the door any longer". Even now, there is a big )] TJ ET
+BT 64.016 470.195 Td 1.429 Tw /F2 12.0 Tf  [(wrench at the AI Lab entitled "the seventh-floor master key", to be used in case anyone dares to )] TJ ET
+BT 64.016 455.939 Td 0.000 Tw /F2 12.0 Tf  [(lock up one of the more fancy terminals.")] TJ ET
+endstream
+endobj
+xref
+0 13
+0000000000 65535 f 
+0000000008 00000 n 
+0000000073 00000 n 
+0000000119 00000 n 
+0000000301 00000 n 
+0000000330 00000 n 
+0000000444 00000 n 
+0000000507 00000 n 
+0000006194 00000 n 
+0000006302 00000 n 
+0000006411 00000 n 
+0000006522 00000 n 
+0000006587 00000 n 
+trailer
+<<
+/Size 13
+/Root 1 0 R
+/Info 5 0 R
+>>
+startxref
+8959
+%%EOF

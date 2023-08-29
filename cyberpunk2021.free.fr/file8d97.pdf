@@ -1,0 +1,247 @@
+%PDF-1.3
+1 0 obj
+<< /Type /Catalog
+/Outlines 2 0 R
+/Pages 3 0 R >>
+endobj
+2 0 obj
+<< /Type /Outlines /Count 0 >>
+endobj
+3 0 obj
+<< /Type /Pages
+/Kids [6 0 R
+11 0 R
+13 0 R
+]
+/Count 3
+/Resources <<
+/ProcSet 4 0 R
+/Font << 
+/F1 8 0 R
+/F2 9 0 R
+/F3 10 0 R
+>>
+>>
+/MediaBox [0.000 0.000 612.000 792.000]
+ >>
+endobj
+4 0 obj
+[/PDF /Text ]
+endobj
+5 0 obj
+<<
+/Creator (DOMPDF)
+/CreationDate (D:20230828024201+02'00')
+/ModDate (D:20230828024201+02'00')
+>>
+endobj
+6 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 7 0 R
+>>
+endobj
+7 0 obj
+<<
+/Length 6499 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 103.284 725.937 Td /F1 18.0 Tf  [(Old Hackers, New Hackers : What's the Difference ?)] TJ ET
+BT 269.178 695.200 Td /F1 12.0 Tf  [(Steve Mizrach)] TJ ET
+BT 34.016 668.915 Td /F2 12.0 Tf  [( )] TJ ET
+BT 34.016 630.659 Td 0.434 Tw /F2 12.0 Tf  [(Apparently, to people enamored of the "old school" of hackers, like Steven Levy or Clifford Stoll, there is a big )] TJ ET
+BT 34.016 616.403 Td 1.372 Tw /F2 12.0 Tf  [(difference. Indeed, to the "old style" MIT/Stanford hackers, they resent the bestowal of their honored title on )] TJ ET
+BT 34.016 602.147 Td 1.008 Tw /F2 12.0 Tf  [("those people" by the media... To many people, "hacker" is reserved for a class of people in the 60s, a certain )] TJ ET
+BT 34.016 587.891 Td 1.582 Tw /F2 12.0 Tf  [("breed" of programmer who launched the "computer revolution", but just can't seem to be found around any )] TJ ET
+BT 34.016 573.635 Td 1.638 Tw /F2 12.0 Tf  [(more... According to these "old school" hackers, hacking meant a willingness to make technology accessible )] TJ ET
+BT 34.016 559.379 Td 0.395 Tw /F2 12.0 Tf  [(and open, a certain "love affair" with the computer which meant "they would rather code than sleep". It meant a )] TJ ET
+BT 34.016 545.123 Td 0.000 Tw /F2 12.0 Tf  [(desire to create beauty with computers, to liberate information, to decentralize access to communication...)] TJ ET
+BT 34.016 518.867 Td 0.649 Tw /F2 12.0 Tf  [(But what about the "new" hackers ? Many of the "old" hackers think they don't deserve the name, preferring to )] TJ ET
+BT 34.016 504.611 Td 0.411 Tw /F2 12.0 Tf  [(call them "computer criminals", "vandals", "crackers", "miscreants", or in a purely generational swipe, "juvenile )] TJ ET
+BT 34.016 490.355 Td 0.415 Tw /F2 12.0 Tf  [(delinquents". The media uses the word "hacker" to refer to young, clever computer users who use their modems )] TJ ET
+BT 34.016 476.099 Td 1.765 Tw /F2 12.0 Tf  [(to break into systems without authorization, much as depicted in the movie )] TJ ET
+BT 418.174 476.099 Td 1.765 Tw /F3 12.0 Tf  [(WarGames)] TJ ET
+BT 472.162 476.099 Td 1.765 Tw /F2 12.0 Tf  [(. And the old school )] TJ ET
+BT 34.016 461.843 Td 0.622 Tw /F2 12.0 Tf  [(hackers resent this. Many of the new hackers aren't good programmers; they are just people without ethics who )] TJ ET
+BT 34.016 447.587 Td 1.551 Tw /F2 12.0 Tf  [(have no reservations about swiping passwords, codes, software, and other information and trading them with )] TJ ET
+BT 34.016 433.331 Td 2.075 Tw /F2 12.0 Tf  [(their friends. They may be good at exploiting security holes in systems, but all they succeed in doing \(say )] TJ ET
+BT 34.016 419.075 Td 0.000 Tw /F2 12.0 Tf  [(people like Stoll\) is destroying the trust on which open networks are built.)] TJ ET
+BT 34.016 392.819 Td 0.430 Tw /F2 12.0 Tf  [(I am interested, needless to say, in the generational aspect to this battle over the name "hacker". Most of the old )] TJ ET
+BT 34.016 378.563 Td 0.969 Tw /F2 12.0 Tf  [(hackers of the 60s are of course now living in the 90s - Baby Boomers who, like their ex-hippie friends, went )] TJ ET
+BT 34.016 364.307 Td 1.129 Tw /F2 12.0 Tf  [(from "freak" to "straight", finding jobs in computer security firms and corporate software conglomerates. And )] TJ ET
+BT 34.016 350.051 Td 1.953 Tw /F2 12.0 Tf  [(like other counterculturalists from the 60s, they just can't seem to figure out this Generation X forming the )] TJ ET
+BT 34.016 335.795 Td 0.310 Tw /F2 12.0 Tf  [(counterculture of the 90s... where's the openness ? The idealism ? These "juvenile delinquents" just don't live up )] TJ ET
+BT 34.016 321.539 Td 1.211 Tw /F2 12.0 Tf  [(to the high moral standards of the 60s nostalgiacs like Levy and Stoll. But then, Levy rants about those great )] TJ ET
+BT 34.016 307.283 Td 2.493 Tw /F2 12.0 Tf  [(hackers who founded Apple Computer and launched the PC revolution - those same ex-phreaks, Jobs and )] TJ ET
+BT 34.016 293.027 Td 0.000 Tw /F2 12.0 Tf  [(Wozniak, who actually allowed their company to patent their system hardware and software !)] TJ ET
+BT 34.016 266.771 Td 0.320 Tw /F2 12.0 Tf  [(The "cyberpunks" of the 90s, it seems, just don't live up to what people like Stoll and Levy expect of them. And )] TJ ET
+BT 34.016 252.515 Td 2.046 Tw /F2 12.0 Tf  [(all the old "hackers" go to great pains to define themselves apart from the new breed of "hackers", always )] TJ ET
+BT 34.016 238.259 Td 0.733 Tw /F2 12.0 Tf  [(groaning in angst when the label continues to be applied to them. I would argue that the hackers of the 90s are )] TJ ET
+BT 34.016 224.003 Td 2.205 Tw /F2 12.0 Tf  [(not so different from the hackers of the 60s, that indeed, the same exploratory, antiauthoritarian, liberatory )] TJ ET
+BT 34.016 209.747 Td 0.921 Tw /F2 12.0 Tf  [(impulses are at work; it is simply that the hackers of the 60s do not understand the situation in which we live, )] TJ ET
+BT 34.016 195.491 Td 1.959 Tw /F2 12.0 Tf  [(and this is probably because they read 60s hippie lit rather than 90s cyberpunk SF... The "old hackers" are )] TJ ET
+BT 34.016 181.235 Td 0.000 Tw /F2 12.0 Tf  [(simply too comfortable to be afflicted... They don't understand why the new "hacker" does what he does.)] TJ ET
+BT 34.016 154.979 Td 0.748 Tw /F2 12.0 Tf  [(According to Levy, the differences between the old and new hackers are stark and clear. The first group strove )] TJ ET
+BT 34.016 140.723 Td 0.744 Tw /F2 12.0 Tf  [(to create, the second strives to destroy and tamper, he says. The first group loved control over their computers, )] TJ ET
+BT 34.016 126.467 Td 0.503 Tw /F2 12.0 Tf  [(but the second group loves the power computers gives them over people. The first group was always seeking to )] TJ ET
+BT 34.016 112.211 Td 2.563 Tw /F2 12.0 Tf  [(improve and simplify; the second group only exploits and manipulates. The first group did what they did )] TJ ET
+BT 34.016 97.955 Td 0.387 Tw /F2 12.0 Tf  [(because of a feeling of truth and beauty in their activities; the second group hacks for profit and status. The first )] TJ ET
+BT 34.016 83.699 Td 1.129 Tw /F2 12.0 Tf  [(group was communal and closely knit, always sharing openly their new hacks and discoveries; the second, he )] TJ ET
+BT 34.016 69.443 Td 0.378 Tw /F2 12.0 Tf  [(says, is paranoid, isolated, and secretive. For Levy, the old hackers were computer wizards, but the new hackers )] TJ ET
+BT 34.016 55.187 Td 2.877 Tw /F2 12.0 Tf  [(are computer terrorists, always searching for new forms of electronic vandalism or maliciousness without )] TJ ET
+endstream
+endobj
+8 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Times-Bold
+/Encoding /WinAnsiEncoding
+>>
+endobj
+9 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F2
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+>>
+endobj
+10 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F3
+/BaseFont /Times-Italic
+/Encoding /WinAnsiEncoding
+>>
+endobj
+11 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 12 0 R
+>>
+endobj
+12 0 obj
+<<
+/Length 6960 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 34.016 746.579 Td 0.000 Tw /F2 12.0 Tf  [(thought of the consequences.)] TJ ET
+BT 34.016 720.323 Td 1.932 Tw /F2 12.0 Tf  [(But where Levy sees differences, I see some curious similarities. Old-style MIT "hackers" were rather well-)] TJ ET
+BT 34.016 706.067 Td 1.104 Tw /F2 12.0 Tf  [(known for getting around locks of both the physical and electronic variety. Is there such a difference between )] TJ ET
+BT 34.016 691.811 Td 2.074 Tw /F2 12.0 Tf  [(the righteous anger of the MIT hacker toward the IBM "priesthood" who kept him away from the massive )] TJ ET
+BT 34.016 677.555 Td 1.297 Tw /F2 12.0 Tf  [(mainframe, and the 90s hacker who feels righteous anger over being prevented access from huge commercial )] TJ ET
+BT 34.016 663.299 Td 1.476 Tw /F2 12.0 Tf  [(databases without an expensive account ? The old MIT hackers were also known for their exploration of the )] TJ ET
+BT 34.016 649.043 Td 1.232 Tw /F2 12.0 Tf  [(phone system, and exploring "hacks" to make calls to unsuspecting places for free. Indeed, many of the early )] TJ ET
+BT 34.016 634.787 Td 1.650 Tw /F2 12.0 Tf  [(hackers were phone phreaks, plain and simple, ripping off service from the phone company \(THE company, )] TJ ET
+BT 34.016 620.531 Td 1.298 Tw /F2 12.0 Tf  [(AT&T, alias Ma Bell, back then\), which they resented for its refusal to share the technical information about )] TJ ET
+BT 34.016 606.275 Td 0.000 Tw /F2 12.0 Tf  [(telephony.)] TJ ET
+BT 34.016 580.019 Td 2.717 Tw /F2 12.0 Tf  [(The 60s hackers were known for their desire for liberating information. They openly shared source code; )] TJ ET
+BT 34.016 565.763 Td 1.066 Tw /F2 12.0 Tf  [(members of the Homebrew Computer Club also openly shared with each other the flaws of various machines, )] TJ ET
+BT 34.016 551.507 Td 0.626 Tw /F2 12.0 Tf  [(and "hacks" to get around their lack of performance. Since Levy seems to think that software piracy should not )] TJ ET
+BT 34.016 537.251 Td 1.182 Tw /F2 12.0 Tf  [(be a crime \(since he thinks source code should not be copyrighted\), his problem with the "new hackers" does )] TJ ET
+BT 34.016 522.995 Td 2.140 Tw /F2 12.0 Tf  [(not appear to be piracy. Neither does it appear to be the open sharing of some admittedly dangerous "real-)] TJ ET
+BT 34.016 508.739 Td 1.090 Tw /F2 12.0 Tf  [(world" information taken straight from books like the )] TJ ET
+BT 302.946 508.739 Td 1.090 Tw /F3 12.0 Tf  [(Anarchist Cookbook)] TJ ET
+BT 402.364 508.739 Td 1.090 Tw /F2 12.0 Tf  [( on how to make bombs and drugs. )] TJ ET
+BT 34.016 494.483 Td 1.918 Tw /F2 12.0 Tf  [(Rather, it seems to focus around the malicious misdeeds of a small minority, dedicated to spreading Trojan )] TJ ET
+BT 34.016 480.227 Td 0.000 Tw /F2 12.0 Tf  [(horses, logic bombs, viruses, worms, and other destructive programs...)] TJ ET
+BT 34.016 453.971 Td 1.114 Tw /F2 12.0 Tf  [(In actuality, the majority of viruses \(such as the Christmas virus\) are harmless. They eat up small fractions of )] TJ ET
+BT 34.016 439.715 Td 0.162 Tw /F2 12.0 Tf  [(CPU space and are designed, rather than to wipe clean someone's hard drive, to just display a message at a given )] TJ ET
+BT 34.016 425.459 Td 1.213 Tw /F2 12.0 Tf  [(time. They are, in short, pranks - something that Levy also points out the old MIT hackers were overfond of. )] TJ ET
+BT 34.016 411.203 Td 1.183 Tw /F2 12.0 Tf  [(They were known for playing complex tricks on people, and were masters of "social engineering" - the art of )] TJ ET
+BT 34.016 396.947 Td 0.392 Tw /F2 12.0 Tf  [(manipulating technocrats by being a good bullshit artist - just as the 90s hackers are... their elaborate games and )] TJ ET
+BT 34.016 382.691 Td 1.255 Tw /F2 12.0 Tf  [(pranks often being ways to demonstrate their superiority to the faculty, administrators, or other "know-it-alls" )] TJ ET
+BT 34.016 368.435 Td 0.000 Tw /F2 12.0 Tf  [(who they felt got in their way of their access to computers...)] TJ ET
+BT 34.016 342.179 Td 1.081 Tw /F2 12.0 Tf  [(In "invading" corporate voicemail systems, the modern 90s hackers are no different than the 60s MIT hackers )] TJ ET
+BT 34.016 327.923 Td 1.206 Tw /F2 12.0 Tf  [(mapping out the labyrinths of the MIT underground tunnel system. They do it for the same reasons : because )] TJ ET
+BT 34.016 313.667 Td 2.571 Tw /F2 12.0 Tf  [(they are told not to, because the conduits often lead to surprising places, because the activity is basically )] TJ ET
+BT 34.016 299.411 Td 0.541 Tw /F2 12.0 Tf  [(harmless even though it is declared unauthorized or even illegal, and because it gives them a feeling of mastery )] TJ ET
+BT 34.016 285.155 Td 0.652 Tw /F2 12.0 Tf  [(and control over a complex problem. The simple fact is, most of the 90s hackers are not wantonly malicious or )] TJ ET
+BT 34.016 270.899 Td 0.247 Tw /F2 12.0 Tf  [(destructive. Indeed, many subscribe to an updated 90s Hacker Ethic, declaring that they will not "hack" personal )] TJ ET
+BT 34.016 256.643 Td 3.686 Tw /F2 12.0 Tf  [(privacy or the personal computer user, instead declaring that their "targets" will be large, unresponsive )] TJ ET
+BT 34.016 242.387 Td 0.000 Tw /F2 12.0 Tf  [(corporations or bureaucratic government organizations...)] TJ ET
+BT 34.016 216.131 Td 1.016 Tw /F2 12.0 Tf  [(But the main reason for the difference between the 60s and 90s hackers is that the GenXers are a "post-punk" )] TJ ET
+BT 34.016 201.875 Td 0.534 Tw /F2 12.0 Tf  [(generation, hence the term, "cyberpunk". Their music has a little more edge and anger and a little less idealism. )] TJ ET
+BT 34.016 187.619 Td 1.945 Tw /F2 12.0 Tf  [(They've seen the death of rock n'roll, and watched Michael Bolton and Whitney Houston try and revive its )] TJ ET
+BT 34.016 173.363 Td 1.492 Tw /F2 12.0 Tf  [(corpse. Their world is a little more multicultural and complicated, and less black-and-white. And it is one in )] TJ ET
+BT 34.016 159.107 Td 3.279 Tw /F2 12.0 Tf  [(which, while computers can be used to create beauty, they are also being used to destroy freedom and )] TJ ET
+BT 34.016 144.851 Td 0.339 Tw /F2 12.0 Tf  [(autonomy... hence control over computers is an act of self-defense, not just power-hunger. Hacking, for some of )] TJ ET
+BT 34.016 130.595 Td 1.186 Tw /F2 12.0 Tf  [(the new "hackers", is more than just a game, or a means to get goodies without paying for them. As with the )] TJ ET
+BT 34.016 116.339 Td 0.000 Tw /F2 12.0 Tf  [(older generation, it has become a way of life, a means of defining themselves as a subculture...)] TJ ET
+BT 34.016 90.083 Td 1.385 Tw /F2 12.0 Tf  [(Many of them are quite deliberately "nonviolent" in their ambitions. They will not lock others out from their )] TJ ET
+BT 34.016 75.827 Td 1.860 Tw /F2 12.0 Tf  [(accounts, damage or change data without permission, or do anything to jeopardize system viability. Instead, )] TJ ET
+BT 34.016 61.571 Td 0.345 Tw /F2 12.0 Tf  [(they enter computer systems to 1\) look around and see what's there \(if someone breaks into your house, looks at )] TJ ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 14 0 R
+>>
+endobj
+14 0 obj
+<<
+/Length 4508 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 34.016 746.579 Td 0.640 Tw /F2 12.0 Tf  [(the posters on your wall, then locks the door on the way out, have they committed a crime ?\) 2\) see where else )] TJ ET
+BT 34.016 732.323 Td 1.778 Tw /F2 12.0 Tf  [(they can go from where they are \(what connections can be pursued ?\) and 3\) take advantage of any unique )] TJ ET
+BT 34.016 718.067 Td 1.078 Tw /F2 12.0 Tf  [(abilities of the machine that they've accessed. MIT's hackers did all of these things and more with the various )] TJ ET
+BT 34.016 703.811 Td 1.929 Tw /F2 12.0 Tf  [(mainframes they were "forbidden" to access and explore... They questioned the right of technocrats to limit )] TJ ET
+BT 34.016 689.555 Td 2.314 Tw /F2 12.0 Tf  [(access, and openly transgressed their arbitrary limitations based on invoked mantras of the preciousness of )] TJ ET
+BT 34.016 675.299 Td 0.000 Tw /F2 12.0 Tf  [(computer time.)] TJ ET
+BT 34.016 649.043 Td 1.075 Tw /F2 12.0 Tf  [(Indeed, the 90s hackers pay a lot of homage to the first generation. They have borrowed much of their jargon )] TJ ET
+BT 34.016 634.787 Td 0.519 Tw /F2 12.0 Tf  [(and certainly many of their ideas. Their modus operandi, the PC, would not be available to them were it not for )] TJ ET
+BT 34.016 620.531 Td 3.243 Tw /F2 12.0 Tf  [(the way the 60s hackers challenged the IBM/corporate computer model and made personal computing a )] TJ ET
+BT 34.016 606.275 Td 0.780 Tw /F2 12.0 Tf  [(reality... Their style, their use of handles, their love for late-night junk food, are all testaments to the durability )] TJ ET
+BT 34.016 592.019 Td 2.004 Tw /F2 12.0 Tf  [(and transmission of 60s Hacker culture. So why are the biographers of the 60s hackers so antagonistic and )] TJ ET
+BT 34.016 577.763 Td 2.270 Tw /F2 12.0 Tf  [(hostile to the new 90s hackers ? Do they sense some sort of betrayal of the original Hacker Ethic and its )] TJ ET
+BT 34.016 563.507 Td 0.000 Tw /F2 12.0 Tf  [(imperatives ? Is it just the classic refusal to pass a torch onto a new generation ?)] TJ ET
+BT 34.016 537.251 Td 0.372 Tw /F2 12.0 Tf  [(Breaking into the root node of a UNIX network or the system manager account of a VAX network takes nimble )] TJ ET
+BT 34.016 522.995 Td 1.711 Tw /F2 12.0 Tf  [(thinking and clever programming. It often takes a knowledge of various loopholes in the system, and clever )] TJ ET
+BT 34.016 508.739 Td 1.316 Tw /F2 12.0 Tf  [(tricks that can be done with its coding. It often requires unorthodox uses of standard applications. In short, it )] TJ ET
+BT 34.016 494.483 Td 1.169 Tw /F2 12.0 Tf  [(requires hacking in the oldest and best senses of the term. In doing it, many 90s hackers seek to expand their )] TJ ET
+BT 34.016 480.227 Td 0.540 Tw /F2 12.0 Tf  [(knowledge of the system and its capabilities, not to sabotage the efforts of others or wreck the system. Phreaks, )] TJ ET
+BT 34.016 465.971 Td 1.037 Tw /F2 12.0 Tf  [(in "hacking" the phone system, are simply acting in the centuries-old tradition of American radicals who have )] TJ ET
+BT 34.016 451.715 Td 4.341 Tw /F2 12.0 Tf  [(always challenged the ways in which corporate and governmental structures prevent people from free )] TJ ET
+BT 34.016 437.459 Td 0.915 Tw /F2 12.0 Tf  [(association with their peers... Challenging the notion that "to reach out and touch someone" should be a costly )] TJ ET
+BT 34.016 423.203 Td 0.000 Tw /F2 12.0 Tf  [(privilege rather than a right.)] TJ ET
+BT 34.016 396.947 Td 4.038 Tw /F2 12.0 Tf  [(Someday, the old and new "hackers" may sit down, and discuss their commonalities rather than their )] TJ ET
+BT 34.016 382.691 Td 1.121 Tw /F2 12.0 Tf  [(differences. They may realize that they share an alienation from the existing system. They might find out that )] TJ ET
+BT 34.016 368.435 Td 0.599 Tw /F2 12.0 Tf  [(they have motivations and principles in common. Most importantly, they might stop competing with each other )] TJ ET
+BT 34.016 354.179 Td 1.371 Tw /F2 12.0 Tf  [(for a mantle or title. The old hackers might see the ways in which their countercultural visions failed to take )] TJ ET
+BT 34.016 339.923 Td 3.062 Tw /F2 12.0 Tf  [(account of new realities, and they might provide a sense of communal vision and purpose for the often )] TJ ET
+BT 34.016 325.667 Td 0.417 Tw /F2 12.0 Tf  [(backstabbing and self-aggrandizing new hackers. If they were to actually team up, it might be mean what Bruce )] TJ ET
+BT 34.016 311.411 Td 0.000 Tw /F2 12.0 Tf  [(Sterling calls "the End of the Amateurs". And the beginning of "Computer Lib" ?)] TJ ET
+endstream
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000008 00000 n 
+0000000073 00000 n 
+0000000119 00000 n 
+0000000308 00000 n 
+0000000337 00000 n 
+0000000451 00000 n 
+0000000514 00000 n 
+0000007065 00000 n 
+0000007173 00000 n 
+0000007282 00000 n 
+0000007393 00000 n 
+0000007458 00000 n 
+0000014471 00000 n 
+0000014536 00000 n 
+trailer
+<<
+/Size 15
+/Root 1 0 R
+/Info 5 0 R
+>>
+startxref
+19097
+%%EOF

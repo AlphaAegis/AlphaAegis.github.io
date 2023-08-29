@@ -1,0 +1,20 @@
+
+a { color: red }
+body {
+	font-family: verdana;
+	text-align: justify;
+	color: white;
+	background-color: black
+}
+div.c {
+	margin: auto;
+	width: 95%
+}
+img.r {
+	float: right;
+	padding-left: 20px
+}
+p.c {
+	border: 1px solid white;
+	padding: 5px
+}

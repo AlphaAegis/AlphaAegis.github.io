@@ -1,0 +1,53 @@
+
+a { color: red }
+body {
+	font-family: verdana;
+	text-align: justify;
+	color: white;
+	background-color: black
+}
+div.c {
+	margin: auto;
+	width: 95%
+}
+td {
+	text-align: center;
+	vertical-align: top
+}
+td.c { text-align: left }
+td.d {
+	padding: 0px 3px 0px 3px;
+	text-align: right
+}
+td.e {
+	border-top: 1px solid #C0C0C0;
+	border-bottom: 1px solid #C0C0C0;
+	background-color: #727272;
+	color: black;
+	text-align: center
+}
+td.f {
+	text-align: left;
+	vertical-align: bottom
+}
+td.g { vertical-align: bottom }
+td.h {
+	text-align: right;
+	vertical-align: bottom
+}
+td.i { text-align: right }
+td.j {
+	text-align: right;
+	font-size: small;
+	padding: 3
+}
+td.k {
+	text-align: left;
+	font-size: small;
+	padding: 3
+}
+td.l {
+	font-weight: bold;
+	font-size: large;
+	padding-bottom: 6
+}

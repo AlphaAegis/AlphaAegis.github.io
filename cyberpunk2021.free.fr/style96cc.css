@@ -1,0 +1,38 @@
+
+a {
+	text-decoration: none;
+	color: white
+}
+body {
+	background: black;
+	color: white;
+	font-family: lucida console, courier
+}
+div.txt { margin-top: 3 }
+div.lnk { position: relative }
+img { border: 0 }
+img.lng1 {
+	position: absolute;
+	margin-left: 10
+}
+img.lng2 {
+	position: absolute;
+	margin-top: 17;
+	margin-left: 10
+}
+
+img.lng3 {
+	position: absolute;
+	margin-top: 34;
+	margin-left: 10
+}
+
+th {
+	width: 20%;
+	font-weight: bold;
+	vertical-align: top
+}
+td {
+	vertical-align: top;
+	text-align: center
+}

@@ -1,0 +1,21 @@
+
+a {
+	color: #898989;
+	font-weight: bold
+}
+br.c { margin-bottom : 30; }
+body {
+	font-family: verdana;
+	background: black;
+	color: white
+}
+div.c {
+	margin: auto;
+	width: 95%
+}
+p.c { margin-bottom : 6; }
+td {
+	font-size: x-small;
+	padding: 3
+}
+td.c { width: 200 }

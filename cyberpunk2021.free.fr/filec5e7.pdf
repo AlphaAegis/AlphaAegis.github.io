@@ -1,0 +1,465 @@
+%PDF-1.3
+1 0 obj
+<< /Type /Catalog
+/Outlines 2 0 R
+/Pages 3 0 R >>
+endobj
+2 0 obj
+<< /Type /Outlines /Count 0 >>
+endobj
+3 0 obj
+<< /Type /Pages
+/Kids [6 0 R
+11 0 R
+13 0 R
+15 0 R
+17 0 R
+19 0 R
+]
+/Count 6
+/Resources <<
+/ProcSet 4 0 R
+/Font << 
+/F1 8 0 R
+/F2 9 0 R
+/F3 10 0 R
+>>
+>>
+/MediaBox [0.000 0.000 612.000 792.000]
+ >>
+endobj
+4 0 obj
+[/PDF /Text ]
+endobj
+5 0 obj
+<<
+/Creator (DOMPDF)
+/CreationDate (D:20230828003526+02'00')
+/ModDate (D:20230828003526+02'00')
+>>
+endobj
+6 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 7 0 R
+>>
+endobj
+7 0 obj
+<<
+/Length 5202 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 222.255 725.937 Td /F1 18.0 Tf  [(What is Cyberspace ?)] TJ ET
+BT 221.832 695.200 Td /F1 12.0 Tf  [(David G.W. Birch, S. Peter Buck)] TJ ET
+BT 294.000 680.800 Td /F1 12.0 Tf  [(1991)] TJ ET
+BT 34.016 654.515 Td /F2 12.0 Tf  [( )] TJ ET
+BT 34.016 612.281 Td /F1 14.0 Tf  [(Introduction)] TJ ET
+BT 34.016 583.500 Td 0.726 Tw /F2 12.0 Tf  [(In a recent issue of the )] TJ ET
+BT 149.671 583.500 Td 0.726 Tw /F3 12.0 Tf  [(Computer Law & Security Report)] TJ ET
+BT 314.574 583.500 Td 0.726 Tw /F2 12.0 Tf  [( [1], Bernard Zajac suggested that readers might want )] TJ ET
+BT 34.016 569.244 Td 1.713 Tw /F2 12.0 Tf  [(to peruse some of the "cyberpunk" novels - in particular the works of William Gibson - in order to gain an )] TJ ET
+BT 34.016 554.988 Td 2.930 Tw /F2 12.0 Tf  [(insight into the organisation and behaviour of hackers. While wholly commending the incitement to read )] TJ ET
+BT 34.016 540.732 Td 2.543 Tw /F2 12.0 Tf  [(Gibson's work, we feel that this view understates the breadth of vision of the cyberpunk genre and could )] TJ ET
+BT 34.016 526.476 Td 0.750 Tw /F2 12.0 Tf  [(mislead, because the "console men" and "keyboard cowboys" of Gibson's works are not really the same people )] TJ ET
+BT 34.016 512.220 Td 0.000 Tw /F2 12.0 Tf  [(as the hackers of today.)] TJ ET
+BT 34.016 483.924 Td 1.042 Tw /F2 12.0 Tf  [(We thought it might therefore be both entertaining and stimulating to provide readers with an overview of the )] TJ ET
+BT 34.016 469.668 Td 1.146 Tw /F2 12.0 Tf  [(world of cyberspace and to draw attention to some elements of the works where we feel that there are indeed )] TJ ET
+BT 34.016 455.412 Td 1.969 Tw /F2 12.0 Tf  [(some points worth further analysis and discussion. Is it possible that, like Arthur C. Clarke's much vaunted )] TJ ET
+BT 34.016 441.156 Td 0.358 Tw /F2 12.0 Tf  [(prediction of the communication satellite [2], Gibson has produced works which are not so much science fiction )] TJ ET
+BT 34.016 426.900 Td 0.000 Tw /F2 12.0 Tf  [(as informed prediction ?)] TJ ET
+BT 34.016 398.604 Td 1.085 Tw /F2 12.0 Tf  [(Gibson is not the only cyberpunk author, but he has become probably the most well-known. Essential reading )] TJ ET
+BT 34.016 384.348 Td 1.314 Tw /F2 12.0 Tf  [(includes his books )] TJ ET
+BT 129.625 384.348 Td 1.314 Tw /F3 12.0 Tf  [(Count Zero)] TJ ET
+BT 185.947 384.348 Td 1.314 Tw /F2 12.0 Tf  [( [3], )] TJ ET
+BT 211.566 384.348 Td 1.314 Tw /F3 12.0 Tf  [(Neuromancer)] TJ ET
+BT 277.554 384.348 Td 1.314 Tw /F2 12.0 Tf  [( [4], )] TJ ET
+BT 303.174 384.348 Td 1.314 Tw /F3 12.0 Tf  [(Burning Chrome)] TJ ET
+BT 385.488 384.348 Td 1.314 Tw /F2 12.0 Tf  [( [5] and )] TJ ET
+BT 429.749 384.348 Td 1.314 Tw /F3 12.0 Tf  [(Mona Lisa Overdrive)] TJ ET
+BT 535.697 384.348 Td 1.314 Tw /F2 12.0 Tf  [( [6]. For )] TJ ET
+BT 34.016 370.092 Td 0.553 Tw /F2 12.0 Tf  [(readers new to the subject, )] TJ ET
+BT 167.410 370.092 Td 0.553 Tw /F3 12.0 Tf  [(Mirroshades)] TJ ET
+BT 228.742 370.092 Td 0.553 Tw /F2 12.0 Tf  [( [7] is an excellent anthology of cyberpunk short stories which gives an )] TJ ET
+BT 34.016 355.836 Td 0.000 Tw /F2 12.0 Tf  [(overview of the spectrum of cyberpunk writing.)] TJ ET
+BT 34.016 282.761 Td /F1 14.0 Tf  [(Description)] TJ ET
+BT 34.016 253.980 Td 0.436 Tw /F2 12.0 Tf  [(Cyberspace is an extension of the idea of virtual reality. Instead of seeing computer data converted into pictures )] TJ ET
+BT 34.016 239.724 Td 0.867 Tw /F2 12.0 Tf  [(that come from human experience \(as in a flight simulator\), or extensions from human experience \(such as the )] TJ ET
+BT 34.016 225.468 Td 3.214 Tw /F2 12.0 Tf  [("desktop" metaphor used with personal computers\), cyberspace comprises computers, telecommunications, )] TJ ET
+BT 34.016 211.212 Td 0.600 Tw /F2 12.0 Tf  [(software and data in a more abstract form. At the core of cyberspace is the matrix or the Net : "The Net... joins )] TJ ET
+BT 34.016 196.956 Td 0.966 Tw /F2 12.0 Tf  [(all of the computers and telephones on Earth. It is formed by radio, telepho and cellular links with microwave )] TJ ET
+BT 34.016 182.700 Td 0.924 Tw /F2 12.0 Tf  [(transmitters beaming information into orbit and beyond. In the 20th century, the Net was only accessible via a )] TJ ET
+BT 34.016 168.444 Td 0.494 Tw /F2 12.0 Tf  [(computer terminal, using a device called a modem to send and receive information. But in 2013, the Net can be )] TJ ET
+BT 34.016 154.188 Td 0.275 Tw /F2 12.0 Tf  [(entered directly using your own brain, neural plugs and complex interface programs that turn computer data into )] TJ ET
+BT 34.016 139.932 Td 1.080 Tw /F2 12.0 Tf  [(perceptual events." )] TJ ET
+BT 130.713 139.932 Td 1.080 Tw /F3 12.0 Tf  [(View From the Edge)] TJ ET
+BT 232.942 139.932 Td 1.080 Tw /F2 12.0 Tf  [(, [8]. In several places, reference is made to the military origin of the )] TJ ET
+BT 34.016 125.676 Td 0.000 Tw /F2 12.0 Tf  [(cyberspace interfaces :)] TJ ET
+BT 64.016 85.380 Td 0.912 Tw /F2 12.0 Tf  [("You're a console cowboy. The prototypes of the programs you use to crack industrial banks were )] TJ ET
+BT 64.016 71.124 Td 0.812 Tw /F2 12.0 Tf  [(developed for [a military operation]. For the assault on the Kirensk computer nexus. Basic module )] TJ ET
+endstream
+endobj
+8 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Times-Bold
+/Encoding /WinAnsiEncoding
+>>
+endobj
+9 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F2
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+>>
+endobj
+10 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F3
+/BaseFont /Times-Italic
+/Encoding /WinAnsiEncoding
+>>
+endobj
+11 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 12 0 R
+>>
+endobj
+12 0 obj
+<<
+/Length 5580 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 64.016 746.579 Td 0.473 Tw /F2 12.0 Tf  [(was a Nightwing microlight, a pilot, a matrix deck, a jockey. We were running a virus called Mole. )] TJ ET
+BT 64.016 732.323 Td 0.000 Tw /F2 12.0 Tf  [(The Mole series was the first generation of real intrusion programs." )] TJ ET
+BT 395.516 732.323 Td /F3 12.0 Tf  [(Neuromancer)] TJ ET
+BT 461.504 732.323 Td /F2 12.0 Tf  [(, [4].)] TJ ET
+BT 34.016 694.067 Td 0.254 Tw /F2 12.0 Tf  [("The matrix has its roots in primitive arcade games... early graphics programs and military experimentation with )] TJ ET
+BT 34.016 679.811 Td 1.053 Tw /F2 12.0 Tf  [(cranial jack." )] TJ ET
+BT 102.661 679.811 Td 1.053 Tw /F3 12.0 Tf  [(Neuromancer)] TJ ET
+BT 168.649 679.811 Td 1.053 Tw /F2 12.0 Tf  [(, [4]. Gibson also assumes that in addition to being able to "jack in" to the matrix, )] TJ ET
+BT 34.016 665.555 Td 0.410 Tw /F2 12.0 Tf  [(you can go through the matrix to jack in to another person using a "simstim" deck. Using the simstim deck, you )] TJ ET
+BT 34.016 651.299 Td 0.000 Tw /F2 12.0 Tf  [(experience everything that the person you are connected to experiences :)] TJ ET
+BT 34.016 625.043 Td 0.423 Tw /F2 12.0 Tf  [("Case hit the simstim switch. And flipped in to the agony of a broken bone. Molly was braced against the blank )] TJ ET
+BT 34.016 610.787 Td 1.478 Tw /F2 12.0 Tf  [(grey wall of a long corridor, her breath coming ragged and uneven. Case was back in the matrix instantly, a )] TJ ET
+BT 34.016 596.531 Td 0.408 Tw /F2 12.0 Tf  [(white-hot line of pain fading in his left thigh." )] TJ ET
+BT 261.912 596.531 Td 0.408 Tw /F3 12.0 Tf  [(Neuromancer)] TJ ET
+BT 327.900 596.531 Td 0.408 Tw /F2 12.0 Tf  [(, [4]. The matrix can be a very dangerous place. As )] TJ ET
+BT 34.016 582.275 Td 0.375 Tw /F2 12.0 Tf  [(your brain is connected in, should your interface program be altered, you will suffer. If your program is deleted, )] TJ ET
+BT 34.016 568.019 Td 1.670 Tw /F2 12.0 Tf  [(you would die. One of the characters in )] TJ ET
+BT 239.668 568.019 Td 1.670 Tw /F3 12.0 Tf  [(Neuromancer)] TJ ET
+BT 305.656 568.019 Td 1.670 Tw /F2 12.0 Tf  [( is called the Dixie Flatline, so named because he has )] TJ ET
+BT 34.016 553.763 Td 0.000 Tw /F2 12.0 Tf  [(survived deletion in the matrix. He is revered as a hero of the cyber jockeys :)] TJ ET
+BT 34.016 527.507 Td 0.752 Tw /F2 12.0 Tf  [("'Well, if we can get the Flatline, we're home free. He was the best. You know he died braindeath three times'. )] TJ ET
+BT 34.016 513.251 Td 0.727 Tw /F2 12.0 Tf  [(She nodded. 'Flatlined on his EEG. Showed me the tapes.'" )] TJ ET
+BT 327.489 513.251 Td 0.727 Tw /F3 12.0 Tf  [(Neuromancer)] TJ ET
+BT 393.477 513.251 Td 0.727 Tw /F2 12.0 Tf  [(, [4]. Incidentally, the Flatline doesn't )] TJ ET
+BT 34.016 498.995 Td 0.000 Tw /F2 12.0 Tf  [(exist as a person any more : his mind has been stored in a RAM chip which can be connected to the matrix.)] TJ ET
+BT 34.016 427.961 Td /F1 14.0 Tf  [(Operation)] TJ ET
+BT 34.016 403.260 Td 0.916 Tw /F2 12.0 Tf  [(So how does cyberspace work ? As noted previously, you connect to the matrix through a deck which runs an )] TJ ET
+BT 34.016 389.004 Td 0.000 Tw /F2 12.0 Tf  [(interface program :)] TJ ET
+BT 64.016 350.748 Td 1.062 Tw /F2 12.0 Tf  [("A silver tide of phosphenes boiled across my field of vision as the matrix began to unfold in my )] TJ ET
+BT 64.016 336.492 Td 0.553 Tw /F2 12.0 Tf  [(head, a 3-D chessboard, infinite and perfectly transparent. The Russian program seemed to lurch as )] TJ ET
+BT 64.016 322.236 Td 0.371 Tw /F2 12.0 Tf  [(we entered the grid. If anyone else had been jacked in to that part of the matrix, he might have seen )] TJ ET
+BT 64.016 307.980 Td 1.721 Tw /F2 12.0 Tf  [(a surf of flickering shadow ride out of the little yellow pyramid that represented our computer." )] TJ ET
+BT 64.016 293.724 Td 0.000 Tw /F3 12.0 Tf  [(Burning Chrome)] TJ ET
+BT 145.016 293.724 Td /F2 12.0 Tf  [(, [5].)] TJ ET
+BT 64.016 267.468 Td 2.472 Tw /F2 12.0 Tf  [("Tick executed the transit in real time, rather than the bodyless, instantaneous shifts ordinarily )] TJ ET
+BT 64.016 253.212 Td 1.550 Tw /F2 12.0 Tf  [(employed in the matrix. The yellow plain, he explained, roofed the London Stock Exchange and )] TJ ET
+BT 64.016 238.956 Td 2.551 Tw /F2 12.0 Tf  [(related City entities... 'Th's White's', Tick was saying, directing her attention to a modest grey )] TJ ET
+BT 64.016 224.700 Td 0.000 Tw /F2 12.0 Tf  [(pyramid, 'the club in St. James'. Membership directory, waiting list..." )] TJ ET
+BT 402.884 224.700 Td /F3 12.0 Tf  [(Mona Lisa Overdrive)] TJ ET
+BT 506.204 224.700 Td /F2 12.0 Tf  [(, [6].)] TJ ET
+BT 34.016 186.444 Td 2.122 Tw /F2 12.0 Tf  [(Is this view of operating computers and communications networks by moving around inn ethereal machine-)] TJ ET
+BT 34.016 172.188 Td 1.381 Tw /F2 12.0 Tf  [(generated world really that far-fetched ? When the first virtual reality \(VR\) units for personal computers will )] TJ ET
+BT 34.016 157.932 Td 1.982 Tw /F2 12.0 Tf  [(probably be in the shops by next Christmas ? If you still think that VR is science fiction, note that British )] TJ ET
+BT 34.016 143.676 Td 0.622 Tw /F2 12.0 Tf  [(television viewers will shortly be tuning in to a new game show \(called "CyberZone"\) where the digital images )] TJ ET
+BT 34.016 129.420 Td 0.897 Tw /F2 12.0 Tf  [(of teams of players equipped with VR helmets, power gloves and pressure pads will fight it out in a computer-)] TJ ET
+BT 34.016 115.164 Td 0.000 Tw /F2 12.0 Tf  [(generated world \(built using 16 IBM PCs fronting an ICL master computer\).)] TJ ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 14 0 R
+>>
+endobj
+14 0 obj
+<<
+/Length 5421 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 34.016 730.601 Td /F1 14.0 Tf  [(Organisation)] TJ ET
+BT 34.016 705.900 Td 3.788 Tw /F2 12.0 Tf  [(The world of cyberpunk is near future Earth \(say, 50 years at the maximum\). Nation states and their )] TJ ET
+BT 34.016 691.644 Td 1.869 Tw /F2 12.0 Tf  [(governments are unimportant and largely irrelevant. The world is run by giant Japanese-American-European )] TJ ET
+BT 34.016 677.388 Td 3.560 Tw /F2 12.0 Tf  [(multinational conglomerates, the zaibatsu. Gibson frequently uses Japanese words and Japanese slang to )] TJ ET
+BT 34.016 663.132 Td 3.688 Tw /F2 12.0 Tf  [(reinforce the expanding role of Japan in the world and in society. In the same way that business has )] TJ ET
+BT 34.016 648.876 Td 0.358 Tw /F2 12.0 Tf  [(agglomerated on a global scale, the mafia have merged with the Japanese gangs, the yakuza. The zaibatsu are in )] TJ ET
+BT 34.016 634.620 Td 0.165 Tw /F2 12.0 Tf  [(constant conflict and the yakuza are their agents : "Business has no stake in any political system per se. Business )] TJ ET
+BT 34.016 620.364 Td 1.816 Tw /F2 12.0 Tf  [(co-operates to the extent that co-operation furthers its own interests. And the primary interest of business is )] TJ ET
+BT 34.016 606.108 Td 0.291 Tw /F2 12.0 Tf  [(growth and dominance. Once the establishment of Free Enterprise Zones freed corporations from all constraints, )] TJ ET
+BT 34.016 591.852 Td 0.000 Tw /F2 12.0 Tf  [(they reverted to a primal struggle, which continues to this day." Stone Lives, [9].)] TJ ET
+BT 34.016 565.596 Td 0.846 Tw /F2 12.0 Tf  [(Far fetched ? Again, not really. Even as we sat down to write this article, the Chairman and Vice-Chairman of )] TJ ET
+BT 34.016 551.340 Td 0.000 Tw /F2 12.0 Tf  [(Nomura \(the world's largest financial institution\) were resigning because of their links with organised crime :)] TJ ET
+BT 34.016 525.084 Td 0.301 Tw /F2 12.0 Tf  [("Sceptics say that four decades of accommodation between police, politicians and yakuza will not be overturned )] TJ ET
+BT 34.016 510.828 Td 1.414 Tw /F2 12.0 Tf  [(simply by new legislation. There are believed to be almost 100,000 full-time gangsters in Japan, a quarter of )] TJ ET
+BT 34.016 496.572 Td 0.224 Tw /F2 12.0 Tf  [(whom belong to the Yamaguchi-Gumi, a mammoth organisation with 900 affiliates and a portfolio of operations )] TJ ET
+BT 34.016 482.316 Td 0.944 Tw /F2 12.0 Tf  [(ranging from prostitution, drugs and share speculation to run-of-the mill protection rackets" [10]. Herein lies a )] TJ ET
+BT 34.016 468.060 Td 0.391 Tw /F2 12.0 Tf  [(major feature of Gibson's books. The cyber jockeys are not student pranksters or teenage hackers messing about )] TJ ET
+BT 34.016 453.804 Td 1.379 Tw /F2 12.0 Tf  [(with other peoples' computers for fun or mischief \(The Lord of the Files, [11]\) : by and large they are either )] TJ ET
+BT 34.016 439.548 Td 1.130 Tw /F2 12.0 Tf  [(working for the zaibatsu or the yakuza and their \(for profit\) activities revolve around industrial espionage and )] TJ ET
+BT 34.016 425.292 Td 0.000 Tw /F2 12.0 Tf  [(sabotage.)] TJ ET
+BT 34.016 354.257 Td /F1 14.0 Tf  [(Information)] TJ ET
+BT 34.016 329.556 Td 0.914 Tw /F2 12.0 Tf  [(A fundamental theme running through most cyberpunk literature is that \(in the near future Earth\) commodities )] TJ ET
+BT 34.016 315.300 Td 0.673 Tw /F2 12.0 Tf  [(are unimportant. Since anything can be manufactured, very cheaply, manufactured goods \(and the commodities )] TJ ET
+BT 34.016 301.044 Td 0.671 Tw /F2 12.0 Tf  [(that are needed to create them\) are no longer central to economic life. The only real commodity is information. )] TJ ET
+BT 34.016 286.788 Td 0.000 Tw /F2 12.0 Tf  [(In fact, in many ways, the zaibatsu are the information that they own :)] TJ ET
+BT 34.016 260.532 Td 0.958 Tw /F2 12.0 Tf  [("But weren't the zaibatsu more like that, or the yakuza, hives with cybernetic memories, vast single organisms )] TJ ET
+BT 34.016 246.276 Td 0.000 Tw /F2 12.0 Tf  [(with their DNA coded in silicon ?" )] TJ ET
+BT 204.560 246.276 Td /F3 12.0 Tf  [(Neuromancer)] TJ ET
+BT 270.548 246.276 Td /F2 12.0 Tf  [(, [4].)] TJ ET
+BT 34.016 220.020 Td 0.609 Tw /F2 12.0 Tf  [(Naturally, with information so vital, the zaibatsu go to great lengths to protect their data. In Johnny Mnemonic, )] TJ ET
+BT 34.016 205.764 Td 0.354 Tw /F2 12.0 Tf  [(one of Gibson's short stories, the eponymous "hero" has data hidden in his own memory to keep it safe from the )] TJ ET
+BT 34.016 191.508 Td 0.000 Tw /F2 12.0 Tf  [(yakuza :)] TJ ET
+BT 64.016 153.252 Td 0.367 Tw /F2 12.0 Tf  [("'The stored data are fed in through a series of microsurgical contraautism prostheses'. I reeled off a )] TJ ET
+BT 64.016 138.996 Td 0.177 Tw /F2 12.0 Tf  [(numb version of my standard sales pitch. 'Client's code is stored in a special chip... Can't drug it out, )] TJ ET
+BT 64.016 124.740 Td 0.000 Tw /F2 12.0 Tf  [(cut it out, torture it out. I don't know it, never did'". Johnny Mnemonic, [12])] TJ ET
+BT 34.016 86.484 Td 1.869 Tw /F2 12.0 Tf  [(With information so fundamental to the business world, the mechanics of business are vastly different from )] TJ ET
+BT 34.016 72.228 Td 1.071 Tw /F2 12.0 Tf  [(those we know at present. In our current product - and service - based business world, we are used to dealing )] TJ ET
+BT 34.016 57.972 Td 3.537 Tw /F2 12.0 Tf  [(with items that can be stamped, traced, taxed, counted and measured. When the primary commodity is )] TJ ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 16 0 R
+>>
+endobj
+16 0 obj
+<<
+/Length 4973 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 34.016 746.579 Td 2.544 Tw /F2 12.0 Tf  [(information, these attributes no longer apply and the structure of the business world is different. This has )] TJ ET
+BT 34.016 732.323 Td 0.000 Tw /F2 12.0 Tf  [(already been recognised by many people, including the well-known management consultant Peter Drucker [13] :)] TJ ET
+BT 64.016 694.067 Td 1.616 Tw /F2 12.0 Tf  [("So far most computer users still use the new technology only to do faster what they have done )] TJ ET
+BT 64.016 679.811 Td 0.648 Tw /F2 12.0 Tf  [(before, crunch conventional numbers. But as soon as a company takes the first tentative steps from )] TJ ET
+BT 64.016 665.555 Td 0.647 Tw /F2 12.0 Tf  [(data to information, its decision processes, management structure and even the way it gets its work )] TJ ET
+BT 64.016 651.299 Td 0.000 Tw /F2 12.0 Tf  [(done begin to be transformed.")] TJ ET
+BT 34.016 596.705 Td /F1 14.0 Tf  [(Net Running)] TJ ET
+BT 34.016 569.964 Td 1.669 Tw /F2 12.0 Tf  [(Hacking is too trivial and undescriptive a term to use for the unauthorised and illegal activities of the cyber )] TJ ET
+BT 34.016 555.708 Td 0.000 Tw /F2 12.0 Tf  [(jockeys in cyberspace. A much better terms is "Net Running".)] TJ ET
+BT 64.016 517.452 Td 0.262 Tw /F2 12.0 Tf  [("They found their 'paradise'... on the jumbled border of a low security academic grid. At first glance )] TJ ET
+BT 64.016 503.196 Td 0.897 Tw /F2 12.0 Tf  [(it resembled the kind of graffiti student operators sometimes left at the junction of grid lines, faint )] TJ ET
+BT 64.016 488.940 Td 2.121 Tw /F2 12.0 Tf  [(glyphs of coloured light that shimmered against the confused outlines of a dozen arts faculties. )] TJ ET
+BT 64.016 474.684 Td 1.096 Tw /F2 12.0 Tf  [('There', said the Flatline, 'the blue one. Make it out ? That's an entry code for Bell Europa. Fresh, )] TJ ET
+BT 64.016 460.428 Td 0.000 Tw /F2 12.0 Tf  [(too.'" )] TJ ET
+BT 92.408 460.428 Td /F3 12.0 Tf  [(Neuromancer)] TJ ET
+BT 158.396 460.428 Td /F2 12.0 Tf  [(, [4].)] TJ ET
+BT 34.016 422.172 Td 0.764 Tw /F2 12.0 Tf  [(Everywhere in the Net, there is "ice". Ice is security countermeasures software. The Net runners spend most of )] TJ ET
+BT 34.016 407.916 Td 1.291 Tw /F2 12.0 Tf  [(their time in the matrix encountering, evaluating and evading these countermeasures. The encounters with ice )] TJ ET
+BT 34.016 393.660 Td 0.000 Tw /F2 12.0 Tf  [(are brilliantly described in many of Gibson's books :)] TJ ET
+BT 64.016 355.404 Td 0.468 Tw /F2 12.0 Tf  [("We've crashed her gates disguised as an audit and three subpoenas, but her [the organisation being )] TJ ET
+BT 64.016 341.148 Td 0.314 Tw /F2 12.0 Tf  [(attacked] defences are specifically geared to deal with that kind of intrusion. Her most sophisticated )] TJ ET
+BT 64.016 326.892 Td 0.299 Tw /F2 12.0 Tf  [(ice is structured to fend off writs, warrants, subpoenas. When we breached the first gate, the bulk of )] TJ ET
+BT 64.016 312.636 Td 1.171 Tw /F2 12.0 Tf  [(her data vanished behind core command ice... Five separate landlines spurted May Day signals to )] TJ ET
+BT 64.016 298.380 Td 1.837 Tw /F2 12.0 Tf  [(law firms, but the virus had already taken over the parameter ice... The Russian program lifts a )] TJ ET
+BT 64.016 284.124 Td 0.450 Tw /F2 12.0 Tf  [(Tokyo number from unscreened data, choosing it for frequency of calls, average length of calls, the )] TJ ET
+BT 64.016 269.868 Td 1.647 Tw /F2 12.0 Tf  [(speed with which [the organisation] returned those calls. 'Okay', says Bobby, 'we're an incoming )] TJ ET
+BT 64.016 255.612 Td 0.715 Tw /F2 12.0 Tf  [(scrambler call from a pal of hers in Japan. That should help'. Ride 'em cowboy." )] TJ ET
+BT 462.555 255.612 Td 0.715 Tw /F3 12.0 Tf  [(Burning Chrome)] TJ ET
+BT 544.269 255.612 Td 0.715 Tw /F2 12.0 Tf  [(, )] TJ ET
+BT 64.016 241.356 Td 0.000 Tw /F2 12.0 Tf  [([14])] TJ ET
+BT 34.016 203.100 Td 0.227 Tw /F2 12.0 Tf  [(The best ice contains elements of artificial intelligence \(AI\) : "'That's it huh ? Big green rectangle off left ?' 'You )] TJ ET
+BT 34.016 188.844 Td 0.619 Tw /F2 12.0 Tf  [(got it. Corporate core data for [another organisation] and that ice is generated by their two friendly AIs. On par )] TJ ET
+BT 34.016 174.588 Td 0.247 Tw /F2 12.0 Tf  [(with anything in the military sector, looks to me. That's king hell ice, Case, black as the grave and slick as glass. )] TJ ET
+BT 34.016 160.332 Td 1.026 Tw /F2 12.0 Tf  [(Fry your brains as soon as look at you." )] TJ ET
+BT 236.793 160.332 Td 1.026 Tw /F3 12.0 Tf  [(Neuromancer)] TJ ET
+BT 302.781 160.332 Td 1.026 Tw /F2 12.0 Tf  [(, [4]. These descriptions cannot be seen as predictions : )] TJ ET
+BT 34.016 146.076 Td 0.000 Tw /F2 12.0 Tf  [(they are just straightforward extrapolations based on current technology and trends.)] TJ ET
+BT 34.016 75.041 Td /F1 14.0 Tf  [(Predictions)] TJ ET
+BT 34.016 50.340 Td /F2 12.0 Tf  [(So what are the core "predictions" of cyberpunk and do they have relevance to security strategies today ?)] TJ ET
+endstream
+endobj
+17 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 18 0 R
+>>
+endobj
+18 0 obj
+<<
+/Length 4892 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 34.016 732.539 Td 0.318 Tw /F2 12.0 Tf  [(Computer and communications technology is already at a point where the Net is only a few years away. Charles )] TJ ET
+BT 34.016 718.283 Td 1.265 Tw /F2 12.0 Tf  [(L. Brown, the CEO of AT&T, put it like this : "The phone system, when coupled with computer technology, )] TJ ET
+BT 34.016 704.027 Td 1.861 Tw /F2 12.0 Tf  [(permits a person almost anywhere to plug in to a world library of information... Just around the bend is an )] TJ ET
+BT 34.016 689.771 Td 1.983 Tw /F2 12.0 Tf  [(information network that would increase the range of perception of a single individual to include all of the )] TJ ET
+BT 34.016 675.515 Td 0.000 Tw /F2 12.0 Tf  [(information available anywhere in the network's universe" [15].)] TJ ET
+BT 34.016 651.299 Td 3.241 Tw /F2 12.0 Tf  [(The development of the corporate world so that information becomes the primary commodity is already )] TJ ET
+BT 34.016 637.043 Td 1.289 Tw /F2 12.0 Tf  [(underway. This does have implications for planning, because too many existing risk management policies are )] TJ ET
+BT 34.016 622.787 Td 0.202 Tw /F2 12.0 Tf  [(asset-based. As it is easier to value a computer than value the information it holds, too much effort has gone into )] TJ ET
+BT 34.016 608.531 Td 2.026 Tw /F2 12.0 Tf  [(valuing and protecting physical assets rather than information assets. Already, there is a good argument for )] TJ ET
+BT 34.016 594.275 Td 0.000 Tw /F2 12.0 Tf  [(saying that the information assets are the key [16] :)] TJ ET
+BT 64.016 556.019 Td 1.989 Tw /F2 12.0 Tf  [("A new concept of business is taking shape in response to the info-wars now raging across the )] TJ ET
+BT 64.016 541.763 Td 0.212 Tw /F2 12.0 Tf  [(world economy. As knowledge becomes more central to the creation of wealth, we begin to think of )] TJ ET
+BT 64.016 527.507 Td 0.000 Tw /F2 12.0 Tf  [(the corporation as an enhancer of knowledge.")] TJ ET
+BT 34.016 489.251 Td 2.002 Tw /F2 12.0 Tf  [(How will the information assets be valued ? How will the world of mergers and acquisitions deal with the )] TJ ET
+BT 34.016 474.995 Td 0.919 Tw /F2 12.0 Tf  [(problem of rate of return on "intangible" assets. An interesting parallel can be drawn with the relatively recent )] TJ ET
+BT 34.016 460.739 Td 0.000 Tw /F2 12.0 Tf  [(attempts to value brand names and include the brand names as assets on balance sheets.)] TJ ET
+BT 34.016 434.483 Td 3.192 Tw /F2 12.0 Tf  [(The legal sector is probably even further behind than the security sector. With the legal system already )] TJ ET
+BT 34.016 420.227 Td 0.396 Tw /F2 12.0 Tf  [(struggling to catch up with the developments in computer and communications technology, it is hard to imagine )] TJ ET
+BT 34.016 405.971 Td 0.000 Tw /F2 12.0 Tf  [(how it could come to terms with cyberspace :)] TJ ET
+BT 64.016 367.715 Td 1.704 Tw /F2 12.0 Tf  [("As communications and data processing technology continues to advance at a pace many times )] TJ ET
+BT 64.016 353.459 Td 0.537 Tw /F2 12.0 Tf  [(faster than society can assimilate it, additional conflicts have begun to occur on the border between )] TJ ET
+BT 64.016 339.203 Td 0.000 Tw /F2 12.0 Tf  [(cyberspace and the physical world." [17])] TJ ET
+BT 34.016 300.947 Td 0.728 Tw /F2 12.0 Tf  [(In fact, these conflicts are already causing many problems as evidenced by recent events and court cases in the )] TJ ET
+BT 34.016 286.691 Td 0.000 Tw /F2 12.0 Tf  [(U.S. [18] :)] TJ ET
+BT 64.016 248.435 Td 1.938 Tw /F2 12.0 Tf  [("Do electronic bulletin boards that may list stolen access codes enjoy protection under the First )] TJ ET
+BT 64.016 234.064 Td 0.000 Tw /F2 12.0 Tf  [(Amendment ?")] TJ ET
+BT 64.016 219.779 Td 0.611 Tw /F2 12.0 Tf  [("How can privacy be ensured when computers record every phone call, cash withdrawal and credit-)] TJ ET
+BT 64.016 205.523 Td 0.435 Tw /F2 12.0 Tf  [(card transaction. What 'property rights' can be protected in digital electronic systems that can create )] TJ ET
+BT 64.016 191.152 Td 0.000 Tw /F2 12.0 Tf  [(copies that are indistinguishable from the real thing.")] TJ ET
+BT 64.016 176.867 Td 1.217 Tw /F2 12.0 Tf  [("Ten months after the Secret Service shut down the [electronics bulletin boards], the Government )] TJ ET
+BT 64.016 162.611 Td 0.937 Tw /F2 12.0 Tf  [(still has not produced any indictments. And several similar cases that have come before the courts )] TJ ET
+BT 64.016 148.355 Td 0.518 Tw /F2 12.0 Tf  [(have been badly flawed. One Austin-based game publisher whose bulletin board system was seized )] TJ ET
+BT 64.016 134.099 Td 0.000 Tw /F2 12.0 Tf  [(last March is expected soon to sue the Government for violating his civil liberties.")] TJ ET
+BT 34.016 79.505 Td /F1 14.0 Tf  [(Summary)] TJ ET
+BT 34.016 52.764 Td 0.618 Tw /F2 12.0 Tf  [(We hope that this brief overview of the world of cyberpunk has done justice to the excellent books from which )] TJ ET
+endstream
+endobj
+19 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 20 0 R
+>>
+endobj
+20 0 obj
+<<
+/Length 5689 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 34.016 746.579 Td 0.000 Tw /F2 12.0 Tf  [(we have quoted and encouraged some readers to dip into the collection.)] TJ ET
+BT 34.016 720.323 Td 1.794 Tw /F2 12.0 Tf  [(So is Gibson's work an example of a science fiction prediction that will prove to be as accurate as Clarke's )] TJ ET
+BT 34.016 706.067 Td 2.001 Tw /F2 12.0 Tf  [(prediction of the communications satellite ? Not really : the world that Gibson writes about is more a well )] TJ ET
+BT 34.016 691.811 Td 2.218 Tw /F2 12.0 Tf  [(thought out extension of the situation at present than a radical prediction. After all, as Gordon Gekko \(the )] TJ ET
+BT 34.016 677.555 Td 0.709 Tw /F2 12.0 Tf  [(character played by Michael Douglas\) says in the film )] TJ ET
+BT 303.341 677.555 Td 0.709 Tw /F3 12.0 Tf  [(Wall Street)] TJ ET
+BT 357.715 677.555 Td 0.709 Tw /F2 12.0 Tf  [(, "the most valuable commodity I know of is )] TJ ET
+BT 34.016 663.299 Td 0.000 Tw /F2 12.0 Tf  [(information. Wouldn't you agree ?")] TJ ET
+BT 34.016 592.265 Td /F1 14.0 Tf  [(References)] TJ ET
+BT 48.816 567.569 Td /F2 12.0 Tf  [(1.)] TJ ET
+BT 64.016 567.564 Td /F2 12.0 Tf  [(Zajac, B., Ethics & Computing \(Part II\). )] TJ ET
+BT 260.336 567.564 Td /F3 12.0 Tf  [(Computer Law and Security Report)] TJ ET
+BT 431.000 567.564 Td /F2 12.0 Tf  [(, 1991. 7\(2\).)] TJ ET
+BT 48.816 553.313 Td /F2 12.0 Tf  [(2.)] TJ ET
+BT 64.016 553.308 Td /F2 12.0 Tf  [(Clarke, A.C., Extraterrestrial Relays, in )] TJ ET
+BT 256.652 553.308 Td /F3 12.0 Tf  [(Wireless World)] TJ ET
+BT 330.980 553.308 Td /F2 12.0 Tf  [(. 1945, p. 305-308.)] TJ ET
+BT 48.816 539.057 Td /F2 12.0 Tf  [(3.)] TJ ET
+BT 64.016 539.052 Td /F2 12.0 Tf  [(Gibson, W., )] TJ ET
+BT 125.012 539.052 Td /F3 12.0 Tf  [(Count Zero)] TJ ET
+BT 180.020 539.052 Td /F2 12.0 Tf  [(. 1987, London : Grafton.)] TJ ET
+BT 48.816 524.801 Td /F2 12.0 Tf  [(4.)] TJ ET
+BT 64.016 524.796 Td /F2 12.0 Tf  [(Gibson, W., )] TJ ET
+BT 125.012 524.796 Td /F3 12.0 Tf  [(Neuromancer)] TJ ET
+BT 191.000 524.796 Td /F2 12.0 Tf  [(. 1984, New York : Ace.)] TJ ET
+BT 48.816 510.545 Td /F2 12.0 Tf  [(5.)] TJ ET
+BT 64.016 510.540 Td /F2 12.0 Tf  [(Gibson, W., )] TJ ET
+BT 125.012 510.540 Td /F3 12.0 Tf  [(Burning Chrome)] TJ ET
+BT 206.012 510.540 Td /F2 12.0 Tf  [(. 1987, New York : Ace.)] TJ ET
+BT 48.816 496.289 Td /F2 12.0 Tf  [(6.)] TJ ET
+BT 64.016 496.284 Td /F2 12.0 Tf  [(Gibson, W., )] TJ ET
+BT 125.012 496.284 Td /F3 12.0 Tf  [(Mona Lisa Overdrive)] TJ ET
+BT 228.332 496.284 Td /F2 12.0 Tf  [(. 1989, London : Grafton.)] TJ ET
+BT 48.816 482.033 Td /F2 12.0 Tf  [(7.)] TJ ET
+BT 64.016 482.028 Td /F2 12.0 Tf  [(Sterling, B., ed. )] TJ ET
+BT 142.352 482.028 Td /F3 12.0 Tf  [(Mirrorshades)] TJ ET
+BT 208.352 482.028 Td /F2 12.0 Tf  [(. 1988, Paladin : London.)] TJ ET
+BT 48.816 467.777 Td /F2 12.0 Tf  [(8.)] TJ ET
+BT 64.016 467.772 Td /F3 12.0 Tf  [(View from the Edge - The Cyberpunk Handbook)] TJ ET
+BT 295.652 467.772 Td /F2 12.0 Tf  [(. 1988, R. Talsorian Games Inc.)] TJ ET
+BT 48.816 453.521 Td /F2 12.0 Tf  [(9.)] TJ ET
+BT 64.016 453.516 Td /F2 12.0 Tf  [(Fillipo, P.D., Stone Lives, in )] TJ ET
+BT 204.704 453.516 Td /F3 12.0 Tf  [(Mirrorshades)] TJ ET
+BT 270.704 453.516 Td /F2 12.0 Tf  [(, B. Sterling, Editor. 1988, Paladin : London.)] TJ ET
+BT 42.816 439.265 Td /F2 12.0 Tf  [(10.)] TJ ET
+BT 64.016 439.260 Td /F2 12.0 Tf  [(Japan's Mafia Takes on a 6bn Business, in )] TJ ET
+BT 269.816 439.260 Td /F3 12.0 Tf  [(The Guardian)] TJ ET
+BT 337.484 439.260 Td /F2 12.0 Tf  [(. 1991, London.)] TJ ET
+BT 42.816 425.009 Td /F2 12.0 Tf  [(11.)] TJ ET
+BT 64.016 425.004 Td 0.575 Tw /F2 12.0 Tf  [(Girvan and Jones, The Lord of the Files, in )] TJ ET
+BT 278.832 425.004 Td 0.575 Tw /F3 12.0 Tf  [(Digital Dreams)] TJ ET
+BT 354.407 425.004 Td 0.575 Tw /F2 12.0 Tf  [(, Barrett, Editor. 1990, New English Library : )] TJ ET
+BT 64.016 410.748 Td 0.000 Tw /F2 12.0 Tf  [(London.)] TJ ET
+BT 42.816 396.497 Td /F2 12.0 Tf  [(12.)] TJ ET
+BT 64.016 396.492 Td /F2 12.0 Tf  [(Gibson, W., Johnny Mnemonic, in )] TJ ET
+BT 233.012 396.492 Td /F3 12.0 Tf  [(Burning Chrome)] TJ ET
+BT 314.012 396.492 Td /F2 12.0 Tf  [(. 1987, Ace : New York.)] TJ ET
+BT 42.816 382.241 Td /F2 12.0 Tf  [(13.)] TJ ET
+BT 64.016 382.236 Td 0.482 Tw /F2 12.0 Tf  [(Cane, A., Differences of Culture and Technology, in )] TJ ET
+BT 323.148 382.236 Td 0.482 Tw /F3 12.0 Tf  [(The Financial Times)] TJ ET
+BT 423.448 382.236 Td 0.482 Tw /F2 12.0 Tf  [(. 1991, London. p. European IT )] TJ ET
+BT 64.016 367.980 Td 0.000 Tw /F2 12.0 Tf  [(Supplement.)] TJ ET
+BT 42.816 353.729 Td /F2 12.0 Tf  [(14.)] TJ ET
+BT 64.016 353.724 Td /F2 12.0 Tf  [(Gibson, W., Burning Chrome, in )] TJ ET
+BT 224.348 353.724 Td /F3 12.0 Tf  [(Burning Chrome)] TJ ET
+BT 305.348 353.724 Td /F2 12.0 Tf  [(. 1987, Ace : New York.)] TJ ET
+BT 42.816 339.473 Td /F2 12.0 Tf  [(15.)] TJ ET
+BT 64.016 339.468 Td /F2 12.0 Tf  [(Wurman, R.S., )] TJ ET
+BT 138.680 339.468 Td /F3 12.0 Tf  [(Information Anxiety)] TJ ET
+BT 235.004 339.468 Td /F2 12.0 Tf  [(. 1991, London : Pan.)] TJ ET
+BT 42.816 325.217 Td /F2 12.0 Tf  [(16.)] TJ ET
+BT 64.016 325.212 Td /F2 12.0 Tf  [(Toffler, A., Total Information War, in )] TJ ET
+BT 249.308 325.212 Td /F3 12.0 Tf  [(Power Shift)] TJ ET
+BT 305.648 325.212 Td /F2 12.0 Tf  [(. 1991, Bantam Books : London.)] TJ ET
+BT 42.816 310.961 Td /F2 12.0 Tf  [(17.)] TJ ET
+BT 64.016 310.956 Td /F2 12.0 Tf  [(Barlow, Coming in to the Country. Communications of the ACM, 1991. 34\(3\).)] TJ ET
+BT 42.816 296.705 Td /F2 12.0 Tf  [(18.)] TJ ET
+BT 64.016 296.700 Td /F2 12.0 Tf  [(Elmer-Dewitt, P., Cyberpunks and the Constitution, in )] TJ ET
+BT 328.352 296.700 Td /F3 12.0 Tf  [(Time)] TJ ET
+BT 352.352 296.700 Td /F2 12.0 Tf  [(. 1991, p. 81.)] TJ ET
+endstream
+endobj
+xref
+0 21
+0000000000 65535 f 
+0000000008 00000 n 
+0000000073 00000 n 
+0000000119 00000 n 
+0000000329 00000 n 
+0000000358 00000 n 
+0000000472 00000 n 
+0000000535 00000 n 
+0000005789 00000 n 
+0000005897 00000 n 
+0000006006 00000 n 
+0000006117 00000 n 
+0000006182 00000 n 
+0000011815 00000 n 
+0000011880 00000 n 
+0000017354 00000 n 
+0000017419 00000 n 
+0000022445 00000 n 
+0000022510 00000 n 
+0000027455 00000 n 
+0000027520 00000 n 
+trailer
+<<
+/Size 21
+/Root 1 0 R
+/Info 5 0 R
+>>
+startxref
+33262
+%%EOF

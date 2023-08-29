@@ -1,0 +1,26 @@
+
+a {
+	color: white;
+	text-decoration: none
+}
+body {
+	font-family: verdana;
+	background: black;
+	color: white
+}
+div {
+	border-left: 2px solid #e20005;
+	border-right: 2px solid #e20005;
+	background-color: black;
+	white-space: nowrap;
+	position: absolute;
+	padding: 2px;
+	left: -1px;
+	top: 0px
+}
+
+td {
+	font-family: lucida console, courier;
+	padding: 2px 3px 2px 3px
+}
+td.c { text-align: center }

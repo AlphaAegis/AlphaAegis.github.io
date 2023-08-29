@@ -1,0 +1,46 @@
+
+a {
+	color: silver;
+	text-decoration: none
+}
+body {
+	font-family: verdana;
+	text-align: justify;
+	color: white;
+	background-color: black
+}
+div.b {
+	border: 1px solid white;
+	float: right;
+	width: 400px;
+	padding: 0 10 0 10;
+	margin-left: 20
+}
+div.bm {
+	border: 1px solid white;
+	float: right;
+	width: 200px;
+	padding: 0 10 0 10;
+	margin-left: 20
+}
+div.c {
+	margin: auto;
+	width: 95%
+}
+div.cc {
+	text-align: center;
+	margin-bottom: -20
+}
+div.i {
+	float: right;
+	margin-left: 20
+}
+h2.d { margin-bottom: -10 }
+h3 { margin-top: 30 }
+h3.c { margin-top: 15 }
+h4 { margin-bottom: -10 }
+table.r td { padding: 0 20 0 0 }
+td {
+	padding-right: 20;
+	vertical-align: top
+}

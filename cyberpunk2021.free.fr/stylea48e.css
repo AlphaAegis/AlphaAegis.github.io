@@ -1,0 +1,14 @@
+
+#carr {
+	overflow: hidden;
+	position: relative;
+	height: 75px;
+}
+#carr td { padding-left: 4 }
+img { border: 0 }
+img.btn:hover { background-color: #ABABAB; }
+td.carh { background: url(interface/carr_haut.gif) repeat-x; }
+td.carb { background: url(interface/carr_bas.gif) repeat-x; }
+td.form a { background-color: #ABABAB; }
+td.form a:hover { background-color: black; }
+table {	border-width: 0 }

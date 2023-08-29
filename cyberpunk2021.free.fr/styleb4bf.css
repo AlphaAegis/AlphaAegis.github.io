@@ -1,0 +1,18 @@
+
+a { color: red }
+a.a { color: #b30000 }
+body {
+	background: black;
+	color: white;
+	font-family: verdana
+}
+img { border: 0 }
+h3 {
+	border-top: 1px solid #C0C0C0;
+	border-bottom: 1px solid #C0C0C0;
+	background-color: #727272;
+	color: black;
+	text-align: center
+}
+p { margin-bottom: -4px; }
+.origin td { padding: 2px 0px 2px 10px }

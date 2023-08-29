@@ -1,0 +1,48 @@
+
+a {
+	text-decoration: none;
+	color: red
+}
+a.n {
+	text-decoration: underline;
+	color: gray
+}
+body {
+	font-family: verdana;
+	text-align: justify;
+	color: white;
+	background-color: black
+}
+div.c {
+	margin: auto;
+	width: 95%
+}
+div.d { text-align: center }
+img { border: 0 }
+img.c {
+	display: block;
+	margin: auto
+}
+iframe {
+	border-style: none;
+	height: 73%
+}
+iframe.l {
+	float: left;
+	margin: 0 20 0 10;
+	width: 16%
+}
+iframe.r {
+	position: absolute;
+	width: 81%
+}
+h3 { text-align: center }
+h4 {
+	text-decoration: underline;
+	text-indent: 10pt;
+	margin-bottom: 0
+}
+td {
+	padding-right: 20px;
+	vertical-align: top
+}

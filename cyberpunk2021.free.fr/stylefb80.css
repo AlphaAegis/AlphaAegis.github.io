@@ -1,0 +1,21 @@
+
+body {
+	background: black;
+	color: white;
+	font-family: verdana
+}
+td {
+	padding-bottom: 5px;
+	text-align: center
+}
+.tleft td {
+	padding: 0px 0px 5px 20px;
+	text-align: left
+}
+h3 {
+	border-top: 1px solid #C0C0C0;
+	border-bottom: 1px solid #C0C0C0;
+	background-color: #727272;
+	color: black;
+	text-align: center
+}

@@ -1,0 +1,639 @@
+%PDF-1.3
+1 0 obj
+<< /Type /Catalog
+/Outlines 2 0 R
+/Pages 3 0 R >>
+endobj
+2 0 obj
+<< /Type /Outlines /Count 0 >>
+endobj
+3 0 obj
+<< /Type /Pages
+/Kids [6 0 R
+17 0 R
+27 0 R
+31 0 R
+33 0 R
+37 0 R
+]
+/Count 6
+/Resources <<
+/ProcSet 4 0 R
+/Font << 
+/F1 8 0 R
+/F2 9 0 R
+/F3 10 0 R
+>>
+>>
+/MediaBox [0.000 0.000 612.000 792.000]
+ >>
+endobj
+4 0 obj
+[/PDF /Text ]
+endobj
+5 0 obj
+<<
+/Creator (DOMPDF)
+/CreationDate (D:20230827213406+02'00')
+/ModDate (D:20230827213406+02'00')
+>>
+endobj
+6 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Annots [ 11 0 R 13 0 R 15 0 R ]
+/Contents 7 0 R
+>>
+endobj
+7 0 obj
+<<
+/Length 5552 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 73.719 725.937 Td /F1 18.0 Tf  [(Cypherpunk rising : WikiLeaks, encryption and the coming )] TJ ET
+BT 225.243 704.553 Td /F1 18.0 Tf  [(surveillance dystopia)] TJ ET
+BT 276.330 673.816 Td /F1 12.0 Tf  [(R. U. Sirius)] TJ ET
+BT 269.172 659.416 Td /F1 12.0 Tf  [(March 7, 2013)] TJ ET
+BT 34.016 633.131 Td /F2 12.0 Tf  [( )] TJ ET
+BT 34.016 594.875 Td 0.578 Tw /F2 12.0 Tf  [(In 1989, when the internet was predominantly ASCII-based and )] TJ ET
+0.000 0.000 0.800 rg
+BT 349.164 594.875 Td 0.578 Tw /F2 12.0 Tf  [(HyperCard)] TJ ET
+0.000 0.000 0.800 RG
+0.24 w 0 J [  ] 0 d
+349.164 593.481 m 402.480 593.481 l S
+0.000 0.000 0.000 rg
+BT 402.480 594.875 Td 0.578 Tw /F2 12.0 Tf  [( had yet to give birth \(or at least act )] TJ ET
+BT 34.016 580.619 Td 3.280 Tw /F2 12.0 Tf  [(as a midwife\) to the world wide web, R.U. Sirius launched )] TJ ET
+BT 354.719 580.619 Td 3.280 Tw /F3 12.0 Tf  [(Mondo 2000)] TJ ET
+BT 418.995 580.619 Td 3.280 Tw /F2 12.0 Tf  [(. "I'd say it was arguably the )] TJ ET
+BT 34.016 566.363 Td 0.352 Tw /F2 12.0 Tf  [(representative underground magazine of its pre-web day", William Gibson said in a recent )] TJ ET
+0.000 0.000 0.800 rg
+BT 475.389 566.363 Td 0.352 Tw /F2 12.0 Tf  [(interview)] TJ ET
+0.24 w 0 J [  ] 0 d
+475.389 564.969 m 520.713 564.969 l S
+0.000 0.000 0.000 rg
+BT 520.713 566.363 Td 0.352 Tw /F2 12.0 Tf  [(. "Posterity, )] TJ ET
+BT 34.016 552.107 Td 0.000 Tw /F2 12.0 Tf  [(looking at this, should also consider )] TJ ET
+BT 209.684 552.107 Td /F3 12.0 Tf  [(Mondo 2000)] TJ ET
+BT 270.680 552.107 Td /F2 12.0 Tf  [( as a focus of something that was happening".)] TJ ET
+BT 34.016 525.851 Td /F2 12.0 Tf  [(Twenty years ago, it was cypherpunk that was happening.)] TJ ET
+BT 34.016 499.595 Td /F2 12.0 Tf  [(And it's happening again today.)] TJ ET
+BT 34.016 430.601 Td /F1 14.0 Tf  [(Early cypherpunk in fact and fiction)] TJ ET
+BT 34.016 403.860 Td 0.496 Tw /F1 12.0 Tf  [(Flashback : Berkeley, California 1992. I pick up the ringing phone. My writing partner, St. Jude Milhon, )] TJ ET
+BT 34.016 389.604 Td 0.000 Tw /F1 12.0 Tf  [(is shouting down the line : "I've got it ! Cypherpunk !")] TJ ET
+BT 34.016 363.348 Td 1.094 Tw /F2 12.0 Tf  [(Jude was an excitable girl and she was particularly excitable when there was a new boyfriend involved. She'd )] TJ ET
+BT 34.016 349.092 Td 0.000 Tw /F2 12.0 Tf  [(been raving about Eric Hughes for days. I paid no attention.)] TJ ET
+BT 34.016 322.836 Td 1.805 Tw /F2 12.0 Tf  [(At the time, Jude and I were contracted to write a novel titled )] TJ ET
+BT 354.761 322.836 Td 1.805 Tw /F3 12.0 Tf  [(How to Mutate and Take Over the World)] TJ ET
+BT 564.378 322.836 Td 1.805 Tw /F2 12.0 Tf  [(. I )] TJ ET
+BT 34.016 308.580 Td 0.257 Tw /F2 12.0 Tf  [(wanted the fiction to contain the truth. I wanted to tell people how creative hackers could do it - mutate and take )] TJ ET
+BT 34.016 294.324 Td 1.803 Tw /F2 12.0 Tf  [(over the world - by the end of the decade. Not knowing many of those details ourselves, we threw down a )] TJ ET
+BT 34.016 280.068 Td 2.296 Tw /F2 12.0 Tf  [(challenge on various hacker boards and in the places where extropians gathered to share their superhuman )] TJ ET
+BT 34.016 265.812 Td 1.856 Tw /F2 12.0 Tf  [(fantasies. "Take on a character", we said, "and let that character mutate and/or take over". The results were )] TJ ET
+BT 34.016 251.556 Td 3.134 Tw /F2 12.0 Tf  [(vague and unsatisfying. These early transhumanists didn't actually know how to mutate, and the hackers )] TJ ET
+BT 34.016 237.300 Td 0.000 Tw /F2 12.0 Tf  [(couldn't actually take over the world. It seemed that we were asking for too much too soon.)] TJ ET
+BT 34.016 211.044 Td 0.729 Tw /F2 12.0 Tf  [(And so I wound up there, holding the phone away from my ear as Jude shouted out the solution, at least to the )] TJ ET
+BT 34.016 196.788 Td 0.734 Tw /F2 12.0 Tf  [("taking over" part of our problem. Strong encryption, she explained, will sever all the ties binding us to hostile )] TJ ET
+BT 34.016 182.532 Td 3.001 Tw /F2 12.0 Tf  [(states and other institutions. Encryption will level the playing field, protecting even the least of us from )] TJ ET
+BT 34.016 168.276 Td 1.093 Tw /F2 12.0 Tf  [(government interference. It will liberate pretty much everything, )] TJ ET
+BT 355.363 168.276 Td 1.093 Tw /F3 12.0 Tf  [(toute de suite)] TJ ET
+BT 421.545 168.276 Td 1.093 Tw /F2 12.0 Tf  [(. The cypherpunks would make )] TJ ET
+BT 34.016 154.020 Td 0.000 Tw /F2 12.0 Tf  [(this happen.)] TJ ET
+BT 34.016 127.764 Td 2.082 Tw /F2 12.0 Tf  [(For Jude, cypherpunk was both an exciting new vision for social change and a fun subculture dedicated to )] TJ ET
+BT 34.016 113.508 Td 0.367 Tw /F2 12.0 Tf  [(making it happen. Sure, I was skeptical. But I was also desperate for something to hang the plot of our book on. )] TJ ET
+BT 34.016 99.252 Td 1.215 Tw /F2 12.0 Tf  [(A few days later I found myself at the feet of Eric Hughes - who, along with John Gilmore and Tim May, is )] TJ ET
+BT 34.016 84.996 Td 0.000 Tw /F2 12.0 Tf  [(considered one of the founders of the cypherpunk movement - getting the total download.)] TJ ET
+BT 34.016 58.740 Td 1.278 Tw /F2 12.0 Tf  [(This was my first exposure to )] TJ ET
+0.000 0.000 0.800 rg
+BT 187.003 58.740 Td 1.278 Tw /F2 12.0 Tf  [(The Crypto Anarchist Manifesto)] TJ ET
+0.24 w 0 J [  ] 0 d
+187.003 57.346 m 347.148 57.346 l S
+0.000 0.000 0.000 rg
+BT 347.148 58.740 Td 1.278 Tw /F2 12.0 Tf  [(. Written by Tim May, it opens by mimicking )] TJ ET
+BT 34.016 44.484 Td 0.000 Tw /F3 12.0 Tf  [(The Communist Manifesto)] TJ ET
+endstream
+endobj
+8 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Times-Bold
+/Encoding /WinAnsiEncoding
+>>
+endobj
+9 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F2
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+>>
+endobj
+10 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F3
+/BaseFont /Times-Italic
+/Encoding /WinAnsiEncoding
+>>
+endobj
+11 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 12 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 349.1640 593.7955 402.4800 605.6755 ]
+>>
+endobj
+12 0 obj
+<< /Type /Action
+/S /URI
+/URI (https://www.youtube.com/watch?v=roT9DhDPI9k)
+>>
+endobj
+13 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 14 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 475.3887 565.2835 520.7127 577.1635 ]
+>>
+endobj
+14 0 obj
+<< /Type /Action
+/S /URI
+/URI (http://www.acceler8or.com/2011/12/gibson-leary-audio-mondo-2000-history-project/)
+>>
+endobj
+15 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 16 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 187.0026 57.6599 347.1480 69.5399 ]
+>>
+endobj
+16 0 obj
+<< /Type /Action
+/S /URI
+/URI (pages_html.php?html=manifeste&lng=us#crypto)
+>>
+endobj
+17 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Annots [ 19 0 R 21 0 R 23 0 R 25 0 R ]
+/Contents 18 0 R
+>>
+endobj
+18 0 obj
+<<
+/Length 7443 >>
+stream
+
+0.000 0.000 0.000 rg
+0.000 0.000 0.800 RG
+0.24 w 0 J [  ] 0 d
+BT 34.016 746.579 Td 1.437 Tw /F2 12.0 Tf  [(: "a specter is haunting the modern world, the specter of crypto anarchy". In a fit of )] TJ ET
+BT 460.475 746.579 Td 1.437 Tw /F2 12.0 Tf  [(hyperbole that perfectly )] TJ ET
+BT 34.016 732.323 Td 0.711 Tw /F2 12.0 Tf  [(foreshadowed the mood of tech culture in the 1990s - from my own )] TJ ET
+BT 370.876 732.323 Td 0.711 Tw /F3 12.0 Tf  [(Mondo 2000)] TJ ET
+BT 432.584 732.323 Td 0.711 Tw /F2 12.0 Tf  [( to the "long boom" of digital )] TJ ET
+BT 34.016 718.067 Td 2.011 Tw /F2 12.0 Tf  [(capitalism - May declared that encrypted communication and anonymity online would "alter completely the )] TJ ET
+BT 34.016 703.811 Td 3.091 Tw /F2 12.0 Tf  [(nature of government regulation, the ability to tax and control economic interactions, the ability to keep )] TJ ET
+BT 34.016 689.555 Td 0.000 Tw /F2 12.0 Tf  [(information secret". The result would be nothing less than "both a social and economic revolution".)] TJ ET
+BT 64.016 651.299 Td 0.648 Tw /F2 12.0 Tf  [(Just as a seemingly minor invention like barbed wire made possible the fencing-off of vast ranches )] TJ ET
+BT 64.016 637.043 Td 0.454 Tw /F2 12.0 Tf  [(and farms, thus altering forever the concepts of land and property rights in the frontier West, so too )] TJ ET
+BT 64.016 622.787 Td 1.504 Tw /F2 12.0 Tf  [(will the seemingly minor discovery out of an arcane branch of mathematics come to be the wire )] TJ ET
+BT 64.016 608.531 Td 0.000 Tw /F2 12.0 Tf  [(clippers which dismantle the barbed wire around intellectual property.)] TJ ET
+BT 34.016 570.275 Td 0.635 Tw /F2 12.0 Tf  [(Those words were written way back in 1988. By 1993, a bunch of crypto freaks were gathering fairly regularly )] TJ ET
+BT 34.016 556.019 Td 0.984 Tw /F2 12.0 Tf  [(in the San Francisco Bay Area. In his lengthy )] TJ ET
+0.000 0.000 0.800 rg
+BT 264.180 556.019 Td 0.984 Tw /F3 12.0 Tf  [(Wired)] TJ ET
+0.24 w 0 J [  ] 0 d
+264.180 554.799 m 293.508 554.799 l S
+BT 293.508 556.019 Td 0.984 Tw /F2 12.0 Tf  [( cover story)] TJ ET
+0.24 w 0 J [  ] 0 d
+293.508 554.625 m 352.129 554.625 l S
+0.000 0.000 0.000 rg
+BT 352.129 556.019 Td 0.984 Tw /F2 12.0 Tf  [(, Steven Levy would describe them as mostly )] TJ ET
+BT 34.016 541.763 Td 1.911 Tw /F2 12.0 Tf  [("having beards and long hair - like Smith Brothers [cough drops] gone digital". Their antics would become )] TJ ET
+BT 34.016 527.507 Td 0.000 Tw /F2 12.0 Tf  [(legendary.)] TJ ET
+BT 34.016 501.251 Td 0.484 Tw /F2 12.0 Tf  [(John Gilmore set off a firestorm by sharing classified documents on cryptography that a friend of his had found )] TJ ET
+BT 34.016 486.995 Td 2.672 Tw /F2 12.0 Tf  [(in public libraries \(they had previously been declassified\). The NSA threatened Gilmore with a charge of )] TJ ET
+BT 34.016 472.739 Td 0.261 Tw /F2 12.0 Tf  [(violating the Espionage Act, but after he responded with publicity and his own legal threats, the NSA - probably )] TJ ET
+BT 34.016 458.483 Td 0.860 Tw /F2 12.0 Tf  [(recognizing in Gilmore a well-connected dissident who they couldn't intimidate - backed down and once again )] TJ ET
+BT 34.016 444.227 Td 0.000 Tw /F2 12.0 Tf  [(declassified the documents.)] TJ ET
+BT 34.016 417.971 Td 2.067 Tw /F2 12.0 Tf  [(Phil Zimmermann's PGP \(Pretty Good Privacy\) software was being circulated largely thanks to cypherpunk )] TJ ET
+BT 34.016 403.715 Td 0.232 Tw /F2 12.0 Tf  [(enthusiasts. According to Tim May's )] TJ ET
+BT 214.661 403.715 Td 0.232 Tw /F3 12.0 Tf  [(Cyphernomicon)] TJ ET
+BT 291.317 403.715 Td 0.232 Tw /F2 12.0 Tf  [(, PGP was "the most important crypto tool" available at the )] TJ ET
+BT 34.016 389.459 Td 0.643 Tw /F2 12.0 Tf  [(time, "having single-handedly spread public key methods around the world". It was available free of charge for )] TJ ET
+BT 34.016 375.203 Td 1.242 Tw /F2 12.0 Tf  [(non-commercial users, and complete source code was included with all copies. Most importantly, May wrote, )] TJ ET
+BT 34.016 360.947 Td 0.290 Tw /F2 12.0 Tf  [("almost no understanding of how PGP works in detail is needed", so anyone could use its encryption to securely )] TJ ET
+BT 34.016 346.691 Td 0.000 Tw /F2 12.0 Tf  [(send data over the net.)] TJ ET
+BT 34.016 320.435 Td 1.221 Tw /F2 12.0 Tf  [(In April 1993, the Clinton administration announced its encryption policy initiative. The )] TJ ET
+0.000 0.000 0.800 rg
+BT 475.992 320.435 Td 1.221 Tw /F2 12.0 Tf  [(Clipper Chip)] TJ ET
+0.24 w 0 J [  ] 0 d
+475.992 319.041 m 539.554 319.041 l S
+0.000 0.000 0.000 rg
+BT 539.554 320.435 Td 1.221 Tw /F2 12.0 Tf  [( was an )] TJ ET
+BT 34.016 306.179 Td 1.689 Tw /F2 12.0 Tf  [(NSA-developed encryption chipset for "secure" voice communication \(the government would have a key for )] TJ ET
+BT 34.016 291.923 Td 2.223 Tw /F2 12.0 Tf  [(every chip manufactured\). "Not to worry", )] TJ ET
+0.000 0.000 0.800 rg
+BT 254.426 291.923 Td 2.223 Tw /F2 12.0 Tf  [(Phil Zimmermann cuttingly wrote)] TJ ET
+0.24 w 0 J [  ] 0 d
+254.426 290.529 m 424.762 290.529 l S
+0.000 0.000 0.000 rg
+BT 424.762 291.923 Td 2.223 Tw /F2 12.0 Tf  [( in an essay about PGP. "The )] TJ ET
+BT 34.016 277.667 Td 0.629 Tw /F2 12.0 Tf  [(government promises that they will use these keys to read your traffic only 'when duly authorized by law". Not )] TJ ET
+BT 34.016 263.411 Td 0.874 Tw /F2 12.0 Tf  [(that anyone believed the promises. "To make Clipper completely effective", Zimmermann continued, "the next )] TJ ET
+BT 34.016 249.155 Td 3.853 Tw /F2 12.0 Tf  [(logical step would be to outlaw other forms of cryptography". This threat brought cypherpunks to the )] TJ ET
+BT 34.016 234.899 Td 0.000 Tw /F2 12.0 Tf  [(oppositional front lines in one of the early struggles over Internet rights, eventually defeating government plans.)] TJ ET
+BT 34.016 208.643 Td 2.009 Tw /F2 12.0 Tf  [(John Gilmore summed up the accomplishments of the cypherpunks in a recent email : "we did reshape the )] TJ ET
+BT 34.016 194.387 Td 1.553 Tw /F2 12.0 Tf  [(world", he wrote. "We broke encryption loose from government control in the commercial and free software )] TJ ET
+BT 34.016 180.131 Td 0.558 Tw /F2 12.0 Tf  [(world, in a big way. We built solid encryption and both circumvented and changed the corrupt US legal regime )] TJ ET
+BT 34.016 165.875 Td 2.821 Tw /F2 12.0 Tf  [(so that strong encryption could be developed by anyone worldwide and deployed by anyone worldwide", )] TJ ET
+BT 34.016 151.619 Td 0.000 Tw /F2 12.0 Tf  [(including WikiLeaks.)] TJ ET
+BT 34.016 125.363 Td 1.003 Tw /F2 12.0 Tf  [(As the 1990s rolled forward, many cypherpunks went to work for the man, bringing strong crypto to financial )] TJ ET
+BT 34.016 111.107 Td 0.759 Tw /F2 12.0 Tf  [(services and banks \(on the whole, probably better than the alternative\). Still, crypto-activism continued and the )] TJ ET
+BT 34.016 96.851 Td 1.384 Tw /F2 12.0 Tf  [(cypherpunk mailing list blossomed as an exchange for both practical encryption data and spirited, sometimes-)] TJ ET
+BT 34.016 82.595 Td 2.941 Tw /F2 12.0 Tf  [(gleeful argumentation, before finally peaking in 1997. This was when cypherpunk's mindshare seemed to )] TJ ET
+BT 34.016 68.339 Td 0.606 Tw /F2 12.0 Tf  [(recede, possibly in proportion to the utopian effervescence of the early cyberculture. But the cypherpunk meme )] TJ ET
+BT 34.016 54.083 Td 1.700 Tw /F2 12.0 Tf  [(may now be finding a sort of rebirth in one of the biggest and most important stories in the fledgeling 21st )] TJ ET
+endstream
+endobj
+19 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 20 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 255.3197 555.5443 313.9406 567.4243 ]
+>>
+endobj
+20 0 obj
+<< /Type /Action
+/S /URI
+/URI (http://www.wired.com/wired/archive/1.02/crypto.rebels_pr.html)
+>>
+endobj
+21 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 22 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 264.1798 554.9395 293.5078 566.8195 ]
+>>
+endobj
+22 0 obj
+<< /Type /Action
+/S /URI
+/URI (http://www.wired.com/wired/archive/1.02/crypto.rebels_pr.html)
+>>
+endobj
+23 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 24 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 475.9922 319.3555 539.5535 331.2355 ]
+>>
+endobj
+24 0 obj
+<< /Type /Action
+/S /URI
+/URI (http://epic.org/crypto/clipper/)
+>>
+endobj
+25 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 26 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 254.4255 290.8435 424.7625 302.7235 ]
+>>
+endobj
+26 0 obj
+<< /Type /Action
+/S /URI
+/URI (http://www.philzimmermann.com/EN/essays/WhyIWrotePGP.html)
+>>
+endobj
+27 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Annots [ 29 0 R ]
+/Contents 28 0 R
+>>
+endobj
+28 0 obj
+<<
+/Length 5497 >>
+stream
+
+0.000 0.000 0.000 rg
+0.000 0.000 0.800 RG
+0.24 w 0 J [  ] 0 d
+BT 34.016 746.579 Td 0.000 Tw /F2 12.0 Tf  [(century.)] TJ ET
+BT 34.016 675.545 Td /F1 14.0 Tf  [(I am annoyed)] TJ ET
+BT 34.016 650.844 Td /F1 12.0 Tf  [(Flashback : 1995. Julian Assange's first words on the cypherpunk email list : "I am annoyed".)] TJ ET
+BT 34.016 624.588 Td 1.134 Tw /F2 12.0 Tf  [(Of course, Julian Assange has gone on to annoy powerful players all over the world as the legendary fugitive )] TJ ET
+BT 34.016 610.332 Td 2.479 Tw /F2 12.0 Tf  [(editor-in-chief and spokesperson for WikiLeaks, publisher of secret information, news leaks, and classified )] TJ ET
+BT 34.016 596.076 Td 0.641 Tw /F2 12.0 Tf  [(media from anonymous sources. And while the mass media world has tracked nearly every aspect of Assange's )] TJ ET
+BT 34.016 581.820 Td 0.374 Tw /F2 12.0 Tf  [(personal drama, it's done very little to increase people's understanding of WikiLeaks' underlying technologies or )] TJ ET
+BT 34.016 567.564 Td 0.000 Tw /F2 12.0 Tf  [(the principles those technologies embody.)] TJ ET
+BT 34.016 541.308 Td 1.855 Tw /F2 12.0 Tf  [(In the recent book )] TJ ET
+BT 131.412 541.308 Td 1.855 Tw /F3 12.0 Tf  [(Cypherpunks: Freedom and the Future of the Internet)] TJ ET
+BT 403.358 541.308 Td 1.855 Tw /F2 12.0 Tf  [(, Assange enlists the help of three )] TJ ET
+BT 34.016 527.052 Td 0.169 Tw /F2 12.0 Tf  [(fellow heroes of free information to set the record straight, aligning those principles with the ideas that Tim May )] TJ ET
+BT 34.016 512.796 Td 0.000 Tw /F2 12.0 Tf  [(dreamed up in 1989 with "The Crypto Anarchist Manifesto".)] TJ ET
+BT 34.016 486.540 Td 2.177 Tw /F2 12.0 Tf  [(The book is based on a series of conversations filmed for the television show )] TJ ET
+BT 437.112 486.540 Td 2.177 Tw /F3 12.0 Tf  [(The World Tomorrow)] TJ ET
+BT 546.143 486.540 Td 2.177 Tw /F2 12.0 Tf  [( while )] TJ ET
+BT 34.016 472.284 Td 1.691 Tw /F2 12.0 Tf  [(Assange was on house arrest in Norfolk, England during all of 2011. Attending were Jacob Appelbaum, the )] TJ ET
+BT 34.016 458.028 Td 2.653 Tw /F2 12.0 Tf  [(American advocate and researcher for the Tor project who has been in the sights of US authorities since )] TJ ET
+BT 34.016 443.772 Td 1.777 Tw /F2 12.0 Tf  [(substituting as a speaker for Assange at a US hackers conference; Andy Müller-Maguhn, one of the earliest )] TJ ET
+BT 34.016 429.516 Td 2.314 Tw /F2 12.0 Tf  [(members of the legendary Chaos Computer Club; and Jérémie Zimmerman, a French advocate for internet )] TJ ET
+BT 34.016 415.260 Td 0.000 Tw /F2 12.0 Tf  [(anonymity and freedom.)] TJ ET
+BT 34.016 389.004 Td 0.652 Tw /F2 12.0 Tf  [(The conversation is sobering. If 1990s cypherpunk, like the broader tech culture that it was immersed in, was a )] TJ ET
+BT 34.016 374.748 Td 0.353 Tw /F2 12.0 Tf  [(little bit giddy with its potential to change the world, contemporary cypherpunk finds itself on the verge of what )] TJ ET
+BT 34.016 360.492 Td 1.231 Tw /F2 12.0 Tf  [(Assange calls "a postmodern surveillance dystopia, from which escape for all but the most skilled individuals )] TJ ET
+BT 34.016 346.236 Td 0.000 Tw /F2 12.0 Tf  [(will be impossible".)] TJ ET
+BT 34.016 319.980 Td 2.003 Tw /F2 12.0 Tf  [(How did we get here ? The obvious political answer is 9/11. The event provided an opportunity for a vast )] TJ ET
+BT 34.016 305.724 Td 1.869 Tw /F2 12.0 Tf  [(expansion of national security states both here and abroad, including, of course, a diminution of protections )] TJ ET
+BT 34.016 291.468 Td 1.729 Tw /F2 12.0 Tf  [(against surveillance. The legalities involved in the US are a confusing and ever-shifting set of rules that are )] TJ ET
+BT 34.016 277.212 Td 0.392 Tw /F2 12.0 Tf  [(under constant legal contestation in the courts. Whatever the letter of the law, a )] TJ ET
+0.000 0.000 0.800 rg
+BT 422.757 277.212 Td 0.392 Tw /F2 12.0 Tf  [(September 2012 ACLU bulletin)] TJ ET
+0.24 w 0 J [  ] 0 d
+422.757 275.818 m 577.592 275.818 l S
+0.000 0.000 0.000 rg
+BT 34.016 262.956 Td 0.000 Tw /F2 12.0 Tf  [(gave us the essence of the situation :)] TJ ET
+BT 64.016 224.700 Td 1.952 Tw /F2 12.0 Tf  [(Justice Department documents released today by the ACLU reveal that federal law enforcement )] TJ ET
+BT 64.016 210.444 Td 1.021 Tw /F2 12.0 Tf  [(agencies are increasingly monitoring Americans' electronic communications, and doing so without )] TJ ET
+BT 64.016 196.188 Td 0.000 Tw /F2 12.0 Tf  [(warrants, sufficient oversight, or meaningful accountability.)] TJ ET
+BT 64.016 169.932 Td 1.765 Tw /F2 12.0 Tf  [(The documents, handed over by the government only after months of litigation, are the attorney )] TJ ET
+BT 64.016 155.676 Td 2.533 Tw /F2 12.0 Tf  [(general's 2010 and 2011 reports on the use of "pen register" and "trap and trace" surveillance )] TJ ET
+BT 64.016 141.420 Td 0.589 Tw /F2 12.0 Tf  [(powers. The reports show a dramatic increase in the use of these surveillance tools, which are used )] TJ ET
+BT 64.016 127.164 Td 1.458 Tw /F2 12.0 Tf  [(to gather information about telephone, email, and other Internet communications. The revelations )] TJ ET
+BT 64.016 112.908 Td 0.000 Tw /F2 12.0 Tf  [(underscore the importance of regulating and overseeing the government's surveillance power.)] TJ ET
+BT 34.016 74.652 Td 0.301 Tw /F2 12.0 Tf  [("In fact", the report continues, "more people were subjected to pen register and trap and trace surveillance in the )] TJ ET
+BT 34.016 60.396 Td 0.000 Tw /F2 12.0 Tf  [(past two years than in the entire previous decade".)] TJ ET
+endstream
+endobj
+29 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 30 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 422.7570 276.1319 577.5924 288.0119 ]
+>>
+endobj
+30 0 obj
+<< /Type /Action
+/S /URI
+/URI (http://www.aclu.org/blog/national-security-technology-and-liberty/new-justice-department-documents-show-huge-increase)
+>>
+endobj
+31 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 32 0 R
+>>
+endobj
+32 0 obj
+<<
+/Length 5878 >>
+stream
+
+0.000 0.000 0.000 rg
+0.000 0.000 0.800 RG
+0.24 w 0 J [  ] 0 d
+BT 34.016 732.539 Td 0.629 Tw /F2 12.0 Tf  [(Beyond the political and legal powers vested in the US intelligence community and in others around the world, )] TJ ET
+BT 34.016 718.283 Td 0.642 Tw /F2 12.0 Tf  [(there is the very real fact that technology once only accessible to the world's superpowers is now commercially )] TJ ET
+BT 34.016 704.027 Td 2.815 Tw /F2 12.0 Tf  [(available. One example documented on WikiLeaks \(and discussed in )] TJ ET
+BT 393.283 704.027 Td 2.815 Tw /F3 12.0 Tf  [(Cypherpunks)] TJ ET
+BT 456.607 704.027 Td 2.815 Tw /F2 12.0 Tf  [(\) is the Zebra strategic )] TJ ET
+BT 34.016 689.771 Td 1.917 Tw /F2 12.0 Tf  [(surveillance system sold by VASTech. For $10 million, the South African company will sell you a turnkey )] TJ ET
+BT 34.016 675.515 Td 0.398 Tw /F2 12.0 Tf  [(system that can intercept all communications in a middle-sized country. A similar system called Eagle was used )] TJ ET
+BT 34.016 661.259 Td 0.714 Tw /F2 12.0 Tf  [(in Gadhafi's Libya, as first reported by )] TJ ET
+BT 227.141 661.259 Td 0.714 Tw /F3 12.0 Tf  [(The Wall Street Journal)] TJ ET
+BT 344.280 661.259 Td 0.714 Tw /F2 12.0 Tf  [( in 2011. Sold by the French company Amesys, )] TJ ET
+BT 34.016 647.003 Td 0.546 Tw /F2 12.0 Tf  [(this is a commercial product, right down to the label on the box : "Nationwide Intercept System". In the face of )] TJ ET
+BT 34.016 632.747 Td 3.406 Tw /F2 12.0 Tf  [(systems designed to scoop up all electronic communication and store it indefinitely, any showcase civil )] TJ ET
+BT 34.016 618.491 Td 2.480 Tw /F2 12.0 Tf  [(libertarian exceptions written into the surveillance laws are meaningless. But the threat isn't limited to the )] TJ ET
+BT 34.016 604.235 Td 1.672 Tw /F2 12.0 Tf  [(surveillance state. There are more than a few self-interested financial players with $10 million lying around, )] TJ ET
+BT 34.016 589.979 Td 0.000 Tw /F2 12.0 Tf  [(many of whom would love to track all the private data in a several thousand mile radius.)] TJ ET
+BT 34.016 565.763 Td /F2 12.0 Tf  [(All of this is beginning to sound very much like a dystopian fantasy from )] TJ ET
+BT 388.664 565.763 Td /F3 12.0 Tf  [(cyber)] TJ ET
+BT 415.316 565.763 Td /F2 12.0 Tf  [(punk science fiction.)] TJ ET
+BT 34.016 494.729 Td /F1 14.0 Tf  [(Total surveillance)] TJ ET
+BT 34.016 470.028 Td 1.231 Tw /F2 12.0 Tf  [(If, in 1995, some cypherpunks had published a book about the upcoming "postmodern surveillance dystopia", )] TJ ET
+BT 34.016 455.772 Td 1.019 Tw /F2 12.0 Tf  [(most commentators would have shrugged it off as just a wee bit paranoid and ushered them into the Philip K. )] TJ ET
+BT 34.016 441.516 Td 0.000 Tw /F2 12.0 Tf  [(Dick Reading Room. Now, it is more likely that people will shrug and say, "that ship has already sailed".)] TJ ET
+BT 34.016 415.260 Td 0.241 Tw /F2 12.0 Tf  [(David Brin seems to think so. The author of )] TJ ET
+BT 250.170 415.260 Td 0.241 Tw /F3 12.0 Tf  [(The Transparent Society)] TJ ET
+BT 368.648 415.260 Td 0.241 Tw /F2 12.0 Tf  [( is well known for his skepticism regarding )] TJ ET
+BT 34.016 401.004 Td 2.188 Tw /F2 12.0 Tf  [(the likelihood of maintaining most types of privacy as well as his relative cheerfulness in the face of near )] TJ ET
+BT 34.016 386.748 Td 1.024 Tw /F2 12.0 Tf  [(universal transparency. In an email, I asked him about the cypherpunk ethic, as expressed by Julian Assange : )] TJ ET
+BT 34.016 372.492 Td 0.000 Tw /F2 12.0 Tf  [("privacy for the weak and transparency for the powerful".)] TJ ET
+BT 34.016 346.236 Td 0.177 Tw /F2 12.0 Tf  [(Brin's response was scathing. The ethic, he says, is "already enshrined in law. A meek normal person can sue for )] TJ ET
+BT 34.016 331.980 Td 0.000 Tw /F2 12.0 Tf  [(invasion of privacy, a prominent person may not". He's just getting started :)] TJ ET
+BT 64.016 293.724 Td 0.402 Tw /F2 12.0 Tf  [(But at a deeper level it is simply stupid. Any loophole in transparency "to protect the meek" can far )] TJ ET
+BT 64.016 279.468 Td 1.668 Tw /F2 12.0 Tf  [(better be exploited by the mighty than by the meek. Their shills, lawyers and factotums will \(1\) )] TJ ET
+BT 64.016 265.212 Td 0.722 Tw /F2 12.0 Tf  [(ensure that "privacy protections" have big options for the mighty and \(2\) that those options will be )] TJ ET
+BT 64.016 250.956 Td 3.697 Tw /F2 12.0 Tf  [(maximally exploited. Moreover \(3\) as I show in )] TJ ET
+BT 326.557 250.956 Td 3.697 Tw /F3 12.0 Tf  [(The Transparent Society)] TJ ET
+BT 451.947 250.956 Td 3.697 Tw /F2 12.0 Tf  [(, encryption-based )] TJ ET
+BT 64.016 236.700 Td 0.913 Tw /F2 12.0 Tf  [("privacy" is the weakest version of all. The meek can never verify that their bought algorithm and )] TJ ET
+BT 64.016 222.444 Td 0.000 Tw /F2 12.0 Tf  [(service is working as promised, or isn't a bought-out front for the NSA or a criminal gang.)] TJ ET
+BT 64.016 196.188 Td 1.023 Tw /F2 12.0 Tf  [(Above all, protecting the weak or meek with shadows and cutouts and privacy laws is like setting )] TJ ET
+BT 64.016 181.932 Td 2.130 Tw /F2 12.0 Tf  [(up Potemkin villages, designed to create surface illusions. Anyone who believes they can blind )] TJ ET
+BT 64.016 167.676 Td 0.000 Tw /F2 12.0 Tf  [(society's elites - of government, commerce, wealth, criminality and tech-geekery - is a fool...)] TJ ET
+BT 34.016 129.420 Td /F2 12.0 Tf  [(In other words, cypherpunk may be doing a disservice by spreading the illusion of freedom from surveillance.)] TJ ET
+BT 34.016 103.164 Td 3.847 Tw /F2 12.0 Tf  [(I posed a similar question to Adrian Lamo, who reported Bradley Manning to federal authorities. Not )] TJ ET
+BT 34.016 88.908 Td 0.000 Tw /F2 12.0 Tf  [(surprisingly, Lamo is even more cynical.)] TJ ET
+BT 34.016 62.652 Td 0.712 Tw /F2 12.0 Tf  [("Privacy is quite dead", he responded to me in an email. "That people still worship at its corpse doesn't change )] TJ ET
+endstream
+endobj
+33 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Annots [ 35 0 R ]
+/Contents 34 0 R
+>>
+endobj
+34 0 obj
+<<
+/Length 7550 >>
+stream
+
+0.000 0.000 0.000 rg
+0.000 0.000 0.800 RG
+0.24 w 0 J [  ] 0 d
+BT 34.016 746.579 Td 1.145 Tw /F2 12.0 Tf  [(that. In [the unreleased documentary] )] TJ ET
+BT 222.357 746.579 Td 1.145 Tw /F3 12.0 Tf  [(Hackers Wanted)] TJ ET
+BT 303.147 746.579 Td 1.145 Tw /F2 12.0 Tf  [( I gave out my SSN, and I've never had cause to regret )] TJ ET
+BT 34.016 732.323 Td 1.260 Tw /F2 12.0 Tf  [(that. Anyone could get it trivially. The biggest threat to our privacy is our own limited understanding of how )] TJ ET
+BT 34.016 718.067 Td 0.000 Tw /F2 12.0 Tf  [(little privacy we truly have".)] TJ ET
+BT 34.016 691.811 Td 1.930 Tw /F2 12.0 Tf  [(In )] TJ ET
+BT 48.941 691.811 Td 1.930 Tw /F3 12.0 Tf  [(Cypherpunks)] TJ ET
+BT 112.265 691.811 Td 1.930 Tw /F2 12.0 Tf  [(, Assange raises an essential point that at least partly refutes this skepticism : "the universe )] TJ ET
+BT 34.016 677.555 Td 0.618 Tw /F2 12.0 Tf  [(believes in encryption. It is easier to encrypt information than it is to decrypt it". And while Appelbaum admits )] TJ ET
+BT 34.016 663.299 Td 2.969 Tw /F2 12.0 Tf  [(that even strong encryption can't last forever, saying, "We're probably not using one hundred year \(safe\) )] TJ ET
+BT 34.016 649.043 Td 0.000 Tw /F2 12.0 Tf  [(crypto", he implies that pretty good privacy that lasts a pretty long time is far better than no privacy at all.)] TJ ET
+BT 34.016 622.787 Td 0.352 Tw /F2 12.0 Tf  [(Assuming that some degree of privacy is still possible, most people don't seem to think it's worth the effort. The )] TJ ET
+BT 34.016 608.531 Td 0.484 Tw /F2 12.0 Tf  [(cypherpunks and their ilk fought to keep things like the PGP encryption program legal - and we don't use them. )] TJ ET
+BT 34.016 594.275 Td 0.925 Tw /F2 12.0 Tf  [(We know Facebook and Google leak our personal online habits like a sieve and we don't make much effort to )] TJ ET
+BT 34.016 580.019 Td 1.064 Tw /F2 12.0 Tf  [(cover our tracks. Perhaps some of us buy the good citizen cliché that if you're not doing anything wrong, you )] TJ ET
+BT 34.016 565.763 Td 1.161 Tw /F2 12.0 Tf  [(don't have anything to worry about, but most of us are just opting for convenience. We've got enough to deal )] TJ ET
+BT 34.016 551.507 Td 0.410 Tw /F2 12.0 Tf  [(with day to day without engaging in a privacy regimen. Occasionally, some slacker may lose his job because he )] TJ ET
+BT 34.016 537.251 Td 0.620 Tw /F2 12.0 Tf  [(posted a photo of himself cradling his bong or the like, but as with civil liberties more generally, as long as the )] TJ ET
+BT 34.016 522.995 Td 1.057 Tw /F2 12.0 Tf  [(daily outrages against individuals don't reach epic proportions, we rubberneck in horror and then return to our )] TJ ET
+BT 34.016 508.739 Td 0.000 Tw /F2 12.0 Tf  [(daily activities.)] TJ ET
+BT 34.016 482.483 Td 2.225 Tw /F2 12.0 Tf  [(Beneath this complacent surface lies a disquieting and mostly unexamined question. To what degree is the )] TJ ET
+BT 34.016 468.227 Td 0.280 Tw /F2 12.0 Tf  [(ubiquity of state surveillance a form of intimidation, a way to keep people away from social movements or from )] TJ ET
+BT 34.016 453.971 Td 0.000 Tw /F2 12.0 Tf  [(directly communicating their views ?)] TJ ET
+BT 34.016 427.715 Td /F2 12.0 Tf  [(Do you hesitate before liking WikiLeaks on Facebook ?)] TJ ET
+BT 34.016 401.459 Td 1.105 Tw /F2 12.0 Tf  [(Throughout its entire history, the FBI has used secret intelligence operations to spy on, disrupt, and otherwise )] TJ ET
+BT 34.016 387.203 Td 1.067 Tw /F2 12.0 Tf  [(target activists and groups it considered subversive \(mostly on the political left\). The most notorious incidents )] TJ ET
+BT 34.016 372.947 Td 0.260 Tw /F2 12.0 Tf  [(occurred between 1956 and 1971, under the umbrella of COINTELPRO \()] TJ ET
+BT 390.210 372.947 Td 0.260 Tw /F1 12.0 Tf  [(Co)] TJ ET
+BT 404.874 372.947 Td 0.260 Tw /F2 12.0 Tf  [(unter )] TJ ET
+BT 432.795 372.947 Td 0.260 Tw /F1 12.0 Tf  [(Intel)] TJ ET
+BT 456.795 372.947 Td 0.260 Tw /F2 12.0 Tf  [(ligence )] TJ ET
+BT 494.711 372.947 Td 0.260 Tw /F1 12.0 Tf  [(Pro)] TJ ET
+BT 513.371 372.947 Td 0.260 Tw /F2 12.0 Tf  [(gram\). When )] TJ ET
+BT 34.016 358.691 Td 2.914 Tw /F2 12.0 Tf  [(the FBI's activities were revealed first in 1971 and later, more fully by the 1976 Church Committee, no )] TJ ET
+BT 34.016 344.435 Td 0.979 Tw /F2 12.0 Tf  [(politically astute person shrugged it off. It was understood without question that mega surveillance of political )] TJ ET
+BT 34.016 330.179 Td 0.000 Tw /F2 12.0 Tf  [(activists was an act of suppression period, )] TJ ET
+BT 238.652 330.179 Td /F3 12.0 Tf  [(full stop)] TJ ET
+BT 277.664 330.179 Td /F2 12.0 Tf  [(.)] TJ ET
+BT 34.016 303.923 Td 1.741 Tw /F2 12.0 Tf  [(Part of the shock of the COINTELPRO revelations was the FBI's engagement in illegal activities to destroy )] TJ ET
+BT 34.016 289.667 Td 2.300 Tw /F2 12.0 Tf  [(political organizations. The government's violation of its own surveillance laws even trumped the desire to )] TJ ET
+BT 34.016 275.411 Td 0.549 Tw /F2 12.0 Tf  [(punish the "symbolic bombings" of the Weather Underground. Since the FBI used illegal breaking and entering )] TJ ET
+BT 34.016 261.155 Td 0.818 Tw /F2 12.0 Tf  [(surveillance in an attempt to destroy the radical group, the leaders received light sentences when they emerged )] TJ ET
+BT 34.016 246.899 Td 1.409 Tw /F2 12.0 Tf  [(from underground. The same FBI techniques, once illegal, are undoubtedly so legal now under anti-terrorism )] TJ ET
+BT 34.016 232.643 Td 0.449 Tw /F2 12.0 Tf  [(laws that US Attorney General Holder could conduct the searches personally, dressed like Elvis and surrounded )] TJ ET
+BT 34.016 218.387 Td 0.000 Tw /F2 12.0 Tf  [(by the )] TJ ET
+BT 66.680 218.387 Td /F3 12.0 Tf  [(Real Housewives of Orange County)] TJ ET
+BT 238.664 218.387 Td /F2 12.0 Tf  [( in front of the cameras on a popular reality show.)] TJ ET
+BT 34.016 192.131 Td /F2 12.0 Tf  [(We have, perhaps, already let the surveillance culture slide too long.)] TJ ET
+BT 34.016 165.875 Td 0.363 Tw /F2 12.0 Tf  [(It's not as though the spirit of COINTELPRO has left us. Jacob Appelbaum, who has never been accused of any )] TJ ET
+BT 34.016 151.619 Td 1.725 Tw /F2 12.0 Tf  [(crime, has been subjected to relentless harassment, starting in the summer of 2010, when he was held up at )] TJ ET
+0.000 0.000 0.800 rg
+BT 34.016 137.363 Td 1.417 Tw /F2 12.0 Tf  [(Newark Airport)] TJ ET
+0.24 w 0 J [  ] 0 d
+34.016 135.969 m 111.741 135.969 l S
+0.000 0.000 0.000 rg
+BT 111.741 137.363 Td 1.417 Tw /F2 12.0 Tf  [( where he was frisked, his laptop was inspected, and his three mobile phones were taken. He )] TJ ET
+BT 34.016 123.107 Td 1.865 Tw /F2 12.0 Tf  [(was then passed along to US Army officials for four hours of questioning. One army interrogator told him, )] TJ ET
+BT 34.016 108.851 Td 3.464 Tw /F2 12.0 Tf  [(menacingly, "You don't look like you're going to do so well in prison". Several contacts found on the )] TJ ET
+BT 34.016 94.595 Td 0.950 Tw /F2 12.0 Tf  [(confiscated cell phones were then also given a hard time at airports and border crossings. In December of that )] TJ ET
+BT 34.016 80.339 Td 0.570 Tw /F2 12.0 Tf  [(year he was - along with other WikiLeaks activists - one of the subjects of a court order that compelled Twitter )] TJ ET
+BT 34.016 66.083 Td 0.319 Tw /F2 12.0 Tf  [(to let the feds snoop inside his account. \(He only knows this because Twitter won a petition to be able to inform )] TJ ET
+BT 34.016 51.827 Td 0.468 Tw /F2 12.0 Tf  [(the subjects.\) He has since been continually harassed by airport security and has been detained at the US border )] TJ ET
+endstream
+endobj
+35 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 36 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 34.0157 136.2835 111.7410 148.1635 ]
+>>
+endobj
+36 0 obj
+<< /Type /Action
+/S /URI
+/URI (http://boingboing.net/2010/07/31/wikileaks-volunteer.html)
+>>
+endobj
+37 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 38 0 R
+>>
+endobj
+38 0 obj
+<<
+/Length 1420 >>
+stream
+
+0.000 0.000 0.000 rg
+0.000 0.000 0.800 RG
+0.24 w 0 J [  ] 0 d
+BT 34.016 746.579 Td 0.000 Tw /F2 12.0 Tf  [(twelve times.)] TJ ET
+BT 34.016 720.323 Td /F2 12.0 Tf  [(That this harassment is happening to someone who hasn't been charged with a crime is particularly frightening.)] TJ ET
+BT 34.016 694.067 Td 2.251 Tw /F2 12.0 Tf  [("The )] TJ ET
+BT 62.822 694.067 Td 2.251 Tw /F3 12.0 Tf  [(Galgenhumor)] TJ ET
+BT 129.482 694.067 Td 2.251 Tw /F2 12.0 Tf  [( of our era", Appelbaum told me in an email, "revolves around things that most people )] TJ ET
+BT 34.016 679.811 Td 3.457 Tw /F2 12.0 Tf  [(simply thought impossible in our lifetime". He lists a number of chilling examples, including indefinite )] TJ ET
+BT 34.016 665.555 Td 2.595 Tw /F2 12.0 Tf  [(detention under the National Defense Authorization Act of 2012, warrantless wiretaps, drone strikes, state-)] TJ ET
+BT 34.016 651.299 Td 0.000 Tw /F2 12.0 Tf  [(sponsored malware, and the Patriot Act.)] TJ ET
+BT 34.016 625.043 Td 0.632 Tw /F2 12.0 Tf  [("It isn't a great time to be a dissenting voice of any kind in our American empire", he continues. But it isn't the )] TJ ET
+BT 34.016 610.787 Td 0.964 Tw /F2 12.0 Tf  [(myriad of ways that civil liberties have been gutted that we'll look back upon. "What we will remember is the )] TJ ET
+BT 34.016 596.531 Td 0.000 Tw /F2 12.0 Tf  [(absolute silence of so many, when the above things became normalized".)] TJ ET
+endstream
+endobj
+xref
+0 39
+0000000000 65535 f 
+0000000008 00000 n 
+0000000073 00000 n 
+0000000119 00000 n 
+0000000329 00000 n 
+0000000358 00000 n 
+0000000472 00000 n 
+0000000568 00000 n 
+0000006172 00000 n 
+0000006280 00000 n 
+0000006389 00000 n 
+0000006500 00000 n 
+0000006628 00000 n 
+0000006723 00000 n 
+0000006851 00000 n 
+0000006983 00000 n 
+0000007109 00000 n 
+0000007204 00000 n 
+0000007309 00000 n 
+0000014805 00000 n 
+0000014933 00000 n 
+0000015046 00000 n 
+0000015174 00000 n 
+0000015287 00000 n 
+0000015415 00000 n 
+0000015498 00000 n 
+0000015626 00000 n 
+0000015735 00000 n 
+0000015819 00000 n 
+0000021369 00000 n 
+0000021497 00000 n 
+0000021666 00000 n 
+0000021731 00000 n 
+0000027662 00000 n 
+0000027746 00000 n 
+0000035349 00000 n 
+0000035476 00000 n 
+0000035585 00000 n 
+0000035650 00000 n 
+trailer
+<<
+/Size 39
+/Root 1 0 R
+/Info 5 0 R
+>>
+startxref
+37123
+%%EOF

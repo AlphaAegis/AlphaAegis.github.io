@@ -1,0 +1,99 @@
+
+a { text-decoration: none }
+a.l { color: #A0A0A0 }
+a.adams {
+	color: #33FF33;
+	font-family: freshbot;
+	font-weight: bold;
+	font-size: 30px
+}
+a.comba {
+	color: red;
+	text-decoration: underline
+}
+a.cryst {
+	color: #33FF33;
+	font-family: bradley hand itc;
+	font-weight: bold;
+	font-size: 40px
+}
+a.gianc {
+	color: #FF0000;
+	font-family: blackadder itc;
+	font-weight: bold;
+	font-size: 30px
+}
+a.hope {
+	background-color: #CC33CC;
+	font-size: 20px
+}
+a.kity {
+	background-color: red;
+	font-size: 20px
+}
+a.pande {
+	background-color: yellow;
+	font-size: 20px
+}
+a.ares {
+	background-color: #98BF64;
+	font-size: 20px
+}
+body {
+	font-family: verdana;
+	text-align: justify;
+	color: white;
+	background-color: black
+}
+div.c {
+	margin: auto;
+	width: 95%
+}
+h1 {
+	font-family: bernard mt condensed;
+	font-size: 40px
+}
+span.comba {
+	color: #33FF33;
+	font-family: futurablack bt;
+	font-weight: bold;
+	font-size: 30px
+}
+span.hope {
+	text-decoration: underline;
+	color: white;
+	font-family: engravers mt;
+	font-weight: bold;
+	font-size: 40px
+}
+span.kity {
+	text-decoration: underline;
+	color: #FF99FF;
+	font-family: chick;
+	font-size: 40px
+}
+span.pande {
+	text-decoration: underline;
+	color: #3366FF;
+	font-family: croobie;
+	font-weight: bold;
+	font-size: 40px
+}
+span.ares {
+	text-decoration: underline;
+	color: #234F1E;
+	font-family: impact;
+	font-weight: bold;
+	font-size: 40px
+}
+
+td.c {
+	font-family: courier new;
+	text-align: center;
+	padding: 4;
+	border: 1px solid #636163
+}
+table.c {
+	width: 500;
+	border: 2px solid gray
+}

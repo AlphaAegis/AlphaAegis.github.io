@@ -1,0 +1,933 @@
+%PDF-1.3
+1 0 obj
+<< /Type /Catalog
+/Outlines 2 0 R
+/Pages 3 0 R >>
+endobj
+2 0 obj
+<< /Type /Outlines /Count 0 >>
+endobj
+3 0 obj
+<< /Type /Pages
+/Kids [6 0 R
+11 0 R
+13 0 R
+15 0 R
+17 0 R
+19 0 R
+21 0 R
+23 0 R
+25 0 R
+27 0 R
+29 0 R
+31 0 R
+33 0 R
+35 0 R
+37 0 R
+]
+/Count 15
+/Resources <<
+/ProcSet 4 0 R
+/Font << 
+/F1 8 0 R
+/F2 9 0 R
+/F3 10 0 R
+>>
+>>
+/MediaBox [0.000 0.000 612.000 792.000]
+ >>
+endobj
+4 0 obj
+[/PDF /Text ]
+endobj
+5 0 obj
+<<
+/Creator (DOMPDF)
+/CreationDate (D:20230828003604+02'00')
+/ModDate (D:20230828003604+02'00')
+>>
+endobj
+6 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 7 0 R
+>>
+endobj
+7 0 obj
+<<
+/Length 5566 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 217.512 725.937 Td /F1 18.0 Tf  [(Reality for Cybernauts)] TJ ET
+BT 263.160 695.200 Td /F1 12.0 Tf  [(Sergio Sismondo)] TJ ET
+BT 264.840 680.800 Td /F1 12.0 Tf  [(September 1997)] TJ ET
+BT 34.016 654.515 Td /F2 12.0 Tf  [( )] TJ ET
+BT 34.016 612.281 Td /F1 14.0 Tf  [(Introduction : virtual reality as a metaphysical laboratory)] TJ ET
+BT 34.016 583.500 Td 0.297 Tw /F2 12.0 Tf  [(Virtual Reality \(VR\) is a wonderfully successful misnomer. To the extent that VR is reality, there is little virtual )] TJ ET
+BT 34.016 569.244 Td 0.000 Tw /F2 12.0 Tf  [(about it.)] TJ ET
+BT 34.016 540.948 Td 0.731 Tw /F2 12.0 Tf  [(I should qualify those claims right away : virtual reality is virtual in the derivative sense in which "virtual" has )] TJ ET
+BT 34.016 526.692 Td 0.696 Tw /F2 12.0 Tf  [(come to be a synonym for computer-based, but that sense is a result rather than a precondition of VR's cultural )] TJ ET
+BT 34.016 512.436 Td 1.530 Tw /F2 12.0 Tf  [(success. VR has provided a path from an old meaning of "virtual" to a new one. The old meaning, what we )] TJ ET
+BT 34.016 498.180 Td 0.442 Tw /F2 12.0 Tf  [(could call virtual-1, is : in effect, but not actual. The meaning that is new to the last decades of the 20th century )] TJ ET
+BT 34.016 483.924 Td 0.000 Tw /F2 12.0 Tf  [(is virtual-2 : simulated on or mediated by a computer.)] TJ ET
+BT 34.016 455.628 Td 1.784 Tw /F2 12.0 Tf  [(Many cybernauts have realized that VR is not merely virtually-1 real -- an oxymoron ? -- and therefore are )] TJ ET
+BT 34.016 441.372 Td 2.151 Tw /F2 12.0 Tf  [(arguing that it is virtual-2 reality, real but computer-based. In so doing they have not merely added a new )] TJ ET
+BT 34.016 427.116 Td 0.495 Tw /F2 12.0 Tf  [(meaning to the term "virtual", but have revamped talk of reality. At a time when skeptical humanists and others )] TJ ET
+BT 34.016 412.860 Td 0.693 Tw /F2 12.0 Tf  [(are more and more cautious about reality, VR enthusiasts are giving new life to words like "real" and "reality", )] TJ ET
+BT 34.016 398.604 Td 2.902 Tw /F2 12.0 Tf  [(using them constantly, and with a variety of meanings. The best VR is described as "really real" and is )] TJ ET
+BT 34.016 384.348 Td 2.773 Tw /F2 12.0 Tf  [(contrasted with "real reality", yet neither phrase fully makes sense without at least some confusion about )] TJ ET
+BT 34.016 370.092 Td 1.601 Tw /F2 12.0 Tf  [(meanings of "real". At the same time, some cyberphiles and cybercritics have been proclaiming the death of )] TJ ET
+BT 34.016 355.836 Td 0.163 Tw /F2 12.0 Tf  [(reality. If we could create environments that have the look and feel that we expect from everyday reality, what is )] TJ ET
+BT 34.016 341.580 Td 0.000 Tw /F2 12.0 Tf  [(left of the "real" thing ? Why should we care about it ?)] TJ ET
+BT 34.016 313.284 Td 2.390 Tw /F2 12.0 Tf  [(Michael Heim says that "with its virtual environments and simulated worlds, cyberspace is a metaphysical )] TJ ET
+BT 34.016 299.028 Td 0.792 Tw /F2 12.0 Tf  [(laboratory, a tool for examining our very sense of reality" \(83\). Heim may be right that cyberspace -- or in my )] TJ ET
+BT 34.016 284.772 Td 2.714 Tw /F2 12.0 Tf  [(case VR -- is a metaphysical laboratory, but his laboratory is largely unbuilt. Currently-available VR, for )] TJ ET
+BT 34.016 270.516 Td 3.885 Tw /F2 12.0 Tf  [(example, is more crude as a metaphysical laboratory than are our imaginations, literature, and thought )] TJ ET
+BT 34.016 256.260 Td 0.999 Tw /F2 12.0 Tf  [(experiments. For my purposes the limitations of existing VR are unimportant : my intention here is, following )] TJ ET
+BT 34.016 242.004 Td 0.213 Tw /F2 12.0 Tf  [(Heim, to use VR to examine "our very sense of reality", but in that I want to look at our use of the term "reality" )] TJ ET
+BT 34.016 227.748 Td 1.922 Tw /F2 12.0 Tf  [(and the presuppositions of that use. Along the way I take issue with some of the wilder claims about VR's )] TJ ET
+BT 34.016 213.492 Td 0.000 Tw /F2 12.0 Tf  [(effects on reality.)] TJ ET
+BT 34.016 185.196 Td 0.563 Tw /F2 12.0 Tf  [(Although there is no one consistent picture of reality implicit in talk about VR, there are at least some common )] TJ ET
+BT 34.016 170.940 Td 0.986 Tw /F2 12.0 Tf  [(images. Some of those images are exactly what are needed to revamp talk of reality, and some are misguided. )] TJ ET
+BT 34.016 156.684 Td 0.845 Tw /F2 12.0 Tf  [(Some VR talk, for example, reinforces an impoverished sense of reality in its dominating images of levels and )] TJ ET
+BT 34.016 142.428 Td 0.943 Tw /F2 12.0 Tf  [(degrees; my preferred images are more chaotic and multi-dimensional. In order to show why we should prefer )] TJ ET
+BT 34.016 128.172 Td 1.637 Tw /F2 12.0 Tf  [(some images of reality, in the second half of this essay I put forward a general account of reality talk. That )] TJ ET
+BT 34.016 113.916 Td 0.000 Tw /F2 12.0 Tf  [(account makes space for \(though does not guarantee\) the reality of VR, and much more besides.)] TJ ET
+BT 34.016 85.620 Td 1.269 Tw /F2 12.0 Tf  [(For my project here we do not have to be full-fledged cybernauts. That is a good thing, because this essay is )] TJ ET
+BT 34.016 71.364 Td 1.406 Tw /F2 12.0 Tf  [(written by yet another interloper into VR. I haven't made the tours of labs where systems like RB2 \("Reality )] TJ ET
+BT 34.016 57.108 Td 0.712 Tw /F2 12.0 Tf  [(Built for Two"\) or gadgets like the DataGlove have been developed. I spend little of my time browsing )] TJ ET
+BT 543.988 57.108 Td 0.712 Tw /F3 12.0 Tf  [(Mondo )] TJ ET
+BT 34.016 42.852 Td 0.000 Tw /F3 12.0 Tf  [(2000)] TJ ET
+endstream
+endobj
+8 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Times-Bold
+/Encoding /WinAnsiEncoding
+>>
+endobj
+9 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F2
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+>>
+endobj
+10 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F3
+/BaseFont /Times-Italic
+/Encoding /WinAnsiEncoding
+>>
+endobj
+11 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 12 0 R
+>>
+endobj
+12 0 obj
+<<
+/Length 6473 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 34.016 746.579 Td 1.433 Tw /F2 12.0 Tf  [(, and have tested out only the most publicly available virtual environments, computer games like )] TJ ET
+BT 522.463 746.579 Td 1.433 Tw /F3 12.0 Tf  [(Doom)] TJ ET
+BT 551.791 746.579 Td 1.433 Tw /F2 12.0 Tf  [(, and )] TJ ET
+BT 34.016 732.323 Td 0.783 Tw /F2 12.0 Tf  [(high-tech video games like )] TJ ET
+BT 169.795 732.323 Td 0.783 Tw /F3 12.0 Tf  [(Dactyl Nightmare)] TJ ET
+BT 256.906 732.323 Td 0.783 Tw /F2 12.0 Tf  [(. Donning the latter's 3-D video helmet and battling its schematic )] TJ ET
+BT 34.016 718.067 Td 0.170 Tw /F2 12.0 Tf  [(pterodactyls even put me off-balance and made me slightly nauseous. All of that should place me as a text-based )] TJ ET
+BT 34.016 703.811 Td 0.671 Tw /F2 12.0 Tf  [(critic whose access to VR and cyberculture is largely through the guidance of texts. Therefore my text displays )] TJ ET
+BT 34.016 689.555 Td 0.811 Tw /F2 12.0 Tf  [(many signs of my interloper status, in the form of references to the canonizers and the canonized agents of the )] TJ ET
+BT 34.016 675.299 Td 0.000 Tw /F2 12.0 Tf  [(history of VR.)] TJ ET
+BT 34.016 604.265 Td /F1 14.0 Tf  [(The virtualization of reality ?)] TJ ET
+BT 64.016 567.564 Td 3.306 Tw /F2 12.0 Tf  [(Our point is thus a very elementary one : true, the computer-generated "virtual reality" is a )] TJ ET
+BT 64.016 553.308 Td 0.456 Tw /F2 12.0 Tf  [(semblance, it does foreclose the Real; but what we experience as the "true, hard, external reality" is )] TJ ET
+BT 64.016 539.052 Td 0.802 Tw /F2 12.0 Tf  [(based upon exactly the same exclusion. The ultimate lesson of "virtual reality" is the virtualization )] TJ ET
+BT 64.016 524.796 Td 0.947 Tw /F2 12.0 Tf  [(of the very "true" reality : by the mirage of "virtual reality", the "true" reality itself is posited as a )] TJ ET
+BT 64.016 510.540 Td 0.000 Tw /F2 12.0 Tf  [(semblance of itself, as a pure symbolic edifice. \(Zizek 44\))] TJ ET
+BT 34.016 472.284 Td 1.002 Tw /F2 12.0 Tf  [(For some cybernauts \(and their critics\) VR promises \(or threatens\) to limit or even eliminate the claims of the )] TJ ET
+BT 34.016 458.028 Td 1.913 Tw /F2 12.0 Tf  [(material to its status as reality. At Britain's first VR conference in 1991, as Benjamin Woolley describes it, )] TJ ET
+BT 34.016 443.772 Td 1.213 Tw /F2 12.0 Tf  [(speakers such as chair Tony Feldman repeatedly claimed that because of the power of technology to simulate )] TJ ET
+BT 34.016 429.516 Td 0.323 Tw /F2 12.0 Tf  [(and otherwise artificialize objects, "reality is no longer secure, no longer something we can simply assume to be )] TJ ET
+BT 34.016 415.260 Td 0.000 Tw /F2 12.0 Tf  [(there" \(5\).)] TJ ET
+BT 34.016 389.004 Td 1.400 Tw /F2 12.0 Tf  [(At their simplest, such arguments have been around since people first asked whether they could be dreaming )] TJ ET
+BT 34.016 374.748 Td 0.350 Tw /F2 12.0 Tf  [(reality. Descartes' almost paranoid musings, reconstituted as Meditations, are probably the best known sustained )] TJ ET
+BT 34.016 360.492 Td 0.338 Tw /F2 12.0 Tf  [(questioning of our evidence for the reality of our everyday world. Descartes asked, could he be dreaming it all ? )] TJ ET
+BT 34.016 346.236 Td 0.969 Tw /F2 12.0 Tf  [(Or, since we all know how to tell the difference between waking and dreaming, could a powerful Deceiver be )] TJ ET
+BT 34.016 331.980 Td 1.171 Tw /F2 12.0 Tf  [(systematically and consistently creating our experiences, convincing us of the reality of a completely fictional )] TJ ET
+BT 34.016 317.724 Td 1.439 Tw /F2 12.0 Tf  [(material world ? We know the results of Descartes' questions : although he made valiant efforts to prove the )] TJ ET
+BT 34.016 303.468 Td 0.650 Tw /F2 12.0 Tf  [(reality of the world around him, most of his readers have been unconvinced. His efforts to vanquish skepticism )] TJ ET
+BT 34.016 289.212 Td 2.203 Tw /F2 12.0 Tf  [(reinforced it by demonstrating its resilience. Of course while it has been resilient, universal skepticism has )] TJ ET
+BT 34.016 274.956 Td 0.355 Tw /F2 12.0 Tf  [(rarely had much force. This is not merely because of our naive ordinary faith in the material world : pragmatists )] TJ ET
+BT 34.016 260.700 Td 1.691 Tw /F2 12.0 Tf  [(have argued that doubts such as might lead to a Cartesian Deceiver themselves require some justification. It )] TJ ET
+BT 34.016 246.444 Td 0.000 Tw /F2 12.0 Tf  [(might simply be unreasonable to follow Descartes in doubting everything, even if only for a few minutes.)] TJ ET
+BT 34.016 220.188 Td 0.798 Tw /F2 12.0 Tf  [(For some of its enthusiasts, VR provides grounds for such a doubt. In the passage above, Slavoj Zizek appears )] TJ ET
+BT 34.016 205.932 Td 2.073 Tw /F2 12.0 Tf  [(to be taken by a new, or future, capacity to question the reality of non-virtual reality. VR will provide the )] TJ ET
+BT 34.016 191.676 Td 3.929 Tw /F2 12.0 Tf  [(skeptic's reinstatement of the Cartesian Deceiver by creating sensations indistinguishable from ordinary, )] TJ ET
+BT 34.016 177.420 Td 0.422 Tw /F2 12.0 Tf  [(everyday sensations. What we call "real" will become simply one world to live in among many, and a relatively )] TJ ET
+BT 34.016 163.164 Td 0.218 Tw /F2 12.0 Tf  [(conservative and unimaginative one at that. Timothy Druckrey claims, reading these lines of Zizek, that "what is )] TJ ET
+BT 34.016 148.908 Td 0.667 Tw /F2 12.0 Tf  [(so fascinating about the issues of immersion and virtual reality is the way in which it substantiates the problem )] TJ ET
+BT 34.016 134.652 Td 0.000 Tw /F2 12.0 Tf  [(of representation itself" \(8\).)] TJ ET
+BT 34.016 108.396 Td 0.874 Tw /F2 12.0 Tf  [(It is hard to be too impressed by such sophomoric skepticism, even if it is widespread. It is little more than an )] TJ ET
+BT 34.016 94.140 Td 1.827 Tw /F2 12.0 Tf  [(advertisement for VR technologies and VR as a cultural icon, or, for those who are uncomfortable with the )] TJ ET
+BT 34.016 79.884 Td 1.831 Tw /F2 12.0 Tf  [(disappearance of a hard "reality", an anti-advertisement : consider Mark Slouka's recent )] TJ ET
+BT 480.163 79.884 Td 1.831 Tw /F3 12.0 Tf  [(War of the Worlds: )] TJ ET
+BT 34.016 65.628 Td 1.759 Tw /F3 12.0 Tf  [(Cyberspace and the High-Tech Assault on Reality)] TJ ET
+BT 284.546 65.628 Td 1.759 Tw /F2 12.0 Tf  [(. Certainly commentators like Druckrey and Zizek are not )] TJ ET
+BT 34.016 51.372 Td 1.448 Tw /F2 12.0 Tf  [(talking about available technologies -- the simulators found in corners of the post-industrial world -- because )] TJ ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 14 0 R
+>>
+endobj
+14 0 obj
+<<
+/Length 4830 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 34.016 746.579 Td 1.069 Tw /F2 12.0 Tf  [(those are little more than poor 3-D video games, expensive but crude, and are less capable of sustaining one's )] TJ ET
+BT 34.016 732.323 Td 0.000 Tw /F2 12.0 Tf  [(attention than most 2-D video games of a decade ago.)] TJ ET
+BT 34.016 706.067 Td 0.283 Tw /F2 12.0 Tf  [(I will return to the question of whether VR will ever be able to deceive its participants completely; however, my )] TJ ET
+BT 34.016 691.811 Td 1.782 Tw /F2 12.0 Tf  [(main point is not to express pessimism about technologies. Rather, I'm interested in examining our sense of )] TJ ET
+BT 34.016 677.555 Td 1.448 Tw /F2 12.0 Tf  [(reality. Any thought that VR will be the twenty-first century Deceiver, providing grounds for a universalized )] TJ ET
+BT 34.016 663.299 Td 1.462 Tw /F2 12.0 Tf  [(skepticism, appears to take reality as the object of possible sensory experiences. Most of the major problems )] TJ ET
+BT 34.016 649.043 Td 0.438 Tw /F2 12.0 Tf  [(that VR researchers are working on have to do with visual and tactile realism : they are working to create better )] TJ ET
+BT 34.016 634.787 Td 2.014 Tw /F2 12.0 Tf  [(video displays, faster calculations that will lead to faster responses to users' actions, and improvements and )] TJ ET
+BT 34.016 620.531 Td 1.089 Tw /F2 12.0 Tf  [(extensions of the DataGlove that will allow users to feel more of their virtual environment. In this way VR is )] TJ ET
+BT 34.016 606.275 Td 1.553 Tw /F2 12.0 Tf  [(following in the footsteps of the Cartesian Deceiver -- and begins to provide the grounds for a universalized )] TJ ET
+BT 34.016 592.019 Td 0.000 Tw /F2 12.0 Tf  [(skepticism -- because what it aims to deceive us about is material reality, our paradigmatic reality.)] TJ ET
+BT 34.016 520.985 Td /F1 14.0 Tf  [(VR's model reality)] TJ ET
+BT 64.016 484.284 Td /F2 12.0 Tf  [(True virtual reality may not be attainable with any technology we create. \(Zeltzer, qtd. in Heim 123\))] TJ ET
+BT 34.016 446.028 Td 1.830 Tw /F2 12.0 Tf  [(David Zeltzer, of the MIT Media Lab, doesn't like to use the term "virtual reality" to refer to his creations, )] TJ ET
+BT 34.016 431.772 Td 1.436 Tw /F2 12.0 Tf  [(preferring instead "virtual worlds" and "virtual environments". This stems less from uneasiness with the term )] TJ ET
+BT 34.016 417.516 Td 0.865 Tw /F2 12.0 Tf  [("reality" than from an uneasiness about his tools. "The Holodeck [a Star Trek VR system] may forever remain )] TJ ET
+BT 34.016 403.260 Td 1.481 Tw /F2 12.0 Tf  [(fiction. Nonetheless, virtual reality serves as the Holy Grail of the research" \(Zeltzer, qtd. in Heim 123\). We )] TJ ET
+BT 34.016 389.004 Td 0.986 Tw /F2 12.0 Tf  [(may never be able to re-create the full experience of working with and in the material world using computers, )] TJ ET
+BT 34.016 374.748 Td 1.116 Tw /F2 12.0 Tf  [(video, speakers, data suits, etc. Unlike some VR enthusiasts, Zeltzer recognizes the richness of ordinary sense )] TJ ET
+BT 34.016 360.492 Td 0.000 Tw /F2 12.0 Tf  [(experiences, and the difficulties with the technology in reproducing this richness.)] TJ ET
+BT 34.016 334.236 Td 3.440 Tw /F2 12.0 Tf  [(More importantly for my purposes, Zeltzer makes explicit the goals, even if unattainable, for VR : the )] TJ ET
+BT 34.016 319.980 Td 1.654 Tw /F2 12.0 Tf  [(technology is supposed to recreate the type of experiences we have of the material world. VR is therefore a )] TJ ET
+BT 34.016 305.724 Td 0.867 Tw /F2 12.0 Tf  [(virtual material reality, a computerized simulation of mountains, trees, buildings, bodies, and flies. VR aims to )] TJ ET
+BT 34.016 291.468 Td 2.547 Tw /F2 12.0 Tf  [(create human-centered spaces which users can explore, containing objects to manipulate. These spaces are )] TJ ET
+BT 34.016 277.212 Td 0.617 Tw /F2 12.0 Tf  [(wrapped around users and adjust to their efforts at motion, so that they always remain at centers or origins. VR )] TJ ET
+BT 34.016 262.956 Td 1.132 Tw /F2 12.0 Tf  [(is a simulation that takes as its starting point the everyday space that we experience ourselves moving in, and )] TJ ET
+BT 34.016 248.700 Td 1.774 Tw /F2 12.0 Tf  [(our everyday world of moderately small to moderately large material objects. This is probably so obvious a )] TJ ET
+BT 34.016 234.444 Td 0.832 Tw /F2 12.0 Tf  [(starting point that it is important to point out some alternatives, such very real things as institutions, ideas, and )] TJ ET
+BT 34.016 220.188 Td 0.376 Tw /F2 12.0 Tf  [(cultures, none of which is neatly bounded in 3-D space. Some of these things are being re-created in cyberspace )] TJ ET
+BT 34.016 205.932 Td 1.577 Tw /F2 12.0 Tf  [(more generally, but are not the focus of virtual reality. For the purposes of VR, reality is paradigmatically a )] TJ ET
+BT 34.016 191.676 Td 0.000 Tw /F2 12.0 Tf  [(spatial and material system.)] TJ ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 16 0 R
+>>
+endobj
+16 0 obj
+<<
+/Length 6145 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 34.016 732.539 Td 1.542 Tw /F2 12.0 Tf  [(At this point I want to mark a difference between cyberspace and virtual reality. Cyberspace, as used in, for )] TJ ET
+BT 34.016 718.283 Td 0.765 Tw /F2 12.0 Tf  [(example, Michael Benedikt's )] TJ ET
+BT 178.450 718.283 Td 0.765 Tw /F3 12.0 Tf  [(Cyberspace: First Steps)] TJ ET
+BT 295.300 718.283 Td 0.765 Tw /F2 12.0 Tf  [(, is the more inclusive category, a label for any computer-)] TJ ET
+BT 34.016 704.027 Td 1.198 Tw /F2 12.0 Tf  [(generated or computer-mediated environment that is accessible by multiple users, including environments that )] TJ ET
+BT 34.016 689.771 Td 2.836 Tw /F2 12.0 Tf  [(are in no way imitations of material realities. In fact, many of the contributors to Benedikt's volume are )] TJ ET
+BT 34.016 675.515 Td 1.357 Tw /F2 12.0 Tf  [(explicitly attempting to describe novel architectures for such spaces. Some of their work is fascinating for its )] TJ ET
+BT 34.016 661.259 Td 5.817 Tw /F2 12.0 Tf  [(sophisticated interdisciplinarity, combining readings of science fiction, mathematics, psychology, data )] TJ ET
+BT 34.016 647.003 Td 2.114 Tw /F2 12.0 Tf  [(management, and architecture. For my purposes it is interesting that these authors generally avoid the term )] TJ ET
+BT 34.016 632.747 Td 0.697 Tw /F2 12.0 Tf  [("virtual reality", suggesting that they recognize constraints and limitations of "realities" that can be more easily )] TJ ET
+BT 34.016 618.491 Td 0.000 Tw /F2 12.0 Tf  [(evaded by "spaces".)] TJ ET
+BT 34.016 549.497 Td /F1 14.0 Tf  [(Reality as a singular closed system)] TJ ET
+BT 64.016 512.796 Td 0.620 Tw /F2 12.0 Tf  [(Quadriplegics live, virtually, through the actions of others. Perhaps, life would be more fulfilling if )] TJ ET
+BT 64.016 498.540 Td 2.337 Tw /F2 12.0 Tf  [(they were also offered the opportunity to directly control their environment through telerobotic )] TJ ET
+BT 64.016 484.284 Td 1.073 Tw /F2 12.0 Tf  [(tools for independent living. Virtual telerobotic environments for the rest of us could bring reality )] TJ ET
+BT 64.016 470.028 Td 0.000 Tw /F2 12.0 Tf  [(to these individuals. \(Leifer et al., qtd. in Rheingold 264\))] TJ ET
+BT 64.016 443.772 Td 0.960 Tw /F2 12.0 Tf  [(When VR becomes widely available, it will not be seen as a medium used within physical reality, )] TJ ET
+BT 64.016 429.516 Td 1.501 Tw /F2 12.0 Tf  [(but rather as an additional reality. VR opens up a new continent of ideas and possibilities. \(VPL )] TJ ET
+BT 64.016 415.260 Td 0.000 Tw /F2 12.0 Tf  [(Research product brochure, qtd. in Pimentel & Teixeira 53\))] TJ ET
+BT 64.016 389.004 Td 0.206 Tw /F2 12.0 Tf  [(It is an apolitical fantasy of escape. Historical accounts of virtual reality tell us that one of the initial )] TJ ET
+BT 64.016 374.748 Td 2.902 Tw /F2 12.0 Tf  [(project's slogans was "reality isn't enough anymore", but psychoanalytic accounts would more )] TJ ET
+BT 64.016 360.492 Td 0.938 Tw /F2 12.0 Tf  [(likely tell us that the slogan should be read in its inverse form -- that is, "reality is too much right )] TJ ET
+BT 64.016 346.236 Td 0.000 Tw /F2 12.0 Tf  [(now". \(Sobchack 20\))] TJ ET
+BT 34.016 307.980 Td 3.884 Tw /F2 12.0 Tf  [(Whether reality is too much or not enough, most VR enthusiasts and their critics agree in taking the )] TJ ET
+BT 34.016 293.724 Td 0.537 Tw /F2 12.0 Tf  [(reality/irreality boundary to be a relatively sharp one -- even while they are trying to blur it or are claiming that )] TJ ET
+BT 34.016 279.468 Td 1.610 Tw /F2 12.0 Tf  [(the technology will change that distinction fundamentally. And thus they agree in their image of reality as a )] TJ ET
+BT 34.016 265.212 Td 2.492 Tw /F2 12.0 Tf  [(closed system and neat package, much like the systems that are being built. The VR designing firm VPL )] TJ ET
+BT 34.016 250.956 Td 0.407 Tw /F2 12.0 Tf  [(Research is creating not parts of the world or new views of the world, but worlds themselves, alternatives to the )] TJ ET
+BT 34.016 236.700 Td 0.873 Tw /F2 12.0 Tf  [(world we know as real. Non-virtual reality is singular in the past and present; it is the three-dimensional space )] TJ ET
+BT 34.016 222.444 Td 1.319 Tw /F2 12.0 Tf  [(that we live in and will continue to live in until VR creates new spaces. The creation of new spaces, though, )] TJ ET
+BT 34.016 208.188 Td 0.000 Tw /F2 12.0 Tf  [(introduces questions about the geometry of reality.)] TJ ET
+BT 34.016 181.932 Td 2.235 Tw /F2 12.0 Tf  [(Consider, for example, the following statements, all taken from Howard Rheingold's )] TJ ET
+BT 467.383 181.932 Td 2.235 Tw /F3 12.0 Tf  [(Virtual Reality)] TJ ET
+BT 540.622 181.932 Td 2.235 Tw /F2 12.0 Tf  [( : "The )] TJ ET
+BT 34.016 167.676 Td 0.855 Tw /F2 12.0 Tf  [(reality level is rising by the month" \(214\); "How much reality do you get for all that money ?" \(166\); "Reality )] TJ ET
+BT 34.016 153.420 Td 0.643 Tw /F2 12.0 Tf  [(has always been too small for human imagination" \(Laurel, qtd. in Rheingold 391\); "a new plane of reality that )] TJ ET
+BT 34.016 139.164 Td 0.765 Tw /F2 12.0 Tf  [(will thrill everybody" \(Lanier, qtd. in Rheingold 155\); "A laser microscanner will paint realities directly on the )] TJ ET
+BT 34.016 124.908 Td 2.296 Tw /F2 12.0 Tf  [(retina" \(Furness, qtd. in Rheingold 194\). VR enthusiasts are united in believing that new technologies will )] TJ ET
+BT 34.016 110.652 Td 0.688 Tw /F2 12.0 Tf  [(increase the quantity of reality available, but they do not agree on how that increase will be measured. Will we )] TJ ET
+BT 34.016 96.396 Td 0.842 Tw /F2 12.0 Tf  [(be able to buy reality, as if by the kilo or the yard ? Will we be enlarging it ? Or adding new planes to it ? Or )] TJ ET
+BT 34.016 82.140 Td 2.151 Tw /F2 12.0 Tf  [(creating new realities, plural ? Their disagreement stems from the fact that we don't know much about the )] TJ ET
+BT 34.016 67.884 Td 2.911 Tw /F2 12.0 Tf  [(current geometry of reality and realities, conceived of as objects, stuff, or measurable quantities. Perhaps )] TJ ET
+BT 34.016 53.628 Td 1.341 Tw /F2 12.0 Tf  [("worlds" share the geometry of realities; importantly, we often use "world" in much the same way as we use )] TJ ET
+endstream
+endobj
+17 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 18 0 R
+>>
+endobj
+18 0 obj
+<<
+/Length 6442 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 34.016 746.579 Td 1.939 Tw /F2 12.0 Tf  [("reality". The idea that reality comes in planes, for example, may be descended from a medieval picture of )] TJ ET
+BT 34.016 732.323 Td 0.528 Tw /F2 12.0 Tf  [(layered worlds, from ours down to Hell and up to Heaven; each has its own rules, logic and inhabitants, though )] TJ ET
+BT 34.016 718.067 Td 1.502 Tw /F2 12.0 Tf  [(individuals also move or are moved among worlds depending upon their powers and virtues. If a reality is a )] TJ ET
+BT 34.016 703.811 Td 0.000 Tw /F2 12.0 Tf  [(world, this gives us both the sense of space and the sense of substance.)] TJ ET
+BT 34.016 677.555 Td 2.696 Tw /F2 12.0 Tf  [(Reality is an odd substance, though it shouldn't be surprising that VR researchers can think of it as one. )] TJ ET
+BT 34.016 663.299 Td 2.122 Tw /F2 12.0 Tf  [(According to the self-image and hype of the VR community, researchers are not merely in the business of )] TJ ET
+BT 34.016 649.043 Td 0.572 Tw /F2 12.0 Tf  [(creating 3-D video games or creating simulations of environments, but are creating real worlds to work in, play )] TJ ET
+BT 34.016 634.787 Td 0.846 Tw /F2 12.0 Tf  [(in, and explore. VR researchers are trying to make reality or realities, and to make something is to make some )] TJ ET
+BT 34.016 620.531 Td 2.370 Tw /F2 12.0 Tf  [(thing. But even though the common perception has it that reality is a singular closed system, and the VR )] TJ ET
+BT 34.016 606.275 Td 0.438 Tw /F2 12.0 Tf  [(community treats reality as a substance to be manufactured, we don't know whether it is best pictured in planes, )] TJ ET
+BT 34.016 592.019 Td 0.546 Tw /F2 12.0 Tf  [(as more amorphous stuff, or as an indivisible unit. A good account of reality should develop and make sense of )] TJ ET
+BT 34.016 577.763 Td 0.502 Tw /F2 12.0 Tf  [(as many of these metaphors as possible, to allow us to understand how reality is planar, or how the reality level )] TJ ET
+BT 34.016 563.507 Td 0.000 Tw /F2 12.0 Tf  [(of VR is rising.)] TJ ET
+BT 34.016 492.473 Td /F1 14.0 Tf  [(The body as foundation and target of VR)] TJ ET
+BT 64.016 455.772 Td 2.500 Tw /F2 12.0 Tf  [(With virtual realities upon us, we may find it increasingly difficult to distinguish between our )] TJ ET
+BT 64.016 441.516 Td 0.000 Tw /F2 12.0 Tf  [("natural" selves and the electronic extensions. \(de Kerckhove 177\))] TJ ET
+BT 64.016 415.260 Td 1.204 Tw /F2 12.0 Tf  [(I think one of the striking things about a virtual world system in which you have the pliancy, the )] TJ ET
+BT 64.016 401.004 Td 0.589 Tw /F2 12.0 Tf  [(ability to change the content of the world easily, is that the distinction between your own body and )] TJ ET
+BT 64.016 386.748 Td 0.000 Tw /F2 12.0 Tf  [(the rest of the world is slippery. \(Lanier & Biocca, qtd. in de Kerckhove 203\))] TJ ET
+BT 34.016 348.492 Td 1.027 Tw /F2 12.0 Tf  [(VRs are ideally tactile environments, full of sensual experiences. More centrally, the technology makes use of )] TJ ET
+BT 34.016 334.236 Td 2.022 Tw /F2 12.0 Tf  [(body knowledge, our ability to respond physically to situations, to communicate using more than our vocal )] TJ ET
+BT 34.016 319.980 Td 1.441 Tw /F2 12.0 Tf  [(chords or the tips of our fingers. VR treats us as fully embodied creatures and then stimulates and trains our )] TJ ET
+BT 34.016 305.724 Td 2.897 Tw /F2 12.0 Tf  [(bodies in ways that are appropriate to the virtual environment. Until now the most convincing of virtual )] TJ ET
+BT 34.016 291.468 Td 2.751 Tw /F2 12.0 Tf  [(environments have been the US military's flight simulators; they place the pilot-in-training in an artificial )] TJ ET
+BT 34.016 277.212 Td 1.571 Tw /F2 12.0 Tf  [(cockpit, complete with visual displays that respond with subtlety to physical commands. Other activities that )] TJ ET
+BT 34.016 262.956 Td 1.740 Tw /F2 12.0 Tf  [(involve high levels of risk, skill, and money -- medicine is an obvious domain -- will probably be similarly )] TJ ET
+BT 34.016 248.700 Td 0.277 Tw /F2 12.0 Tf  [(simulated over the coming decades. And one other prominent attempt to produce and use body knowledge is the )] TJ ET
+BT 34.016 234.444 Td 1.582 Tw /F2 12.0 Tf  [(simulation, using VR techniques, of the tinker-toy models chemists use to gain insight into the structure and )] TJ ET
+BT 34.016 220.188 Td 0.611 Tw /F2 12.0 Tf  [(properties of molecules. VR revalidates, in a high-tech setting, body knowledge, and thus takes us away from a )] TJ ET
+BT 34.016 205.932 Td 0.000 Tw /F2 12.0 Tf  [(logocentric mode, away from some of our modern ideals of rational control and communication.)] TJ ET
+BT 34.016 179.676 Td 0.689 Tw /F2 12.0 Tf  [(Yet cyberculture is the culmination of those same modern ideals in its recognition and attempted erasure of the )] TJ ET
+BT 34.016 165.420 Td 2.745 Tw /F2 12.0 Tf  [(limitations of bodies. Dominant metaphors make bodies soft and weak compared to silicon-based entities. )] TJ ET
+BT 34.016 151.164 Td 2.928 Tw /F2 12.0 Tf  [(William Gibson's futuristic characters are exemplary in this, displaying cybernauts' contempt for flesh, or )] TJ ET
+BT 34.016 136.908 Td 1.114 Tw /F2 12.0 Tf  [("meat", as it is often called \(I should clarify, however, that Gibson's "Matrix" is not a VR, even though it has )] TJ ET
+BT 34.016 122.652 Td 0.324 Tw /F2 12.0 Tf  [(some cultural continuity with VR\). Gibson's best bodies are largely artificial, enhanced through muscle implants )] TJ ET
+BT 34.016 108.396 Td 2.847 Tw /F2 12.0 Tf  [(and rigorous physical training; Molly, of )] TJ ET
+BT 249.422 108.396 Td 2.847 Tw /F3 12.0 Tf  [(Neuromancer)] TJ ET
+BT 315.410 108.396 Td 2.847 Tw /F2 12.0 Tf  [( and )] TJ ET
+BT 344.431 108.396 Td 2.847 Tw /F3 12.0 Tf  [(Mona Lisa Overdrive)] TJ ET
+BT 453.445 108.396 Td 2.847 Tw /F2 12.0 Tf  [( fame, is the favorite, a )] TJ ET
+BT 34.016 94.140 Td 0.630 Tw /F2 12.0 Tf  [(feminine cyborg for hire, complete with rewired nerves that speed up reaction times and razor-sharp retractable )] TJ ET
+BT 34.016 79.884 Td 0.658 Tw /F2 12.0 Tf  [(claws that slice through too-slow meat. Gibson's other freaks abandon their bodies, sometimes for long trips on )] TJ ET
+BT 34.016 65.628 Td 1.766 Tw /F2 12.0 Tf  [(the net, and other times for good. Molly's counterpart Case also has a tight, wired body, but because of the )] TJ ET
+BT 34.016 51.372 Td 0.677 Tw /F2 12.0 Tf  [(neglect that comes from too much drugs and too many hours exploring the Matrix. Lise of Gibson's short story )] TJ ET
+endstream
+endobj
+19 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 20 0 R
+>>
+endobj
+20 0 obj
+<<
+/Length 7025 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 34.016 746.579 Td 3.996 Tw /F2 12.0 Tf  [("The Winter Market" is a down-and-out mindscape artist held together and dragged through life by a )] TJ ET
+BT 34.016 732.323 Td 1.127 Tw /F2 12.0 Tf  [(polycarbon prosthetic. When she makes it big she can afford to abandon the prosthetic and what is left of her )] TJ ET
+BT 34.016 718.067 Td 0.335 Tw /F2 12.0 Tf  [(body in favor of a fully electronic simulation of herself. This is not a fascination peculiar to Gibson. In the 1992 )] TJ ET
+BT 34.016 703.811 Td 1.605 Tw /F2 12.0 Tf  [(film )] TJ ET
+BT 58.625 703.811 Td 1.605 Tw /F3 12.0 Tf  [(The Lawnmower Man)] TJ ET
+BT 167.172 703.811 Td 1.605 Tw /F2 12.0 Tf  [( the central character abandons his body for an electronic life. Among cyberspace )] TJ ET
+BT 34.016 689.555 Td 1.024 Tw /F2 12.0 Tf  [(residents he is an oddity, because he abandons an exemplary body, flawed only in its materiality. Abandoning )] TJ ET
+BT 34.016 675.299 Td 1.385 Tw /F2 12.0 Tf  [(the body, or at least the flawed bodies we are saddled with, is an ideal built into VR. Meat holds cybernauts )] TJ ET
+BT 34.016 661.043 Td 0.884 Tw /F2 12.0 Tf  [(back, limiting their informational excursions. The virtualization of the body, then, is a goal in part because the )] TJ ET
+BT 34.016 646.787 Td 0.750 Tw /F2 12.0 Tf  [(body represents an unfortunate link to a material reality that "isn't enough anymore". Virtualizing the body is a )] TJ ET
+BT 34.016 632.531 Td 0.000 Tw /F2 12.0 Tf  [(special case of the virtualization of reality as a whole.)] TJ ET
+BT 34.016 606.275 Td 0.221 Tw /F2 12.0 Tf  [(Margaret Morse's fascinating paper "What do Cyborgs Eat ?" points out that the construction of the cyborg body )] TJ ET
+BT 34.016 592.019 Td 0.233 Tw /F2 12.0 Tf  [(represents an accommodation of the human to the machine \(see also Stone\). This accommodation leaks from the )] TJ ET
+BT 34.016 577.763 Td 0.600 Tw /F2 12.0 Tf  [(pages of cyberpunk novels into everyday culture in the form of an anorexic ethic of not eating. For cyborgs the )] TJ ET
+BT 34.016 563.507 Td 3.234 Tw /F2 12.0 Tf  [(smart drug -- "a kind of lubricant or 'tune-up' for wetware" \(Morse 161\) -- or some other goal-specific )] TJ ET
+BT 34.016 549.251 Td 2.844 Tw /F2 12.0 Tf  [(nourishment replaces food, because human-machine interactions demand a machine-like performance from )] TJ ET
+BT 34.016 534.995 Td 1.395 Tw /F2 12.0 Tf  [(mind and body. Although Morse's call for reversing this human-machine relationship suggests a nostalgia for )] TJ ET
+BT 34.016 520.739 Td 1.335 Tw /F2 12.0 Tf  [(human autonomy, it is rooted in a realization that meat-based systems are not infinitely flexible, that cyborgs )] TJ ET
+BT 34.016 506.483 Td 0.779 Tw /F2 12.0 Tf  [(need to eat. This is an important limitation of VRs : as long as they are realities designed for humans, they are )] TJ ET
+BT 34.016 492.227 Td 1.710 Tw /F2 12.0 Tf  [(limited by the needs of our soft bodies. Overcoming these limitations is central to cybernautic fantasies, but )] TJ ET
+BT 34.016 477.971 Td 0.848 Tw /F2 12.0 Tf  [(before VR can serve as a surrogate Deceiver it will have to deceive the body. Technicians will have to answer )] TJ ET
+BT 34.016 463.715 Td 0.552 Tw /F2 12.0 Tf  [(Morse's question, "What do cyborgs eat ?", to allow users to live in VR and not just to visit it. Just as we know )] TJ ET
+BT 34.016 449.459 Td 2.008 Tw /F2 12.0 Tf  [(the difference between dreams and waking experiences, because we dip in and out of dreamworlds, we are )] TJ ET
+BT 34.016 435.203 Td 0.969 Tw /F2 12.0 Tf  [(likely to know the difference between VR and less artificial experiences until we no longer have to dip in and )] TJ ET
+BT 34.016 420.947 Td 1.588 Tw /F2 12.0 Tf  [(out of VR. Fooling the body is perhaps just the hardest case of a more general problem of robustness : it is )] TJ ET
+BT 34.016 406.691 Td 1.775 Tw /F2 12.0 Tf  [(unlikely that VR technologies in the foreseeable future will deceive us in their realism, and therefore David )] TJ ET
+BT 34.016 392.435 Td 0.000 Tw /F2 12.0 Tf  [(Zeltzer is almost certainly right that Zizek's Virtual Deceiver is a Holy Grail, an unreachable goal.)] TJ ET
+BT 34.016 321.401 Td /F1 14.0 Tf  [(Simulations and artificial realities)] TJ ET
+BT 34.016 296.700 Td 2.283 Tw /F2 12.0 Tf  [(Zizek's observation that VR virtualizes reality is more complicated than Druckrey or I \(in paragraphs 7-10 )] TJ ET
+BT 34.016 282.444 Td 0.826 Tw /F2 12.0 Tf  [(above\) gave him credit for. He carefully distinguishes between the "Real" and "reality" : whereas the "Real" is )] TJ ET
+BT 34.016 268.188 Td 1.892 Tw /F2 12.0 Tf  [(the hard kernel that we must posit as resisting metaphorization, "reality" refers to our experiences. And our )] TJ ET
+BT 34.016 253.932 Td 2.405 Tw /F2 12.0 Tf  [(experiences, following Lacan, are framed by our fantasies. Zizek is modifying and extending the idea that )] TJ ET
+BT 34.016 239.676 Td 0.530 Tw /F2 12.0 Tf  [(categories are prior to experiences, where the relevant categories are many, varied, and pliable. In particular, he )] TJ ET
+BT 34.016 225.420 Td 0.862 Tw /F2 12.0 Tf  [(takes sex as paradigmatic reality and "sex" as a paradigmatic category. Our experience of sex with a flesh-and-)] TJ ET
+BT 34.016 211.164 Td 1.540 Tw /F2 12.0 Tf  [(blood partner, he claims, is experienced as sex to the extent that it matches our fantasies, sex with imagined )] TJ ET
+BT 34.016 196.908 Td 0.987 Tw /F2 12.0 Tf  [(partners. Rather than being a poor copy of real sex, masturbation is the model of which sex is the copy. If we )] TJ ET
+BT 34.016 182.652 Td 3.195 Tw /F2 12.0 Tf  [(take sex as paradigmatic, then our experience of the "true, hard, external reality" can only be based on )] TJ ET
+BT 34.016 168.396 Td 0.864 Tw /F2 12.0 Tf  [(virtualizations of that reality. Zizek is not claiming, then, that VR will conform itself to experiences so closely )] TJ ET
+BT 34.016 154.140 Td 0.443 Tw /F2 12.0 Tf  [(as to provide a new Deceiver, but that VR will produce new types of experiences of non-virtual realities. In this )] TJ ET
+BT 34.016 139.884 Td 0.000 Tw /F2 12.0 Tf  [(respect VR will be like many other aggressive technologies and media, especially film, Zizek's main focus.)] TJ ET
+BT 34.016 113.628 Td 0.945 Tw /F2 12.0 Tf  [(Of course sex is an odd choice for paradigmatic reality, being more obviously responsive to our fantasies than )] TJ ET
+BT 34.016 99.372 Td 0.562 Tw /F2 12.0 Tf  [(most other things we take to be real. But the argument does not depend in any important way on that choice : a )] TJ ET
+BT 34.016 85.116 Td 2.127 Tw /F2 12.0 Tf  [(more cautious version of Zizek's argument could accept our standard paradigms, the material world and its )] TJ ET
+BT 34.016 70.860 Td 3.232 Tw /F2 12.0 Tf  [(objects. Experiences of some virtual reality might still tend to produce new types of experiences of the )] TJ ET
+BT 34.016 56.604 Td 0.547 Tw /F2 12.0 Tf  [(paradigm. After long sessions of playing a computer video game, my driving -- in my true, hard, external car -- )] TJ ET
+endstream
+endobj
+21 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 22 0 R
+>>
+endobj
+22 0 obj
+<<
+/Length 5460 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 34.016 746.579 Td 2.320 Tw /F2 12.0 Tf  [(changes, and in ways that are easy to detect. I am more inclined to pose challenges, to take advantage of )] TJ ET
+BT 34.016 732.323 Td 0.000 Tw /F2 12.0 Tf  [(openings in the road. This is one small way in which the artificial changes the boundaries of the real.)] TJ ET
+BT 34.016 706.067 Td /F2 12.0 Tf  [(Myron Krueger raises a similar point :)] TJ ET
+BT 64.016 667.811 Td 0.880 Tw /F2 12.0 Tf  [(But what of a world in which every action is rehearsed in simulation before it is taken, as was the )] TJ ET
+BT 64.016 653.555 Td 3.520 Tw /F2 12.0 Tf  [(case for pilots during the Gulf war ? Will real action lose its immediacy when it is but a )] TJ ET
+BT 64.016 639.299 Td 0.000 Tw /F2 12.0 Tf  [(recapitulation of simulated activity ? \(Heim ix\))] TJ ET
+BT 34.016 601.043 Td 0.977 Tw /F2 12.0 Tf  [(Krueger's concern about immediacy is a concern about those boundaries. If we try to make our experiences of )] TJ ET
+BT 34.016 586.787 Td 0.422 Tw /F2 12.0 Tf  [("true reality" mimic our experiences of simulated reality, as the US military attempted in the Gulf War, then we )] TJ ET
+BT 34.016 572.531 Td 0.855 Tw /F2 12.0 Tf  [(may be giving up some of the immediacy of those experiences of "true reality". In the case of the Gulf War, a )] TJ ET
+BT 34.016 558.275 Td 0.788 Tw /F2 12.0 Tf  [(lack of immediacy was exactly the object, helping to distance the participants from the objects of their attacks; )] TJ ET
+BT 34.016 544.019 Td 2.099 Tw /F2 12.0 Tf  [(this may be, as Paul Virilio would suggest, only the most recent and most successful use of representional )] TJ ET
+BT 34.016 529.763 Td 1.139 Tw /F2 12.0 Tf  [(technologies to mediate and contain experiences of battle \(50\). As experiences lose their immediacy, what we )] TJ ET
+BT 34.016 515.507 Td 0.000 Tw /F2 12.0 Tf  [(experience loses some of its status as reality -- reality seems less real.)] TJ ET
+BT 34.016 444.473 Td /F1 14.0 Tf  [(Simulations and authenticity)] TJ ET
+BT 64.016 407.772 Td 4.054 Tw /F2 12.0 Tf  [([S]imulation threatens the difference between the "true" and the "false", the "real" and the )] TJ ET
+BT 64.016 393.516 Td 0.000 Tw /F2 12.0 Tf  [("imaginary". \(Baudrillard, Simulacra 3\))] TJ ET
+BT 34.016 355.260 Td 0.242 Tw /F2 12.0 Tf  [(Virtual reality is a simulation of space and objects in space, but, as Jean Baudrillard has pointed out, simulations )] TJ ET
+BT 34.016 341.004 Td 0.802 Tw /F2 12.0 Tf  [(are odd entities. Whereas a representation, at least since the demise of the picture theory of language, need not )] TJ ET
+BT 34.016 326.748 Td 0.634 Tw /F2 12.0 Tf  [(resemble the objects or relations it represents : at its core a representation is a coded description, expression, or )] TJ ET
+BT 34.016 312.492 Td 0.650 Tw /F2 12.0 Tf  [(portrayal; a simulation, by contrast, re-creates some of the characteristics of that which it simulates, even while )] TJ ET
+BT 34.016 298.236 Td 0.000 Tw /F2 12.0 Tf  [(it is a copy or fake. For this reason simulation threatens the difference between the real and the irreal.)] TJ ET
+BT 34.016 271.980 Td 2.707 Tw /F2 12.0 Tf  [(Like Zizek, Baudrillard starts from an interesting and complex set of examples to make his point vivid : )] TJ ET
+BT 34.016 257.724 Td 1.770 Tw /F2 12.0 Tf  [(religious icons, Disneyland, ethnology protecting the isolation of a society, and illnesses, particularly mental )] TJ ET
+BT 34.016 243.468 Td 2.324 Tw /F2 12.0 Tf  [(illnesses. "Whoever fakes an illness can simply stay in bed and make everyone believe he is ill. Whoever )] TJ ET
+BT 34.016 229.212 Td 2.740 Tw /F2 12.0 Tf  [(simulates an illness produces in himself some of the symptoms" \(Littré, qtd in Baudrillard, Simulacra 3\). )] TJ ET
+BT 34.016 214.956 Td 0.886 Tw /F2 12.0 Tf  [(Simulations are fakes, but they are fakes made by appropriating qualities of the real. They are thus themselves )] TJ ET
+BT 34.016 200.700 Td 0.332 Tw /F2 12.0 Tf  [(real -- though Baudrillard prefers to say that they are "hyperreal" because he conceives reality in terms of depth, )] TJ ET
+BT 34.016 186.444 Td 1.612 Tw /F2 12.0 Tf  [(stasis and authenticity. The reality of simulations is a second way in which VR enthusiasts are right in their )] TJ ET
+BT 34.016 172.188 Td 2.018 Tw /F2 12.0 Tf  [(claims that VR is changing the boundaries of the real. To the extent that VR has qualities of reality it can )] TJ ET
+BT 34.016 157.932 Td 0.000 Tw /F2 12.0 Tf  [(become a reality.)] TJ ET
+BT 34.016 131.676 Td 0.786 Tw /F2 12.0 Tf  [(Just before the beginning of the 1991 Gulf War, Baudrillard wrote a now almost infamous article insisting that )] TJ ET
+BT 34.016 117.420 Td 2.803 Tw /F2 12.0 Tf  [(the war in the Gulf would not occur \("La guerre du Golfe n'aura pas lieu", published in the Manchester )] TJ ET
+BT 34.016 103.164 Td 1.756 Tw /F2 12.0 Tf  [(Guardian as "The Reality Gulf"\). In part this insistence reflected his firm belief in deterrence, and in part it )] TJ ET
+BT 34.016 88.908 Td 0.790 Tw /F2 12.0 Tf  [(reflected his belief that coming out of the standoff there were only many-layered images of war, images which )] TJ ET
+BT 34.016 74.652 Td 0.825 Tw /F2 12.0 Tf  [(bore no resemblance to actual wars, though they did resemble some Hollywood films. For Baudrillard Saddam )] TJ ET
+BT 34.016 60.396 Td 0.508 Tw /F2 12.0 Tf  [(Hussein was, through his use of hostages, engaged in a simulation of war. As if to insist that his first article not )] TJ ET
+endstream
+endobj
+23 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 24 0 R
+>>
+endobj
+24 0 obj
+<<
+/Length 6332 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 34.016 746.579 Td 0.554 Tw /F2 12.0 Tf  [(be read as a simple mistake, during and after the war he wrote and published two more installments -- the three )] TJ ET
+BT 34.016 732.323 Td 1.951 Tw /F2 12.0 Tf  [(were later published together under the title, "La guerre du Golfe n'a pas eu lieu". Despite the soldiers, the )] TJ ET
+BT 34.016 718.067 Td 0.869 Tw /F2 12.0 Tf  [(bombs, the deaths, Baudrillard insists that what happened was not a war, but rather a simulation of a war, or a )] TJ ET
+BT 34.016 703.811 Td 1.817 Tw /F2 12.0 Tf  [(hyperreal war. Unlike past wars, fought primarily for territory or political control, the Gulf War was fought )] TJ ET
+BT 34.016 689.555 Td 2.196 Tw /F2 12.0 Tf  [(primarily for the sake of images. A war for the sake of images, Baudrillard claims, is not authentic, but a )] TJ ET
+BT 34.016 675.299 Td 0.000 Tw /F2 12.0 Tf  [(simulacrum.)] TJ ET
+BT 34.016 649.043 Td 0.493 Tw /F2 12.0 Tf  [(For Baudrillard, like many others, reality has to be in some way authentic or natural. It is arguable, though, that )] TJ ET
+BT 34.016 634.787 Td 0.891 Tw /F2 12.0 Tf  [(his concern with authenticity is dated, at least for those of us who have always lived in artificial surroundings. )] TJ ET
+BT 34.016 620.531 Td 0.397 Tw /F2 12.0 Tf  [(His concern that reality has disappeared depends upon a nostalgic view of reality as profound. Because much of )] TJ ET
+BT 34.016 606.275 Td 0.502 Tw /F2 12.0 Tf  [(our environment, from the Simpsons to supermarkets, has no pretension to naturalness or authenticity -- and we )] TJ ET
+BT 34.016 592.019 Td 2.809 Tw /F2 12.0 Tf  [(recognize this in part because of the work of commentators like Baudrillard -- these criteria can now be )] TJ ET
+BT 34.016 577.763 Td 0.287 Tw /F2 12.0 Tf  [(disengaged from reality. If we live among simulacra, images which do not pretend to refer, then so be it : reality )] TJ ET
+BT 34.016 563.507 Td 1.545 Tw /F2 12.0 Tf  [(has ceased to be necessarily authentic. All that is added in calling these simulacra "hyperreal" is attention to )] TJ ET
+BT 34.016 549.251 Td 2.195 Tw /F2 12.0 Tf  [(their artificiality, the deliberateness of their invention. A modern supermarket is a crafted environment that )] TJ ET
+BT 34.016 534.995 Td 1.004 Tw /F2 12.0 Tf  [(bears no resemblance to the markets which were its ancestors. A successful television show refers to itself, its )] TJ ET
+BT 34.016 520.739 Td 0.000 Tw /F2 12.0 Tf  [(counterparts, and its immediate ancestors, not to some external reality. External reality refers to it.)] TJ ET
+BT 34.016 449.705 Td /F1 14.0 Tf  [(A Platonic critic)] TJ ET
+BT 64.016 413.004 Td 0.316 Tw /F2 12.0 Tf  [(Reality is still there, though not in the material realm of the physical universe where the modern era )] TJ ET
+BT 64.016 398.748 Td 0.540 Tw /F2 12.0 Tf  [(assumed it to be. In my attempt to distinguish between simulation and imitation, the virtual and the )] TJ ET
+BT 64.016 384.492 Td 1.886 Tw /F2 12.0 Tf  [(artificial, I have tried to provide a glimpse of where that reality may be, in the formal, abstract )] TJ ET
+BT 64.016 370.236 Td 2.881 Tw /F2 12.0 Tf  [(domain revealed by mathematics and computation. [T]he computer has, through its simulative )] TJ ET
+BT 64.016 355.980 Td 0.000 Tw /F2 12.0 Tf  [(powers, provided what I regard as reassuring evidence that it is still there. \(Woolley 254\))] TJ ET
+BT 34.016 317.724 Td 0.399 Tw /F2 12.0 Tf  [(Benjamin Woolley is unimpressed by VR and unimpressed by arguments for the disappearance of reality. In his )] TJ ET
+BT 34.016 303.468 Td 0.752 Tw /F3 12.0 Tf  [(Virtual Worlds)] TJ ET
+BT 106.444 303.468 Td 0.752 Tw /F2 12.0 Tf  [( he presents us with a litany of sexy new technologies, mathematical and scientific theories, and )] TJ ET
+BT 34.016 289.212 Td 3.737 Tw /F2 12.0 Tf  [(postmodernist arguments, though his message is consistently anti-euphoric : as the subtitle to the book )] TJ ET
+BT 34.016 274.956 Td 2.337 Tw /F2 12.0 Tf  [(advertises, his exploration is a Journey in Hype and Hyperreality. Whereas VR enthusiasts tend to see the )] TJ ET
+BT 34.016 260.700 Td 0.399 Tw /F2 12.0 Tf  [(technology as breaking new frontiers and re-arranging consciousness, Woolley prefers to draw attention to VR's )] TJ ET
+BT 34.016 246.444 Td 0.576 Tw /F2 12.0 Tf  [(more mundane roots in flight simulators. He points to the failures of artificial intelligence research to live up to )] TJ ET
+BT 34.016 232.188 Td 3.568 Tw /F2 12.0 Tf  [(early promises; he wonders why we should care about chaos theory, why we should have cared about )] TJ ET
+BT 34.016 217.932 Td 1.261 Tw /F2 12.0 Tf  [(catastrophe theory during its heyday; he argues that the Internet is only the latest network; and he insists that )] TJ ET
+BT 34.016 203.676 Td 0.626 Tw /F2 12.0 Tf  [(Baudrillard's Gulf War that did not take place most definitely took place, even if it was shaped by the demands )] TJ ET
+BT 34.016 189.420 Td 0.000 Tw /F2 12.0 Tf  [(of computers, other high-tech devices, and audiences expecting a Hollywood war.)] TJ ET
+BT 34.016 163.164 Td 1.114 Tw /F2 12.0 Tf  [(Woolley is still fascinated by these over-hyped postmodern cultural developments, even if he wants to expose )] TJ ET
+BT 34.016 148.908 Td 2.150 Tw /F2 12.0 Tf  [(the modernity at their cores. While he doesn't accept Baudrillard's conclusions, he is bothered by the same )] TJ ET
+BT 34.016 134.652 Td 0.631 Tw /F2 12.0 Tf  [(developments that Baudrillard celebrates, in part because the two critics share an image of reality. The material )] TJ ET
+BT 34.016 120.396 Td 1.374 Tw /F2 12.0 Tf  [(world is becoming increasingly artificial and inauthentic; it imitates -- though rarely lives up to -- our ideals. )] TJ ET
+BT 34.016 106.140 Td 0.495 Tw /F2 12.0 Tf  [(And these changes are disturbing not just because of the type of change they are, but because they highlight the )] TJ ET
+BT 34.016 91.884 Td 0.290 Tw /F2 12.0 Tf  [(instability of the material world. Artificiality and instability are both symptoms of irreality, because for Woolley )] TJ ET
+BT 34.016 77.628 Td 0.000 Tw /F2 12.0 Tf  [(that which is most real is natural and enduring, not artificial and fleeting.)] TJ ET
+BT 34.016 51.372 Td 0.318 Tw /F2 12.0 Tf  [(Umberto Eco, who was disappointed with the real Mississippi, claims that "Disneyland [with its riverboats] tells )] TJ ET
+endstream
+endobj
+25 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 26 0 R
+>>
+endobj
+26 0 obj
+<<
+/Length 6345 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 34.016 746.579 Td 1.400 Tw /F2 12.0 Tf  [(us that technology can give us more reality than nature can" \(44\). Woolley is similarly disappointed with his )] TJ ET
+BT 34.016 732.323 Td 1.969 Tw /F2 12.0 Tf  [(real Mississippis, but doesn't find their improvement in technology, at least not directly. Rather he looks to )] TJ ET
+BT 34.016 718.067 Td 1.274 Tw /F2 12.0 Tf  [(mathematical physics and its kin for an authentic world, because mathematical physics is the most revered of )] TJ ET
+BT 34.016 703.811 Td 0.465 Tw /F2 12.0 Tf  [(sciences, and science is the attempt to uncover reality. The physicists' world, a world of mathematized laws and )] TJ ET
+BT 34.016 689.555 Td 0.541 Tw /F2 12.0 Tf  [(snapshots, apparently satisfies Woolley's requirements of reality, because it is objective, natural and enduring -- )] TJ ET
+BT 34.016 675.299 Td 1.904 Tw /F2 12.0 Tf  [(Woolley would not be too happy with recent discussions in the field of Science & Technology studies \(see )] TJ ET
+BT 34.016 661.043 Td 2.842 Tw /F2 12.0 Tf  [(Sismondo\). The physicists' world is objective both in the sense that it is \(assumed to be\) external to us, )] TJ ET
+BT 34.016 646.787 Td 0.449 Tw /F2 12.0 Tf  [(discovered rather than invented, and in the sense that science is our best example of objective knowledge. If the )] TJ ET
+BT 34.016 632.531 Td 0.817 Tw /F2 12.0 Tf  [(book of nature is written in the language of mathematics, then the physicists' world is as natural as is possible. )] TJ ET
+BT 34.016 618.275 Td 0.568 Tw /F2 12.0 Tf  [(And it is enduring because even when laws describe change they are always structural, always identifying what )] TJ ET
+BT 34.016 604.019 Td 0.000 Tw /F2 12.0 Tf  [(remains the same through time, or through some other variable.)] TJ ET
+BT 34.016 577.763 Td 0.786 Tw /F2 12.0 Tf  [(For Woolley, computer simulations spread artificiality, but they also reinforce his position. Along with physics )] TJ ET
+BT 34.016 563.507 Td 3.772 Tw /F2 12.0 Tf  [(the simulation power of computers tells us that the book of nature is written in mathematics, because )] TJ ET
+BT 34.016 549.251 Td 2.060 Tw /F2 12.0 Tf  [(simulations are done mathematically : the more that can be simulated the more nature is shown to roughly )] TJ ET
+BT 34.016 534.995 Td 0.234 Tw /F2 12.0 Tf  [(instantiate a Platonic reality. Woolley's reality is Platonic because it is an abstraction away from the world as we )] TJ ET
+BT 34.016 520.739 Td 0.927 Tw /F2 12.0 Tf  [(experience it, an ideal description of the forms and structures that lie behind or underneath our experience. He )] TJ ET
+BT 34.016 506.483 Td 1.483 Tw /F2 12.0 Tf  [(would be uncomfortable, though, with the Platonic notion that ours is only an imperfect copy of a more real )] TJ ET
+BT 34.016 492.227 Td 0.000 Tw /F2 12.0 Tf  [(world of forms, because he thinks that that ideal reality is found embedded in the natural world.)] TJ ET
+BT 34.016 465.971 Td 2.280 Tw /F2 12.0 Tf  [(This version of reality is quite austere, limited to the structures of the natural world that can be described )] TJ ET
+BT 34.016 451.715 Td 3.350 Tw /F2 12.0 Tf  [(mathematically. Austerity is a calculated impoverishment, though like most austerity programs Woolley's )] TJ ET
+BT 34.016 437.459 Td 2.521 Tw /F2 12.0 Tf  [(follows some traditional paths. As I've claimed, the attention of VR enthusiasts and their critics is on the )] TJ ET
+BT 34.016 423.203 Td 2.757 Tw /F2 12.0 Tf  [(material world, rather than the social world : even though interaction is a goal of VR, the real world of )] TJ ET
+BT 34.016 408.947 Td 1.361 Tw /F2 12.0 Tf  [(institutions is usually forgotten, or even deliberately excluded. Partly because of that exclusion commentators )] TJ ET
+BT 34.016 394.691 Td 1.046 Tw /F2 12.0 Tf  [(such as Woolley and Baudrillard see reality as static -- this is not to say that material reality is static, but it is )] TJ ET
+BT 34.016 380.435 Td 0.000 Tw /F2 12.0 Tf  [(often conceived in terms of what remains invariant.)] TJ ET
+BT 34.016 309.401 Td /F1 14.0 Tf  [("Real" deflated)] TJ ET
+BT 64.016 272.700 Td 0.615 Tw /F2 12.0 Tf  [(I want to take a closer look at this little word "real". I propose, if you like, to discuss the Nature of )] TJ ET
+BT 64.016 258.444 Td 2.456 Tw /F2 12.0 Tf  [(Reality -- a genuinely important topic, though in general I don't much like making this claim. )] TJ ET
+BT 64.016 244.188 Td 0.000 Tw /F2 12.0 Tf  [(\(Austin 62\))] TJ ET
+BT 34.016 205.932 Td 1.019 Tw /F2 12.0 Tf  [(Talk of and around VR, then, provides us with a number of characteristics of reality. One option is to dismiss )] TJ ET
+BT 34.016 191.676 Td 1.768 Tw /F2 12.0 Tf  [(this mess as the product of overzealous enthusiasts and critics, and to retreat to a reductive and monovalent )] TJ ET
+BT 34.016 177.420 Td 1.993 Tw /F2 12.0 Tf  [(account of reality, such as a materialist account or Woolley's physicalist one. I think that that is the wrong )] TJ ET
+BT 34.016 163.164 Td 0.668 Tw /F2 12.0 Tf  [(option to take. Even putting VR aside, reality is too multifaceted, or there are too many types of realities, to be )] TJ ET
+BT 34.016 148.908 Td 1.202 Tw /F2 12.0 Tf  [(shoehorned into a reductive account. Instead, in the rest of this essay I reorganize and unify characteristics of )] TJ ET
+BT 34.016 134.652 Td 0.905 Tw /F2 12.0 Tf  [(realities in a flexible deflationary account. I want to understand reality in terms that recognize the insights and )] TJ ET
+BT 34.016 120.396 Td 1.076 Tw /F2 12.0 Tf  [(temptations of different cybernauts' images of reality, even those that I criticize, like Baudrillard's authenticity )] TJ ET
+BT 34.016 106.140 Td 3.236 Tw /F2 12.0 Tf  [(criterion. My account is deflationary in the sense that it flatly denies an ultimate reality, though not so )] TJ ET
+BT 34.016 91.884 Td 0.000 Tw /F2 12.0 Tf  [(deflationary as to deny characteristics that realities might have.)] TJ ET
+BT 34.016 65.628 Td 1.669 Tw /F2 12.0 Tf  [(A currently fashionable, though not popular, account of what is real in philosophical circles stems from J.L. )] TJ ET
+BT 34.016 51.372 Td 0.672 Tw /F2 12.0 Tf  [(Austin's simple and elegant analysis of our concept of "real" in his )] TJ ET
+BT 363.989 51.372 Td 0.672 Tw /F3 12.0 Tf  [(Sense and Sensibilia)] TJ ET
+BT 463.997 51.372 Td 0.672 Tw /F2 12.0 Tf  [( \(1962\). Writing before )] TJ ET
+endstream
+endobj
+27 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 28 0 R
+>>
+endobj
+28 0 obj
+<<
+/Length 6815 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 34.016 746.579 Td 0.440 Tw /F2 12.0 Tf  [(the language-expanding days of the 1960s, Austin could easily argue that "real" gets its meaning from its use as )] TJ ET
+BT 34.016 732.323 Td 0.185 Tw /F2 12.0 Tf  [(an adjective : it only makes grammatical sense if it modifies an explicit or implicit object. You might have a real )] TJ ET
+BT 34.016 718.067 Td 0.530 Tw /F2 12.0 Tf  [(Roy Liechtenstein painting or a fake one, or an imitation or print. You could have seen a real Peregrine Falcon, )] TJ ET
+BT 34.016 703.811 Td 0.803 Tw /F2 12.0 Tf  [(or have been mistaken, having seen a Pigeon Hawk from a distance. Or I, arriving in the middle of your story, )] TJ ET
+BT 34.016 689.555 Td 0.875 Tw /F2 12.0 Tf  [(might think that you are talking about a real Peregrine, while you are talking about a striking film of one, or a )] TJ ET
+BT 34.016 675.299 Td 0.633 Tw /F2 12.0 Tf  [(dreamt one. What is important here is that "real" draws a contrast to one or another form of unreality. A real X )] TJ ET
+BT 34.016 661.043 Td 0.735 Tw /F2 12.0 Tf  [(is nothing more than an X, though in saying that it is a real X we emphasize that it isn't merely something that )] TJ ET
+BT 34.016 646.787 Td 0.393 Tw /F2 12.0 Tf  [(looks like or feels like an X, something that could be confused for or used as if it were an X. Thus Austin could )] TJ ET
+BT 34.016 632.531 Td 0.331 Tw /F2 12.0 Tf  [(claim that the negative of "real" -- the different forms of being unreal -- shapes the usage of the positive, not the )] TJ ET
+BT 34.016 618.275 Td 0.168 Tw /F2 12.0 Tf  [(other way around. What is real depends upon the illusions or artificialities that we want to distinguish, isolate, or )] TJ ET
+BT 34.016 604.019 Td 0.000 Tw /F2 12.0 Tf  [(avoid in some particular context. Real is therefore context-dependent.)] TJ ET
+BT 34.016 577.763 Td 0.407 Tw /F2 12.0 Tf  [("Reality", Austin presumes, marks the same or a closely derivative contrast. To my mind one advantage of such )] TJ ET
+BT 34.016 563.507 Td 1.144 Tw /F2 12.0 Tf  [(an account of reality is that multi-dimensionality jumps out of it immediately, eliminating any possibility of a )] TJ ET
+BT 34.016 549.251 Td 1.427 Tw /F2 12.0 Tf  [(singular, ultimate reality. Austin uses a number of different examples, but the one that he uses most to show )] TJ ET
+BT 34.016 534.995 Td 1.613 Tw /F2 12.0 Tf  [(multi-dimensionality is color. The real color of some object can be the color it appears to most observers in )] TJ ET
+BT 34.016 520.739 Td 1.330 Tw /F2 12.0 Tf  [(ordinary light. But the "real color of her hair" usually refers to its natural color, not the color it appears. The )] TJ ET
+BT 34.016 506.483 Td 0.264 Tw /F2 12.0 Tf  [(problems for real colors don't stop there, as Austin asks about, among other things, the real color of the sun, of a )] TJ ET
+BT 34.016 492.227 Td 0.817 Tw /F2 12.0 Tf  [(chameleon, and of a pointilliste painting which creates a green effect through combinations of blue and yellow )] TJ ET
+BT 34.016 477.971 Td 0.000 Tw /F2 12.0 Tf  [(dots.)] TJ ET
+BT 34.016 451.715 Td 1.402 Tw /F2 12.0 Tf  [(The case of art makes multi-dimensionality particularly clear. One can see a real Liechtenstein painting \(or a )] TJ ET
+BT 34.016 437.459 Td 0.189 Tw /F2 12.0 Tf  [(print of a Liechtenstein, materially real in itself\) and still ask, is it real art ? For that matter, is it a real frame of a )] TJ ET
+BT 34.016 423.203 Td 1.083 Tw /F2 12.0 Tf  [(comic strip, or a fake one ? Or one could see a fake Liechtenstein that is nonetheless both a real painting and )] TJ ET
+BT 34.016 408.947 Td 2.611 Tw /F2 12.0 Tf  [(real art; perhaps it is a comment on Liechtenstein, or simply an interesting derivative. The planes of real )] TJ ET
+BT 34.016 394.691 Td 0.985 Tw /F2 12.0 Tf  [(Liechtensteins, real works of art, real paintings, real comics, and the like intersect, and may have considerable )] TJ ET
+BT 34.016 380.435 Td 0.318 Tw /F2 12.0 Tf  [(overlap, but they also go off in their own directions. There are multiple realities, and any particular thing both is )] TJ ET
+BT 34.016 366.179 Td 1.434 Tw /F2 12.0 Tf  [(and is not real, depending on the reality one is concerned about. Like real things, reality is context-sensitive. )] TJ ET
+BT 34.016 351.923 Td 0.000 Tw /F2 12.0 Tf  [(This casts serious doubt on whether we could ever arrive at a substantive account of reality beyond Austin's.)] TJ ET
+BT 34.016 325.667 Td 0.898 Tw /F2 12.0 Tf  [(We shouldn't assume, though, that Austin's discussion of "real" translates unproblematically into an account of )] TJ ET
+BT 34.016 311.411 Td 0.740 Tw /F2 12.0 Tf  [("reality"; in fact to assume so would run counter to the spirit of his analysis, in spite of his coy suggestion that )] TJ ET
+BT 34.016 297.155 Td 0.677 Tw /F2 12.0 Tf  [(he is discussing the "Nature of Reality". Austin's focus on uses of "real" rather than "reality" has the advantage )] TJ ET
+BT 34.016 282.899 Td 0.663 Tw /F2 12.0 Tf  [(that the former is used much more often and in a wider variety of circumstances than the latter. But "reality" is )] TJ ET
+BT 34.016 268.643 Td 1.925 Tw /F2 12.0 Tf  [(an abstraction from and nominalization of "real", and as such affords some slightly different characteristics. )] TJ ET
+BT 34.016 254.387 Td 0.771 Tw /F2 12.0 Tf  [(Whereas Austin could correctly claim that "real" was "substantive-hungry" \(primarily an adjective\), "reality" is )] TJ ET
+BT 34.016 240.131 Td 0.526 Tw /F2 12.0 Tf  [(itself substantive. And "reality" is much less dependent upon its negative uses than "real", though its opposition )] TJ ET
+BT 34.016 225.875 Td 3.548 Tw /F2 12.0 Tf  [(to such non-reality as fantasy, dreaming, and hallucinating is still quite important. The translation from )] TJ ET
+BT 34.016 211.619 Td 0.607 Tw /F2 12.0 Tf  [(adjectives \(and adverbs, such as "really"\) to nouns does not go perfectly smoothly. Talk around VR can help to )] TJ ET
+BT 34.016 197.363 Td 0.352 Tw /F2 12.0 Tf  [(map out some of the bumps and twists in that translation, through the distinctions that VR researchers are trying )] TJ ET
+BT 34.016 183.107 Td 0.000 Tw /F2 12.0 Tf  [(to make when they claim that VR is virtual-2 \(computer-based\) rather than virtual-1 \(in effect\) reality.)] TJ ET
+BT 34.016 112.073 Td /F1 14.0 Tf  [(Paradigms and property-clusters)] TJ ET
+BT 34.016 87.372 Td 0.258 Tw /F2 12.0 Tf  [(The main lesson of Austin's analysis is that there is no one concept of the "real", that the word takes on meaning )] TJ ET
+BT 34.016 73.116 Td 0.239 Tw /F2 12.0 Tf  [(in relation to context and the ways of being unreal in context. Thus if we want to look for meanings of "real" we )] TJ ET
+BT 34.016 58.860 Td 0.532 Tw /F2 12.0 Tf  [(should, among other things, look to those negatives of real. Austin's partial list includes the adjectives artificial, )] TJ ET
+endstream
+endobj
+29 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 30 0 R
+>>
+endobj
+30 0 obj
+<<
+/Length 6895 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 34.016 746.579 Td 4.477 Tw /F2 12.0 Tf  [(fake, false, bogus, makeshift, dummy, synthetic, and toy, and the nouns dream, illusion, mirage, and )] TJ ET
+BT 34.016 732.323 Td 1.019 Tw /F2 12.0 Tf  [(hallucination \(71\). This list is not complete, and could grow longer with the growth of methods of simulation, )] TJ ET
+BT 34.016 718.067 Td 0.280 Tw /F2 12.0 Tf  [(representation, and reproduction. If we suppose that reality is a systematic set of real things, then reading his list )] TJ ET
+BT 34.016 703.811 Td 0.917 Tw /F2 12.0 Tf  [(should convince us to give up hope on an ultimate reality. At the same time such a list provides an interesting )] TJ ET
+BT 34.016 689.555 Td 0.687 Tw /F2 12.0 Tf  [(cluster of properties of the real and the unreal. To a large extent this cluster of properties also applies to reality )] TJ ET
+BT 34.016 675.299 Td 0.000 Tw /F2 12.0 Tf  [(and unreality.)] TJ ET
+BT 34.016 649.043 Td 3.356 Tw /F2 12.0 Tf  [(One way that property clusters hang together is seen in accounts of meaning in terms of paradigms or )] TJ ET
+BT 34.016 634.787 Td 0.628 Tw /F2 12.0 Tf  [(prototypes, and their extension. The set of paradigmatic games -- Wittgenstein used this example to criticize an )] TJ ET
+BT 34.016 620.531 Td 0.442 Tw /F2 12.0 Tf  [(essentialist conception of meaning -- might include a counter game, like backgammon, and a more active game, )] TJ ET
+BT 34.016 606.275 Td 0.687 Tw /F2 12.0 Tf  [(like tag. Other games have some of the characteristics of the paradigmatic ones : to classify a new activity as a )] TJ ET
+BT 34.016 592.019 Td 0.502 Tw /F2 12.0 Tf  [(game is to make a, supposedly principled, extension from the paradigm. Such a picture would allow us to make )] TJ ET
+BT 34.016 577.763 Td 0.786 Tw /F2 12.0 Tf  [(sense of the fact that solitaire and football are both games even though they have little in common. For a large )] TJ ET
+BT 34.016 563.507 Td 1.956 Tw /F2 12.0 Tf  [(and complicated class like games, paradigms and their extensions might have become quite complicated, as )] TJ ET
+BT 34.016 549.251 Td 1.670 Tw /F2 12.0 Tf  [(paradigms have shifted, and new extensions have suggested some quite unobvious other ones. If a paradigm )] TJ ET
+BT 34.016 534.995 Td 1.493 Tw /F2 12.0 Tf  [(story can be told about reality, it is probably simpler than the story one would tell about games, because we )] TJ ET
+BT 34.016 520.739 Td 0.168 Tw /F2 12.0 Tf  [(have had relatively little occasion to talk about realities. Nonetheless, it would be a story that leaves a flexibility, )] TJ ET
+BT 34.016 506.483 Td 1.631 Tw /F2 12.0 Tf  [(openness, and pluralism to reality. I have already indicated how my story about reality would go : our most )] TJ ET
+BT 34.016 492.227 Td 0.904 Tw /F2 12.0 Tf  [(obvious paradigm reality is the three-dimensional space we live in, along with the most natural of the material )] TJ ET
+BT 34.016 477.971 Td 0.000 Tw /F2 12.0 Tf  [(objects it contains. This is the reality that we most often refer to when we use the phrase, "in reality".)] TJ ET
+BT 34.016 451.715 Td /F2 12.0 Tf  [(The phenomenological tradition has a similar understanding of paradigmatic reality. For example :)] TJ ET
+BT 64.016 413.459 Td 3.065 Tw /F2 12.0 Tf  [(The world of working as a whole stands out as paramount over against the many other sub-)] TJ ET
+BT 64.016 399.203 Td 1.703 Tw /F2 12.0 Tf  [(universes of reality. It is the world of physical things, including my body; it is the realm of my )] TJ ET
+BT 64.016 384.947 Td 0.850 Tw /F2 12.0 Tf  [(locomotions and bodily operations; it offers resistances which require effort to overcome; it places )] TJ ET
+BT 64.016 370.691 Td 0.722 Tw /F2 12.0 Tf  [(tasks before me, permits me to carry through my plans, and enables me to succeed or to fail in my )] TJ ET
+BT 64.016 356.435 Td 0.427 Tw /F2 12.0 Tf  [(attempt to obtain my purposes. By my working acts I gear into the outer world, I engage it. \(Schutz )] TJ ET
+BT 64.016 342.179 Td 0.000 Tw /F2 12.0 Tf  [(226-7\))] TJ ET
+BT 34.016 303.923 Td 2.523 Tw /F2 12.0 Tf  [(Phenomenologists such as Alfred Schutz and Edmund Husserl build philosophical systems on the basis of )] TJ ET
+BT 34.016 289.667 Td 3.602 Tw /F2 12.0 Tf  [(assumptions implicit in the way that we deal with perceptions. Husserl and Schutz pare their available )] TJ ET
+BT 34.016 275.411 Td 0.540 Tw /F2 12.0 Tf  [(philosophical resources down to the level of perception, and then attempt to rebuild some of the richness of our )] TJ ET
+BT 34.016 261.155 Td 0.816 Tw /F2 12.0 Tf  [(world, particularly some of our understanding of the objectivity of our world, out of their remaining resources. )] TJ ET
+BT 34.016 246.899 Td 1.215 Tw /F2 12.0 Tf  [("Reality" poses a special problem for phenomenologists, because before it is possible to ground objectivity in )] TJ ET
+BT 34.016 232.643 Td 2.090 Tw /F2 12.0 Tf  [(subjectivity one has to be able to distinguish among perceived worlds, to distinguish between the everyday )] TJ ET
+BT 34.016 218.387 Td 0.552 Tw /F2 12.0 Tf  [(world that will become the locus for objectivity and a dreamt world. That it is a special problem does not make )] TJ ET
+BT 34.016 204.131 Td 2.761 Tw /F2 12.0 Tf  [(it a particularly difficult one, because phenomenologists are content to draw on, articulate, and refine the )] TJ ET
+BT 34.016 189.875 Td 0.672 Tw /F2 12.0 Tf  [(resources that are normally used to distinguish everyday reality and dreams. But their pared-down resources do )] TJ ET
+BT 34.016 175.619 Td 0.620 Tw /F2 12.0 Tf  [(not allow them to say in advance that dreamed worlds are anything less than fully real, and thus they are easily )] TJ ET
+BT 34.016 161.363 Td 0.000 Tw /F2 12.0 Tf  [(drawn to talk about multiple realities \(Schutz 207-59\).)] TJ ET
+BT 34.016 135.107 Td 0.928 Tw /F2 12.0 Tf  [(Paradigmatic reality, in combination with other uses of the term and the debate around the status of VR, gives )] TJ ET
+BT 34.016 120.851 Td 3.493 Tw /F2 12.0 Tf  [(rise to a cluster of properties that a reality might have. These properties give us some touchstones for )] TJ ET
+BT 34.016 106.595 Td 1.211 Tw /F2 12.0 Tf  [(determining whether something is or is not a reality, or conversely, define normal extensions of the paradigm )] TJ ET
+BT 34.016 92.339 Td 4.105 Tw /F2 12.0 Tf  [(into new situations. My incomplete list of such properties has it that reality might be material, three-)] TJ ET
+BT 34.016 78.083 Td 6.596 Tw /F2 12.0 Tf  [(dimensional, immediate, engaging, objective, enduring, robust, natural, manipulable, interactive, and )] TJ ET
+BT 34.016 63.827 Td 0.272 Tw /F2 12.0 Tf  [(systematic. As the term "reality" is being used today, realities should have some, but not necessarily all, of these )] TJ ET
+BT 34.016 49.571 Td 0.000 Tw /F2 12.0 Tf  [(properties. The sections that follow briefly describe these properties, and justify them as properties of realities.)] TJ ET
+endstream
+endobj
+31 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 32 0 R
+>>
+endobj
+32 0 obj
+<<
+/Length 6310 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 34.016 732.539 Td 2.575 Tw /F2 12.0 Tf  [(An aside on the social world : considering how objective and important the social world is, it is perhaps )] TJ ET
+BT 34.016 718.283 Td 1.185 Tw /F2 12.0 Tf  [(surprising that it is not more central to our paradigm. It is objective because, although it can be affected, it is )] TJ ET
+BT 34.016 704.027 Td 0.596 Tw /F2 12.0 Tf  [(usually experienced as a given, fixed in place by the actions of innumerable other actors. At most times change )] TJ ET
+BT 34.016 689.771 Td 1.897 Tw /F2 12.0 Tf  [(comes slowly to institutions like the legal system, gender and class structures, your local bank, and holiday )] TJ ET
+BT 34.016 675.515 Td 4.083 Tw /F2 12.0 Tf  [(traditions, because they are held in check by people's expectations and the sanctions that occur when )] TJ ET
+BT 34.016 661.259 Td 1.181 Tw /F2 12.0 Tf  [(expectations are violated. Their objectivity is a product of their externality, their location outside of particular )] TJ ET
+BT 34.016 647.003 Td 0.747 Tw /F2 12.0 Tf  [(individuals and their actions. But this is what makes them real, things that we can count on at least as much as )] TJ ET
+BT 34.016 632.747 Td 1.761 Tw /F2 12.0 Tf  [(we can count on bits of material reality. Less firm are such small institutions as close friendships and other )] TJ ET
+BT 34.016 618.491 Td 0.505 Tw /F2 12.0 Tf  [(interpersonal relations. We routinely distinguish between real friendships and surface ones, or ones that can't be )] TJ ET
+BT 34.016 604.235 Td 0.000 Tw /F2 12.0 Tf  [(found outside of very limited contexts; our criteria have to do with robustness, or their liveliness under pressure.)] TJ ET
+BT 34.016 576.059 Td /F1 12.0 Tf  [(Material, three-dimensional)] TJ ET
+BT 34.016 545.843 Td 0.385 Tw /F2 12.0 Tf  [(I've already argued that VR researchers take materiality and three-dimensionality as the core of reality. Reality's )] TJ ET
+BT 34.016 531.587 Td 0.574 Tw /F2 12.0 Tf  [(materiality is what makes VR virtual reality, and VR's three-dimensionality is what makes it virtual reality. But )] TJ ET
+BT 34.016 517.331 Td 2.984 Tw /F2 12.0 Tf  [(interest in those properties of everyday reality is not restricted to VR researchers : materiality and three-)] TJ ET
+BT 34.016 503.075 Td 0.941 Tw /F2 12.0 Tf  [(dimensionality are important properties marking a good chunk of everyday reality. For my purposes here I am )] TJ ET
+BT 34.016 488.819 Td 0.000 Tw /F2 12.0 Tf  [(more interested in focusing attention on other properties of potential realities.)] TJ ET
+BT 34.016 458.603 Td /F1 12.0 Tf  [(Engaging, immediate)] TJ ET
+BT 64.016 416.387 Td 0.381 Tw /F2 12.0 Tf  [(By leaving the world more abstract, versus building in more realism, Mark could draw users deeper )] TJ ET
+BT 64.016 402.131 Td 0.000 Tw /F2 12.0 Tf  [(in. Abstraction isn't a reason to reject VR worlds as being unrealistic. \(Pimentel & Teixeira 151\))] TJ ET
+BT 34.016 363.875 Td 0.180 Tw /F2 12.0 Tf  [(Realism can be unrealistic. This conundrum derives from a description of the efforts of Mark Bolas, President of )] TJ ET
+BT 34.016 349.619 Td 0.984 Tw /F2 12.0 Tf  [(Fake Space Labs, to create engaging spaces, spaces into which people can easily become immersed. Engaging )] TJ ET
+BT 34.016 335.363 Td 1.022 Tw /F2 12.0 Tf  [(spaces are ones in which people can lose a sense of their normal material and social environments, usually by )] TJ ET
+BT 34.016 321.107 Td 3.172 Tw /F2 12.0 Tf  [(forgetting or ignoring the mechanisms producing their experiences -- something which some well-crafted )] TJ ET
+BT 34.016 306.851 Td 1.517 Tw /F2 12.0 Tf  [(literature, film, and theatre accomplishes \(Laurel, Computers 15-16\). Bolas, along with most VR researchers, )] TJ ET
+BT 34.016 292.595 Td 1.354 Tw /F2 12.0 Tf  [(initially tried to make his environments into copies of material environments; in his case they were copies of )] TJ ET
+BT 34.016 278.339 Td 2.972 Tw /F2 12.0 Tf  [(offices. But the detail intended to help his virtual offices mimic material ones didn't help to make them )] TJ ET
+BT 34.016 264.083 Td 1.167 Tw /F2 12.0 Tf  [(engaging. This suggests that, at least at the level to which Bolas could accomplish it, mimicry was the wrong )] TJ ET
+BT 34.016 249.827 Td 1.550 Tw /F2 12.0 Tf  [(strategy. Instead Bolas found that people could immerse themselves more easily into environments that were )] TJ ET
+BT 34.016 235.571 Td 0.401 Tw /F2 12.0 Tf  [(quite different from their accustomed ones. Rather than using space-filling programs to create texture he left the )] TJ ET
+BT 34.016 221.315 Td 1.113 Tw /F2 12.0 Tf  [(pieces of his virtual offices as unadorned polygons. Mimicry calls material environments into play, while anti-)] TJ ET
+BT 34.016 207.059 Td 2.823 Tw /F2 12.0 Tf  [(mimicry allows users to leave behind their material settings. Mimicry suggests mediation, because it is a )] TJ ET
+BT 34.016 192.803 Td 0.000 Tw /F2 12.0 Tf  [(representation. Anti-mimicry can create immediacy, because it is a presentation.)] TJ ET
+BT 34.016 166.547 Td 0.874 Tw /F2 12.0 Tf  [(Immediacy and engagement are related goals of all VR inventors, who want to draw users into the worlds that )] TJ ET
+BT 34.016 152.291 Td 3.027 Tw /F2 12.0 Tf  [(they create; they are even goals for such an anti-euphoric commentator as Brenda Laurel, who wants to )] TJ ET
+BT 34.016 138.035 Td 1.755 Tw /F2 12.0 Tf  [(encourage computer interface designers to create spaces in which "the representation is all there is" \(Laurel, )] TJ ET
+BT 34.016 123.779 Td 0.916 Tw /F2 12.0 Tf  [(Computers 17\). Immediacy and engagement are also criteria for the reality of virtual environments, among the )] TJ ET
+BT 34.016 109.523 Td 0.728 Tw /F2 12.0 Tf  [(features that make some VR "really real". Clearly our paradigms of reality meet these criteria. Our experiences )] TJ ET
+BT 34.016 95.267 Td 1.887 Tw /F2 12.0 Tf  [(of material reality are what define immediacy, and most of us are immersed in and engaged with paradigm )] TJ ET
+BT 34.016 81.011 Td 2.085 Tw /F2 12.0 Tf  [(realities most of the time. What is interesting about Bolas's work is that he discovered that these goals are )] TJ ET
+BT 34.016 66.755 Td 0.654 Tw /F2 12.0 Tf  [(separable from faithful representation -- what we normally call realism -- and they are separable from the other )] TJ ET
+endstream
+endobj
+33 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 34 0 R
+>>
+endobj
+34 0 obj
+<<
+/Length 6159 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 34.016 746.579 Td 2.928 Tw /F2 12.0 Tf  [(features of paradigm realities; this separability is something film-makers have often recognized. To make )] TJ ET
+BT 34.016 732.323 Td 3.194 Tw /F2 12.0 Tf  [(immediate and engaging environments one may be better off making them quite different from ordinary )] TJ ET
+BT 34.016 718.067 Td 0.000 Tw /F2 12.0 Tf  [(material reality. Therefore Bolas's research concretely suggests that the qualities of reality are decomposable.)] TJ ET
+BT 34.016 687.851 Td /F1 12.0 Tf  [(Objective, enduring, robust)] TJ ET
+BT 34.016 657.635 Td 0.848 Tw /F2 12.0 Tf  [(Dreaming, fantasizing, hallucinating, and simply being wrong are some of the common ways that people leave )] TJ ET
+BT 34.016 643.379 Td 0.434 Tw /F2 12.0 Tf  [(reality. Hallmarks of the unreality of these flights are, I would claim, their subjectivity, their lack of materiality, )] TJ ET
+BT 34.016 629.123 Td 1.170 Tw /F2 12.0 Tf  [(and their transience. Paradigmatic reality is objective because it is felt and seen by many people, or could be, )] TJ ET
+BT 34.016 614.867 Td 1.455 Tw /F2 12.0 Tf  [(while paradigmatic unrealities like dreams or hallucinations are by definition subjective, being internal to the )] TJ ET
+BT 34.016 600.611 Td 1.133 Tw /F2 12.0 Tf  [(dreamer or hallucinator. In part the objectivity of reality is caused by its materiality and endurance : reality is )] TJ ET
+BT 34.016 586.355 Td 0.854 Tw /F2 12.0 Tf  [(hard and lasting while unreality is soft and fleeting. To find out whether you are dreaming you pinch yourself, )] TJ ET
+BT 34.016 572.099 Td 0.000 Tw /F2 12.0 Tf  [(and test the hardness of the world you are in. Reality bites. Even the social world is hard when real.)] TJ ET
+BT 34.016 545.843 Td 1.141 Tw /F2 12.0 Tf  [(As I am using it, robustness is a close kin to endurance and objectivity. Robustness is the ability to persevere )] TJ ET
+BT 34.016 531.587 Td 0.365 Tw /F2 12.0 Tf  [(through a variety of contexts and circumstances. The distinction between experimental artifact and experimental )] TJ ET
+BT 34.016 517.331 Td 2.051 Tw /F2 12.0 Tf  [(reality is usually made in terms of robustness. It is also a criterion we might use to discover the reality of )] TJ ET
+BT 34.016 503.075 Td 2.275 Tw /F2 12.0 Tf  [(various parts of the social world. Peter Berger and Thomas Luckmann create a unitary definition of social )] TJ ET
+BT 34.016 488.819 Td 0.489 Tw /F2 12.0 Tf  [(reality around robustness when they say that what is real is what cannot be "wished away" \(3\); a related unitary )] TJ ET
+BT 34.016 474.563 Td 0.461 Tw /F2 12.0 Tf  [(definition is that what is real is "what resists all attempts to change it" \(Taylor 353\). Although I would reject all )] TJ ET
+BT 34.016 460.307 Td 0.000 Tw /F2 12.0 Tf  [(such unitary definitions, they can be put to use in the creation of a more multi-dimensional picture.)] TJ ET
+BT 34.016 430.091 Td /F1 12.0 Tf  [(Manipulable, interactive)] TJ ET
+BT 34.016 399.875 Td 2.287 Tw /F2 12.0 Tf  [(Both manipulability and interaction are characteristics that VR designers have attempted to build into their )] TJ ET
+BT 34.016 385.619 Td 2.043 Tw /F2 12.0 Tf  [(systems. All VR takes as a central goal the manipulation of the virtual environment, usually through direct )] TJ ET
+BT 34.016 371.363 Td 0.277 Tw /F2 12.0 Tf  [(bodily contact. In this it corresponds to phenomenologists' descriptions of everyday reality. Schutz, for example, )] TJ ET
+BT 34.016 357.107 Td 1.274 Tw /F2 12.0 Tf  [(calls that reality "a world of working" because it is manipulable, even while it offers resistances. And part of )] TJ ET
+BT 34.016 342.851 Td 1.269 Tw /F2 12.0 Tf  [(working is working with other people, who are treated as actors in their own right. It is clear that VR should )] TJ ET
+BT 34.016 328.595 Td 0.571 Tw /F2 12.0 Tf  [(ultimately be multi-user : almost from its beginnings VR's ideals have included the possibility of multiple users )] TJ ET
+BT 34.016 314.339 Td 0.518 Tw /F2 12.0 Tf  [(interacting -- virtual sex, the safest of sex, is at the forefront of the public imagination of VR. The Reality Built )] TJ ET
+BT 34.016 300.083 Td 1.125 Tw /F2 12.0 Tf  [(for Two system attracted so much attention because it was a step toward multiple user VR, even while it was )] TJ ET
+BT 34.016 285.827 Td 2.707 Tw /F2 12.0 Tf  [(expensive \(originally US$430,000\) and limited. Of course, letting human interactions into one's picture of )] TJ ET
+BT 34.016 271.571 Td 1.513 Tw /F2 12.0 Tf  [(reality complicates matters, because it simultaneously makes the reality that VR tries to simulate richer, and, )] TJ ET
+BT 34.016 257.315 Td 0.000 Tw /F2 12.0 Tf  [(following Vivian Sobchak, draws our attention to the escapism implicit in VR euphoria.)] TJ ET
+BT 34.016 227.099 Td /F1 12.0 Tf  [(Natural)] TJ ET
+BT 34.016 196.883 Td 0.317 Tw /F2 12.0 Tf  [(A somewhat more tricky criterion of reality is naturalness. Middle-sized natural objects such as rocks, trees, and )] TJ ET
+BT 34.016 182.627 Td 0.344 Tw /F2 12.0 Tf  [(flies are paradigmatically real things, and thus Samuel Johnson didn't kick a wall in his attempt to pragmatically )] TJ ET
+BT 34.016 168.371 Td 0.232 Tw /F2 12.0 Tf  [(refute skepticism about material reality, but rather a rock. A real friendship is one that is natural, not forced. The )] TJ ET
+BT 34.016 154.115 Td 1.698 Tw /F2 12.0 Tf  [(real color of one's hair is its natural color, before dyeing, tinting, and highlighting. When we contrast a real )] TJ ET
+BT 34.016 139.859 Td 2.125 Tw /F2 12.0 Tf  [(phenomenon with an experimental artifact we are aiming at naturalness, because although in the laboratory )] TJ ET
+BT 34.016 125.603 Td 2.107 Tw /F2 12.0 Tf  [(everything is artificial some things are taken as standing in for nature. And when Baudrillard and Woolley )] TJ ET
+BT 34.016 111.347 Td 0.745 Tw /F2 12.0 Tf  [(respectively celebrate and lament the passing of reality it is in part because of the increasing artificiality of our )] TJ ET
+BT 34.016 97.091 Td 0.000 Tw /F2 12.0 Tf  [(world, the increasing extent to which everything around us is human-made.)] TJ ET
+BT 34.016 66.875 Td /F1 12.0 Tf  [(Systematic)] TJ ET
+endstream
+endobj
+35 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 36 0 R
+>>
+endobj
+36 0 obj
+<<
+/Length 6808 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 34.016 732.539 Td 0.356 Tw /F2 12.0 Tf  [(We speak of different worlds having their own rules. Therefore I want to end my list of characteristics of reality )] TJ ET
+BT 34.016 718.283 Td 4.812 Tw /F2 12.0 Tf  [(with a Platonic insight, the insight that reality has qualities of coherence and interconnectedness, or )] TJ ET
+BT 34.016 704.027 Td 0.867 Tw /F2 12.0 Tf  [(systematicity. It is systematicity that allows us to talk of a reality or a world, for otherwise what would hold it )] TJ ET
+BT 34.016 689.771 Td 1.163 Tw /F2 12.0 Tf  [(together ? This may seem odd, because we don't necessarily experience our everyday reality as systematic. In )] TJ ET
+BT 34.016 675.515 Td 0.289 Tw /F2 12.0 Tf  [(the context of VR Brenda Laurel says, for example, that "the well-designed world is, in a sense, the antithesis of )] TJ ET
+BT 34.016 661.259 Td 1.101 Tw /F2 12.0 Tf  [(realism -- the antithesis of the chaos of everyday life" \(Pimentel and Teixeira 157\). Yet despite this, design is )] TJ ET
+BT 34.016 647.003 Td 3.757 Tw /F2 12.0 Tf  [(precisely what Laurel recommends being incorporated into VR and more mundane computer interfaces, )] TJ ET
+BT 34.016 632.747 Td 0.000 Tw /F2 12.0 Tf  [(drawing from the lesson of theatre \(Laurel, Computers 125-61\).)] TJ ET
+BT 34.016 608.531 Td 1.907 Tw /F2 12.0 Tf  [(Our paradigms of reality, at least since Darwin, are not designed but rather accrue through the workings of )] TJ ET
+BT 34.016 594.275 Td 0.603 Tw /F2 12.0 Tf  [(chance and mechanistic laws. Nonetheless, chance and those mechanistic laws lend our paradigms a coherence, )] TJ ET
+BT 34.016 580.019 Td 1.025 Tw /F2 12.0 Tf  [(if only a postulated coherence. Our world can look unified by accepted understandings and explanations of its )] TJ ET
+BT 34.016 565.763 Td 0.373 Tw /F2 12.0 Tf  [(current state, plus the understandings that we assume could be available. It is partly for this reason that Woolley )] TJ ET
+BT 34.016 551.507 Td 0.335 Tw /F2 12.0 Tf  [(is attracted to mathematical physics as picking out and describing what is most real : physics claims to present a )] TJ ET
+BT 34.016 537.251 Td 1.279 Tw /F2 12.0 Tf  [(coherent picture, giving us a relatively small number of rules or laws under which our universe operates, and )] TJ ET
+BT 34.016 522.995 Td 0.000 Tw /F2 12.0 Tf  [(claiming that those rules are in some sense fundamental.)] TJ ET
+BT 34.016 451.961 Td /F1 14.0 Tf  [(Conclusions : So what about VR ?)] TJ ET
+BT 34.016 427.260 Td 0.939 Tw /F2 12.0 Tf  [(VR promises to have many of these properties of paradigmatic realities. The effort to create three-dimensional )] TJ ET
+BT 34.016 413.004 Td 3.428 Tw /F2 12.0 Tf  [(worlds is at present what defines VR research. Researchers also hope to make these new environments )] TJ ET
+BT 34.016 398.748 Td 3.384 Tw /F2 12.0 Tf  [(immediate and engaging. At least some versions are already interactive and manipulable. Most VR will )] TJ ET
+BT 34.016 384.492 Td 4.140 Tw /F2 12.0 Tf  [(probably be quite systematic, stemming from relatively simple models, conceptions, and programs; the )] TJ ET
+BT 34.016 370.236 Td 1.357 Tw /F2 12.0 Tf  [(aesthetics of virtual environments also do not encourage contradictions. VR is objective in the sense that one )] TJ ET
+BT 34.016 355.980 Td 0.168 Tw /F2 12.0 Tf  [(virtual environment can be experienced by many people, though it is questionable that it is objective in the sense )] TJ ET
+BT 34.016 341.724 Td 0.351 Tw /F2 12.0 Tf  [(of existing in the absence of any perceivers. Yet VR is not natural or material -- the point is to create an illusion )] TJ ET
+BT 34.016 327.468 Td 1.064 Tw /F2 12.0 Tf  [(of materiality -- and lacks endurance in its dependence upon equipment which are external to the system. The )] TJ ET
+BT 34.016 313.212 Td 0.932 Tw /F2 12.0 Tf  [(reality of VR, then, depends upon our emphases, and upon how we are willing to project the notion of reality. )] TJ ET
+BT 34.016 298.956 Td 1.448 Tw /F2 12.0 Tf  [(For many contexts it will be perfectly reasonable to claim that VR researchers are in the business of making )] TJ ET
+BT 34.016 284.700 Td 0.000 Tw /F2 12.0 Tf  [(realities, but for some others we will want to deny exactly that.)] TJ ET
+BT 34.016 258.444 Td 1.801 Tw /F2 12.0 Tf  [(One of my points here is to take the focus off particular characteristics of reality, such as materiality, three-)] TJ ET
+BT 34.016 244.188 Td 0.218 Tw /F2 12.0 Tf  [(dimensionality, and authenticity. I want to distribute the burden of reality more evenly. For example, if we focus )] TJ ET
+BT 34.016 229.932 Td 1.537 Tw /F2 12.0 Tf  [(on immediacy and engagement, three-dimensionality appears as one tool to these ends, though perhaps not a )] TJ ET
+BT 34.016 215.676 Td 0.977 Tw /F2 12.0 Tf  [(particularly interesting one. A child with Nintendo demonstrates that three-dimensionality is hardly needed for )] TJ ET
+BT 34.016 201.420 Td 1.373 Tw /F2 12.0 Tf  [(total absorption or capture. )] TJ ET
+BT 171.820 201.420 Td 1.373 Tw /F3 12.0 Tf  [(Super Mario Brothers)] TJ ET
+BT 280.563 201.420 Td 1.373 Tw /F2 12.0 Tf  [( can capture you and take you to a fantastic world, with no )] TJ ET
+BT 34.016 187.164 Td 0.996 Tw /F2 12.0 Tf  [(more than a 2-D screen and a joystick \(as I write this, however, Nintendo is introducing "Virtual Boy", which )] TJ ET
+BT 34.016 172.908 Td 1.669 Tw /F2 12.0 Tf  [(extends Mario's environments to three dimensions. The player's motions still have to be translated through a )] TJ ET
+BT 34.016 158.652 Td 0.457 Tw /F2 12.0 Tf  [(joystick and buttons, and therefore to enthusiasts the set would not qualify as a step towards VR; it merely adds )] TJ ET
+BT 34.016 144.396 Td 2.581 Tw /F2 12.0 Tf  [(a third dimension to a video game\). Quite often, film-makers capture audiences in their fictions, allowing )] TJ ET
+BT 34.016 130.140 Td 0.599 Tw /F2 12.0 Tf  [(viewers to forget the cameras, sets, and other scaffolding that hold up filmic worlds. But the point can be made )] TJ ET
+BT 34.016 115.884 Td 0.576 Tw /F2 12.0 Tf  [(without any such sophisticated equipment. A chess player explores a completely irreal, artificial environment -- )] TJ ET
+BT 34.016 101.628 Td 0.339 Tw /F2 12.0 Tf  [(an idiosyncratic, spare, finite, geometric battlefield -- and can become completely engrossed in the events. What )] TJ ET
+BT 34.016 87.372 Td 1.272 Tw /F2 12.0 Tf  [(is fascinating about 3-D in virtual reality is not 3-D itself, but rather the surprise of it; we are amazed by the )] TJ ET
+BT 34.016 73.116 Td 1.256 Tw /F2 12.0 Tf  [(technological prowess. In this respect it is not the realism of virtual reality that impresses, but its artificiality. )] TJ ET
+BT 34.016 58.860 Td 1.426 Tw /F2 12.0 Tf  [(Baudrillard makes a similar point, though for very different reasons : "why would the simulacrum with three )] TJ ET
+endstream
+endobj
+37 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 38 0 R
+>>
+endobj
+38 0 obj
+<<
+/Length 3459 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 34.016 746.579 Td 0.430 Tw /F2 12.0 Tf  [(dimensions be closer to the real than the one with two dimensions ? It claims to be, but paradoxically, it has the )] TJ ET
+BT 34.016 732.323 Td 0.000 Tw /F2 12.0 Tf  [(opposite effect" \(Simulacra 107\).)] TJ ET
+BT 34.016 706.067 Td 0.477 Tw /F2 12.0 Tf  [(If my account is roughly right, then the geometry of reality is complex. If they are planes, for example, realities )] TJ ET
+BT 34.016 691.811 Td 1.824 Tw /F2 12.0 Tf  [(intersect at multiple points not always on straight lines, although some realities may intersect nowhere even )] TJ ET
+BT 34.016 677.555 Td 2.340 Tw /F2 12.0 Tf  [(while they are not neatly parallel. The planes are given coherence by some combination of characteristics, )] TJ ET
+BT 34.016 663.299 Td 0.443 Tw /F2 12.0 Tf  [(which may not be put together in exactly the same way as those of any other plane. We can extend the scope of )] TJ ET
+BT 34.016 649.043 Td 0.519 Tw /F2 12.0 Tf  [(these planes simply by manufacturing more of the stuff that makes them up, a new bit of culture, a new gadget, )] TJ ET
+BT 34.016 634.787 Td 2.384 Tw /F2 12.0 Tf  [(a new plot twist, and so on. But we are not confined to old realities, because we can make new ones by )] TJ ET
+BT 34.016 620.531 Td 0.000 Tw /F2 12.0 Tf  [(analogy -- perhaps VR is one.)] TJ ET
+BT 34.016 594.275 Td 1.122 Tw /F2 12.0 Tf  [(VR does not in itself threaten more standard realities, contrary to claims made by Druckrey and others. There )] TJ ET
+BT 34.016 580.019 Td 1.218 Tw /F2 12.0 Tf  [(have always been multiple realms that could be realities, including social realities, mathematical realities, and )] TJ ET
+BT 34.016 565.763 Td 0.355 Tw /F2 12.0 Tf  [(other structures that are robust and systematic. Such realities can coexist. At the same time, they are not entirely )] TJ ET
+BT 34.016 551.507 Td 1.208 Tw /F2 12.0 Tf  [(separable, because work in one or another of these often will have substantial effects on others : our physical )] TJ ET
+BT 34.016 537.251 Td 1.180 Tw /F2 12.0 Tf  [(landscape, for example, is shaped by its being also a terrain of social interactions. Realities and the structures )] TJ ET
+BT 34.016 522.995 Td 0.580 Tw /F2 12.0 Tf  [(that make them up can leak into one another. Thus VR, and cyberspace more generally, may have concrete and )] TJ ET
+BT 34.016 508.739 Td 0.000 Tw /F2 12.0 Tf  [(profound effects on other realities, as Zizek claims. But it does so as a virtual-2 reality, not as a virtual-1 reality.)] TJ ET
+BT 34.016 482.483 Td 0.570 Tw /F2 12.0 Tf  [(I should now correct my opening claim. Right now virtual reality is a wonderfully successful misnomer. To the )] TJ ET
+BT 34.016 468.227 Td 0.704 Tw /F2 12.0 Tf  [(extent that VR is reality, there is little virtual-1 about it. Given enough time we might create environments that )] TJ ET
+BT 34.016 453.971 Td 2.633 Tw /F2 12.0 Tf  [(would be correctly called virtual-1 reality -- environments that are in effect real but in some way unreal, )] TJ ET
+BT 34.016 439.715 Td 2.246 Tw /F2 12.0 Tf  [(environments that are deceiving simulations of pre-existing realities -- but for the moment that seems both )] TJ ET
+BT 34.016 425.459 Td 0.648 Tw /F2 12.0 Tf  [(unlikely and relatively uninteresting. More fruitful, it seems, is to use computers and VR technologies to create )] TJ ET
+BT 34.016 411.203 Td 0.000 Tw /F2 12.0 Tf  [(new realities \(virtual-2 realities\), not to simulate old ones.)] TJ ET
+endstream
+endobj
+xref
+0 39
+0000000000 65535 f 
+0000000008 00000 n 
+0000000073 00000 n 
+0000000119 00000 n 
+0000000393 00000 n 
+0000000422 00000 n 
+0000000536 00000 n 
+0000000599 00000 n 
+0000006217 00000 n 
+0000006325 00000 n 
+0000006434 00000 n 
+0000006545 00000 n 
+0000006610 00000 n 
+0000013136 00000 n 
+0000013201 00000 n 
+0000018084 00000 n 
+0000018149 00000 n 
+0000024347 00000 n 
+0000024412 00000 n 
+0000030907 00000 n 
+0000030972 00000 n 
+0000038050 00000 n 
+0000038115 00000 n 
+0000043628 00000 n 
+0000043693 00000 n 
+0000050078 00000 n 
+0000050143 00000 n 
+0000056541 00000 n 
+0000056606 00000 n 
+0000063474 00000 n 
+0000063539 00000 n 
+0000070487 00000 n 
+0000070552 00000 n 
+0000076915 00000 n 
+0000076980 00000 n 
+0000083192 00000 n 
+0000083257 00000 n 
+0000090118 00000 n 
+0000090183 00000 n 
+trailer
+<<
+/Size 39
+/Root 1 0 R
+/Info 5 0 R
+>>
+startxref
+93695
+%%EOF

@@ -1,0 +1,20 @@
+
+a { color: black }
+a.hd { font-weight: bold }
+img { border: 0px }
+table { border: 1px solid gray }
+td { border: 2px solid black }
+td.short {
+	background-color: #CCCCCC;
+	width: 50%;
+	font-size: 12px;
+	font-family: verdana;
+	color: #333333;
+	padding: 3px 6px 3px 6px
+}
+.short .title {
+	font-size: 1.1em;
+	font-weight: bold;
+	text-align: center
+}
+.short .info { font-size: 0.9em }

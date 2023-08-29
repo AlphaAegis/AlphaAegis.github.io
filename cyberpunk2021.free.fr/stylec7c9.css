@@ -1,0 +1,20 @@
+
+a {
+	color: #898989;
+	font-weight: bold
+}
+body {
+	font-family: verdana;
+	background: black;
+	color: white
+}
+div.c {
+	margin: auto;
+	width: 95%
+}
+td { vertical-align: top }
+td.c {
+	text-align: right;
+	padding-right: 15
+}
+td.d { padding-right: 30 }

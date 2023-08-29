@@ -1,0 +1,168 @@
+%PDF-1.3
+1 0 obj
+<< /Type /Catalog
+/Outlines 2 0 R
+/Pages 3 0 R >>
+endobj
+2 0 obj
+<< /Type /Outlines /Count 0 >>
+endobj
+3 0 obj
+<< /Type /Pages
+/Kids [6 0 R
+10 0 R
+]
+/Count 2
+/Resources <<
+/ProcSet 4 0 R
+/Font << 
+/F1 8 0 R
+/F2 9 0 R
+>>
+>>
+/MediaBox [0.000 0.000 612.000 792.000]
+ >>
+endobj
+4 0 obj
+[/PDF /Text ]
+endobj
+5 0 obj
+<<
+/Creator (DOMPDF)
+/CreationDate (D:20230828003601+02'00')
+/ModDate (D:20230828003601+02'00')
+>>
+endobj
+6 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 7 0 R
+>>
+endobj
+7 0 obj
+<<
+/Length 5932 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 200.241 725.937 Td /F1 18.0 Tf  [(The World is not a Desktop)] TJ ET
+BT 271.842 695.200 Td /F1 12.0 Tf  [(Mark Weiser)] TJ ET
+BT 259.842 680.800 Td /F1 12.0 Tf  [(November 7, 1993)] TJ ET
+BT 34.016 654.515 Td /F2 12.0 Tf  [( )] TJ ET
+BT 34.016 616.259 Td 0.512 Tw /F2 12.0 Tf  [(What is the metaphor for the computer of the future ? The intelligent agent ? The television \(multimedia\) ? The )] TJ ET
+BT 34.016 602.003 Td 1.150 Tw /F2 12.0 Tf  [(3-D graphics world \(virtual reality\) ? The StarTrek ubiquitous voice computer ? The GUI desktop, honed and )] TJ ET
+BT 34.016 587.747 Td 2.225 Tw /F2 12.0 Tf  [(refined ? The machine that magically grants our wishes ? I think the right answer is "none of the above", )] TJ ET
+BT 34.016 573.491 Td 0.000 Tw /F2 12.0 Tf  [(because I think all of these concepts share a basic flaw : they make the computer visible.)] TJ ET
+BT 34.016 547.235 Td 0.798 Tw /F2 12.0 Tf  [(A good tool is an invisible tool. By invisible, I mean that the tool does not intrude on your consciousness; you )] TJ ET
+BT 34.016 532.979 Td 0.335 Tw /F2 12.0 Tf  [(focus on the task, not the tool. Eyeglasses are a good tool -- you look at the world, not the eyeglasses. The blind )] TJ ET
+BT 34.016 518.723 Td 0.241 Tw /F2 12.0 Tf  [(man tapping the cane feels the street, not the cane. Of course, tools are not invisible in themselves, but as part of )] TJ ET
+BT 34.016 504.467 Td 1.534 Tw /F2 12.0 Tf  [(a context of use. With enough practice we can make many apparently difficult things disappear : my fingers )] TJ ET
+BT 34.016 490.211 Td 0.000 Tw /F2 12.0 Tf  [(know vi editing commands that my conscious mind has long forgotten. But good tools enhance invisibility.)] TJ ET
+BT 34.016 463.955 Td 1.716 Tw /F2 12.0 Tf  [(I think the value of invisibility is generally understood. Unfortunately, our common metaphors for computer )] TJ ET
+BT 34.016 449.699 Td 0.000 Tw /F2 12.0 Tf  [(interaction lead us away from the invisible tool, and towards making the tool the center of attention.)] TJ ET
+BT 34.016 423.443 Td 1.154 Tw /F2 12.0 Tf  [(Take multimedia. The idea, as near as I can tell, is that people already spend hours a week at home watching )] TJ ET
+BT 34.016 409.187 Td 1.288 Tw /F2 12.0 Tf  [(television, so clearly television is attractive, and we want our computer interfaces to be attractive, so let's put )] TJ ET
+BT 34.016 394.931 Td 0.350 Tw /F2 12.0 Tf  [(TV into them. To mention a few things that may be wrong with this chain of reasoning : is everything we spend )] TJ ET
+BT 34.016 380.675 Td 1.315 Tw /F2 12.0 Tf  [(a lot of time doing attractive \(sleeping ? breathing ? worrying ?\); will the attactiveness of multimillion dollar )] TJ ET
+BT 34.016 366.419 Td 3.113 Tw /F2 12.0 Tf  [(production TV translate to casual computer TV ? And most importantly for this essay, should computer )] TJ ET
+BT 34.016 352.163 Td 0.000 Tw /F2 12.0 Tf  [(interfaces be attractive at all ? Attractiveness is the opposite of invisible.)] TJ ET
+BT 34.016 325.907 Td 0.717 Tw /F2 12.0 Tf  [(Take intelligent agents. The idea, as near as I can tell, is that the ideal computer should be like a human being, )] TJ ET
+BT 34.016 311.651 Td 0.523 Tw /F2 12.0 Tf  [(only more obedient. Anything so insidiously appealing should immediately give pause. Why should a computer )] TJ ET
+BT 34.016 297.395 Td 0.354 Tw /F2 12.0 Tf  [(be anything like a human being ? Are airplanes like birds, typewriters like pens, alphabets like mouths, cars like )] TJ ET
+BT 34.016 283.139 Td 2.515 Tw /F2 12.0 Tf  [(horses ? Are human interactions so free of trouble, misunderstanding, and ambiguity that they represent a )] TJ ET
+BT 34.016 268.883 Td 0.458 Tw /F2 12.0 Tf  [(desirable computer interface goal ? Further, it takes a lot of time and attention to build and maintain a smoothly )] TJ ET
+BT 34.016 254.627 Td 1.924 Tw /F2 12.0 Tf  [(running team of people, even a pair of people. A computer I need to talk to, give commands to, or have a )] TJ ET
+BT 34.016 240.371 Td 0.000 Tw /F2 12.0 Tf  [(relationship with \(much less be intimate with\), is a computer that is too much the center of attention.)] TJ ET
+BT 34.016 214.115 Td 0.824 Tw /F2 12.0 Tf  [(Take magic. The idea, as near as I can tell, is to grant wishes : I wish I was the person I am now, but richer; I )] TJ ET
+BT 34.016 199.859 Td 1.966 Tw /F2 12.0 Tf  [(wish my boyfriend were smarter and more attractive; I wish my computer would only show me what I am )] TJ ET
+BT 34.016 185.603 Td 0.178 Tw /F2 12.0 Tf  [(interested in. But magic is about psychology and salesmanship, and I believe a dangerous model for good design )] TJ ET
+BT 34.016 171.347 Td 1.557 Tw /F2 12.0 Tf  [(and productive technology. The proof is in the details; magic ignores them. Furthermore, magic continues to )] TJ ET
+BT 34.016 157.091 Td 0.000 Tw /F2 12.0 Tf  [(glorify itself, as Robin Williams' attention-grabbing genie in Aladdin amply illustrates.)] TJ ET
+BT 34.016 130.835 Td 0.871 Tw /F2 12.0 Tf  [(Take virtual reality. The idea, as near as I can tell, is that by moving to full-body-sensing and interaction we'll )] TJ ET
+BT 34.016 116.579 Td 1.886 Tw /F2 12.0 Tf  [(solve the user interface problem by maximally utilizing all of our body's input and output channels. Setting )] TJ ET
+BT 34.016 102.323 Td 1.204 Tw /F2 12.0 Tf  [(aside for a later time the appropriateness of the "input" metaphor to humans being-in-the-world, VR seems to )] TJ ET
+BT 34.016 88.067 Td 0.552 Tw /F2 12.0 Tf  [(have the goal of the invisible computer behind the scenes. But is it really true that the problem with our current )] TJ ET
+BT 34.016 73.811 Td 0.829 Tw /F2 12.0 Tf  [(user interfaces is that we don't have enough of them ? Is it a quantity problem -- a little user interface is good, )] TJ ET
+BT 34.016 59.555 Td 0.477 Tw /F2 12.0 Tf  [(more is better ? VR, by taking the gluttonous approach to user interface design, continues to put the interface at )] TJ ET
+endstream
+endobj
+8 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Times-Bold
+/Encoding /WinAnsiEncoding
+>>
+endobj
+9 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F2
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+>>
+endobj
+10 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 11 0 R
+>>
+endobj
+11 0 obj
+<<
+/Length 4284 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 34.016 746.579 Td 0.000 Tw /F2 12.0 Tf  [(the center of attention, leaving the real world behind.)] TJ ET
+BT 34.016 720.323 Td 1.682 Tw /F2 12.0 Tf  [(Take voice input. The idea, as near as I can tell, is that if I could just talk to my computer it would finally )] TJ ET
+BT 34.016 706.067 Td 0.963 Tw /F2 12.0 Tf  [(understand me. The problem is, if I could talk to my computer today, I'd have to talk in C or Fortran or CSH, )] TJ ET
+BT 34.016 691.811 Td 1.180 Tw /F2 12.0 Tf  [(because that is what they understand. When I can send email to my computer and have it DWIM the answer, )] TJ ET
+BT 34.016 677.555 Td 0.571 Tw /F2 12.0 Tf  [(then I'll start to believe in voice computers for limited applications. Limited, because most of my life I am with )] TJ ET
+BT 34.016 663.299 Td 1.379 Tw /F2 12.0 Tf  [(other people, and I want to talk \(or listen\) to them, not to my computer. If I want to take notes, or glance at )] TJ ET
+BT 34.016 649.043 Td 0.461 Tw /F2 12.0 Tf  [(information, I want to do so unobtrusively. Voice command is so well-known in science fiction exactly because )] TJ ET
+BT 34.016 634.787 Td 0.000 Tw /F2 12.0 Tf  [(it is prominent and attention grabbing -- fiction is supposed to hold our attention. A good tool is not.)] TJ ET
+BT 34.016 608.531 Td 0.526 Tw /F2 12.0 Tf  [(I do think that research on agents, speech recognition, and so on is important; the problem is that they are all in )] TJ ET
+BT 34.016 594.275 Td 0.730 Tw /F2 12.0 Tf  [(the domain of the conscious interaction. The result is that the research dialogue is restricted to a narrower-than-)] TJ ET
+BT 34.016 580.019 Td 0.442 Tw /F2 12.0 Tf  [(necessary set of problems, rather than the broader problem of good, invisible, tools. I believe we could use a lot )] TJ ET
+BT 34.016 565.763 Td 0.000 Tw /F2 12.0 Tf  [(more attention on techniques of invisibility, including abandoning computers as we know them.)] TJ ET
+BT 34.016 539.507 Td 2.888 Tw /F2 12.0 Tf  [(It was the desire to build technology truer to the possibility of invisibility that caused me to initiate the )] TJ ET
+BT 34.016 525.251 Td 0.336 Tw /F2 12.0 Tf  [(ubiquitous computing work at PARC five years ago. The first phase of that effort incorporated existing projects, )] TJ ET
+BT 34.016 510.995 Td 1.089 Tw /F2 12.0 Tf  [(such as the wall-sized pen computer called LiveBoard, and added others, the inch-sized tab and the foot-sized )] TJ ET
+BT 34.016 496.739 Td 2.162 Tw /F2 12.0 Tf  [(pad, to create a panoply of devices that could be ubiquitous in the home or office -- hundreds per person, )] TJ ET
+BT 34.016 482.483 Td 2.980 Tw /F2 12.0 Tf  [(integrated with the everyday setting. Enabling the mundane computer put us on the way to the invisible )] TJ ET
+BT 34.016 468.227 Td 0.000 Tw /F2 12.0 Tf  [(computer \(see the July issue of CACM for more information\). But more work is needed.)] TJ ET
+BT 34.016 441.971 Td 0.695 Tw /F2 12.0 Tf  [(To understand invisibility the humanities and social sciences are especially valuable, because they specialize in )] TJ ET
+BT 34.016 427.715 Td 1.669 Tw /F2 12.0 Tf  [(exposing the otherwise invisible. For instance, ethnography can teach us something of the importance of the )] TJ ET
+BT 34.016 413.459 Td 1.502 Tw /F2 12.0 Tf  [(details of context and setting and cultural background; feminist deconstructionism can teach us a little of the )] TJ ET
+BT 34.016 399.203 Td 0.000 Tw /F2 12.0 Tf  [(necessity of different, deeply lived, points of view to real understanding.)] TJ ET
+BT 34.016 372.947 Td 2.110 Tw /F2 12.0 Tf  [(The clock, and the clockwork machine, are the metaphors of the past several hundred years of technology. )] TJ ET
+BT 34.016 358.691 Td 0.333 Tw /F2 12.0 Tf  [(Invisible technology needs a metaphor that reminds us of the value of invisibility, but does not make it visible. I )] TJ ET
+BT 34.016 344.435 Td 0.489 Tw /F2 12.0 Tf  [(propose childhood : playful, a building of foundations, constant learning, a bit mysterious and quickly forgotten )] TJ ET
+BT 34.016 330.179 Td 1.529 Tw /F2 12.0 Tf  [(by adults. Our computers should be like our childhood : an invisible foundation that is quickly forgotten but )] TJ ET
+BT 34.016 315.923 Td 0.000 Tw /F2 12.0 Tf  [(always with us, and effortlessly used throughout our lives.)] TJ ET
+endstream
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000008 00000 n 
+0000000073 00000 n 
+0000000119 00000 n 
+0000000290 00000 n 
+0000000319 00000 n 
+0000000433 00000 n 
+0000000496 00000 n 
+0000006480 00000 n 
+0000006588 00000 n 
+0000006697 00000 n 
+0000006762 00000 n 
+trailer
+<<
+/Size 12
+/Root 1 0 R
+/Info 5 0 R
+>>
+startxref
+11099
+%%EOF

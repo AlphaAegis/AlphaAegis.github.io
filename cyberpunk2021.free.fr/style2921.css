@@ -1,0 +1,22 @@
+
+body {
+	font-family: verdana;
+	text-align: justify;
+	color: white;
+	background-color: black
+}
+div.c {
+	margin: auto;
+	width: 95%
+}
+h4 { margin-bottom: 5 }
+td { vertical-align: top; padding-right: 5 }
+td.c { text-align: right }
+td.d { text-align: center }
+td.e {
+	border-top: 1px solid #C0C0C0;
+	border-bottom: 1px solid #C0C0C0;
+	background-color: #727272;
+	color: black;
+	text-align: center
+}

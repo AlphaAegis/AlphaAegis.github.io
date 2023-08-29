@@ -1,0 +1,110 @@
+%PDF-1.3
+1 0 obj
+<< /Type /Catalog
+/Outlines 2 0 R
+/Pages 3 0 R >>
+endobj
+2 0 obj
+<< /Type /Outlines /Count 0 >>
+endobj
+3 0 obj
+<< /Type /Pages
+/Kids [6 0 R
+]
+/Count 1
+/Resources <<
+/ProcSet 4 0 R
+/Font << 
+/F1 8 0 R
+/F2 9 0 R
+>>
+>>
+/MediaBox [0.000 0.000 612.000 792.000]
+ >>
+endobj
+4 0 obj
+[/PDF /Text ]
+endobj
+5 0 obj
+<<
+/Creator (DOMPDF)
+/CreationDate (D:20230828001225+02'00')
+/ModDate (D:20230828001225+02'00')
+>>
+endobj
+6 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 7 0 R
+>>
+endobj
+7 0 obj
+<<
+/Length 3363 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 138.987 725.937 Td /F1 18.0 Tf  [(SimStim in William Gibson's Neuromancer)] TJ ET
+BT 265.158 695.200 Td /F1 12.0 Tf  [(Joshua Hendrix)] TJ ET
+BT 294.000 680.800 Td /F1 12.0 Tf  [(1992)] TJ ET
+BT 34.016 654.515 Td /F2 12.0 Tf  [( )] TJ ET
+BT 34.016 616.259 Td 0.423 Tw /F2 12.0 Tf  [(The SimStim allows Case to "tap in" to Molly's experiences as she is having them, although not into her private )] TJ ET
+BT 34.016 602.003 Td 0.355 Tw /F2 12.0 Tf  [(thoughts. The device enables Case to experience the full range of her sensory input but have no control over her )] TJ ET
+BT 34.016 587.747 Td 0.000 Tw /F2 12.0 Tf  [(actions.)] TJ ET
+BT 34.016 561.491 Td 1.403 Tw /F2 12.0 Tf  [(Gibson uses the Simstim to facilitate jumps between the storylines of separated characters when their actions )] TJ ET
+BT 34.016 547.235 Td 1.293 Tw /F2 12.0 Tf  [(become tightly integrated. This artful narrative device stretches the boundaries of the book by allowing quick )] TJ ET
+BT 34.016 532.979 Td 0.774 Tw /F2 12.0 Tf  [(cuts between actions happening almost in parallel. Gibson effectively steps into a realm that is remarkably like )] TJ ET
+BT 34.016 518.723 Td 1.527 Tw /F2 12.0 Tf  [(television and the movies; the narratives between Case's flips become vignettes that bear resemblance to fast )] TJ ET
+BT 34.016 504.467 Td 0.000 Tw /F2 12.0 Tf  [(cuts between locales or points of view onscreen.)] TJ ET
+BT 34.016 478.211 Td 0.315 Tw /F2 12.0 Tf  [(Gibson also stretches the boundaries of third person narration in a unique way. Although two distinctly different )] TJ ET
+BT 34.016 463.955 Td 0.554 Tw /F2 12.0 Tf  [(points of view, Molly's and Case's, are present, the whole story is really only told through Case's point of view. )] TJ ET
+BT 34.016 449.699 Td 0.675 Tw /F2 12.0 Tf  [(The Simstim allows his point of view to essentially merge with Molly's at points in the story where her actions )] TJ ET
+BT 34.016 435.443 Td 0.583 Tw /F2 12.0 Tf  [(are relevant to the outcome. Gibson only abandons this device towards the end, when Case is forced to go after )] TJ ET
+BT 34.016 421.187 Td 0.740 Tw /F2 12.0 Tf  [(Molly physically. By allowing Case to switch points of view so flexibly, Gibson in effect makes Case the only )] TJ ET
+BT 34.016 406.931 Td 0.894 Tw /F2 12.0 Tf  [(medium through which the reader experiences the narrative, a feat that would be hard to accomplish for a two-)] TJ ET
+BT 34.016 392.675 Td 0.000 Tw /F2 12.0 Tf  [(character story line without this device.)] TJ ET
+BT 34.016 366.419 Td 3.316 Tw /F2 12.0 Tf  [(With the addition of a record and playback mechanism, the Simstim could be used as an extraordinary )] TJ ET
+BT 34.016 352.163 Td 2.022 Tw /F2 12.0 Tf  [(hypermedia engine. Such a device would unite author and reader in a fashion that would be a step beyond )] TJ ET
+BT 34.016 337.907 Td 1.354 Tw /F2 12.0 Tf  [(current technologies. The word "reader" would be transcended, and the reader would become even more of a )] TJ ET
+BT 34.016 323.651 Td 1.337 Tw /F2 12.0 Tf  [(participant in the exchange. The only ways to be closer would be to have 2-way communication between the )] TJ ET
+BT 34.016 309.395 Td 2.504 Tw /F2 12.0 Tf  [(users of the device, or further to have direct access to the other person's thoughts or symbolic processing )] TJ ET
+BT 34.016 295.139 Td 0.000 Tw /F2 12.0 Tf  [(systems.)] TJ ET
+endstream
+endobj
+8 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Times-Bold
+/Encoding /WinAnsiEncoding
+>>
+endobj
+9 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F2
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+>>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000008 00000 n 
+0000000073 00000 n 
+0000000119 00000 n 
+0000000283 00000 n 
+0000000312 00000 n 
+0000000426 00000 n 
+0000000489 00000 n 
+0000003904 00000 n 
+0000004012 00000 n 
+trailer
+<<
+/Size 10
+/Root 1 0 R
+/Info 5 0 R
+>>
+startxref
+4121
+%%EOF

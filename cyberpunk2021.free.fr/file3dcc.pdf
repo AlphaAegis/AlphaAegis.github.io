@@ -1,0 +1,440 @@
+%PDF-1.3
+1 0 obj
+<< /Type /Catalog
+/Outlines 2 0 R
+/Pages 3 0 R >>
+endobj
+2 0 obj
+<< /Type /Outlines /Count 0 >>
+endobj
+3 0 obj
+<< /Type /Pages
+/Kids [6 0 R
+11 0 R
+13 0 R
+]
+/Count 3
+/Resources <<
+/ProcSet 4 0 R
+/Font << 
+/F1 8 0 R
+/F2 9 0 R
+/F3 10 0 R
+>>
+>>
+/MediaBox [0.000 0.000 612.000 792.000]
+ >>
+endobj
+4 0 obj
+[/PDF /Text ]
+endobj
+5 0 obj
+<<
+/Creator (DOMPDF)
+/CreationDate (D:20230828003404+02'00')
+/ModDate (D:20230828003404+02'00')
+>>
+endobj
+6 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 7 0 R
+>>
+endobj
+7 0 obj
+<<
+/Length 4624 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 274.005 725.937 Td /F1 18.0 Tf  [(Hackers)] TJ ET
+BT 245.004 695.200 Td /F1 12.0 Tf  [(The Cyberpunk Project)] TJ ET
+BT 34.016 668.915 Td /F2 12.0 Tf  [( )] TJ ET
+BT 64.016 618.659 Td 0.403 Tw /F3 12.0 Tf  [(Hackers are the elite corps of computer designers and programmers. They like to see themselves as )] TJ ET
+BT 64.016 604.403 Td 0.356 Tw /F3 12.0 Tf  [(the wizards and warriors of tech. Designing software and inventing algorithms can involve bravura )] TJ ET
+BT 64.016 590.147 Td 1.532 Tw /F3 12.0 Tf  [(intellection, and tinkering with them is as much fun as fiddling with engines. Hackers have their )] TJ ET
+BT 64.016 575.891 Td 1.731 Tw /F3 12.0 Tf  [(own culture, their own language. And in the off-hours, they can turn their ingenuity to sparring )] TJ ET
+BT 64.016 561.635 Td 0.480 Tw /F3 12.0 Tf  [(with enemies on the Nets, or to the midnight stroll through systems you should not be able to enter, )] TJ ET
+BT 64.016 547.379 Td 1.448 Tw /F3 12.0 Tf  [(were you not so very clever. Dark-side hackers, or crackers, slip into systems for the smash-and-)] TJ ET
+BT 64.016 533.008 Td 0.000 Tw /F3 12.0 Tf  [(grab, but most hackers are in it for the virtuoso ingress.)] TJ ET
+BT 64.016 518.723 Td 1.285 Tw /F3 12.0 Tf  [(It's a high-stress life, but it can be amazing fun. Imagine being paid - well paid - to play forever )] TJ ET
+BT 64.016 504.467 Td 0.000 Tw /F3 12.0 Tf  [(with the toys you love. Imagine.)] TJ ET
+BT 64.016 478.211 Td /F2 12.0 Tf  [(From St. Jude, )] TJ ET
+BT 137.024 478.211 Td /F3 12.0 Tf  [(Mondo 2000: Users's Guide to the New Edge)] TJ ET
+BT 354.572 478.211 Td /F2 12.0 Tf  [(.)] TJ ET
+BT 34.016 425.555 Td /F2 12.0 Tf  [(A hacker is the one who :)] TJ ET
+BT 48.816 399.304 Td /F2 12.0 Tf  [(1.)] TJ ET
+BT 64.016 399.299 Td 0.490 Tw /F2 12.0 Tf  [(Enjoys exploring the details of programmable systems and how to stretch their capabilities, as opposed to )] TJ ET
+BT 64.016 385.043 Td 0.000 Tw /F2 12.0 Tf  [(most users, who prefer to learn only the minimum necessary.)] TJ ET
+BT 48.816 370.792 Td /F2 12.0 Tf  [(2.)] TJ ET
+BT 64.016 370.787 Td 2.942 Tw /F2 12.0 Tf  [(Programs enthusiastically \(even obsessively\) or who enjoys programming rather than just theorizing )] TJ ET
+BT 64.016 356.531 Td 0.000 Tw /F2 12.0 Tf  [(about programming.)] TJ ET
+BT 48.816 342.280 Td /F2 12.0 Tf  [(3.)] TJ ET
+BT 64.016 342.275 Td /F2 12.0 Tf  [(Is good at programming quickly.)] TJ ET
+BT 48.816 328.024 Td /F2 12.0 Tf  [(4.)] TJ ET
+BT 64.016 328.019 Td 1.674 Tw /F2 12.0 Tf  [(Is an expert at a particular program, or one who frequently does work using it or on it; as in "a Unix )] TJ ET
+BT 64.016 313.763 Td 0.000 Tw /F2 12.0 Tf  [(hacker".)] TJ ET
+BT 48.816 299.512 Td /F2 12.0 Tf  [(5.)] TJ ET
+BT 64.016 299.507 Td /F2 12.0 Tf  [(Is an expert or enthusiast of any kind. One might be an astronomy hacker, for example.)] TJ ET
+BT 48.816 285.256 Td /F2 12.0 Tf  [(6.)] TJ ET
+BT 64.016 285.251 Td /F2 12.0 Tf  [(Enjoys the intellectual challenge of creatively overcoming or circumventing limitations.)] TJ ET
+BT 48.816 271.000 Td /F2 12.0 Tf  [(7.)] TJ ET
+BT 64.016 270.995 Td 1.391 Tw /F2 12.0 Tf  [(Is a malicious meddler who tries to discover sensitive information by poking around. Hence "password )] TJ ET
+BT 64.016 256.739 Td 0.000 Tw /F2 12.0 Tf  [(hacker", "network hacker". The correct term for this sense is cracker.)] TJ ET
+BT 34.016 214.145 Td /F1 14.0 Tf  [(Hacking and Cracking)] TJ ET
+BT 34.016 187.404 Td 0.794 Tw /F2 12.0 Tf  [(The term "hacker" has come to be associated exclusively with breaking security. That isn't what it is at all, but )] TJ ET
+BT 34.016 173.148 Td 3.151 Tw /F2 12.0 Tf  [(hackers were willing to state their total contempt for security people, because security was one form of )] TJ ET
+BT 34.016 158.892 Td 2.696 Tw /F2 12.0 Tf  [(bureaucracy. First-generation hackers would break security because it was in the way of doing something )] TJ ET
+BT 34.016 144.636 Td 1.010 Tw /F2 12.0 Tf  [(useful. Now a lot of kids do it 'cause it's naughty. Though it is true that showing you can break security that's )] TJ ET
+BT 34.016 130.380 Td 0.537 Tw /F2 12.0 Tf  [(said to be unbreakable is a nice hack, the original hackers did not break security just to be naughty. They broke )] TJ ET
+BT 34.016 116.124 Td 0.000 Tw /F2 12.0 Tf  [(security if somebody had locked up a tool that you needed to use.)] TJ ET
+BT 34.016 85.908 Td /F1 12.0 Tf  [(Different Types of Hackers)] TJ ET
+BT 34.016 55.692 Td 0.238 Tw /F2 12.0 Tf  [(Hacking broadly refers to attempts to gain access to computers to which one does not possess authorization. The )] TJ ET
+endstream
+endobj
+8 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Times-Bold
+/Encoding /WinAnsiEncoding
+>>
+endobj
+9 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F2
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+>>
+endobj
+10 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F3
+/BaseFont /Times-Italic
+/Encoding /WinAnsiEncoding
+>>
+endobj
+11 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 12 0 R
+>>
+endobj
+12 0 obj
+<<
+/Length 5724 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 34.016 746.579 Td 1.286 Tw /F2 12.0 Tf  [(term "hackers" first came into use in the early 1960's when it was applied to a group of pioneering computer )] TJ ET
+BT 34.016 732.323 Td 3.693 Tw /F2 12.0 Tf  [(aficionados at MIT \(Levy, 1984\). Through the 1970s, a hacker was viewed as someone obsessed with )] TJ ET
+BT 34.016 718.067 Td 0.547 Tw /F2 12.0 Tf  [(understanding and mastering computer systems \(Levy, 1984\). But, in the early 1980's, stimulated by the release )] TJ ET
+BT 34.016 703.811 Td 0.492 Tw /F2 12.0 Tf  [(of the movie )] TJ ET
+BT 99.151 703.811 Td 0.492 Tw /F3 12.0 Tf  [(WarGames)] TJ ET
+BT 153.139 703.811 Td 0.492 Tw /F2 12.0 Tf  [( and the much publicized arrest of a "hacker gang" known as "The 414s", hackers were )] TJ ET
+BT 34.016 689.555 Td 2.724 Tw /F2 12.0 Tf  [(seen as young whiz-kids capable of breaking into corporate and government computer systems \(Landreth, )] TJ ET
+BT 34.016 675.299 Td 1.948 Tw /F2 12.0 Tf  [(1985:34\). The imprecise media definition and the lack of any clear understanding of what it means to be a )] TJ ET
+BT 34.016 661.043 Td 0.000 Tw /F2 12.0 Tf  [(hacker results in the mis-application of the label to all forms of computer malfeasance.)] TJ ET
+BT 34.016 634.787 Td 0.555 Tw /F2 12.0 Tf  [(Despite the inter-relationship between phreaks and hackers, the label of "hacker" is generally reserved for those )] TJ ET
+BT 34.016 620.531 Td 2.574 Tw /F2 12.0 Tf  [(engaged in computer system trespassing. For CU participants, hacking can mean either attempting to gain )] TJ ET
+BT 34.016 606.275 Td 2.826 Tw /F2 12.0 Tf  [(access to a computer system, or the more refined goals of exploring in, experimenting with, or testing a )] TJ ET
+BT 34.016 592.019 Td 1.935 Tw /F2 12.0 Tf  [(computer system. In the first connotation, hacking requires skills to obtain valid user accounts on computer )] TJ ET
+BT 34.016 577.763 Td 1.093 Tw /F2 12.0 Tf  [(systems that would otherwise be unavailable, and the term connotes the repetitive nature of break-in attempts. )] TJ ET
+BT 34.016 563.507 Td 1.651 Tw /F2 12.0 Tf  [(Once successful entry is made, the illicit accounts are often shared among associates and described as being )] TJ ET
+BT 34.016 549.251 Td 0.000 Tw /F2 12.0 Tf  [("freshly \(or newly\) hacked".)] TJ ET
+BT 34.016 522.995 Td 2.425 Tw /F2 12.0 Tf  [(The second connotation refers to someone possessing the knowledge, ability, and desire to fully explore a )] TJ ET
+BT 34.016 508.739 Td 1.126 Tw /F2 12.0 Tf  [(computer system. For elite hackers, the mere act of gaining entry is not enough to warrant the "hacker" label; )] TJ ET
+BT 34.016 494.483 Td 0.000 Tw /F2 12.0 Tf  [(there must be a desire to master and skill to use the system after access has been achieved :)] TJ ET
+BT 64.016 456.227 Td 0.411 Tw /F3 12.0 Tf  [(It's Sunday night, and I'm in my room, deep into a hack. My eyes are on the monitor, and my hands )] TJ ET
+BT 64.016 441.971 Td 2.022 Tw /F3 12.0 Tf  [(are on the keyboard, but my mind is really on the operating system of a super-minicomputer a )] TJ ET
+BT 64.016 427.715 Td 1.748 Tw /F3 12.0 Tf  [(thousand miles away - a super-mini with an operating systems that does a good job of tracking )] TJ ET
+BT 64.016 413.459 Td 0.397 Tw /F3 12.0 Tf  [(users, and that will show my activities in its user logs, unless I can outwit it in the few hours before )] TJ ET
+BT 64.016 399.203 Td 1.310 Tw /F3 12.0 Tf  [(the Monday morning staff arrives for work... Eighteen hours ago, I managed to hack a password )] TJ ET
+BT 64.016 384.947 Td 0.466 Tw /F3 12.0 Tf  [(for the PDP 11/44. Now, I have only an hour or so left to alter the user logs. If I don't the logs will )] TJ ET
+BT 64.016 370.691 Td 0.316 Tw /F3 12.0 Tf  [(lead the system operators to my secret account, and the hours of work it took me to get this account )] TJ ET
+BT 64.016 356.435 Td 0.000 Tw /F3 12.0 Tf  [(will be wasted.)] TJ ET
+BT 135.692 356.435 Td /F2 12.0 Tf  [( \(Landreth, 1985: 57-58\))] TJ ET
+BT 34.016 318.179 Td 2.087 Tw /F2 12.0 Tf  [(An elite hacker must experiment with command structures and explore the many files available in order to )] TJ ET
+BT 34.016 303.923 Td 1.957 Tw /F2 12.0 Tf  [(understand and effectively use the system. This is sometimes called "hacking around" or simply "hacking a )] TJ ET
+BT 34.016 289.667 Td 3.915 Tw /F2 12.0 Tf  [(system". This distinction is necessary because not all trespassers are necessarily skilled at hacking out )] TJ ET
+BT 34.016 275.411 Td 3.259 Tw /F2 12.0 Tf  [(passwords, and not all hackers retain interest in a system once the challenge of gaining entry has been )] TJ ET
+BT 34.016 261.155 Td 4.466 Tw /F2 12.0 Tf  [(surmounted. Further, passwords and accounts are often traded, allowing even an unskilled intruder to )] TJ ET
+BT 34.016 246.899 Td 0.000 Tw /F2 12.0 Tf  [(erroneously claim the title of "hacker".)] TJ ET
+BT 34.016 220.643 Td 1.405 Tw /F2 12.0 Tf  [(Our data indicate that, contrary to their media image, hackers avoid deliberately destroying data or otherwise )] TJ ET
+BT 34.016 206.387 Td 0.511 Tw /F2 12.0 Tf  [(damaging the system. Doing so would conflict with their instrumental goal of blending in with the average user )] TJ ET
+BT 34.016 192.131 Td 1.809 Tw /F2 12.0 Tf  [(to conceal their presence and prevent the deletion of the account. After spending what may be a substantial )] TJ ET
+BT 34.016 177.875 Td 0.466 Tw /F2 12.0 Tf  [(amount of time obtaining a high access account, the hacker places a high priority on not being discovered using )] TJ ET
+BT 34.016 163.619 Td 0.000 Tw /F2 12.0 Tf  [(it, and hackers share considerable contempt for media stories that portray them as "criminals".)] TJ ET
+BT 34.016 92.585 Td /F1 14.0 Tf  [(Hacker's Ethic)] TJ ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Annots [ 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R 29 0 R 31 0 R 33 0 R ]
+/Contents 14 0 R
+>>
+endobj
+14 0 obj
+<<
+/Length 3128 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 34.016 732.539 Td 1.913 Tw /F2 12.0 Tf  [(Although sometimes skirting the law, hackers possess an explicit ethic and their primary goal is knowledge )] TJ ET
+BT 34.016 718.283 Td 0.000 Tw /F2 12.0 Tf  [(acquisition.)] TJ ET
+0.000 0.000 0.800 rg
+BT 34.016 694.067 Td /F2 12.0 Tf  [(The Hacker's Ethics)] TJ ET
+0.000 0.000 0.800 RG
+0.24 w 0 J [  ] 0 d
+34.016 692.673 m 130.148 692.673 l S
+0.000 0.000 0.000 rg
+BT 64.016 679.811 Td 1.825 Tw /F2 12.0 Tf  [(This paper includes the Hacker's Ethics formulated by Steven Levy, and some additions into it, and a )] TJ ET
+BT 64.016 665.555 Td 0.000 Tw /F2 12.0 Tf  [(couple of thoughts about it and whether anything like "hacker's ethics" exists at all.)] TJ ET
+BT 34.016 622.961 Td /F1 14.0 Tf  [(References)] TJ ET
+0.000 0.000 0.800 rg
+BT 34.016 596.220 Td /F2 12.0 Tf  [(On the Wrong Side of the Law ?)] TJ ET
+0.24 w 0 J [  ] 0 d
+34.016 594.826 m 190.316 594.826 l S
+BT 34.016 569.964 Td /F2 12.0 Tf  [(Scientists and Hackers)] TJ ET
+0.24 w 0 J [  ] 0 d
+34.016 568.570 m 142.664 568.570 l S
+0.000 0.000 0.000 rg
+BT 64.016 555.708 Td /F2 12.0 Tf  [(An article from )] TJ ET
+BT 140.996 555.708 Td /F3 12.0 Tf  [(Boston Globe Online)] TJ ET
+BT 242.324 555.708 Td /F2 12.0 Tf  [( about hackers and the word hacker.)] TJ ET
+0.000 0.000 0.800 rg
+BT 34.016 529.452 Td /F2 12.0 Tf  [(Old Hackers, New Hackers : What's the Difference ?)] TJ ET
+0.24 w 0 J [  ] 0 d
+34.016 528.058 m 287.744 528.058 l S
+BT 34.016 503.196 Td /F2 12.0 Tf  [(Cyberspace Wars : Microprocessing vs. Big Brother)] TJ ET
+0.24 w 0 J [  ] 0 d
+34.016 501.802 m 284.972 501.802 l S
+BT 34.016 476.940 Td /F2 12.0 Tf  [(How to be a Hacker)] TJ ET
+0.24 w 0 J [  ] 0 d
+34.016 475.546 m 129.980 475.546 l S
+BT 34.016 450.684 Td /F2 12.0 Tf  [(A Portrait of J. Random Hacker)] TJ ET
+0.24 w 0 J [  ] 0 d
+34.016 449.290 m 186.656 449.290 l S
+BT 34.016 424.428 Td /F2 12.0 Tf  [(The Social Organization of the Computer Underworld)] TJ ET
+0.24 w 0 J [  ] 0 d
+34.016 423.034 m 293.972 423.034 l S
+0.000 0.000 0.000 rg
+BT 64.016 410.172 Td /F2 12.0 Tf  [(A thesis for the degree Master of Arts.)] TJ ET
+0.000 0.000 0.800 rg
+BT 34.016 383.916 Td /F2 12.0 Tf  [(A Short History of Hacking in America)] TJ ET
+0.24 w 0 J [  ] 0 d
+34.016 382.522 m 223.988 382.522 l S
+0.000 0.000 0.000 rg
+BT 64.016 369.660 Td /F2 12.0 Tf  [(The Early Days, The Renaissance, The Future.)] TJ ET
+BT 34.016 327.065 Td /F1 14.0 Tf  [(Links)] TJ ET
+0.000 0.000 0.800 rg
+BT 34.016 300.324 Td /F2 12.0 Tf  [(Hacker's Jargon)] TJ ET
+0.24 w 0 J [  ] 0 d
+34.016 298.930 m 110.480 298.930 l S
+0.000 0.000 0.000 rg
+BT 64.016 286.068 Td 1.281 Tw /F2 12.0 Tf  [(A comprehensive compendium of hacker slang illuminating many aspects of hackish tradition, folklore, )] TJ ET
+BT 64.016 271.697 Td 0.000 Tw /F2 12.0 Tf  [(and humor.)] TJ ET
+BT 64.016 257.412 Td 2.554 Tw /F2 12.0 Tf  [(Jargon dictionary, hacker writing and speech style, lamer-speak, hacker folklore, and a portrait of J. )] TJ ET
+BT 64.016 243.041 Td 0.000 Tw /F2 12.0 Tf  [(Random Hacker, a typical hacker.)] TJ ET
+BT 64.016 228.756 Td /F2 12.0 Tf  [(By hackers themselves.)] TJ ET
+endstream
+endobj
+15 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 16 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 34.0157 692.9875 130.1477 704.8675 ]
+>>
+endobj
+16 0 obj
+<< /Type /Action
+/S /URI
+/URI (cp_project.php?txt=58&lng=us)
+>>
+endobj
+17 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 18 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 34.0157 595.1399 190.3157 607.0199 ]
+>>
+endobj
+18 0 obj
+<< /Type /Action
+/S /URI
+/URI (cp_project.php?txt=90&lng=us)
+>>
+endobj
+19 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 20 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 34.0157 568.8839 142.6637 580.7639 ]
+>>
+endobj
+20 0 obj
+<< /Type /Action
+/S /URI
+/URI (cp_project.php?txt=91&lng=us)
+>>
+endobj
+21 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 22 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 34.0157 528.3719 287.7437 540.2519 ]
+>>
+endobj
+22 0 obj
+<< /Type /Action
+/S /URI
+/URI (cp_project.php?txt=92&lng=us)
+>>
+endobj
+23 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 24 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 34.0157 502.1159 284.9717 513.9959 ]
+>>
+endobj
+24 0 obj
+<< /Type /Action
+/S /URI
+/URI (cp_project.php?txt=93&lng=us)
+>>
+endobj
+25 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 26 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 34.0157 475.8599 129.9797 487.7399 ]
+>>
+endobj
+26 0 obj
+<< /Type /Action
+/S /URI
+/URI (cp_project.php?txt=94&lng=us)
+>>
+endobj
+27 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 28 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 34.0157 449.6039 186.6557 461.4839 ]
+>>
+endobj
+28 0 obj
+<< /Type /Action
+/S /URI
+/URI (cp_project.php?txt=95&lng=us)
+>>
+endobj
+29 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 30 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 34.0157 423.3479 293.9717 435.2279 ]
+>>
+endobj
+30 0 obj
+<< /Type /Action
+/S /URI
+/URI (cp_project.php?txt=96&lng=us)
+>>
+endobj
+31 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 32 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 34.0157 382.8359 223.9877 394.7159 ]
+>>
+endobj
+32 0 obj
+<< /Type /Action
+/S /URI
+/URI (cp_project.php?txt=97&lng=us)
+>>
+endobj
+33 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 34 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 34.0157 299.2444 110.4797 311.1244 ]
+>>
+endobj
+34 0 obj
+<< /Type /Action
+/S /URI
+/URI (http://www.science.uva.nl/~mes/jargon/)
+>>
+endobj
+xref
+0 35
+0000000000 65535 f 
+0000000008 00000 n 
+0000000073 00000 n 
+0000000119 00000 n 
+0000000308 00000 n 
+0000000337 00000 n 
+0000000451 00000 n 
+0000000514 00000 n 
+0000005190 00000 n 
+0000005298 00000 n 
+0000005407 00000 n 
+0000005518 00000 n 
+0000005583 00000 n 
+0000011360 00000 n 
+0000011507 00000 n 
+0000014688 00000 n 
+0000014815 00000 n 
+0000014895 00000 n 
+0000015022 00000 n 
+0000015102 00000 n 
+0000015229 00000 n 
+0000015309 00000 n 
+0000015436 00000 n 
+0000015516 00000 n 
+0000015643 00000 n 
+0000015723 00000 n 
+0000015850 00000 n 
+0000015930 00000 n 
+0000016057 00000 n 
+0000016137 00000 n 
+0000016264 00000 n 
+0000016344 00000 n 
+0000016471 00000 n 
+0000016551 00000 n 
+0000016678 00000 n 
+trailer
+<<
+/Size 35
+/Root 1 0 R
+/Info 5 0 R
+>>
+startxref
+16768
+%%EOF

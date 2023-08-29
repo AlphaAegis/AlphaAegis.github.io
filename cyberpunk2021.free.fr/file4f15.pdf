@@ -1,0 +1,193 @@
+%PDF-1.3
+1 0 obj
+<< /Type /Catalog
+/Outlines 2 0 R
+/Pages 3 0 R >>
+endobj
+2 0 obj
+<< /Type /Outlines /Count 0 >>
+endobj
+3 0 obj
+<< /Type /Pages
+/Kids [6 0 R
+10 0 R
+]
+/Count 2
+/Resources <<
+/ProcSet 4 0 R
+/Font << 
+/F1 8 0 R
+/F2 9 0 R
+/F3 12 0 R
+>>
+>>
+/MediaBox [0.000 0.000 612.000 792.000]
+ >>
+endobj
+4 0 obj
+[/PDF /Text ]
+endobj
+5 0 obj
+<<
+/Creator (DOMPDF)
+/CreationDate (D:20230828023533+02'00')
+/ModDate (D:20230828023533+02'00')
+>>
+endobj
+6 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 7 0 R
+>>
+endobj
+7 0 obj
+<<
+/Length 6279 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 253.260 725.937 Td /F1 18.0 Tf  [(Artificial Life)] TJ ET
+BT 245.004 695.200 Td /F1 12.0 Tf  [(The Cyberpunk Project)] TJ ET
+BT 34.016 668.915 Td /F2 12.0 Tf  [( )] TJ ET
+BT 64.016 618.659 Td 1.274 Tw /F2 12.0 Tf  [(Artificial life - or "A-life" - is a relatively new branch of science that melds the highest levels of )] TJ ET
+BT 64.016 604.403 Td 0.766 Tw /F2 12.0 Tf  [(computing and biology. For some programmers, the goal is to come up with a superior form of AI )] TJ ET
+BT 64.016 590.147 Td 1.955 Tw /F2 12.0 Tf  [(by building software models of the smartest computer currently known, the brain, and seeing if )] TJ ET
+BT 64.016 575.891 Td 0.986 Tw /F2 12.0 Tf  [(those models can learn and adapt their behaviour as we can. Others approach it in a different way )] TJ ET
+BT 64.016 561.520 Td 0.000 Tw /F2 12.0 Tf  [(believing that computers can be useful for simulating biology.)] TJ ET
+BT 64.016 547.235 Td /F2 12.0 Tf  [(-- MacFormat, November 1996)] TJ ET
+BT 34.016 494.579 Td 0.825 Tw /F2 12.0 Tf  [(A-life uses both computing and biology to model the living world around us or to build new software with the )] TJ ET
+BT 34.016 480.323 Td 0.000 Tw /F2 12.0 Tf  [(adaptability and resilience of life itself.)] TJ ET
+BT 34.016 454.067 Td 0.539 Tw /F2 12.0 Tf  [(The first ever manifestation of artificial life was John Horton Conway's Game of Life in which the life or death )] TJ ET
+BT 34.016 439.811 Td 0.000 Tw /F2 12.0 Tf  [(cells in a grid were controlled a few simple rules :)] TJ ET
+0.000 0.000 0.000 RG
+57.816 416.660 m 
+57.816 417.210 57.589 417.756 57.201 418.145 c
+56.812 418.534 56.266 418.760 55.716 418.760 c
+55.166 418.760 54.620 418.534 54.231 418.145 c
+53.842 417.756 53.616 417.210 53.616 416.660 c
+53.616 416.110 53.842 415.564 54.231 415.175 c
+54.620 414.787 55.166 414.560 55.716 414.560 c
+56.266 414.560 56.812 414.787 57.201 415.175 c
+57.589 415.564 57.816 416.110 57.816 416.660 c f
+BT 64.016 413.555 Td /F2 12.0 Tf  [(if a cell has less than two neighbours or more than three it dies)] TJ ET
+57.816 402.404 m 
+57.816 402.954 57.589 403.500 57.201 403.889 c
+56.812 404.278 56.266 404.504 55.716 404.504 c
+55.166 404.504 54.620 404.278 54.231 403.889 c
+53.842 403.500 53.616 402.954 53.616 402.404 c
+53.616 401.854 53.842 401.308 54.231 400.919 c
+54.620 400.531 55.166 400.304 55.716 400.304 c
+56.266 400.304 56.812 400.531 57.201 400.919 c
+57.589 401.308 57.816 401.854 57.816 402.404 c f
+BT 64.016 399.299 Td /F2 12.0 Tf  [(if a cell has two neighbours it survives)] TJ ET
+57.816 388.148 m 
+57.816 388.698 57.589 389.244 57.201 389.633 c
+56.812 390.022 56.266 390.248 55.716 390.248 c
+55.166 390.248 54.620 390.022 54.231 389.633 c
+53.842 389.244 53.616 388.698 53.616 388.148 c
+53.616 387.598 53.842 387.052 54.231 386.663 c
+54.620 386.275 55.166 386.048 55.716 386.048 c
+56.266 386.048 56.812 386.275 57.201 386.663 c
+57.589 387.052 57.816 387.598 57.816 388.148 c f
+BT 64.016 385.043 Td /F2 12.0 Tf  [(if a cell has three neighbours it lives)] TJ ET
+BT 34.016 358.787 Td 1.476 Tw /F2 12.0 Tf  [(May interesting patterns have been seen over the years but to model a single-celled creature with these rules )] TJ ET
+BT 34.016 344.531 Td 0.759 Tw /F2 12.0 Tf  [(would require a grid measuring an estimated one million by one million cells. Systems which use this grid and )] TJ ET
+BT 34.016 330.275 Td 3.857 Tw /F2 12.0 Tf  [(rule approach are called cellular automata. Sim City falls into this category although it uses far more )] TJ ET
+BT 34.016 316.019 Td 0.000 Tw /F2 12.0 Tf  [(complicated rules than the Game of Life.)] TJ ET
+BT 34.016 289.763 Td 2.829 Tw /F2 12.0 Tf  [(Cellular automata can seem far removed from the real world but other are much closer to home. Neural )] TJ ET
+BT 34.016 275.507 Td 3.600 Tw /F2 12.0 Tf  [(networks promise better artificial intelligence by borrowing from the structure of the organic brain. An )] TJ ET
+BT 34.016 261.251 Td 0.337 Tw /F2 12.0 Tf  [(individual neurons act on signals from other neurons, either firing or not firing. Each neuron can either excite or )] TJ ET
+BT 34.016 246.995 Td 2.001 Tw /F2 12.0 Tf  [(inhibit other neurons. Stable patterns of activity appear in response to input given from outside the system. )] TJ ET
+BT 34.016 232.739 Td 1.364 Tw /F2 12.0 Tf  [(These patterns represent memories recorded as the connections between neurons. New memories may be laid )] TJ ET
+BT 34.016 218.483 Td 1.603 Tw /F2 12.0 Tf  [(down by changing the strengths of connections between neurons. New input patterns will be associated with )] TJ ET
+BT 34.016 204.227 Td 1.179 Tw /F2 12.0 Tf  [(similar input patterns the network has been taught in the past. This allows neural networks to generalise from )] TJ ET
+BT 34.016 189.971 Td 0.000 Tw /F2 12.0 Tf  [(past experience and cope with unique situations.)] TJ ET
+BT 34.016 163.715 Td 2.003 Tw /F2 12.0 Tf  [(The theory of evolution has also provided a suitable crop of ideas. Imagine a computer which starts empty )] TJ ET
+BT 34.016 149.459 Td 1.494 Tw /F2 12.0 Tf  [(except for a single small program. The program, called the Ancestor, is 80 bytes long and can do one thing, )] TJ ET
+BT 34.016 135.203 Td 0.861 Tw /F2 12.0 Tf  [(make copies of itself. Soon the limited memory is full with Ancestors all producing more copies so, to free up )] TJ ET
+BT 34.016 120.947 Td 2.650 Tw /F2 12.0 Tf  [(space, the computer occasionally destroys older programs or those that cause errors. The operation of the )] TJ ET
+BT 34.016 106.691 Td 1.062 Tw /F2 12.0 Tf  [(computer is not perfect and sometimes copying goes wrong and a new program appears. This computer is not )] TJ ET
+BT 34.016 92.435 Td 2.513 Tw /F2 12.0 Tf  [(fiction, it is called Tierra. When it was first switched on the population grew and changed. The Ancestor )] TJ ET
+BT 34.016 78.179 Td 0.775 Tw /F2 12.0 Tf  [(program was soon ousted by a faster program with only 78 bytes. Later a program with 48 bytes appear which )] TJ ET
+BT 34.016 63.923 Td 0.355 Tw /F2 12.0 Tf  [(survived by parasiting the code of its neighbours. On a later occasion Tierra threw up an individual which could )] TJ ET
+BT 34.016 49.667 Td 0.960 Tw /F2 12.0 Tf  [(survive independently with an amazing 22 bytes. Built safely as a simulation inside another computer, there is )] TJ ET
+endstream
+endobj
+8 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Times-Bold
+/Encoding /WinAnsiEncoding
+>>
+endobj
+9 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F2
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+>>
+endobj
+10 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 11 0 R
+>>
+endobj
+11 0 obj
+<<
+/Length 1993 >>
+stream
+
+0.000 0.000 0.000 rg
+0.000 0.000 0.000 RG
+BT 34.016 746.579 Td 0.000 Tw /F2 12.0 Tf  [(fortunately no danger of an escape.)] TJ ET
+BT 34.016 675.545 Td /F1 14.0 Tf  [(Are We about to Unleash a Frankenstein Monster ?)] TJ ET
+BT 34.016 650.729 Td /F2 12.0 Tf  [(By )] TJ ET
+BT 51.020 650.729 Td /F3 12.0 Tf  [(Curt Suplee)] TJ ET
+BT 34.016 636.444 Td /F2 12.0 Tf  [(Washington Post, as it appeared in Sacramento Bee \(Sacramento, Calif.\), May 27, 1990, Forum, pp. 1+.)] TJ ET
+BT 34.016 610.188 Td 0.671 Tw /F2 12.0 Tf  [(The new science of artificial life \(AL\) is introducing new products and machines that may someday force us to )] TJ ET
+BT 34.016 595.932 Td 0.661 Tw /F2 12.0 Tf  [(rewrite the definition of "life" to include noncarbon-based materials. AL theorists speculate that computers will )] TJ ET
+BT 34.016 581.676 Td 0.189 Tw /F2 12.0 Tf  [(soon have the capacity to depict "life as it could be", thanks to the study of "chaos", which shows that seemingly )] TJ ET
+BT 34.016 567.420 Td 2.367 Tw /F2 12.0 Tf  [(obvious random occurrences may be linked by discernible patterns. Advanced computerized modeling now )] TJ ET
+BT 34.016 553.164 Td 1.511 Tw /F2 12.0 Tf  [(enables scientists to probe the process of evolution, introducing conditions into the equation with results that )] TJ ET
+BT 34.016 538.908 Td 0.000 Tw /F2 12.0 Tf  [(suggest the origin of life was not an accident or random occurrence, as previously believed.)] TJ ET
+BT 34.016 512.652 Td 2.112 Tw /F2 12.0 Tf  [(Evolutionary modeling is leading to the development of prototype robots, powered by sunlight, that can be )] TJ ET
+BT 34.016 498.396 Td 0.804 Tw /F2 12.0 Tf  [(programmed for construction work in space. Humans will consider computer programs and the robots they run )] TJ ET
+BT 34.016 484.140 Td 1.813 Tw /F2 12.0 Tf  [(more as animals than machines, AL scientists predict, further blurring the distinctions between artificial and )] TJ ET
+BT 34.016 469.884 Td 0.000 Tw /F2 12.0 Tf  [(natural.)] TJ ET
+endstream
+endobj
+12 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F3
+/BaseFont /Times-Italic
+/Encoding /WinAnsiEncoding
+>>
+endobj
+xref
+0 13
+0000000000 65535 f 
+0000000008 00000 n 
+0000000073 00000 n 
+0000000119 00000 n 
+0000000301 00000 n 
+0000000330 00000 n 
+0000000444 00000 n 
+0000000507 00000 n 
+0000006838 00000 n 
+0000006946 00000 n 
+0000007055 00000 n 
+0000007120 00000 n 
+0000009166 00000 n 
+trailer
+<<
+/Size 13
+/Root 1 0 R
+/Info 5 0 R
+>>
+startxref
+9277
+%%EOF

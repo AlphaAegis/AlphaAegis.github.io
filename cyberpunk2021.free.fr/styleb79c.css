@@ -1,0 +1,14 @@
+
+a { color: red }
+body {
+	font-family: verdana;
+	text-align: justify;
+	color: white;
+	background-color: black
+}
+img { border: 0 }
+div.c {
+	margin: auto;
+	width: 95%
+}
+td { padding-right: 15 }

@@ -1,0 +1,13 @@
+
+body {
+	background: black;
+	color: white;
+	font-family: verdana
+}
+hr {
+	background: url(interface/point.gif) no-repeat center;
+	margin: 20px 0 20px 0;
+	border: 0;
+	height: 13px
+}
+td { padding: 4px }

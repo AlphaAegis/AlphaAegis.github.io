@@ -1,0 +1,265 @@
+%PDF-1.3
+1 0 obj
+<< /Type /Catalog
+/Outlines 2 0 R
+/Pages 3 0 R >>
+endobj
+2 0 obj
+<< /Type /Outlines /Count 0 >>
+endobj
+3 0 obj
+<< /Type /Pages
+/Kids [6 0 R
+14 0 R
+]
+/Count 2
+/Resources <<
+/ProcSet 4 0 R
+/Font << 
+/F1 8 0 R
+/F2 9 0 R
+>>
+>>
+/MediaBox [0.000 0.000 612.000 792.000]
+ >>
+endobj
+4 0 obj
+[/PDF /Text ]
+endobj
+5 0 obj
+<<
+/Creator (DOMPDF)
+/CreationDate (D:20230827221426+02'00')
+/ModDate (D:20230827221426+02'00')
+>>
+endobj
+6 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Annots [ 10 0 R 12 0 R ]
+/Contents 7 0 R
+>>
+endobj
+7 0 obj
+<<
+/Length 5026 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 217.728 725.937 Td /F1 18.0 Tf  [(Ubiquitous Computing)] TJ ET
+BT 245.004 695.200 Td /F1 12.0 Tf  [(The Cyberpunk Project)] TJ ET
+BT 34.016 668.915 Td /F2 12.0 Tf  [( )] TJ ET
+BT 34.016 630.659 Td 1.159 Tw /F2 12.0 Tf  [(This research area tackles with applications and enabling technologies for ubiquitous and wearable computing )] TJ ET
+BT 34.016 616.403 Td 0.000 Tw /F2 12.0 Tf  [(\(such as ad hoc networking technologies\).)] TJ ET
+BT 34.016 590.147 Td 2.846 Tw /F2 12.0 Tf  [(In ubiquitous computing a user has access to many computing devices. These computing devices will be )] TJ ET
+BT 34.016 575.891 Td 0.215 Tw /F2 12.0 Tf  [(unobtrusive and provide seamless access to a wide variety of data and allow the user to perform tasks as needed, )] TJ ET
+BT 34.016 561.635 Td 1.180 Tw /F2 12.0 Tf  [(where needed. The objective of ubiquitous computing is to move interaction with computers out of a person's )] TJ ET
+BT 34.016 547.379 Td 3.254 Tw /F2 12.0 Tf  [(central focus and into the user's peripheral attention where they can be used subconsciously. Ubiquitous )] TJ ET
+BT 34.016 533.123 Td 0.000 Tw /F2 12.0 Tf  [(computing is often characterized by the attributes of mobility, interconnectivity and context-awareness.)] TJ ET
+BT 34.016 506.867 Td 0.392 Tw /F2 12.0 Tf  [(One of the key attributes of ubiquitous computing is mobility. An individual will carry or wear multiple devices )] TJ ET
+BT 34.016 492.611 Td 3.149 Tw /F2 12.0 Tf  [(and move about the office, home or public places. It's obvious that these devices should be both easily )] TJ ET
+BT 34.016 478.355 Td 1.172 Tw /F2 12.0 Tf  [(transportable and simple to interact with. User interfaces, whether voice, pen based or key based, will present )] TJ ET
+BT 34.016 464.099 Td 1.837 Tw /F2 12.0 Tf  [(particular challenges in mobile devices. Frugality will be important when mobile devices are designed since )] TJ ET
+BT 34.016 449.843 Td 0.760 Tw /F2 12.0 Tf  [(resources of mobile devices are minimal. Displays of mobile devices have limited graphics capabilities and are )] TJ ET
+BT 34.016 435.587 Td 0.000 Tw /F2 12.0 Tf  [(quite small. Similarly, memory is limited, disks may be nonexistent, and software availability may be restricted.)] TJ ET
+BT 34.016 409.331 Td 1.923 Tw /F2 12.0 Tf  [(Another key attribute of ubiquitous computing is interconnectivity. Current mobile hosts such as notebooks, )] TJ ET
+BT 34.016 395.075 Td 2.837 Tw /F2 12.0 Tf  [(PDAs and cellular phones provide connectivity but lack interconnectivity. With these devices a user may )] TJ ET
+BT 34.016 380.819 Td 1.351 Tw /F2 12.0 Tf  [(connect to another system on a point to point basis. The ubiquitous computing paradigm will take this a step )] TJ ET
+BT 34.016 366.563 Td 1.659 Tw /F2 12.0 Tf  [(further. "Ubiquitous" devices, like existing devices, will have the ability to connect to systems on a point to )] TJ ET
+BT 34.016 352.307 Td 1.299 Tw /F2 12.0 Tf  [(point basis. They will have additional capabilities too. Devices will be aware of each other and know how to )] TJ ET
+BT 34.016 338.051 Td 1.649 Tw /F2 12.0 Tf  [(exchange information among themselves. In addition, they will be able to control each other as needed. Just )] TJ ET
+BT 34.016 323.795 Td 0.572 Tw /F2 12.0 Tf  [(how this will be accomplished remains to be seen. Suggestions including the use of infrared \(IrDA\), low power )] TJ ET
+BT 34.016 309.539 Td 0.000 Tw /F2 12.0 Tf  [(RF, or even inductive \(EMF\) communications have been proffered.)] TJ ET
+BT 34.016 283.283 Td 1.315 Tw /F2 12.0 Tf  [(For Ubiquitous devices to be truly useful they must support the concept of context awareness. Context aware )] TJ ET
+BT 34.016 269.027 Td 1.022 Tw /F2 12.0 Tf  [(devices will be able to adapt their behavior to the environment in which they find themselves. Devices should )] TJ ET
+BT 34.016 254.771 Td 1.005 Tw /F2 12.0 Tf  [(recognize when they transition to a new network or one that uses a different protocol and adapt appropriately; )] TJ ET
+BT 34.016 240.515 Td 0.747 Tw /F2 12.0 Tf  [(e.g. switch from using low power RF for communication to using an IrDA port instead. Context aware devices )] TJ ET
+BT 34.016 226.259 Td 1.274 Tw /F2 12.0 Tf  [(will also recognize the software, hardware and other resource constraints of devices they are interacting with. )] TJ ET
+BT 34.016 212.003 Td 0.153 Tw /F2 12.0 Tf  [(For example, a device should know or be able to discover whether a device it wishes to interact with can support )] TJ ET
+BT 34.016 197.747 Td 0.000 Tw /F2 12.0 Tf  [(a certain protocol or windowing system. This is often referred to as resource qualification.)] TJ ET
+BT 34.016 128.753 Td /F1 14.0 Tf  [(References & Links)] TJ ET
+0.000 0.000 0.800 rg
+BT 34.016 102.012 Td /F2 12.0 Tf  [(Ubiquitous Computing : An Interesting New Paradigm)] TJ ET
+0.000 0.000 0.800 RG
+0.24 w 0 J [  ] 0 d
+34.016 100.618 m 297.344 100.618 l S
+BT 34.016 75.756 Td /F2 12.0 Tf  [(Hot Topics in Ubiquitous Computing)] TJ ET
+0.24 w 0 J [  ] 0 d
+34.016 74.362 m 213.368 74.362 l S
+endstream
+endobj
+8 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Times-Bold
+/Encoding /WinAnsiEncoding
+>>
+endobj
+9 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F2
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+>>
+endobj
+10 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 11 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 34.0157 100.9319 297.3437 112.8119 ]
+>>
+endobj
+11 0 obj
+<< /Type /Action
+/S /URI
+/URI (cp_project.php?txt=146&lng=us)
+>>
+endobj
+12 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 13 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 34.0157 74.6759 213.3677 86.5559 ]
+>>
+endobj
+13 0 obj
+<< /Type /Action
+/S /URI
+/URI (cp_project.php?txt=147&lng=us)
+>>
+endobj
+14 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Annots [ 16 0 R 18 0 R 20 0 R 22 0 R ]
+/Contents 15 0 R
+>>
+endobj
+15 0 obj
+<<
+/Length 839 >>
+stream
+
+0.000 0.000 0.800 rg
+0.000 0.000 0.800 RG
+0.24 w 0 J [  ] 0 d
+BT 34.016 746.579 Td /F2 12.0 Tf  [(The World is not a Desktop)] TJ ET
+0.24 w 0 J [  ] 0 d
+34.016 745.185 m 167.000 745.185 l S
+BT 34.016 720.323 Td /F2 12.0 Tf  [(The Computer for the 21st Century)] TJ ET
+0.24 w 0 J [  ] 0 d
+34.016 718.929 m 203.000 718.929 l S
+BT 34.016 694.067 Td /F2 12.0 Tf  [(Ubiquitous Computing)] TJ ET
+0.24 w 0 J [  ] 0 d
+34.016 692.673 m 144.368 692.673 l S
+0.000 0.000 0.000 rg
+BT 64.016 679.811 Td /F2 12.0 Tf  [(Ubiquitous Computing page at Xerox Palo Alto Research Center.)] TJ ET
+0.000 0.000 0.800 rg
+BT 34.016 653.555 Td /F2 12.0 Tf  [(Some Computer Science Issues in Ubiquitous Computing)] TJ ET
+0.24 w 0 J [  ] 0 d
+34.016 652.161 m 310.688 652.161 l S
+0.000 0.000 0.000 rg
+BT 64.016 639.299 Td /F2 12.0 Tf  [(An essay by Mark Weiser.)] TJ ET
+endstream
+endobj
+16 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 17 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 34.0157 745.4995 166.9997 757.3795 ]
+>>
+endobj
+17 0 obj
+<< /Type /Action
+/S /URI
+/URI (cp_project.php?txt=148&lng=us)
+>>
+endobj
+18 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 19 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 34.0157 719.2435 202.9997 731.1235 ]
+>>
+endobj
+19 0 obj
+<< /Type /Action
+/S /URI
+/URI (cp_project.php?txt=149&lng=us)
+>>
+endobj
+20 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 21 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 34.0157 692.9875 144.3677 704.8675 ]
+>>
+endobj
+21 0 obj
+<< /Type /Action
+/S /URI
+/URI (http://www.ubiq.com/hypertext/weiser/UbiHome.html)
+>>
+endobj
+22 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 23 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 34.0157 652.4755 310.6877 664.3555 ]
+>>
+endobj
+23 0 obj
+<< /Type /Action
+/S /URI
+/URI (http://nano.xerox.com/hypertext/weiser/UbiCACM.html)
+>>
+endobj
+xref
+0 24
+0000000000 65535 f 
+0000000008 00000 n 
+0000000073 00000 n 
+0000000119 00000 n 
+0000000290 00000 n 
+0000000319 00000 n 
+0000000433 00000 n 
+0000000522 00000 n 
+0000005600 00000 n 
+0000005708 00000 n 
+0000005817 00000 n 
+0000005944 00000 n 
+0000006025 00000 n 
+0000006150 00000 n 
+0000006231 00000 n 
+0000006336 00000 n 
+0000007227 00000 n 
+0000007354 00000 n 
+0000007435 00000 n 
+0000007562 00000 n 
+0000007643 00000 n 
+0000007770 00000 n 
+0000007871 00000 n 
+0000007998 00000 n 
+trailer
+<<
+/Size 24
+/Root 1 0 R
+/Info 5 0 R
+>>
+startxref
+8101
+%%EOF

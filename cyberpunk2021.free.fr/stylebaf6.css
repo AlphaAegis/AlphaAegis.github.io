@@ -1,0 +1,15 @@
+
+body {
+	font-family: verdana;
+	color: white;
+	background-color: black
+}
+div.c {
+	margin: auto;
+	width: 95%
+}
+img.r {
+	float: right;
+	padding-left: 20px
+}
+td { text-align: center }

@@ -1,0 +1,11 @@
+
+input {
+	font-family: verdana;
+	font-size: 11px;
+	color: #474747;
+	background-color: #DFDFDF;
+	border: 1px solid #2F2F2F;
+	padding-left: 4
+}
+input.c { width: 24 }
+input.d { width: 31 }

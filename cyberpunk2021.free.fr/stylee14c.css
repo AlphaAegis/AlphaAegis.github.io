@@ -1,0 +1,17 @@
+
+a { color: #6F80BD }
+body {
+	font-family: verdana;
+	text-align: justify;
+	color: white;
+	background-color: black
+}
+div.c {
+	margin: auto;
+	width: 95%
+}
+img {
+	border: 0;
+	vertical-align: bottom
+}
+ul { margin-top: 5 }

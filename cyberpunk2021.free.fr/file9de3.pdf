@@ -1,0 +1,261 @@
+%PDF-1.3
+1 0 obj
+<< /Type /Catalog
+/Outlines 2 0 R
+/Pages 3 0 R >>
+endobj
+2 0 obj
+<< /Type /Outlines /Count 0 >>
+endobj
+3 0 obj
+<< /Type /Pages
+/Kids [6 0 R
+10 0 R
+13 0 R
+]
+/Count 3
+/Resources <<
+/ProcSet 4 0 R
+/Font << 
+/F1 8 0 R
+/F2 9 0 R
+/F3 12 0 R
+>>
+>>
+/MediaBox [0.000 0.000 612.000 792.000]
+ >>
+endobj
+4 0 obj
+[/PDF /Text ]
+endobj
+5 0 obj
+<<
+/Creator (DOMPDF)
+/CreationDate (D:20230827221424+02'00')
+/ModDate (D:20230827221424+02'00')
+>>
+endobj
+6 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 7 0 R
+>>
+endobj
+7 0 obj
+<<
+/Length 4910 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 271.512 725.937 Td /F1 18.0 Tf  [(Software)] TJ ET
+BT 245.004 695.200 Td /F1 12.0 Tf  [(The Cyberpunk Project)] TJ ET
+BT 34.016 668.915 Td /F2 12.0 Tf  [( )] TJ ET
+BT 34.016 622.017 Td /F1 18.0 Tf  [(Computer Virii)] TJ ET
+BT 34.016 591.395 Td 0.686 Tw /F2 12.0 Tf  [(By definition, a computer virus is any program that is created to cause damage to the targeted system. Just like )] TJ ET
+BT 34.016 577.139 Td 1.337 Tw /F2 12.0 Tf  [(the name implies, a computer virus resembles a biological virus in many ways. Different virii cause different )] TJ ET
+BT 34.016 562.883 Td 1.264 Tw /F2 12.0 Tf  [(symptoms to arise, but most do the following : infect the host, cause damage to all files it touches, replicates )] TJ ET
+BT 34.016 548.627 Td 0.000 Tw /F2 12.0 Tf  [(itself, and infects all other systems that come into contact with it.)] TJ ET
+BT 34.016 522.371 Td 0.254 Tw /F2 12.0 Tf  [(A computer virus, like all other programs, is created by a programmer. Unfortunately, there are literally millions )] TJ ET
+BT 34.016 508.115 Td 0.272 Tw /F2 12.0 Tf  [(of places where a given system might "contract" a virus. Simply by visiting a website one could be downloaded. )] TJ ET
+BT 34.016 493.859 Td 1.459 Tw /F2 12.0 Tf  [(The common method is through file attachments in email. By opening or executing the attachment, the virus )] TJ ET
+BT 34.016 479.603 Td 1.180 Tw /F2 12.0 Tf  [(loads into memory and starts doing it's damage. Some email programs are even easier to take advantage of, a )] TJ ET
+BT 34.016 465.347 Td 0.000 Tw /F2 12.0 Tf  [(topic we will discuss a little later.)] TJ ET
+BT 34.016 439.091 Td 0.181 Tw /F2 12.0 Tf  [(These virii come in various shapes and sizes, with varying levels of damage. There are three main classifications )] TJ ET
+BT 34.016 424.835 Td 0.000 Tw /F2 12.0 Tf  [(of viruses, determined by it's method of infection :)] TJ ET
+0.000 0.000 0.000 RG
+57.816 401.684 m 
+57.816 402.234 57.589 402.780 57.201 403.169 c
+56.812 403.558 56.266 403.784 55.716 403.784 c
+55.166 403.784 54.620 403.558 54.231 403.169 c
+53.842 402.780 53.616 402.234 53.616 401.684 c
+53.616 401.134 53.842 400.588 54.231 400.199 c
+54.620 399.811 55.166 399.584 55.716 399.584 c
+56.266 399.584 56.812 399.811 57.201 400.199 c
+57.589 400.588 57.816 401.134 57.816 401.684 c f
+BT 64.016 398.579 Td 0.336 Tw /F2 12.0 Tf  [(Program : infects/attaches to executable files \(files that have extension like COM, EXE, OVL, DRV, SYS )] TJ ET
+BT 64.016 384.323 Td 0.000 Tw /F2 12.0 Tf  [(and BIN\).)] TJ ET
+57.816 373.172 m 
+57.816 373.722 57.589 374.268 57.201 374.657 c
+56.812 375.046 56.266 375.272 55.716 375.272 c
+55.166 375.272 54.620 375.046 54.231 374.657 c
+53.842 374.268 53.616 373.722 53.616 373.172 c
+53.616 372.622 53.842 372.076 54.231 371.687 c
+54.620 371.299 55.166 371.072 55.716 371.072 c
+56.266 371.072 56.812 371.299 57.201 371.687 c
+57.589 372.076 57.816 372.622 57.816 373.172 c f
+BT 64.016 370.067 Td /F2 12.0 Tf  [(Boot : infects the Boot Record, Master Boot, FAT, and/or Partition Table.)] TJ ET
+57.816 358.916 m 
+57.816 359.466 57.589 360.012 57.201 360.401 c
+56.812 360.790 56.266 361.016 55.716 361.016 c
+55.166 361.016 54.620 360.790 54.231 360.401 c
+53.842 360.012 53.616 359.466 53.616 358.916 c
+53.616 358.366 53.842 357.820 54.231 357.431 c
+54.620 357.043 55.166 356.816 55.716 356.816 c
+56.266 356.816 56.812 357.043 57.201 357.431 c
+57.589 357.820 57.816 358.366 57.816 358.916 c f
+BT 64.016 355.811 Td /F2 12.0 Tf  [(Multipartite : a combination of a program and a boot infector virus.)] TJ ET
+BT 34.016 313.217 Td /F1 14.0 Tf  [(Characteristics)] TJ ET
+BT 34.016 286.476 Td /F2 12.0 Tf  [(Each type of virus has one or more of these characteristics :)] TJ ET
+BT 34.016 260.220 Td /F2 12.0 Tf  [(Memory Resident)] TJ ET
+BT 64.016 245.964 Td /F2 12.0 Tf  [(Stays in memory and can easily replicate itself. This is the most common type of virus.)] TJ ET
+BT 34.016 217.308 Td /F2 12.0 Tf  [(Non-Resident)] TJ ET
+BT 64.016 203.052 Td 0.204 Tw /F2 12.0 Tf  [(Does it's damage ONLY while host program \(the one it has infected & attached itself to\) is open. This one )] TJ ET
+BT 64.016 188.796 Td 0.000 Tw /F2 12.0 Tf  [(isn't as common.)] TJ ET
+BT 34.016 160.140 Td /F2 12.0 Tf  [(Stealth)] TJ ET
+BT 64.016 145.769 Td /F2 12.0 Tf  [(Avoids detection by doing the following :)] TJ ET
+BT 64.016 131.484 Td 1.072 Tw /F2 12.0 Tf  [(Full - redirects disk reads to avoid detection \(keeps the drive from reading it's particular location on the )] TJ ET
+BT 64.016 117.113 Td 0.000 Tw /F2 12.0 Tf  [(hard disk\).)] TJ ET
+BT 64.016 102.828 Td 0.434 Tw /F2 12.0 Tf  [(Size - Disk directory data is altered hide the additional space taken up by the virus \(rewrites the file's size )] TJ ET
+BT 64.016 88.572 Td 0.000 Tw /F2 12.0 Tf  [(so that it appears to be the same size as it was prior to infection\).)] TJ ET
+BT 34.016 59.916 Td /F2 12.0 Tf  [(Encrypting)] TJ ET
+endstream
+endobj
+8 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Times-Bold
+/Encoding /WinAnsiEncoding
+>>
+endobj
+9 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F2
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+>>
+endobj
+10 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 11 0 R
+>>
+endobj
+11 0 obj
+<<
+/Length 5554 >>
+stream
+
+0.000 0.000 0.000 rg
+0.000 0.000 0.000 RG
+BT 64.016 746.579 Td 2.137 Tw /F2 12.0 Tf  [(The virus converts itself into cryptic symbols. In order to launch \(execute\), however, it must decrypt )] TJ ET
+BT 64.016 732.323 Td 0.000 Tw /F2 12.0 Tf  [(\(which is when it is normally detected by antivirus software\).)] TJ ET
+BT 34.016 703.667 Td /F2 12.0 Tf  [(Polymorphic)] TJ ET
+BT 64.016 689.411 Td 0.565 Tw /F2 12.0 Tf  [(This type of virus has the ability to alter it's code from one infection to another. This is one of the largest )] TJ ET
+BT 64.016 675.155 Td 0.000 Tw /F2 12.0 Tf  [(challenges for antivirus detection programs.)] TJ ET
+BT 34.016 646.499 Td /F2 12.0 Tf  [(Triggered Event)] TJ ET
+BT 64.016 632.243 Td 2.632 Tw /F2 12.0 Tf  [(Like the name implies, this virus is triggered by an event, such as a date, keyboard stroke, a DOS )] TJ ET
+BT 64.016 617.987 Td 0.000 Tw /F2 12.0 Tf  [(function, deleting files... etc.)] TJ ET
+BT 34.016 589.331 Td /F2 12.0 Tf  [(In the Wild)] TJ ET
+BT 64.016 575.075 Td 0.170 Tw /F2 12.0 Tf  [(A virus that is "in the wild" is one that has caused infections outside a laboratory situation. In other words, )] TJ ET
+BT 64.016 560.819 Td 0.000 Tw /F2 12.0 Tf  [(it has not been found or properly categorized by antivirus developers, and its effects are unknown.)] TJ ET
+BT 34.016 511.521 Td /F1 18.0 Tf  [(Bots)] TJ ET
+BT 34.016 480.899 Td 1.685 Tw /F2 12.0 Tf  [(A bot is a software robot. On the Net, robots have taken on a new form of life. Bots are normally used for )] TJ ET
+BT 34.016 466.643 Td 1.058 Tw /F2 12.0 Tf  [(digging through large amounts of data You give a bot directions and it bring back answers, examples : search )] TJ ET
+BT 34.016 452.387 Td 0.000 Tw /F2 12.0 Tf  [(engines. Bots can also be used to perform some repetative tasks in the Net, examples : IRC bots.)] TJ ET
+BT 34.016 426.131 Td 0.820 Tw /F2 12.0 Tf  [(Since all Web servers are connected, robot-like software is the perfect way to perform the methodical searches )] TJ ET
+BT 34.016 411.875 Td 1.592 Tw /F2 12.0 Tf  [(needed to find information. For example, Web search engines send out robots that )] TJ ET
+BT 451.651 411.875 Td 1.592 Tw /F1 12.0 Tf  [(crawl)] TJ ET
+BT 480.307 411.875 Td 1.592 Tw /F2 12.0 Tf  [( from one server to )] TJ ET
+BT 34.016 397.619 Td 0.414 Tw /F2 12.0 Tf  [(another, compiling the enormous lists of URLs that are the heart of every search engine. Shopping bots compile )] TJ ET
+BT 34.016 383.363 Td 0.000 Tw /F2 12.0 Tf  [(enormous databases of products sold at online stores.)] TJ ET
+BT 34.016 357.107 Td 0.386 Tw /F2 12.0 Tf  [(The term bot has become interchangeable with )] TJ ET
+BT 264.335 357.107 Td 0.386 Tw /F1 12.0 Tf  [(agent)] TJ ET
+BT 292.331 357.107 Td 0.386 Tw /F2 12.0 Tf  [(, to indicate that the software can be sent out on a mission, )] TJ ET
+BT 34.016 342.851 Td 0.250 Tw /F2 12.0 Tf  [(usually to find information and report back. Strictly speaking, an agent is a bot that goes out on a mission. Some )] TJ ET
+BT 34.016 328.595 Td 0.000 Tw /F2 12.0 Tf  [(bots operate in place; for example, a bot in Microsoft Front Page automates work on a Web page.)] TJ ET
+BT 34.016 302.339 Td 0.427 Tw /F2 12.0 Tf  [(Bots have great potential in )] TJ ET
+BT 171.139 302.339 Td 0.427 Tw /F1 12.0 Tf  [(data mining)] TJ ET
+BT 233.247 302.339 Td 0.427 Tw /F2 12.0 Tf  [(, the process of finding patterns in enormous amounts of data. Because )] TJ ET
+BT 34.016 288.083 Td 0.433 Tw /F2 12.0 Tf  [(data mining often requires a series of searches, bots can save labor as they persist in a search, refining it as they )] TJ ET
+BT 34.016 273.827 Td 1.086 Tw /F2 12.0 Tf  [(go along. Intelligent bots can make decisions based on past experiences, which will become an important tool )] TJ ET
+BT 34.016 259.571 Td 0.000 Tw /F2 12.0 Tf  [(for data miners trying to perfect complex searches that delve into billions of data points.)] TJ ET
+BT 34.016 233.315 Td 0.495 Tw /F2 12.0 Tf  [(Bots were not invented on the Internet, however. Robotic software is generally believed to have been created in )] TJ ET
+BT 34.016 219.059 Td 0.402 Tw /F2 12.0 Tf  [(the form of )] TJ ET
+BT 92.209 219.059 Td 0.402 Tw /F3 12.0 Tf  [(Eliza)] TJ ET
+BT 116.881 219.059 Td 0.402 Tw /F2 12.0 Tf  [(, one of the first public displays of )] TJ ET
+BT 287.748 219.059 Td 0.402 Tw /F1 12.0 Tf  [(artificial intelligence)] TJ ET
+BT 393.138 219.059 Td 0.402 Tw /F2 12.0 Tf  [(. Eliza is a computer programmer that )] TJ ET
+BT 34.016 204.803 Td 2.004 Tw /F2 12.0 Tf  [(can engage a human in conversation : Eliza asks the user a question, and uses the answer to formulate yet )] TJ ET
+BT 34.016 190.547 Td 0.761 Tw /F2 12.0 Tf  [(another question. Artificial intelligence is an advanced form of computer science that aims to develop software )] TJ ET
+BT 34.016 176.291 Td 0.000 Tw /F2 12.0 Tf  [(capable of processing information on its own, without the need for human direction.)] TJ ET
+BT 34.016 150.035 Td 0.484 Tw /F2 12.0 Tf  [(At times, Webmasters look on some forms of robots as a nuisance. A spider robot may uncover information the )] TJ ET
+BT 34.016 135.779 Td 1.068 Tw /F2 12.0 Tf  [(Webmaster would prefer would remain secret; occasionally, a bot will mis-behave as it crawls through a Web )] TJ ET
+BT 34.016 121.523 Td 1.388 Tw /F2 12.0 Tf  [(site, looking for URLs over and over, and slowing down the server's performance. As a result, search engine )] TJ ET
+BT 34.016 107.267 Td 0.000 Tw /F2 12.0 Tf  [(developers have formed standards on how robots should behave and how they can be excluded from Web sites.)] TJ ET
+endstream
+endobj
+12 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F3
+/BaseFont /Times-Italic
+/Encoding /WinAnsiEncoding
+>>
+endobj
+13 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Annots [ 15 0 R ]
+/Contents 14 0 R
+>>
+endobj
+14 0 obj
+<<
+/Length 256 >>
+stream
+
+0.000 0.000 0.000 rg
+0.000 0.000 0.000 RG
+BT 34.016 730.601 Td /F1 14.0 Tf  [(References)] TJ ET
+0.000 0.000 0.800 rg
+BT 34.016 705.900 Td /F2 12.0 Tf  [(Software Piracy)] TJ ET
+0.000 0.000 0.800 RG
+0.24 w 0 J [  ] 0 d
+34.016 704.506 m 110.996 704.506 l S
+endstream
+endobj
+15 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 16 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 34.0157 704.8199 110.9957 716.6999 ]
+>>
+endobj
+16 0 obj
+<< /Type /Action
+/S /URI
+/URI (cp_project.php?txt=166&lng=us)
+>>
+endobj
+xref
+0 17
+0000000000 65535 f 
+0000000008 00000 n 
+0000000073 00000 n 
+0000000119 00000 n 
+0000000308 00000 n 
+0000000337 00000 n 
+0000000451 00000 n 
+0000000514 00000 n 
+0000005476 00000 n 
+0000005584 00000 n 
+0000005693 00000 n 
+0000005758 00000 n 
+0000011365 00000 n 
+0000011476 00000 n 
+0000011560 00000 n 
+0000011868 00000 n 
+0000011995 00000 n 
+trailer
+<<
+/Size 17
+/Root 1 0 R
+/Info 5 0 R
+>>
+startxref
+12076
+%%EOF

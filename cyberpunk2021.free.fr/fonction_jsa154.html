@@ -1,0 +1,486 @@
+
+function urldecode(str) { return unescape(str.replace(/\+/gi, " ")); }
+
+function createXhrObject() {
+	if (window.XMLHttpRequest) { return new XMLHttpRequest(); }
+
+	if (window.ActiveXObject) {
+		var names = ["Msxml2.XMLHTTP.6.0","Msxml2.XMLHTTP.3.0","Msxml2.XMLHTTP","Microsoft.XMLHTTP"];
+		for (var i in names) {
+			try { return new ActiveXObject(names[i]); }
+			catch(e){}
+		}
+	}
+	window.alert("Votre navigateur ne prend pas en charge l'objet XMLHTTPRequest.");
+	return null;
+}
+
+// Menu
+function mhover(id, txt, hv) {
+	document.getElementById("cp" + id).src = "menu_graph.php?hv=" + hv + "&typ=cpp&txt=" + txt;
+}
+
+function img_hover(type, name, id) {
+	var lng = "fr";
+	var menu = document.getElementById(name);
+	var url = "";
+
+	if (type == "wp") { url = "menu_graph.php?wp=1&id=" + id + "&lng=" + lng; }
+	if (type == "mh") { url = "menu_graph.php?id=" + id + "&lng=" + lng; }
+	if (type == "mg") { url = "menu_graph.php?typ=mg&id=" + id; }
+	if (type == "mgc") { url = "menu_graph.php?typ=mgc&id=" + id; }
+	if (type == "lg") { url = "menu_graph.php?typ=lg&lng=" + lng; }
+	if (type == "m") { url = "menu_graph.php?typ=m&id=" + id + "&lng=" + lng; }
+	if (type == "cp") { url = "menu_graph.php?typ=cpp&txt=" + id; }
+
+	if (menu) {
+		menu.onmouseover = function() { menu.src = url + "&hv=1"; };
+		menu.onfocus = function() { menu.src = url + "&hv=1"; };
+		menu.onmouseout = function() { menu.src = url + "&hv=0"; };
+		menu.onblur = function() { menu.src = url + "&hv=0"; };
+	}
+}
+
+function boot_menu(type) {
+	switch (type) {
+ 	case 0:
+		var tbm = ["gl","dl","rc","up","lk","ct"];
+		var tbmo = new Array(["lg","lg",0],["m","dv",8],["m","ep",9],["m","mj",10],["mgc","w17",17]);
+
+		for (var i = 0;i <= 5;i++) { img_hover("mh",tbm[i],i); }
+		for (var i = 0;i <= 4;i++) { img_hover(tbmo[i][0],tbmo[i][1],tbmo[i][2]); }
+		for (var i = 1;i <= 16;i++) { img_hover("mg","w"+i,i); }
+ 	break;
+
+	case 1:
+		var tbm = new Array(["ix",11],["gl",0],["ep",9],["rc",2]);
+		for (var i = 0;i <= 3;i++) { img_hover("wp",tbm[i][0],tbm[i][1]); }
+	break;
+	}
+}
+
+function mshow(id) {
+	var d = document.getElementById("sm" + id);
+	for (var i = 1;i <= 26;i++) { if (document.getElementById("sm" + i)) { document.getElementById("sm" + i).style.display = "none"; } }
+	if (d) { d.style.display = "block"; }
+}
+
+// Addon
+function hide_addon(id) {
+	document.getElementById("b" + id).href = "javascript:get_addon(" + id + ")";
+	document.getElementById("b" + id).innerHTML = "<img src=_interface/req_plus.gif/_.html class=\"a\">";
+	document.getElementById("t" + id).style.display = "none";
+}
+
+function get_addon(id) {
+	var req = createXhrObject();
+	var data = "id_addon=" + id + "&lng=fr";
+
+	// Affichage
+	document.getElementById("b" + id).href = "javascript:hide_addon(" + id + ")";
+	document.getElementById("b" + id).innerHTML = "<img src=_interface/req_moins.gif/_.html class=\"a\">";
+
+	// Requête
+	req.open("POST", "request.php", true);
+
+	req.onreadystatechange = function() {
+		if (req.readyState == 4 && req.status == 200 && req.responseText != "Error") {
+			document.getElementById("t" + id).style.display = "table-row";
+			document.getElementById("t" + id).innerHTML = "<td class=\"d\">" + req.responseText + "</td>";
+		}
+	};
+
+	req.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+	req.send(data);
+}
+
+// Lancer de dés
+function throw_dices(type_req) {
+	var req = createXhrObject();
+	if (type_req == "dice") { var data = "throw_dices=1&nbr=" + document.getElementById("nbr").value + "&val=" + document.getElementById("val").value + "&div=" + document.getElementById("div").value + "&plus=" + document.getElementById("plus").value; }
+	else if (type_req == "prec") { var data = "throw_dices=2&val=" + document.getElementById("pmval").value + "&prec=" + document.getElementById("prec").value; }
+
+	req.open("POST", "request.php", true);
+
+	req.onreadystatechange = function() {
+		if (req.readyState == 4 && req.status == 200 && req.responseText != "Error") {
+			document.getElementById("res").innerHTML = req.responseText;
+		}
+	};
+
+	req.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+	req.send(data);
+}
+
+// Recherche multi-critères
+function msearch(type, id) {
+	var nom_champs = ["nom","type","munition","disponibilité","dissimulation","fiabilité","référence","pays"];
+	var slc = document.getElementById("slc" + id);
+
+	var lng = "fr";
+	var tb_lng = new Array();
+	tb_lng["fr"] = new Array("Critère principal");
+	tb_lng["us"] = new Array("Main criteria");
+
+	if (type == "check") {
+		msearch_disabled(id);
+		msearch_list();
+	}
+	else if (type == "cp") {
+		msearch_disabled(id, "cp");
+
+		if (id > 0) {
+			if (slc.selectedIndex < 0) { return; }
+			var slc_value = slc.options[slc.selectedIndex].value;
+		}
+		else { var slc_value = slc.value; }
+
+		document.getElementById("hidden").innerHTML = "<input type=\"hidden\" name=\"cpid\" value=\"" + id + "\"><input type=\"hidden\" name=\"cpn\" value=\"" + urldecode(slc_value) + "\">";
+		document.getElementById("cplist").innerHTML = "<b>" + tb_lng[lng][0] + "</b> (<i>" + nom_champs[id] + "</i>) : " + urldecode(slc_value);
+
+		var data = "cpid=" + id + "&cpn=" + slc_value + "&lng=fr";
+		var req = createXhrObject();
+		req.open("POST", "request.php", true);
+
+		req.onreadystatechange = function() {
+			if (req.readyState == 4 && req.status == 200 && req.responseText != "Error") {
+				var res = eval("(" + req.responseText + ")");
+				document.getElementById("slc1").innerHTML = res.a;
+				document.getElementById("slc2").innerHTML = res.b;
+				document.getElementById("slc3").innerHTML = res.c;
+				document.getElementById("slc4").innerHTML = res.d;
+				document.getElementById("slc5").innerHTML = res.e;
+				document.getElementById("slc6").innerHTML = res.f;
+				document.getElementById("slc7").innerHTML = res.g;
+				msearch_list();
+			}
+		};
+
+		req.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+		req.send(data);
+	}
+	else if (type == "snd") { msearch_list(); }
+}
+
+function msearch_disabled(id, opt) {
+	var btn = document.getElementById("btn" + id);
+	var chk = document.getElementById("chk" + id);
+	var slc = document.getElementById("slc" + id);
+
+	if (slc.disabled == false) {
+		slc.disabled = true;
+		btn.disabled = true;
+		if (opt) { chk.disabled = true; }
+	}
+	else if (slc.disabled == true) {
+		slc.disabled = false;
+		btn.disabled = false;
+	}
+
+	if (opt) { for (var i = 0;i <= 7;i++) {
+		document.getElementById("btn" + i).disabled = true;
+		document.getElementById("btn" + i).style.visibility = "hidden";
+	} }
+}
+
+function msearch_list() {
+	var cpt = 0;
+	var list = "";
+	var nom_champs = ["nom","type","munition","disponibilité","dissimulation","fiabilité","référence","pays"];
+	var lng = "fr";
+	var tb_lng = new Array();
+	tb_lng["fr"] = new Array("Critère secondaire","Recherche simple","Recherche multiple");
+	tb_lng["us"] = new Array("Secondary criteria","Simple search","Multi search");
+
+	for (var id = 1;id <= 7;id++) {
+		var slc = document.getElementById("slc" + id);
+		var res = "n/a";
+
+		if (slc.selectedIndex >= 0) { res = slc.options[slc.selectedIndex].value; }
+		if (res != "n/a" && slc.disabled == false) { list += "<b>" + tb_lng[lng][0] + "</b> (<i>" + nom_champs[id] + "</i>) : " + urldecode(res) + "<br>"; cpt++; }
+	}
+
+	if (cpt == 0) { document.getElementById("sbnt").value = tb_lng[lng][1]; }
+	else { if (document.getElementById("hidden").innerHTML != "") { document.getElementById("sbnt").value = tb_lng[lng][2]; } }
+	document.getElementById("cslist").innerHTML = list;
+}
+
+function msearch_submit() {
+	if (document.getElementById("hidden").innerHTML != "") { document.search_form.submit(); }
+}
+
+// Création d'arme
+function log10(x) { return Math.log(x) / Math.log(10); }
+
+function form_math(type) {
+	switch(type) {
+		case 0:
+			var result = log10(document.getElementById("i01").value) * 19 - 16.5;
+			document.getElementById("r0").innerHTML = "<b>" + Math.round(result) + "</b>";
+		break;
+		case 1:
+			var result = Math.pow(document.getElementById("i11").value, 2) * document.getElementById("i12").value * 1.3605;
+			document.getElementById("r1").innerHTML = "<b>" + Math.round(result) + " Joules</b>";
+		break;
+		case 2:
+			var result = document.getElementById("i21").value / 1620;
+			document.getElementById("r2").innerHTML = "<b>" + Math.round(result * 100) / 100 + " g</b>";
+		break;
+		case 3:
+			var result1 = Math.pow(document.getElementById("i31").value, 3) * (document.getElementById("i32").value - 1/6) * 0.785;
+			var result2 = result1 * document.getElementById("i33").value;
+			document.getElementById("r31").innerHTML = "<b>" + Math.round(result1 * 100) / 100 + " cm³</b>";
+			document.getElementById("r32").innerHTML = "<b>" + Math.round(result2 * 100) / 100 + " g</b>";
+		break;
+		case 4:
+			var result = Math.sqrt(document.getElementById("i41").value / document.getElementById("i42").value) * 44.84;
+			document.getElementById("r4").innerHTML = "<b>" + Math.round(result) + " m/s</b>";
+		break;
+		case 5:
+			var result = (Math.pow(document.getElementById("i51").value, 2) / 10) * Math.sqrt(document.getElementById("i52").value / 1000);
+			document.getElementById("r5").innerHTML = "<b>" + Math.round(result) + " mètres</b>";
+		break;
+		case 6:
+			var result = document.getElementById("i61").value / Math.pow(document.getElementById("i62").value, 2);
+			document.getElementById("r6").innerHTML = "<b>" + Math.round(result * 1000) / 1000 + "</b>";
+		break;
+		case 7:
+			var result = 8 * document.getElementById("i71").value * Math.pow(document.getElementById("i72").value, 0.63);
+			document.getElementById("r7").innerHTML = "<b>" + Math.round(result) + " g</b>";
+		break;
+		case 8:
+			var result = 33.33 * Math.sqrt(document.getElementById("i81").value / 2) / document.getElementById("i82").value;
+			document.getElementById("r8").innerHTML = "<b>" + Math.round(result * 100) / 100 + " cm</b>";
+		break;
+		case 9:
+			var result = 0.8 * document.getElementById("i91").value * Math.sqrt(document.getElementById("i92").value);
+			document.getElementById("r9").innerHTML = "<b>" + Math.round(result) + " g</b>";
+		break;
+		default:
+			alert("Error");
+		break;
+	}
+}
+
+// Abréger
+function show_wpn(idd, id, colonne) {
+	var req = createXhrObject();
+	var data = "id_arme=" + id + "&col=" + colonne + "&typ=0";
+	var tb_abrg = [25,6,7,6,14];
+	var tb_id = idd.split("-");
+	var complet = "";
+
+	for (var i = 0;i < tb_abrg[colonne];i++) { complet += "&nbsp;"; }
+	for (var j = 0;j < 5;j++) { if (j != tb_id[1]) {
+		if (document.getElementById("d" + tb_id[0] + "-" + j)) { hide_wpn(tb_id[0] + "-" + j, id, j); }
+	} }
+
+	req.open("POST", "request.html", true);
+
+	req.onreadystatechange = function() {
+		if (req.readyState == 4 && req.status == 200 && req.responseText != "Error") {
+			document.getElementById("d" + idd).style.display = "block";
+			document.getElementById("d" + idd).style.position = "relative";
+			document.getElementById("d" + idd).innerHTML = complet + "<div><a href=_javascript_hide_wpn(%27_.html + idd + "'," + id + "," + colonne + ")\">" + req.responseText + "</a></div>";
+		}
+	};
+
+	req.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+	req.send(data);
+}
+
+function show_ammo(idd, id, colonne) {
+	var req = createXhrObject();
+	var lng = "fr";
+	var data = "id_ammo=" + id + "&col=" + colonne + "&typ=0&lng=" + lng;
+	var tb_abrg = [26,26,26,19];
+	var tb_id = idd.split("-");
+	var complet = "";
+
+	for (var i = 0;i < tb_abrg[colonne];i++) { complet += "&nbsp;"; }
+	for (var j = 1;j < 5;j++) { if (j != tb_id[1]) {
+		if (document.getElementById("d" + tb_id[0] + "-" + j)) { hide_ammo(tb_id[0] + "-" + j, id, j); }
+	} }
+
+	req.open("POST", "request.html", true);
+
+	req.onreadystatechange = function() {
+		if (req.readyState == 4 && req.status == 200 && req.responseText != "Error") {
+			document.getElementById("d" + idd).style.display = "block";
+			document.getElementById("d" + idd).style.position = "relative";
+			document.getElementById("d" + idd).innerHTML = complet + "<div><a href=_javascript_hide_ammo(%27_.html + idd + "'," + id + "," + colonne + ")\">" + req.responseText + "</a></div>";
+		}
+	};
+
+	req.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+	req.send(data);
+}
+
+function hide_wpn(idd, id, colonne) {
+	var req = createXhrObject();
+	var data = "id_arme=" + id + "&col=" + colonne + "&typ=1";
+
+	req.open("POST", "request.php", true);
+
+	req.onreadystatechange = function() {
+		if (req.readyState == 4 && req.status == 200 && req.responseText != "Error") {
+			document.getElementById("d" + idd).style.display = "";
+			document.getElementById("d" + idd).style.position = "";
+			document.getElementById("d" + idd).innerHTML = "<a href=_javascript_show_wpn(%27_.html + idd + "'," + id + "," + colonne + ")\">" + req.responseText + "..</a>";
+		}
+	};
+
+	req.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+	req.send(data);
+}
+
+function hide_ammo(idd, id, colonne) {
+	var req = createXhrObject();
+	var lng = "fr";
+	var data = "id_ammo=" + id + "&col=" + colonne + "&typ=1&lng=" + lng;
+
+	req.open("POST", "request.php", true);
+
+	req.onreadystatechange = function() {
+		if (req.readyState == 4 && req.status == 200 && req.responseText != "Error") {
+			document.getElementById("d" + idd).style.display = "";
+			document.getElementById("d" + idd).style.position = "";
+			document.getElementById("d" + idd).innerHTML = "<a href=_javascript_show_ammo(%27_.html + idd + "'," + id + "," + colonne + ")\">" + req.responseText + "..</a>";
+		}
+	};
+
+	req.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+	req.send(data);
+}
+
+// Slider
+function init_slider(clr, pourcent) {
+	var myslider = null;
+	var tb_clr = new Array(["white","black",1],["black","white",0]);
+
+	if (pourcent > 92) { pourcent = 92; }
+	document.getElementById("slider").innerHTML = "";
+	myslider = new SimpleSlider("slider", 45, 15, tb_clr[clr][1], tb_clr[clr][0], pourcent);
+
+	myslider.onNewPosition = function() {
+		var res = parseInt(myslider.position * 50 + 50);
+		var pos = parseInt(myslider.position * 10000) / 100;
+		res = Math.round(res / 10) * 10 + "%";
+
+		document.getElementById("data").style.width = res;
+		document.getElementById("slider_pos").innerHTML = pos;
+		document.getElementById("slider_label").innerHTML = res;
+
+		var req = createXhrObject();
+		var data = "slider_pourcent=" + res + "&slider_pos=" + Math.round(pos);
+
+		req.open("POST", "request.php", true);
+
+		req.onreadystatechange = function() {
+			if (req.readyState == 4 && req.status == 200 && req.responseText != "Error") {
+				document.getElementById("res").innerHTML = req.responseText;
+			}
+		};
+
+		req.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+		req.send(data);
+	}
+}
+
+function set_slider(pourcent) { document.getElementById("data").style.width = pourcent; }
+
+function inv_color(clr) {
+	var tb_clr = new Array(["white","black",1],["black","white",0]);
+	init_slider(tb_clr[clr][2], document.getElementById("slider_pos").innerHTML);
+
+	document.body.style.color = tb_clr[clr][1];
+	document.body.style.backgroundColor = tb_clr[clr][0];
+	document.getElementById("btn_back").src = "interface/back_" + tb_clr[clr][1] + ".png";
+	document.getElementById("inv_color").style.border = "1px solid " + tb_clr[clr][1];
+	document.getElementById("inv_color").style.color = tb_clr[clr][0];
+	document.getElementById("inv_color").style.backgroundColor = tb_clr[clr][1];
+	document.getElementById("inv_color_2").style.border = "1px solid " + tb_clr[clr][1];
+	document.getElementById("inv_color_2").style.color = tb_clr[clr][0];
+	document.getElementById("inv_color_2").style.backgroundColor = tb_clr[clr][1];
+	document.getElementById("inv_color_3").style.border = "1px solid " + tb_clr[clr][1];
+	document.getElementById("inv_color_3").style.color = tb_clr[clr][0];
+	document.getElementById("inv_color_3").style.backgroundColor = tb_clr[clr][1];
+	document.getElementById("invclr_link").href = "javascript:inv_color(" + tb_clr[clr][2] + ")";
+
+	var req = createXhrObject();
+	var data = "inv_color=" + clr;
+
+	req.open("POST", "request.php", true);
+
+	req.onreadystatechange = function() {
+		if (req.readyState == 4 && req.status == 200 && req.responseText != "Error") {
+			document.getElementById("res").innerHTML = req.responseText;
+		}
+	};
+
+	req.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+	req.send(data);
+}
+
+// Countdown
+function hide_countdown(id) {
+	document.getElementById("b" + id).href = "javascript:get_countdown(" + id + ")";
+	document.getElementById("b" + id).innerHTML = "+";
+	document.getElementById("t" + id).style.display = "none";
+}
+
+function get_countdown(id) {
+	var req = createXhrObject();
+	var data = "id_countdown=" + id + "&lng=fr";
+
+	// Affichage
+	document.getElementById("b" + id).href = "javascript:hide_countdown(" + id + ")";
+	document.getElementById("b" + id).innerHTML = "-";
+
+	// Requête
+	req.open("POST", "request.php", true);
+
+	req.onreadystatechange = function() {
+		if (req.readyState == 4 && req.status == 200 && req.responseText != "Error") {
+			document.getElementById("t" + id).style.display = "block";
+			document.getElementById("t" + id).innerHTML = req.responseText;
+		}
+	};
+
+	req.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+	req.send(data);
+}
+
+function get_cat_cnt() {
+	var req = createXhrObject();
+	var cnt_cat = document.getElementById("cnt_cat");
+
+	var data = "id_cnt_cat=" + cnt_cat.options[cnt_cat.selectedIndex].value + "&lng=fr";
+
+	req.open("POST", "request.php", true);
+
+	req.onreadystatechange = function() {
+		if (req.readyState == 4 && req.status == 200 && req.responseText != "Error") {
+			document.getElementById("cnt").innerHTML = req.responseText;
+		}
+	};
+
+	req.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+	req.send(data);
+}
+
+function check_form(formulaire) {
+	var mail = formulaire.mail.value;
+	var tb_lng = new Array();
+
+	tb_lng["fr"] = "Merci d'indiquer le lien vers l'article";
+	tb_lng["us"] = "Please indicate the link to the article";
+
+	if (mail.length == 0) {
+		if (formulaire.link.value == "") { alert (tb_lng["fr"]); } else { formulaire.submit(); }
+	}
+	else if ((mail.indexOf("@") >= 0) && (mail.indexOf(".") >= 0)) {
+		if (formulaire.link.value == "") { alert (tb_lng["fr"]); } else { formulaire.submit(); }
+	}
+	else { alert("Mail invalide !"); }
+}

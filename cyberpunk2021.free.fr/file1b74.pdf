@@ -1,0 +1,191 @@
+%PDF-1.3
+1 0 obj
+<< /Type /Catalog
+/Outlines 2 0 R
+/Pages 3 0 R >>
+endobj
+2 0 obj
+<< /Type /Outlines /Count 0 >>
+endobj
+3 0 obj
+<< /Type /Pages
+/Kids [6 0 R
+11 0 R
+]
+/Count 2
+/Resources <<
+/ProcSet 4 0 R
+/Font << 
+/F1 8 0 R
+/F2 9 0 R
+/F3 10 0 R
+>>
+>>
+/MediaBox [0.000 0.000 612.000 792.000]
+ >>
+endobj
+4 0 obj
+[/PDF /Text ]
+endobj
+5 0 obj
+<<
+/Creator (DOMPDF)
+/CreationDate (D:20230828024200+02'00')
+/ModDate (D:20230828024200+02'00')
+>>
+endobj
+6 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 7 0 R
+>>
+endobj
+7 0 obj
+<<
+/Length 6353 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 218.997 725.937 Td /F1 18.0 Tf  [(Scientists and Hackers)] TJ ET
+BT 271.830 695.200 Td /F1 12.0 Tf  [(David Warsh)] TJ ET
+BT 272.496 680.800 Td /F1 12.0 Tf  [(July 25, 1999)] TJ ET
+BT 34.016 654.515 Td /F2 12.0 Tf  [( )] TJ ET
+BT 34.016 616.259 Td 1.478 Tw /F2 12.0 Tf  [(For example, as one of a series of recent ads, IBM Corp. has been parading a photograph of employee Nick )] TJ ET
+BT 34.016 602.003 Td 0.960 Tw /F2 12.0 Tf  [(Simicich, "Ethical Hacker". Flowing-bearded, fish-shirted, felt-hatted, granny-glassed, Simicich is described as )] TJ ET
+BT 34.016 587.747 Td 0.767 Tw /F2 12.0 Tf  [(a "paid professional paranoid". His job : to determine whether software systems are susceptible to hackers. His )] TJ ET
+BT 34.016 573.491 Td 1.657 Tw /F2 12.0 Tf  [(distinction : he protected the electrical power infrastructure in the United States from "cyber-jackers bent on )] TJ ET
+BT 34.016 559.120 Td 0.000 Tw /F2 12.0 Tf  [(misdirecting electricity with bogus information".)] TJ ET
+BT 34.016 544.835 Td 2.276 Tw /F2 12.0 Tf  [(So much for the limits of the current definition of hacker : the principled tester-of-limits vs. the high-tech )] TJ ET
+BT 34.016 530.579 Td 3.293 Tw /F2 12.0 Tf  [(saboteur. But if you listen carefully to the leading innovators in computer systems, you realize that the )] TJ ET
+BT 34.016 516.323 Td 2.376 Tw /F2 12.0 Tf  [(applicability of the term is expanding rapidly. Consider the story of how Linus Torvalds, and not Richard )] TJ ET
+BT 34.016 502.067 Td 3.055 Tw /F2 12.0 Tf  [(Stallman of the Massachusetts Institute of Technology, came to pose the chief threat to the world's first )] TJ ET
+BT 34.016 487.811 Td 0.000 Tw /F2 12.0 Tf  [(centibillionaire, Bill Gates.)] TJ ET
+BT 34.016 461.555 Td 0.612 Tw /F2 12.0 Tf  [(Stallman would seem to be the hacker )] TJ ET
+BT 223.938 461.555 Td 0.612 Tw /F3 12.0 Tf  [(par excellence)] TJ ET
+BT 294.186 461.555 Td 0.612 Tw /F2 12.0 Tf  [( - "the last true hacker", as author Steven Levy called him )] TJ ET
+BT 34.016 447.299 Td 0.526 Tw /F2 12.0 Tf  [(in his famous book. Even though it was Harvard College that he entered in 1970, it was down the street at MIT )] TJ ET
+BT 34.016 433.043 Td 1.520 Tw /F2 12.0 Tf  [(that Stallman found his spiritual home. There he imbibed deeply the peculiar sensibility that is one of MIT's )] TJ ET
+BT 34.016 418.787 Td 1.444 Tw /F2 12.0 Tf  [(enduring contributions to computer culture. He rendered a small jewel of a hack of one sort a few years ago )] TJ ET
+BT 34.016 404.531 Td 0.580 Tw /F2 12.0 Tf  [(when he posted an official-looking sign on the spot that serves as the Wellesley terminus of the shuttle bus that )] TJ ET
+BT 34.016 390.275 Td 0.170 Tw /F2 12.0 Tf  [(has connected Wellesley College and MIT since the mid-1960s. Barbedall Square, it read. At the MIT end of the )] TJ ET
+BT 34.016 376.019 Td 1.305 Tw /F2 12.0 Tf  [(line, of course, is Kendall Square \(it helps to say them out loud\). Such is the world of an MIT hacker : high-)] TJ ET
+BT 34.016 361.763 Td 0.798 Tw /F2 12.0 Tf  [(spirited, clever, accomplished, and, just possibly, but not necessarily, oriented to the occasional countercultural )] TJ ET
+BT 34.016 347.507 Td 0.469 Tw /F2 12.0 Tf  [(prank. According to Stallman, the use of "hacker" to mean "security breaker" is mass media confusion. Hackers )] TJ ET
+BT 34.016 333.251 Td 0.000 Tw /F2 12.0 Tf  [(themselves, he says, use the word to mean "someone who loves to program and enjoys being clever at it".)] TJ ET
+BT 34.016 306.995 Td 2.132 Tw /F2 12.0 Tf  [(Stallman's significance goes far beyond a few practical jokes, however. It was in 1981 that a little start-up )] TJ ET
+BT 34.016 292.739 Td 1.719 Tw /F2 12.0 Tf  [(company known as Symbolics Inc. hired away most of the staff of MIT's Artificial Intelligence Lab and set )] TJ ET
+BT 34.016 278.483 Td 0.544 Tw /F2 12.0 Tf  [(them to work writing proprietary software. At about the same time, Digital Equipment introduced its new VAX )] TJ ET
+BT 34.016 264.227 Td 1.228 Tw /F2 12.0 Tf  [(computers, with brand-new proprietary operating systems. The community of pioneering software sharers that )] TJ ET
+BT 34.016 249.971 Td 0.518 Tw /F2 12.0 Tf  [(had grown out of the Model Railroad Club at MIT suddenly collapsed. So Stallman did a historic thing. Instead )] TJ ET
+BT 34.016 235.715 Td 0.786 Tw /F2 12.0 Tf  [(of joining the proprietary world, he set out to make a free, shareable operating system that would work on )] TJ ET
+BT 559.870 235.715 Td 0.786 Tw /F3 12.0 Tf  [(any)] TJ ET
+BT 34.016 221.459 Td 1.607 Tw /F2 12.0 Tf  [(computer and run any program. There would be none of the nondisclosure agreements that characterized the )] TJ ET
+BT 34.016 207.203 Td 0.000 Tw /F2 12.0 Tf  [(nascent software industry.)] TJ ET
+BT 34.016 180.947 Td 1.592 Tw /F2 12.0 Tf  [(Stallman dubbed his ambitious project the GNU system. But first there would have to be tools. His first big )] TJ ET
+BT 34.016 166.691 Td 2.336 Tw /F2 12.0 Tf  [(achievement was EMACS, a compiler and text editor that rendered possible more ambitious programming. )] TJ ET
+BT 34.016 152.435 Td 0.289 Tw /F2 12.0 Tf  [(Other programs followed. All were freely made available to others under the "copyleft" license Stallman and his )] TJ ET
+BT 34.016 138.179 Td 0.447 Tw /F2 12.0 Tf  [(friends devised to keep the underlying source code open - that is, to protect the right of other users to know and )] TJ ET
+BT 34.016 123.923 Td 1.039 Tw /F2 12.0 Tf  [(modify the basic code. Stallman's Waterloo was the operating system's "kernel", the core part of the operating )] TJ ET
+BT 34.016 109.667 Td 1.215 Tw /F2 12.0 Tf  [(system where memory is allocated among all the other programs : scheduling, signalling, device input/output, )] TJ ET
+BT 34.016 95.411 Td 1.740 Tw /F2 12.0 Tf  [(and so on. When Stallman turned his shoulder to the task in 1990, the dogma among computer scientists in )] TJ ET
+BT 34.016 81.155 Td 0.218 Tw /F2 12.0 Tf  [(cutting-edge American universities such as MIT was that something called a "microkernel" would be required to )] TJ ET
+BT 34.016 66.899 Td 3.337 Tw /F2 12.0 Tf  [(make a truly portable system. A microkernel would be a kind of coded general theory of all computer )] TJ ET
+BT 34.016 52.643 Td 0.000 Tw /F2 12.0 Tf  [(architectures; it would be required before such a system could run on any hardware.)] TJ ET
+endstream
+endobj
+8 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Times-Bold
+/Encoding /WinAnsiEncoding
+>>
+endobj
+9 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F2
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+>>
+endobj
+10 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F3
+/BaseFont /Times-Italic
+/Encoding /WinAnsiEncoding
+>>
+endobj
+11 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 12 0 R
+>>
+endobj
+12 0 obj
+<<
+/Length 5273 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 34.016 734.579 Td 2.110 Tw /F2 12.0 Tf  [(Cut to Helsinki in 1991. A young Finnish graduate student named Linus Torvalds, comfortably outside the )] TJ ET
+BT 34.016 720.323 Td 2.461 Tw /F2 12.0 Tf  [(circuits of grant-supported American computer science research, decided to try an alternative approach - a )] TJ ET
+BT 34.016 706.067 Td 1.225 Tw /F2 12.0 Tf  [("monolithic kernel", simpler, but far faster and already relatively well-understood. "I am a pragmatic person", )] TJ ET
+BT 34.016 691.811 Td 0.966 Tw /F2 12.0 Tf  [(Torvalds has written. "... I didn't have to aim for such a lofty goal. I was interested in portability between real )] TJ ET
+BT 34.016 677.555 Td 2.301 Tw /F2 12.0 Tf  [(world systems, not theoretical systems". So Torvalds read up on the systems in use, in search of common )] TJ ET
+BT 34.016 663.299 Td 1.968 Tw /F2 12.0 Tf  [(denominators between them. Once he had a design for a certain task - for memory management, say - that )] TJ ET
+BT 34.016 649.043 Td 1.366 Tw /F2 12.0 Tf  [(would be on the most popular chips, he put it out to an extensive list of correspondent hackers to see how it )] TJ ET
+BT 34.016 634.787 Td 2.476 Tw /F2 12.0 Tf  [(could be improved. At first it was written to suit just one architecture : the Intel 386. Gradually a kernel )] TJ ET
+BT 34.016 620.531 Td 0.280 Tw /F2 12.0 Tf  [(emerged that could control the most popular microprocessors - the 68K, the Sparc, the Alpha and the Power PC. )] TJ ET
+BT 34.016 606.275 Td 0.798 Tw /F2 12.0 Tf  [(Torvalds then combined his kernel with a good bit of the GNU programs Stallman and his friends had written, )] TJ ET
+BT 34.016 592.019 Td 0.992 Tw /F2 12.0 Tf  [(and presto ! The operating system that has become known as Linux - similar in spirit to AT&T's Unix system )] TJ ET
+BT 34.016 577.763 Td 0.000 Tw /F2 12.0 Tf  [(but not based on it - was ready to be distributed and more or less continually improved.)] TJ ET
+BT 34.016 551.507 Td 0.513 Tw /F2 12.0 Tf  [(And because it had been written - hacked - by an impassioned graduate student in Finland and a relentless code )] TJ ET
+BT 34.016 537.251 Td 1.442 Tw /F2 12.0 Tf  [(warrior in Cambridge and a few hundred collaborators for their individual satisfaction and shared use, it was )] TJ ET
+BT 34.016 522.995 Td 0.910 Tw /F2 12.0 Tf  [(available to others for free. And in the last 10 years the project originally envisaged by Stallman and Torvalds )] TJ ET
+BT 34.016 508.739 Td 0.757 Tw /F2 12.0 Tf  [(and a handful of others has grown into a credible threat to Windows NT - the Microsoft operating system with )] TJ ET
+BT 34.016 494.483 Td 0.000 Tw /F2 12.0 Tf  [(its secret proprietary source code on which rests Bill Gates' most basic hopes for the 21st century.)] TJ ET
+BT 34.016 468.227 Td 1.786 Tw /F2 12.0 Tf  [("Linux today has millions of users, thousand of developers, and a growing market", Torvalds has written in )] TJ ET
+BT 34.016 453.971 Td 0.639 Tw /F3 12.0 Tf  [(Open Sources : Voices from the Open Source Revolution)] TJ ET
+BT 311.746 453.971 Td 0.639 Tw /F2 12.0 Tf  [(, the O'Reilly & Associates anthology from which this )] TJ ET
+BT 34.016 439.715 Td 0.959 Tw /F2 12.0 Tf  [(account is drawn. "I'd like to say I knew this would happen, that it's all part of the plan for world domination. )] TJ ET
+BT 34.016 425.459 Td 1.144 Tw /F2 12.0 Tf  [(But honestly this has all taken me a bit by surprise. I was much more aware of the transition from one Linux )] TJ ET
+BT 34.016 411.203 Td 0.000 Tw /F2 12.0 Tf  [(user to one hundred Linux users than the transition from one hundred to one million".)] TJ ET
+BT 34.016 384.947 Td 0.547 Tw /F2 12.0 Tf  [(And the point ? Simply that the neatly barbered and quietly circumspect Torvalds is every bit as much a hacker )] TJ ET
+BT 34.016 370.691 Td 0.000 Tw /F2 12.0 Tf  [(as Stallman - a fact the flamboyant Stallman readily concedes.)] TJ ET
+BT 34.016 344.435 Td 1.678 Tw /F2 12.0 Tf  [(So what is a hacker, after all ? Eric Raymond offers this definition in the third edition of his New Hacker's )] TJ ET
+BT 34.016 330.179 Td 2.029 Tw /F2 12.0 Tf  [(Dictionary : "A person who enjoys exploring the details of programmable systems and how to stretch their )] TJ ET
+BT 34.016 315.923 Td 2.021 Tw /F2 12.0 Tf  [(capabilities, as opposed to most users, who prefer to learn only the minimum necessary". Torvalds' success )] TJ ET
+BT 34.016 301.667 Td 1.261 Tw /F2 12.0 Tf  [(suggests that even that definition may be too narrow. Remember, it was only 150 years ago that thinkers and )] TJ ET
+BT 34.016 287.411 Td 2.002 Tw /F2 12.0 Tf  [(wordsmiths of all sorts were trying to agree on a term that could apply equally to all the different sorts of )] TJ ET
+BT 34.016 273.155 Td 0.984 Tw /F2 12.0 Tf  [(intellectuals who had emerged from the precincts of philosophy and natural history. It seemed clear these new )] TJ ET
+BT 34.016 258.899 Td 1.115 Tw /F2 12.0 Tf  [(professionals shared an ethic. Their methods and goals were unfamiliar and, quite possibly unique. They even )] TJ ET
+BT 34.016 244.643 Td 2.329 Tw /F2 12.0 Tf  [(admitted women to their ranks ! In the England of the 1830s, it took a decade before the term "scientist" )] TJ ET
+BT 34.016 230.387 Td 0.000 Tw /F2 12.0 Tf  [(emerged and won common acceptance.)] TJ ET
+endstream
+endobj
+xref
+0 13
+0000000000 65535 f 
+0000000008 00000 n 
+0000000073 00000 n 
+0000000119 00000 n 
+0000000301 00000 n 
+0000000330 00000 n 
+0000000444 00000 n 
+0000000507 00000 n 
+0000006912 00000 n 
+0000007020 00000 n 
+0000007129 00000 n 
+0000007240 00000 n 
+0000007305 00000 n 
+trailer
+<<
+/Size 13
+/Root 1 0 R
+/Info 5 0 R
+>>
+startxref
+12631
+%%EOF

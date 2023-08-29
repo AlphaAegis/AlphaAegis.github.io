@@ -1,0 +1,27 @@
+
+a { color: red }
+body {
+	font-family: verdana;
+	text-align: justify;
+	color: white;
+	background-color: black
+}
+div.c {
+	margin: auto;
+	width: 95%
+}
+img {
+	display: block;
+	margin: auto
+}
+p.i img { display: inline }
+img.l {
+	float: left;
+	margin-right: 10px
+}
+img.r {
+	float: right;
+	margin-left: 15px
+}
+table.equip td { padding: 0 10 0 0 }
+table.equip th { text-align: left }

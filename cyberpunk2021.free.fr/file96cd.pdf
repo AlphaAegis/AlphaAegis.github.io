@@ -1,0 +1,2765 @@
+%PDF-1.3
+1 0 obj
+<< /Type /Catalog
+/Outlines 2 0 R
+/Pages 3 0 R >>
+endobj
+2 0 obj
+<< /Type /Outlines /Count 0 >>
+endobj
+3 0 obj
+<< /Type /Pages
+/Kids [6 0 R
+26 0 R
+33 0 R
+51 0 R
+63 0 R
+85 0 R
+129 0 R
+151 0 R
+170 0 R
+187 0 R
+205 0 R
+226 0 R
+]
+/Count 12
+/Resources <<
+/ProcSet 4 0 R
+/Font << 
+/F1 8 0 R
+/F2 9 0 R
+/F3 28 0 R
+>>
+>>
+/MediaBox [0.000 0.000 612.000 792.000]
+ >>
+endobj
+4 0 obj
+[/PDF /Text ]
+endobj
+5 0 obj
+<<
+/Creator (DOMPDF)
+/CreationDate (D:20230828003521+02'00')
+/ModDate (D:20230828003521+02'00')
+>>
+endobj
+6 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Annots [ 10 0 R 12 0 R 14 0 R 16 0 R 18 0 R 20 0 R 22 0 R 24 0 R ]
+/Contents 7 0 R
+>>
+endobj
+7 0 obj
+<<
+/Length 7114 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 210.510 725.937 Td /F1 18.0 Tf  [(Artificial Human Nature)] TJ ET
+BT 271.836 695.200 Td /F1 12.0 Tf  [(Warren Sack)] TJ ET
+BT 275.172 680.800 Td /F1 12.0 Tf  [(March 1997)] TJ ET
+BT 34.016 654.515 Td /F2 12.0 Tf  [( )] TJ ET
+BT 34.016 616.259 Td 1.678 Tw /F2 12.0 Tf  [("If design can be considered 'the conception and planning of the artificial' then its scope and boundaries are )] TJ ET
+BT 34.016 601.888 Td 0.000 Tw /F2 12.0 Tf  [(intimately entwined with our understanding of the artificial's limits.")] TJ ET
+BT 34.016 587.603 Td /F2 12.0 Tf  [(-- Victor Margolin [)] TJ ET
+0.000 0.000 0.800 rg
+BT 130.328 587.603 Td /F2 12.0 Tf  [(1)] TJ ET
+0.000 0.000 0.800 RG
+0.24 w 0 J [  ] 0 d
+130.328 586.209 m 136.328 586.209 l S
+0.000 0.000 0.000 rg
+BT 136.328 587.603 Td /F2 12.0 Tf  [(])] TJ ET
+BT 34.016 518.609 Td /F1 14.0 Tf  [(Artificial Intelligence as Design)] TJ ET
+BT 34.016 491.868 Td 1.569 Tw /F2 12.0 Tf  [(Artificial intelligence \(AI\) critics repeatedly ask whether humans can be replaced by machines : can "human )] TJ ET
+BT 34.016 477.612 Td 0.358 Tw /F2 12.0 Tf  [(nature" be duplicated by machines and, if so, are humans then just a special sort of machine ? By examining the )] TJ ET
+BT 34.016 463.356 Td 2.021 Tw /F2 12.0 Tf  [(present and history of AI criticism it is possible to identify moments where specific critics have fixated on )] TJ ET
+BT 34.016 449.100 Td 0.365 Tw /F2 12.0 Tf  [(particular qualities as the "essential" qualities of "human nature". Reason, perception, emotion, and the body are )] TJ ET
+BT 34.016 434.844 Td 0.263 Tw /F2 12.0 Tf  [(four qualities that have been championed by AI critics \(and proponents\) as "essential" and \(un\)implementable as )] TJ ET
+BT 34.016 420.588 Td 3.256 Tw /F2 12.0 Tf  [(hardware or software machinery. I will argue that AI criticism's preoccupation with the identification of )] TJ ET
+BT 34.016 406.332 Td 0.251 Tw /F2 12.0 Tf  [("essentials" of "human nature" has left it blind - or at least short-sighted - to the cultural and ethical implications )] TJ ET
+BT 34.016 392.076 Td 0.000 Tw /F2 12.0 Tf  [(of AI : the ways in which AI technologies can influence the scope and boundaries of "human nature".)] TJ ET
+BT 34.016 365.820 Td 1.749 Tw /F2 12.0 Tf  [(I began by citing Victor Margolin and Richard Buchanan's definition of design because this essay addresses )] TJ ET
+BT 34.016 351.564 Td 0.326 Tw /F2 12.0 Tf  [(some of the points Margolin raises in his article entitled "The Politics of the Artificial". Margolin points out that )] TJ ET
+BT 34.016 337.308 Td 1.443 Tw /F2 12.0 Tf  [(AI scientist Herbert "Simon has gone so far as to call design a new 'science of the artificial'" [)] TJ ET
+0.000 0.000 0.800 rg
+BT 509.336 337.308 Td 1.443 Tw /F2 12.0 Tf  [(2)] TJ ET
+0.24 w 0 J [  ] 0 d
+509.336 335.914 m 515.336 335.914 l S
+0.000 0.000 0.000 rg
+BT 515.336 337.308 Td 1.443 Tw /F2 12.0 Tf  [(]. Naturally, )] TJ ET
+BT 34.016 323.052 Td 0.430 Tw /F2 12.0 Tf  [(Simon places AI at the center of these new sciences [)] TJ ET
+0.000 0.000 0.800 rg
+BT 293.584 323.052 Td 0.430 Tw /F2 12.0 Tf  [(3)] TJ ET
+0.24 w 0 J [  ] 0 d
+293.584 321.658 m 299.584 321.658 l S
+0.000 0.000 0.000 rg
+BT 299.584 323.052 Td 0.430 Tw /F2 12.0 Tf  [(]. Margolin critiques the artificial/natural binary assumed )] TJ ET
+BT 34.016 308.796 Td 1.732 Tw /F2 12.0 Tf  [(by Simon and argues that it is exactly at the border of these two terms that the work of design \(and design )] TJ ET
+BT 34.016 294.540 Td 2.712 Tw /F2 12.0 Tf  [(criticism\) is to be done. "When Simon compared the artificial to the natural he posited the natural as an )] TJ ET
+BT 34.016 280.284 Td 1.375 Tw /F2 12.0 Tf  [(uncontested term..." [)] TJ ET
+0.000 0.000 0.800 rg
+BT 139.977 280.284 Td 1.375 Tw /F2 12.0 Tf  [(4)] TJ ET
+0.24 w 0 J [  ] 0 d
+139.977 278.890 m 145.977 278.890 l S
+0.000 0.000 0.000 rg
+BT 145.977 280.284 Td 1.375 Tw /F2 12.0 Tf  [(]. This, as Margolin points out, is a highly problematic position for a designer of new )] TJ ET
+BT 34.016 266.028 Td 2.075 Tw /F2 12.0 Tf  [(technologies, like Simon, to attempt to defend. "As artificial beings like cyborgs or replicants more closely )] TJ ET
+BT 34.016 251.772 Td 0.393 Tw /F2 12.0 Tf  [(represent what we have always thought a human is, we are hard pressed to define the difference between us and )] TJ ET
+BT 34.016 237.516 Td 0.715 Tw /F2 12.0 Tf  [(them" [)] TJ ET
+0.000 0.000 0.800 rg
+BT 70.623 237.516 Td 0.715 Tw /F2 12.0 Tf  [(5)] TJ ET
+0.24 w 0 J [  ] 0 d
+70.623 236.122 m 76.623 236.122 l S
+0.000 0.000 0.000 rg
+BT 76.623 237.516 Td 0.715 Tw /F2 12.0 Tf  [(]. Thus, if a designer of new \(AI\) technologies assumes that "human nature" is "an uncontested term", )] TJ ET
+BT 34.016 223.260 Td 0.994 Tw /F2 12.0 Tf  [(the designer will be unable to articulate the ways in which new technologies could influence people's sense of )] TJ ET
+BT 34.016 209.004 Td 0.000 Tw /F2 12.0 Tf  [(self and others.)] TJ ET
+BT 34.016 182.748 Td 1.614 Tw /F2 12.0 Tf  [(Margolin proposes that design work should be aimed at complementing \(rather than replacing\) the "natural", )] TJ ET
+BT 34.016 168.492 Td 3.571 Tw /F2 12.0 Tf  [(and, furthermore, that design should be based on a commitment to the spiritual : "A meta-narrative of )] TJ ET
+BT 34.016 154.236 Td 0.632 Tw /F2 12.0 Tf  [(spirituality can help designers resist techno-rhetoric that sanctions the continuous colonization of the natural" [)] TJ ET
+0.000 0.000 0.800 rg
+BT 574.352 154.236 Td 0.632 Tw /F2 12.0 Tf  [(6)] TJ ET
+0.24 w 0 J [  ] 0 d
+574.352 152.842 m 580.352 152.842 l S
+0.000 0.000 0.000 rg
+BT 34.016 139.980 Td 1.123 Tw /F2 12.0 Tf  [(]. He sees his work as an attempt to manage the borders between the artificial and the natural [)] TJ ET
+0.000 0.000 0.800 rg
+BT 507.126 139.980 Td 1.123 Tw /F2 12.0 Tf  [(7)] TJ ET
+0.24 w 0 J [  ] 0 d
+507.126 138.586 m 513.126 138.586 l S
+0.000 0.000 0.000 rg
+BT 513.126 139.980 Td 1.123 Tw /F2 12.0 Tf  [(]. Margolin's )] TJ ET
+BT 34.016 125.724 Td 1.113 Tw /F2 12.0 Tf  [(work is, consequently, a reinvigorated modernist, humanistic project that sees humans as bound together - not )] TJ ET
+BT 34.016 111.468 Td 2.200 Tw /F2 12.0 Tf  [(by a set of uncontested, eternal "essentials" as an older, humanism might contend - but rather by a shared )] TJ ET
+BT 34.016 97.212 Td 0.942 Tw /F2 12.0 Tf  [(commitment, a shared "meta-narrative of spirituality" that should be continually defended by designers against )] TJ ET
+BT 34.016 82.956 Td 0.519 Tw /F2 12.0 Tf  [(the "artificial's incursion into the natural domain of our lives" [)] TJ ET
+0.000 0.000 0.800 rg
+BT 341.128 82.956 Td 0.519 Tw /F2 12.0 Tf  [(8)] TJ ET
+0.24 w 0 J [  ] 0 d
+341.128 81.562 m 347.128 81.562 l S
+0.000 0.000 0.000 rg
+BT 347.128 82.956 Td 0.519 Tw /F2 12.0 Tf  [(]. I do not agree with Margolin's position, but I )] TJ ET
+BT 34.016 68.700 Td 1.689 Tw /F2 12.0 Tf  [(think his argument offers a means of rethinking much of AI criticism because he shows how the modernist, )] TJ ET
+BT 34.016 54.444 Td 0.000 Tw /F2 12.0 Tf  [(humanistic assumptions of many AI critics and AI practitioners are contestable.)] TJ ET
+endstream
+endobj
+8 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Times-Bold
+/Encoding /WinAnsiEncoding
+>>
+endobj
+9 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F2
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+>>
+endobj
+10 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 11 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 130.3277 586.5235 136.3277 598.4035 ]
+>>
+endobj
+11 0 obj
+<< /Type /Action
+/S /GoTo
+/D 157 0 R
+>>
+endobj
+12 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 13 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 509.3362 336.2279 515.3362 348.1079 ]
+>>
+endobj
+13 0 obj
+<< /Type /Action
+/S /GoTo
+/D 158 0 R
+>>
+endobj
+14 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 15 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 293.5845 321.9719 299.5845 333.8519 ]
+>>
+endobj
+15 0 obj
+<< /Type /Action
+/S /GoTo
+/D 159 0 R
+>>
+endobj
+16 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 17 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 139.9773 279.2039 145.9773 291.0839 ]
+>>
+endobj
+17 0 obj
+<< /Type /Action
+/S /GoTo
+/D 160 0 R
+>>
+endobj
+18 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 19 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 70.6225 236.4359 76.6225 248.3159 ]
+>>
+endobj
+19 0 obj
+<< /Type /Action
+/S /GoTo
+/D 161 0 R
+>>
+endobj
+20 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 21 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 574.3525 153.1559 580.3525 165.0359 ]
+>>
+endobj
+21 0 obj
+<< /Type /Action
+/S /GoTo
+/D 162 0 R
+>>
+endobj
+22 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 23 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 507.1265 138.8999 513.1265 150.7799 ]
+>>
+endobj
+23 0 obj
+<< /Type /Action
+/S /GoTo
+/D 163 0 R
+>>
+endobj
+24 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 25 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 341.1284 81.8759 347.1284 93.7559 ]
+>>
+endobj
+25 0 obj
+<< /Type /Action
+/S /GoTo
+/D 164 0 R
+>>
+endobj
+26 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Annots [ 29 0 R 31 0 R ]
+/Contents 27 0 R
+>>
+endobj
+27 0 obj
+<<
+/Length 7010 >>
+stream
+
+0.000 0.000 0.000 rg
+0.000 0.000 0.800 RG
+0.24 w 0 J [  ] 0 d
+BT 34.016 734.579 Td 0.717 Tw /F2 12.0 Tf  [(In this essay I will critique a number of AI practitioners and critics in a manner analogous to the way in which )] TJ ET
+BT 34.016 720.323 Td 1.445 Tw /F2 12.0 Tf  [(Margolin critiques Simon. Like Simon, many other AI practitioners and critics have assumed \(and many still )] TJ ET
+BT 34.016 706.067 Td 0.320 Tw /F2 12.0 Tf  [(seem to assume\) that the boundaries between "the artificial" and "human nature" are uncontested. Consequently, )] TJ ET
+BT 34.016 691.811 Td 0.429 Tw /F2 12.0 Tf  [(much of AI research and criticism has gone into investigating what is "essential" about humans [)] TJ ET
+0.000 0.000 0.800 rg
+BT 504.521 691.811 Td 0.429 Tw /F2 12.0 Tf  [(9)] TJ ET
+0.24 w 0 J [  ] 0 d
+504.521 690.417 m 510.521 690.417 l S
+0.000 0.000 0.000 rg
+BT 510.521 691.811 Td 0.429 Tw /F2 12.0 Tf  [(]. I will argue )] TJ ET
+BT 34.016 677.555 Td 2.223 Tw /F2 12.0 Tf  [(that such AI investigations into "human nature" are oftentimes reminiscent of older, modernist, humanistic, )] TJ ET
+BT 34.016 663.299 Td 2.113 Tw /F2 12.0 Tf  [(philosophical debates about the same subject. For example, the philosophy of rationalism has been cited in )] TJ ET
+BT 34.016 649.043 Td 0.812 Tw /F2 12.0 Tf  [(critiques of "reasoning" in AI, phenomenology in critiques of AI's conceptions of "perception" and "the body", )] TJ ET
+BT 34.016 634.787 Td 3.815 Tw /F2 12.0 Tf  [(and romanticism has been named in defense of "human emotion" over machines' supposed inability to )] TJ ET
+BT 34.016 620.531 Td 1.780 Tw /F2 12.0 Tf  [(experience emotion. By examining a series of these humanistic critiques of AI, it is possible to see how AI )] TJ ET
+BT 34.016 606.275 Td 4.644 Tw /F2 12.0 Tf  [(criticism has largely been a recapitulation, in miniature, of old, existing debates between rationalists, )] TJ ET
+BT 34.016 592.019 Td 4.055 Tw /F2 12.0 Tf  [(empiricists, romanticists, phenomenologists, pragmatists, and a handful of other named positions in the )] TJ ET
+BT 34.016 577.763 Td 0.000 Tw /F2 12.0 Tf  [(discourse of western philosophy.)] TJ ET
+BT 34.016 551.507 Td 2.016 Tw /F2 12.0 Tf  [(A more rigorous critique of AI could, for instance, follow Margolin's lead in accepting the artificial/natural )] TJ ET
+BT 34.016 537.251 Td 3.451 Tw /F2 12.0 Tf  [(divide encoded into the very name of the field \(artificial intelligence\) or -- in opposition to Margolin's )] TJ ET
+BT 34.016 522.995 Td 0.288 Tw /F2 12.0 Tf  [(position -- could emphasis the permeability of the artificial/natural divide. The latter possibility, repeatedly cited )] TJ ET
+BT 34.016 508.739 Td 0.400 Tw /F2 12.0 Tf  [(by Margolin, is argued by the feminist theorist Donna Haraway, among others. Haraway proposes the cyborg as )] TJ ET
+BT 34.016 494.483 Td 2.053 Tw /F2 12.0 Tf  [(an ironic, utopic myth of human subjectivity [)] TJ ET
+0.000 0.000 0.800 rg
+BT 269.043 494.483 Td 2.053 Tw /F2 12.0 Tf  [(10)] TJ ET
+0.24 w 0 J [  ] 0 d
+269.043 493.089 m 281.043 493.089 l S
+0.000 0.000 0.000 rg
+BT 281.043 494.483 Td 2.053 Tw /F2 12.0 Tf  [(]. By pointing out how inextricably coupled we all are to )] TJ ET
+BT 34.016 480.227 Td 0.517 Tw /F2 12.0 Tf  [(technology she provides a new vision of "human nature" based not on eternal, universal "essentials", but on our )] TJ ET
+BT 34.016 465.971 Td 0.000 Tw /F2 12.0 Tf  [(shared fate as eclectic assemblages of a myriad of heterogeneous parts.)] TJ ET
+BT 34.016 439.715 Td 0.493 Tw /F2 12.0 Tf  [(Design and design criticism is imbricated in a set of on-going processes to produce artifacts that address human )] TJ ET
+BT 34.016 425.459 Td 0.885 Tw /F2 12.0 Tf  [(needs, wants, and desires. Therefore, questions and assumptions of who "we" are as "humans", what is/are our )] TJ ET
+BT 34.016 411.203 Td 1.417 Tw /F2 12.0 Tf  [("nature\(s\)", and what constitutes the "artificial" or "artifactual" must be central to any discussion of design. I )] TJ ET
+BT 34.016 396.947 Td 1.854 Tw /F2 12.0 Tf  [(certainly will not argue, as someone like Herbert Simon might, that an understanding of AI is central to an )] TJ ET
+BT 34.016 382.691 Td 0.306 Tw /F2 12.0 Tf  [(understanding of design; but, I do think that AI criticism's questions and assumptions of these issues could be of )] TJ ET
+BT 34.016 368.435 Td 0.848 Tw /F2 12.0 Tf  [(interest to a wider audience of designers and design critics. "The Politics of the Artificial" are pivotal in larger )] TJ ET
+BT 34.016 354.179 Td 0.803 Tw /F2 12.0 Tf  [(political questions of design. An understanding of "human nature" as incontestable, universal, and timeless can )] TJ ET
+BT 34.016 339.923 Td 0.369 Tw /F2 12.0 Tf  [(lead to an Enlightenment politics of universal "brotherhood", but also underpins a politics blind to technological )] TJ ET
+BT 34.016 325.667 Td 0.313 Tw /F2 12.0 Tf  [(change. Furthermore, the sorts of modernist, humanistic philosophies assumed in much of AI discourse makes it )] TJ ET
+BT 34.016 311.411 Td 4.524 Tw /F2 12.0 Tf  [(ideologically impossible to state, from within the discourse, how the production and invention of AI )] TJ ET
+BT 34.016 297.155 Td 0.874 Tw /F2 12.0 Tf  [(technologies might change people and thus constitute an implicit political and ethical position at odds with the )] TJ ET
+BT 34.016 282.899 Td 1.178 Tw /F2 12.0 Tf  [(liberal humanism that it depends upon. It is, consequently, interesting to watch where the issues of ethics and )] TJ ET
+BT 34.016 268.643 Td 0.000 Tw /F2 12.0 Tf  [(politics resurface in a discourse like AI criticism.)] TJ ET
+BT 34.016 199.649 Td /F1 14.0 Tf  [(Artificial Intelligence as Evil)] TJ ET
+BT 34.016 172.908 Td 1.521 Tw /F2 12.0 Tf  [(I intend to "map out" a variety of positions in the discourse of AI. At the center of my "map" is a recurrent )] TJ ET
+BT 34.016 158.652 Td 1.315 Tw /F2 12.0 Tf  [(moral outrage that erupts from the pens of disillusioned AI practitioners and other critics. This moral outrage )] TJ ET
+BT 34.016 144.396 Td 0.369 Tw /F2 12.0 Tf  [(can be found in older, well-known critiques, but the same sentiments are current today. Thus, I want to turn to a )] TJ ET
+BT 34.016 130.140 Td 3.483 Tw /F2 12.0 Tf  [(recent controversy published last year in the pages of )] TJ ET
+BT 323.637 130.140 Td 3.483 Tw /F3 12.0 Tf  [(Interactions)] TJ ET
+BT 381.633 130.140 Td 3.483 Tw /F2 12.0 Tf  [(, a journal for digital designers. The )] TJ ET
+BT 34.016 115.884 Td 0.000 Tw /F2 12.0 Tf  [(controversy concerns the AI technology of "digital agents".)] TJ ET
+BT 34.016 89.628 Td 0.843 Tw /F2 12.0 Tf  [(Design "criticism" exploring digital agents \(i.e., "autonomous" computer programs\) has, predominantly, been a )] TJ ET
+BT 34.016 75.372 Td 2.699 Tw /F2 12.0 Tf  [(utopic discourse gushing descriptions of near-future pleasures and increased work efficiencies that will be )] TJ ET
+BT 34.016 61.116 Td 0.628 Tw /F2 12.0 Tf  [(provided by agents that can automatically find, filter, and summarize large bodies of information like the entire )] TJ ET
+endstream
+endobj
+28 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F3
+/BaseFont /Times-Italic
+/Encoding /WinAnsiEncoding
+>>
+endobj
+29 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 30 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 504.5211 690.7315 510.5211 702.6115 ]
+>>
+endobj
+30 0 obj
+<< /Type /Action
+/S /GoTo
+/D 165 0 R
+>>
+endobj
+31 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 32 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 269.0433 493.4035 281.0433 505.2835 ]
+>>
+endobj
+32 0 obj
+<< /Type /Action
+/S /GoTo
+/D 166 0 R
+>>
+endobj
+33 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Annots [ 35 0 R 37 0 R 39 0 R 41 0 R 43 0 R 45 0 R 47 0 R 49 0 R ]
+/Contents 34 0 R
+>>
+endobj
+34 0 obj
+<<
+/Length 7349 >>
+stream
+
+0.000 0.000 0.000 rg
+0.000 0.000 0.800 RG
+0.24 w 0 J [  ] 0 d
+BT 34.016 746.579 Td 0.720 Tw /F2 12.0 Tf  [(Library of Congress or the sum total of the World Wide Web pages posted on the Internet. In a publication for )] TJ ET
+BT 34.016 732.323 Td 0.496 Tw /F2 12.0 Tf  [(digital designers, )] TJ ET
+BT 120.004 732.323 Td 0.496 Tw /F3 12.0 Tf  [(Interactions)] TJ ET
+BT 178.000 732.323 Td 0.496 Tw /F2 12.0 Tf  [(, Jaron Lanier \(one of the "fathers" of virtual reality\) recently published a polemic )] TJ ET
+BT 34.016 718.067 Td 0.000 Tw /F2 12.0 Tf  [(against agents :)] TJ ET
+BT 64.016 679.811 Td 1.841 Tw /F2 12.0 Tf  [("I find myself holding a passionate opinion that almost nobody in the 'Wired-style' community [)] TJ ET
+BT 64.016 665.555 Td 0.996 Tw /F3 12.0 Tf  [(Wired)] TJ ET
+BT 93.344 665.555 Td 0.996 Tw /F2 12.0 Tf  [( is the self-described "magazine of the digerati"] agrees with... Here is the opinion : that the )] TJ ET
+BT 64.016 651.299 Td 0.000 Tw /F2 12.0 Tf  [(idea of 'intelligent agents' is both wrong and evil". [)] TJ ET
+0.000 0.000 0.800 rg
+BT 311.876 651.299 Td /F2 12.0 Tf  [(11)] TJ ET
+0.24 w 0 J [  ] 0 d
+311.876 649.905 m 323.876 649.905 l S
+0.000 0.000 0.000 rg
+BT 323.876 651.299 Td /F2 12.0 Tf  [(])] TJ ET
+BT 34.016 613.043 Td 0.951 Tw /F2 12.0 Tf  [(In a nutshell, Lanier's rationale can be summarized as follows : "agents" are a design discourse in which users )] TJ ET
+BT 34.016 598.787 Td 1.198 Tw /F2 12.0 Tf  [(and designers ascribe anthropomorphic agency to computer programs and so "the person starts to think of the )] TJ ET
+BT 34.016 584.531 Td 0.813 Tw /F2 12.0 Tf  [(computer as being like a person" [)] TJ ET
+0.000 0.000 0.800 rg
+BT 203.091 584.531 Td 0.813 Tw /F2 12.0 Tf  [(12)] TJ ET
+0.24 w 0 J [  ] 0 d
+203.091 583.137 m 215.091 583.137 l S
+0.000 0.000 0.000 rg
+BT 215.091 584.531 Td 0.813 Tw /F2 12.0 Tf  [(] and "as a consequence of unavoidable psychological algebra, the person )] TJ ET
+BT 34.016 570.275 Td 0.000 Tw /F2 12.0 Tf  [(starts to think of himself [sic] as being like a computer" [)] TJ ET
+0.000 0.000 0.800 rg
+BT 307.880 570.275 Td /F2 12.0 Tf  [(13)] TJ ET
+0.24 w 0 J [  ] 0 d
+307.880 568.881 m 319.880 568.881 l S
+0.000 0.000 0.000 rg
+BT 319.880 570.275 Td /F2 12.0 Tf  [(].)] TJ ET
+BT 34.016 501.281 Td /F1 14.0 Tf  [(Conflicting Humanisms)] TJ ET
+BT 34.016 474.540 Td 0.483 Tw /F2 12.0 Tf  [(By explicitly stating "I am ultimately arguing the merits of the humanist fantasy versus the materialist fantasy" [)] TJ ET
+0.000 0.000 0.800 rg
+BT 34.016 460.284 Td 0.952 Tw /F2 12.0 Tf  [(14)] TJ ET
+0.24 w 0 J [  ] 0 d
+34.016 458.890 m 46.016 458.890 l S
+0.000 0.000 0.000 rg
+BT 46.016 460.284 Td 0.952 Tw /F2 12.0 Tf  [(] Lanier correctly locates his polemic as modernist, humanist position. But neither the term "modernist" nor )] TJ ET
+BT 34.016 446.028 Td 1.276 Tw /F2 12.0 Tf  [("humanist" is precise enough to locate Lanier's position within the larger constellation of AI criticism. Of the )] TJ ET
+BT 34.016 431.772 Td 2.236 Tw /F2 12.0 Tf  [("'Wired-style' community", Lanier explicitly names Nicholas Negroponte, a )] TJ ET
+BT 419.296 431.772 Td 2.236 Tw /F3 12.0 Tf  [(Wired)] TJ ET
+BT 448.624 431.772 Td 2.236 Tw /F2 12.0 Tf  [( magazine columnist, and )] TJ ET
+BT 34.016 417.516 Td 0.180 Tw /F2 12.0 Tf  [(director of the MIT Media Laboratory. Negroponte frequently extols the future virtues of AI agents [)] TJ ET
+0.000 0.000 0.800 rg
+BT 520.601 417.516 Td 0.180 Tw /F2 12.0 Tf  [(15)] TJ ET
+0.24 w 0 J [  ] 0 d
+520.601 416.122 m 532.601 416.122 l S
+0.000 0.000 0.000 rg
+BT 532.601 417.516 Td 0.180 Tw /F2 12.0 Tf  [(] but also )] TJ ET
+BT 34.016 403.260 Td 3.559 Tw /F2 12.0 Tf  [(claims to be a humanist : "What needs to be articulated, regardless of the format of the man-machine )] TJ ET
+BT 34.016 389.004 Td 0.000 Tw /F2 12.0 Tf  [(relationship, is the goal of )] TJ ET
+BT 162.008 389.004 Td /F3 12.0 Tf  [(humanism)] TJ ET
+BT 211.340 389.004 Td /F2 12.0 Tf  [( [emphasis added] through machines" [)] TJ ET
+0.000 0.000 0.800 rg
+BT 399.200 389.004 Td /F2 12.0 Tf  [(16)] TJ ET
+0.24 w 0 J [  ] 0 d
+399.200 387.610 m 411.200 387.610 l S
+0.000 0.000 0.000 rg
+BT 411.200 389.004 Td /F2 12.0 Tf  [(].)] TJ ET
+BT 34.016 362.748 Td 2.543 Tw /F2 12.0 Tf  [(If Lanier claims Negroponte as his opponent and yet also claims that his argument is "ultimately" one of )] TJ ET
+BT 34.016 348.492 Td 0.871 Tw /F2 12.0 Tf  [(humanist versus materialist, what is at stake if Negroponte too claims to be advocating a humanist position ? I )] TJ ET
+BT 34.016 334.236 Td 1.402 Tw /F2 12.0 Tf  [(think Lanier has misrecognized his opponents as anti-humanistic materialists when, in fact, they are simply a )] TJ ET
+BT 34.016 319.980 Td 0.000 Tw /F2 12.0 Tf  [(different sort of humanist than the kind preferred by Lanier.)] TJ ET
+BT 64.016 281.724 Td 1.714 Tw /F2 12.0 Tf  [("Ultimately there is nothing more important to us than our definition of what a person is... This )] TJ ET
+BT 64.016 267.468 Td 0.736 Tw /F2 12.0 Tf  [(definition drives our ethics, because it determines what is enough like us to deserve our empathy... )] TJ ET
+BT 64.016 253.212 Td 0.403 Tw /F2 12.0 Tf  [(The artificial intelligence question is the abortion question of the computer world. What was once a )] TJ ET
+BT 64.016 238.956 Td 2.842 Tw /F2 12.0 Tf  [(research topic has become a controversy where practical decisions must reflect a fundamental )] TJ ET
+BT 64.016 224.700 Td 0.000 Tw /F2 12.0 Tf  [(ontological definition about what a person is and is not, and there is no middle ground". [)] TJ ET
+0.000 0.000 0.800 rg
+BT 492.212 224.700 Td /F2 12.0 Tf  [(17)] TJ ET
+0.24 w 0 J [  ] 0 d
+492.212 223.306 m 504.212 223.306 l S
+0.000 0.000 0.000 rg
+BT 504.212 224.700 Td /F2 12.0 Tf  [(])] TJ ET
+BT 34.016 186.444 Td 0.882 Tw /F2 12.0 Tf  [(In his ultimatums, Lanier simultaneously depicts the "abortion question of the computer world" as a black-and-)] TJ ET
+BT 34.016 172.188 Td 0.421 Tw /F2 12.0 Tf  [(white issue but also invokes a philosophical vocabulary \(specifically, the vocabulary of "ontology"\) that implies )] TJ ET
+BT 34.016 157.932 Td 1.187 Tw /F2 12.0 Tf  [(more shades of gray can be found than his rhetorics might allow. In order to gain a better appreciation of the )] TJ ET
+BT 34.016 143.676 Td 0.384 Tw /F2 12.0 Tf  [(ethical stakes of AI debates \(like the one which involves Lanier and Negroponte\), I follow Lanier's lead into the )] TJ ET
+BT 34.016 129.420 Td 0.511 Tw /F2 12.0 Tf  [(territories of philosophy to show how Lanier and Negroponte are at odds with one another and are yet still both )] TJ ET
+BT 34.016 115.164 Td 0.000 Tw /F2 12.0 Tf  [(humanists.)] TJ ET
+BT 34.016 88.908 Td 1.131 Tw /F2 12.0 Tf  [(Sherry Turkle \(a sociologist, clinical psychologist, and well-known AI critic/advocate\) calls positions, like the )] TJ ET
+BT 34.016 74.652 Td 0.164 Tw /F2 12.0 Tf  [(one occupied by Lanier, "romantic" [)] TJ ET
+0.000 0.000 0.800 rg
+BT 213.250 74.652 Td 0.164 Tw /F2 12.0 Tf  [(18)] TJ ET
+0.24 w 0 J [  ] 0 d
+213.250 73.258 m 225.250 73.258 l S
+0.000 0.000 0.000 rg
+BT 225.250 74.652 Td 0.164 Tw /F2 12.0 Tf  [(]. While Turkle seems to employ this term in its vernacular sense \(i.e., as )] TJ ET
+BT 34.016 60.396 Td 0.519 Tw /F2 12.0 Tf  [(denoting someone who is impractical\), I think this label can also be productively read as a name for one who is )] TJ ET
+endstream
+endobj
+35 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 36 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 311.8757 650.2195 323.8757 662.0995 ]
+>>
+endobj
+36 0 obj
+<< /Type /Action
+/S /GoTo
+/D 167 0 R
+>>
+endobj
+37 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 38 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 203.0906 583.4515 215.0906 595.3315 ]
+>>
+endobj
+38 0 obj
+<< /Type /Action
+/S /GoTo
+/D 168 0 R
+>>
+endobj
+39 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 40 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 307.8797 569.1955 319.8797 581.0755 ]
+>>
+endobj
+40 0 obj
+<< /Type /Action
+/S /GoTo
+/D 169 0 R
+>>
+endobj
+41 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 42 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 34.0157 459.2039 46.0157 471.0839 ]
+>>
+endobj
+42 0 obj
+<< /Type /Action
+/S /GoTo
+/D 172 0 R
+>>
+endobj
+43 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 44 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 520.6010 416.4359 532.6010 428.3159 ]
+>>
+endobj
+44 0 obj
+<< /Type /Action
+/S /GoTo
+/D 173 0 R
+>>
+endobj
+45 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 46 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 399.1997 387.9239 411.1997 399.8039 ]
+>>
+endobj
+46 0 obj
+<< /Type /Action
+/S /GoTo
+/D 174 0 R
+>>
+endobj
+47 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 48 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 492.2117 223.6199 504.2117 235.4999 ]
+>>
+endobj
+48 0 obj
+<< /Type /Action
+/S /GoTo
+/D 175 0 R
+>>
+endobj
+49 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 50 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 213.2499 73.5719 225.2499 85.4519 ]
+>>
+endobj
+50 0 obj
+<< /Type /Action
+/S /GoTo
+/D 176 0 R
+>>
+endobj
+51 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Annots [ 53 0 R 55 0 R 57 0 R 59 0 R 61 0 R ]
+/Contents 52 0 R
+>>
+endobj
+52 0 obj
+<<
+/Length 7340 >>
+stream
+
+0.000 0.000 0.000 rg
+0.000 0.000 0.800 RG
+0.24 w 0 J [  ] 0 d
+BT 34.016 746.579 Td 2.424 Tw /F2 12.0 Tf  [(engaged with a type of thinking typified by the philosophical and artistic movement of the late-eighteenth )] TJ ET
+BT 34.016 732.323 Td 0.000 Tw /F2 12.0 Tf  [(century; namely, )] TJ ET
+BT 117.668 732.323 Td /F3 12.0 Tf  [(romanticism)] TJ ET
+BT 177.668 732.323 Td /F2 12.0 Tf  [( [)] TJ ET
+0.000 0.000 0.800 rg
+BT 184.664 732.323 Td /F2 12.0 Tf  [(19)] TJ ET
+0.24 w 0 J [  ] 0 d
+184.664 730.929 m 196.664 730.929 l S
+0.000 0.000 0.000 rg
+BT 196.664 732.323 Td /F2 12.0 Tf  [(].)] TJ ET
+BT 34.016 663.329 Td /F1 14.0 Tf  [(The Romantic Reaction)] TJ ET
+BT 34.016 636.588 Td 0.392 Tw /F2 12.0 Tf  [(To more clearly explain Turkle's diagnosis and its attendant philosophical implications, I need to recapitulate an )] TJ ET
+BT 34.016 622.332 Td 1.053 Tw /F2 12.0 Tf  [(AI debate of the mid-1970s between Joseph Weizenbaum \(a computer scientist and former AI researcher\) and )] TJ ET
+BT 34.016 608.076 Td 2.647 Tw /F2 12.0 Tf  [(Kenneth Colby \(a psychotherapist and AI designer\). The Weizenbaum/Colby debate is very similar to the )] TJ ET
+BT 34.016 593.820 Td 0.000 Tw /F2 12.0 Tf  [(Lanier/Negroponte conflict and Turkle uses it in her explanation of the "romantic" position.)] TJ ET
+BT 34.016 567.564 Td 2.203 Tw /F2 12.0 Tf  [(Weizenbaum and Colby originally collaborated on the design of a computer program that could simulate a )] TJ ET
+BT 34.016 553.308 Td 1.417 Tw /F2 12.0 Tf  [(Rogerian psychotherapist. Weizenbaum's work resulted in a computer program called ELIZA [)] TJ ET
+0.000 0.000 0.800 rg
+BT 505.658 553.308 Td 1.417 Tw /F2 12.0 Tf  [(20)] TJ ET
+0.24 w 0 J [  ] 0 d
+505.658 551.914 m 517.658 551.914 l S
+0.000 0.000 0.000 rg
+BT 517.658 553.308 Td 1.417 Tw /F2 12.0 Tf  [(] that could )] TJ ET
+BT 34.016 539.052 Td 1.773 Tw /F2 12.0 Tf  [(carry on a textual "conversation" with someone who typed sentences and often questions to ELIZA; ELIZA )] TJ ET
+BT 34.016 524.796 Td 2.767 Tw /F2 12.0 Tf  [(would respond with various replies which were not so much answers as encouragement for the "user" to )] TJ ET
+BT 34.016 510.540 Td 1.031 Tw /F2 12.0 Tf  [(continue writing about personal problems or issues concerning family and intimate relationships. Weizenbaum )] TJ ET
+BT 34.016 496.284 Td 0.758 Tw /F2 12.0 Tf  [(became appalled by the way in which Colby and others began to see ELIZA as a first step towards automating )] TJ ET
+BT 34.016 482.028 Td 0.434 Tw /F2 12.0 Tf  [(psychotherapy. Weizenbaum is most succinct about his prescriptions for AI design at the end of his book which )] TJ ET
+BT 34.016 467.772 Td 0.000 Tw /F2 12.0 Tf  [(critiques AI :)] TJ ET
+BT 34.016 441.516 Td 0.720 Tw /F2 12.0 Tf  [(Not all projects, by very far, that are frankly performance-oriented are dangerous or morally repugnant... There )] TJ ET
+BT 34.016 427.260 Td 1.389 Tw /F2 12.0 Tf  [(are, however, two kinds of computer applications that either ought not to be undertaken at all, or, if they are )] TJ ET
+BT 34.016 413.004 Td 0.190 Tw /F2 12.0 Tf  [(contemplated, should be approached with utmost caution... The first kind I would call simply obscene. These are )] TJ ET
+BT 34.016 398.748 Td 0.280 Tw /F2 12.0 Tf  [(ones whose very contemplation ought to give rise to feelings of disgust in every civilized person. The proposal I )] TJ ET
+BT 34.016 384.492 Td 0.311 Tw /F2 12.0 Tf  [(have mentioned, that an animal's visual system and brain be coupled to computers, is an example... [)] TJ ET
+0.000 0.000 0.800 rg
+BT 520.750 384.492 Td 0.311 Tw /F2 12.0 Tf  [(21)] TJ ET
+0.24 w 0 J [  ] 0 d
+520.750 383.098 m 532.750 383.098 l S
+0.000 0.000 0.000 rg
+BT 532.750 384.492 Td 0.311 Tw /F2 12.0 Tf  [(] I would )] TJ ET
+BT 34.016 370.236 Td 1.376 Tw /F2 12.0 Tf  [(put all projects that propose to substitute a computer system for a human function that involves interpersonal )] TJ ET
+BT 34.016 355.980 Td 1.950 Tw /F2 12.0 Tf  [(respect, understanding, and love in the same category. I therefore reject Colby's proposal that computers be )] TJ ET
+BT 34.016 341.724 Td 0.962 Tw /F2 12.0 Tf  [(installed as psychotherapists, not on the grounds that such a project might be technically infeasible, but on the )] TJ ET
+BT 34.016 327.468 Td 0.000 Tw /F2 12.0 Tf  [(grounds that it is immoral [)] TJ ET
+0.000 0.000 0.800 rg
+BT 165.020 327.468 Td /F2 12.0 Tf  [(22)] TJ ET
+0.24 w 0 J [  ] 0 d
+165.020 326.074 m 177.020 326.074 l S
+0.000 0.000 0.000 rg
+BT 177.020 327.468 Td /F2 12.0 Tf  [(].)] TJ ET
+BT 34.016 301.212 Td 1.675 Tw /F2 12.0 Tf  [(While the Lanier/Negroponte debate addresses a different AI technology than the Weizenbaum/Colby debate )] TJ ET
+BT 34.016 286.956 Td 0.909 Tw /F2 12.0 Tf  [(\(the former addressing digital agents and the latter computational psychotherapists, like ELIZA\), Lanier -- like )] TJ ET
+BT 34.016 272.700 Td 0.318 Tw /F2 12.0 Tf  [(Weizenbaum -- exhibits anxiety and moral outrage. Both Lanier and Weizenbaum are concerned about the ways )] TJ ET
+BT 34.016 258.444 Td 1.690 Tw /F2 12.0 Tf  [(in which machines might replace or be equated to humans and vice versa. Turkle describes this anxiety and )] TJ ET
+BT 34.016 244.188 Td 1.002 Tw /F2 12.0 Tf  [(elaborates on its manifestations in a variety of people before naming it the "romantic reaction" : "Involvement )] TJ ET
+BT 34.016 229.932 Td 1.467 Tw /F2 12.0 Tf  [(with ELIZA actually reinforced the sense that the human 'machine' was endowed with a soul or spirit -- that )] TJ ET
+BT 34.016 215.676 Td 0.000 Tw /F2 12.0 Tf  [(people, in other words, were not like computers at all" [)] TJ ET
+0.000 0.000 0.800 rg
+BT 301.532 215.676 Td /F2 12.0 Tf  [(23)] TJ ET
+0.24 w 0 J [  ] 0 d
+301.532 214.282 m 313.532 214.282 l S
+0.000 0.000 0.000 rg
+BT 313.532 215.676 Td /F2 12.0 Tf  [(].)] TJ ET
+BT 34.016 189.420 Td 4.173 Tw /F2 12.0 Tf  [(The "romantic reaction" does not pose a serious, philosophical challenge to AI practitioners designing )] TJ ET
+BT 34.016 175.164 Td 1.617 Tw /F2 12.0 Tf  [(computational psychotherapists and digital agents because, like the AI practitioners, Lanier and Weizenbaum )] TJ ET
+BT 34.016 160.908 Td 0.432 Tw /F2 12.0 Tf  [(assume that what is "human" is easily identifiable \(at least by them\) and essentially unchanged by technological )] TJ ET
+BT 34.016 146.652 Td 0.470 Tw /F2 12.0 Tf  [("development". Such an idealization of the human condition provides the utopic hope that "we" - as "humans" - )] TJ ET
+BT 34.016 132.396 Td 3.801 Tw /F2 12.0 Tf  [(could all get together and decide which technologies are "good" and which are "evil" for all humans. )] TJ ET
+BT 34.016 118.140 Td 2.356 Tw /F2 12.0 Tf  [(Unfortunately, such a utopic hope does not take into account the possibility that humans may be radically )] TJ ET
+BT 34.016 103.884 Td 1.528 Tw /F2 12.0 Tf  [(different from one another \(in their needs, wants and desires\) partly because of their differing exposures and )] TJ ET
+BT 34.016 89.628 Td 0.000 Tw /F2 12.0 Tf  [(couplings to past and existing technologies.)] TJ ET
+BT 34.016 63.372 Td 1.316 Tw /F2 12.0 Tf  [(Nonetheless, what is unique to romantic critiques of AI, like Weizenbaum's and Lanier's, is their engagement )] TJ ET
+BT 34.016 49.116 Td 2.661 Tw /F2 12.0 Tf  [(with ethical issues. Most of the rest of the criticism read by AI practitioners insists on what "cannot" be )] TJ ET
+endstream
+endobj
+53 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 54 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 184.6637 731.2435 196.6637 743.1235 ]
+>>
+endobj
+54 0 obj
+<< /Type /Action
+/S /GoTo
+/D 177 0 R
+>>
+endobj
+55 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 56 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 505.6580 552.2279 517.6580 564.1079 ]
+>>
+endobj
+56 0 obj
+<< /Type /Action
+/S /GoTo
+/D 178 0 R
+>>
+endobj
+57 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 58 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 520.7498 383.4119 532.7498 395.2919 ]
+>>
+endobj
+58 0 obj
+<< /Type /Action
+/S /GoTo
+/D 179 0 R
+>>
+endobj
+59 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 60 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 165.0197 326.3879 177.0197 338.2679 ]
+>>
+endobj
+60 0 obj
+<< /Type /Action
+/S /GoTo
+/D 180 0 R
+>>
+endobj
+61 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 62 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 301.5317 214.5959 313.5317 226.4759 ]
+>>
+endobj
+62 0 obj
+<< /Type /Action
+/S /GoTo
+/D 181 0 R
+>>
+endobj
+63 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Annots [ 65 0 R 67 0 R 69 0 R 71 0 R 73 0 R 75 0 R 77 0 R 79 0 R 81 0 R 83 0 R ]
+/Contents 64 0 R
+>>
+endobj
+64 0 obj
+<<
+/Length 8148 >>
+stream
+
+0.000 0.000 0.000 rg
+0.000 0.000 0.800 RG
+0.24 w 0 J [  ] 0 d
+BT 34.016 746.579 Td 0.000 Tw /F2 12.0 Tf  [(accomplished by AI research, rather than what should or should not be attempted.)] TJ ET
+BT 34.016 677.585 Td /F1 14.0 Tf  [(Kantianism)] TJ ET
+BT 34.016 650.844 Td 0.551 Tw /F2 12.0 Tf  [(The "romantic reaction" of Weizenbaum, Lanier, and Turkle's subjects of the 1970s and early 1980s [)] TJ ET
+0.000 0.000 0.800 rg
+BT 529.796 650.844 Td 0.551 Tw /F2 12.0 Tf  [(24)] TJ ET
+0.24 w 0 J [  ] 0 d
+529.796 649.450 m 541.796 649.450 l S
+0.000 0.000 0.000 rg
+BT 541.796 650.844 Td 0.551 Tw /F2 12.0 Tf  [(] was a )] TJ ET
+BT 34.016 636.588 Td 0.982 Tw /F2 12.0 Tf  [(refusal to equate humans with machines. Their refusal is a romantic one because it distinguishes humans from )] TJ ET
+BT 34.016 622.332 Td 1.609 Tw /F2 12.0 Tf  [(machines by insisting that machines do not have soul, spirit, feeling, or emotion. In other words, a romantic )] TJ ET
+BT 34.016 608.076 Td 0.489 Tw /F2 12.0 Tf  [(position identifies the )] TJ ET
+BT 142.487 608.076 Td 0.489 Tw /F3 12.0 Tf  [(irrational)] TJ ET
+BT 189.167 608.076 Td 0.489 Tw /F2 12.0 Tf  [( side of humans as an essential quality. As Lanier points out, materialism is one )] TJ ET
+BT 34.016 593.820 Td 0.711 Tw /F2 12.0 Tf  [(possible position in opposition to his. However, many of the opponents whom Lanier identifies are rationalists, )] TJ ET
+BT 34.016 579.564 Td 1.694 Tw /F2 12.0 Tf  [(not materialists. Chronologically, in the history of Western philosophy, the rationalists \(like René Descartes\) )] TJ ET
+BT 34.016 565.308 Td 0.379 Tw /F2 12.0 Tf  [(precede the romantics. The rationalists see reason and rational behavior as the quintessential human trait and so, )] TJ ET
+BT 34.016 551.052 Td 0.153 Tw /F2 12.0 Tf  [(insofar as a machine can be understood to reason more or less rationally, a rationalistic stance is not at odds with )] TJ ET
+BT 34.016 536.796 Td 0.000 Tw /F2 12.0 Tf  [(the idea of viewing a machine as an anthropomorphic entity.)] TJ ET
+BT 34.016 510.540 Td 0.684 Tw /F2 12.0 Tf  [(It is useful to distinguish two types of rationalism in AI. The first is a crude Cartesianism in which humans are )] TJ ET
+BT 34.016 496.284 Td 3.483 Tw /F2 12.0 Tf  [(considered to be human because they can think logically or rationally. Although AI critics are fond of )] TJ ET
+BT 34.016 482.028 Td 0.800 Tw /F2 12.0 Tf  [(characterizing some AI as a Cartesian enterprise [)] TJ ET
+0.000 0.000 0.800 rg
+BT 278.539 482.028 Td 0.800 Tw /F2 12.0 Tf  [(25)] TJ ET
+0.24 w 0 J [  ] 0 d
+278.539 480.634 m 290.539 480.634 l S
+0.000 0.000 0.000 rg
+BT 290.539 482.028 Td 0.800 Tw /F2 12.0 Tf  [(], finding an AI practitioner who willingly responds to the )] TJ ET
+BT 34.016 467.772 Td 0.447 Tw /F2 12.0 Tf  [(label of "Cartesian", is difficult. A modified rationalism -- of a Kantian, empiricist-influenced sort -- is easier to )] TJ ET
+BT 34.016 453.516 Td 1.317 Tw /F2 12.0 Tf  [(identify in contemporary AI work. This second sort of rationalism is one in which reason is considered to be )] TJ ET
+BT 34.016 439.260 Td 1.210 Tw /F2 12.0 Tf  [(central, but not sufficient to human existence; or, an understanding of rationality as bounded by certain limits )] TJ ET
+BT 34.016 425.004 Td 1.201 Tw /F2 12.0 Tf  [(\(cf., AI scientist, Herbert Simon's notion of "bounded rationality" [)] TJ ET
+0.000 0.000 0.800 rg
+BT 366.072 425.004 Td 1.201 Tw /F2 12.0 Tf  [(26)] TJ ET
+0.24 w 0 J [  ] 0 d
+366.072 423.610 m 378.072 423.610 l S
+0.000 0.000 0.000 rg
+BT 378.072 425.004 Td 1.201 Tw /F2 12.0 Tf  [(]; or, more recent discussions of similar )] TJ ET
+BT 34.016 410.748 Td 0.000 Tw /F2 12.0 Tf  [(characteristics like "calculative rationality" and "bounded optimality" [)] TJ ET
+0.000 0.000 0.800 rg
+BT 374.552 410.748 Td /F2 12.0 Tf  [(27)] TJ ET
+0.24 w 0 J [  ] 0 d
+374.552 409.354 m 386.552 409.354 l S
+0.000 0.000 0.000 rg
+BT 386.552 410.748 Td /F2 12.0 Tf  [(]\).)] TJ ET
+BT 34.016 384.492 Td 0.782 Tw /F2 12.0 Tf  [(To characterize AI-rationalism as a "Kantian-rationalism", as I am doing here, makes it easier to see how most )] TJ ET
+BT 34.016 370.236 Td 2.203 Tw /F2 12.0 Tf  [(AI work is not necessarily diametrically opposed to a "romantic reaction". Kant was interested not only in )] TJ ET
+BT 34.016 355.980 Td 0.533 Tw /F2 12.0 Tf  [(reason, but also in -- what he termed -- the other "cognitive faculties" : understanding and imagination. In other )] TJ ET
+BT 34.016 341.724 Td 0.255 Tw /F2 12.0 Tf  [(words, while reason is central to cognition, it also has its limits and interactions with other faculties; interactions )] TJ ET
+BT 34.016 327.468 Td 0.000 Tw /F2 12.0 Tf  [(which are facilitated by what Kant calls "common sense" [)] TJ ET
+0.000 0.000 0.800 rg
+BT 315.416 327.468 Td /F2 12.0 Tf  [(28)] TJ ET
+0.24 w 0 J [  ] 0 d
+315.416 326.074 m 327.416 326.074 l S
+0.000 0.000 0.000 rg
+BT 327.416 327.468 Td /F2 12.0 Tf  [(].)] TJ ET
+BT 34.016 301.212 Td 0.510 Tw /F2 12.0 Tf  [(Actually, Kant is more often mentioned -- not in discussions of AI -- but in discussions of cognitive science, an )] TJ ET
+BT 34.016 286.956 Td 1.504 Tw /F2 12.0 Tf  [(enterprise that is assumed to encompass AI, cognitive psychology, neuroscience, cognitive anthropology, and )] TJ ET
+BT 34.016 272.700 Td 0.423 Tw /F2 12.0 Tf  [(various works in the philosophy of mind [)] TJ ET
+0.000 0.000 0.800 rg
+BT 238.635 272.700 Td 0.423 Tw /F2 12.0 Tf  [(29)] TJ ET
+0.24 w 0 J [  ] 0 d
+238.635 271.306 m 250.635 271.306 l S
+0.000 0.000 0.000 rg
+BT 250.635 272.700 Td 0.423 Tw /F2 12.0 Tf  [(]. Nonetheless, it is not hard to see Kant's influence on AI software )] TJ ET
+BT 34.016 258.444 Td 1.497 Tw /F2 12.0 Tf  [(design. For example, Kant's notion of "schemas" as a means for representing knowledge has been elaborated )] TJ ET
+BT 34.016 244.188 Td 0.000 Tw /F2 12.0 Tf  [(into a variety of data structures \(variously called "schemata", "scripts" [)] TJ ET
+0.000 0.000 0.800 rg
+BT 377.864 244.188 Td /F2 12.0 Tf  [(30)] TJ ET
+0.24 w 0 J [  ] 0 d
+377.864 242.794 m 389.864 242.794 l S
+0.000 0.000 0.000 rg
+BT 389.864 244.188 Td /F2 12.0 Tf  [(] and "frames" [)] TJ ET
+0.000 0.000 0.800 rg
+BT 466.628 244.188 Td /F2 12.0 Tf  [(31)] TJ ET
+0.24 w 0 J [  ] 0 d
+466.628 242.794 m 478.628 242.794 l S
+0.000 0.000 0.000 rg
+BT 478.628 244.188 Td /F2 12.0 Tf  [(]\).)] TJ ET
+BT 34.016 217.932 Td 3.138 Tw /F2 12.0 Tf  [(The Kantian-influenced underpinnings of many AI projects imply a certain approach to the ethics of AI )] TJ ET
+BT 34.016 203.676 Td 1.204 Tw /F2 12.0 Tf  [(research. AI critic/proponent Margaret Boden argues that, within a Kantian philosophy of morals, it would be )] TJ ET
+BT 34.016 189.420 Td 1.744 Tw /F2 12.0 Tf  [(consistent to grant rational, AI machines the same respect accorded rational humans [)] TJ ET
+0.000 0.000 0.800 rg
+BT 465.193 189.420 Td 1.744 Tw /F2 12.0 Tf  [(32)] TJ ET
+0.24 w 0 J [  ] 0 d
+465.193 188.026 m 477.193 188.026 l S
+0.000 0.000 0.000 rg
+BT 477.193 189.420 Td 1.744 Tw /F2 12.0 Tf  [(]. This seems to be )] TJ ET
+BT 34.016 175.164 Td 1.629 Tw /F2 12.0 Tf  [(exactly the sort of morals that thoroughly horrify Weizenbaum and Lanier. And yet, the AI critiques written )] TJ ET
+BT 34.016 160.908 Td 0.212 Tw /F2 12.0 Tf  [(from a Kantian perspective result in the same set of questions that "romantics", like Weizenbaum and Lanier ask )] TJ ET
+BT 34.016 146.652 Td 2.175 Tw /F2 12.0 Tf  [(: "What would happen if machines were accepted as equal to humans ?". The only difference between the )] TJ ET
+BT 34.016 132.396 Td 1.046 Tw /F2 12.0 Tf  [(romantics and the AI Kantians is that the romantics are repulsed by the "very idea" [)] TJ ET
+0.000 0.000 0.800 rg
+BT 454.411 132.396 Td 1.046 Tw /F2 12.0 Tf  [(33)] TJ ET
+0.24 w 0 J [  ] 0 d
+454.411 131.002 m 466.411 131.002 l S
+0.000 0.000 0.000 rg
+BT 466.411 132.396 Td 1.046 Tw /F2 12.0 Tf  [(] and the Kantians are )] TJ ET
+BT 34.016 118.140 Td 3.225 Tw /F2 12.0 Tf  [(not. But, neither the romantics nor the Kantians have the conceptual tools to describe how technologies )] TJ ET
+BT 34.016 103.884 Td 0.000 Tw /F2 12.0 Tf  [(influence humans \(and vice versa\) even when humans and machines are not equated.)] TJ ET
+endstream
+endobj
+65 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 66 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 529.7955 649.7639 541.7955 661.6439 ]
+>>
+endobj
+66 0 obj
+<< /Type /Action
+/S /GoTo
+/D 182 0 R
+>>
+endobj
+67 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 68 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 278.5391 480.9479 290.5391 492.8279 ]
+>>
+endobj
+68 0 obj
+<< /Type /Action
+/S /GoTo
+/D 183 0 R
+>>
+endobj
+69 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 70 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 366.0723 423.9239 378.0723 435.8039 ]
+>>
+endobj
+70 0 obj
+<< /Type /Action
+/S /GoTo
+/D 184 0 R
+>>
+endobj
+71 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 72 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 374.5517 409.6679 386.5517 421.5479 ]
+>>
+endobj
+72 0 obj
+<< /Type /Action
+/S /GoTo
+/D 185 0 R
+>>
+endobj
+73 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 74 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 315.4157 326.3879 327.4157 338.2679 ]
+>>
+endobj
+74 0 obj
+<< /Type /Action
+/S /GoTo
+/D 186 0 R
+>>
+endobj
+75 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 76 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 238.6346 271.6199 250.6346 283.4999 ]
+>>
+endobj
+76 0 obj
+<< /Type /Action
+/S /GoTo
+/D 189 0 R
+>>
+endobj
+77 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 78 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 377.8637 243.1079 389.8637 254.9879 ]
+>>
+endobj
+78 0 obj
+<< /Type /Action
+/S /GoTo
+/D 190 0 R
+>>
+endobj
+79 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 80 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 466.6277 243.1079 478.6277 254.9879 ]
+>>
+endobj
+80 0 obj
+<< /Type /Action
+/S /GoTo
+/D 191 0 R
+>>
+endobj
+81 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 82 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 465.1934 188.3399 477.1934 200.2199 ]
+>>
+endobj
+82 0 obj
+<< /Type /Action
+/S /GoTo
+/D 192 0 R
+>>
+endobj
+83 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 84 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 454.4110 131.3159 466.4110 143.1959 ]
+>>
+endobj
+84 0 obj
+<< /Type /Action
+/S /GoTo
+/D 193 0 R
+>>
+endobj
+85 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Annots [ 87 0 R 89 0 R 91 0 R 93 0 R 95 0 R 97 0 R 99 0 R 101 0 R 103 0 R 105 0 R 107 0 R 109 0 R 111 0 R 113 0 R 115 0 R 117 0 R 119 0 R 121 0 R 123 0 R 125 0 R 127 0 R ]
+/Contents 86 0 R
+>>
+endobj
+86 0 obj
+<<
+/Length 11454 >>
+stream
+
+0.000 0.000 0.000 rg
+0.000 0.000 0.800 RG
+0.24 w 0 J [  ] 0 d
+BT 34.016 732.641 Td /F1 14.0 Tf  [(The Aesthetic Turn)] TJ ET
+BT 34.016 705.900 Td 2.356 Tw /F2 12.0 Tf  [(In his book, )] TJ ET
+BT 101.082 705.900 Td 2.356 Tw /F3 12.0 Tf  [(Designing Information Technology in a Postmodern Age)] TJ ET
+BT 387.868 705.900 Td 2.356 Tw /F2 12.0 Tf  [(, Richard Coyne argues that AI \(and )] TJ ET
+BT 34.016 691.644 Td 0.819 Tw /F2 12.0 Tf  [(computer design, in general\) is moving away from rationalistic design in a move he calls "the pragmatic turn". )] TJ ET
+BT 34.016 677.388 Td 4.558 Tw /F2 12.0 Tf  [(Included in his "pragmatic turn" could be the sort of AI and AI criticism inspired by Heideggarian )] TJ ET
+BT 34.016 663.132 Td 0.352 Tw /F2 12.0 Tf  [(phenomenology [)] TJ ET
+0.000 0.000 0.800 rg
+BT 118.692 663.132 Td 0.352 Tw /F2 12.0 Tf  [(34)] TJ ET
+0.24 w 0 J [  ] 0 d
+118.692 661.738 m 130.692 661.738 l S
+0.000 0.000 0.000 rg
+BT 130.692 663.132 Td 0.352 Tw /F2 12.0 Tf  [(], the pragmatism of John Dewey [)] TJ ET
+0.000 0.000 0.800 rg
+BT 299.771 663.132 Td 0.352 Tw /F2 12.0 Tf  [(35)] TJ ET
+0.24 w 0 J [  ] 0 d
+299.771 661.738 m 311.771 661.738 l S
+0.000 0.000 0.000 rg
+BT 311.771 663.132 Td 0.352 Tw /F2 12.0 Tf  [(], and the media theory of Marshall McLuhan. I find it )] TJ ET
+BT 34.016 648.876 Td 2.485 Tw /F2 12.0 Tf  [(rather confusing to mix these philosophies together and call the result "pragmatism" as Coyne does [)] TJ ET
+0.000 0.000 0.800 rg
+BT 554.019 648.876 Td 2.485 Tw /F2 12.0 Tf  [(36)] TJ ET
+0.24 w 0 J [  ] 0 d
+554.019 647.482 m 566.019 647.482 l S
+0.000 0.000 0.000 rg
+BT 566.019 648.876 Td 2.485 Tw /F2 12.0 Tf  [(]. )] TJ ET
+BT 34.016 634.620 Td 1.453 Tw /F2 12.0 Tf  [(Instead, if these three philosophies are to be mixed \(as they undeniably are in the design of the "postmodern )] TJ ET
+BT 34.016 620.364 Td 1.941 Tw /F2 12.0 Tf  [(age"\), then it might be more helpful to note that all three are concerned with the body, the senses, and the )] TJ ET
+BT 34.016 606.108 Td 0.000 Tw /F2 12.0 Tf  [(environment. These are exactly what are essential to aesthetics :)] TJ ET
+BT 34.016 579.852 Td 0.787 Tw /F2 12.0 Tf  [(Aesthetics is born as a discourse of the body. In its original formulation by the German philosopher Alexander )] TJ ET
+BT 34.016 565.596 Td 0.702 Tw /F2 12.0 Tf  [(Baumgarten, the term refers not in the first place to art, but, as the Greek aisthesis would suggest, to the whole )] TJ ET
+BT 34.016 551.340 Td 0.000 Tw /F2 12.0 Tf  [(region of human perception and sensation, in contrast to the more rarefied domain of conceptual thought [)] TJ ET
+0.000 0.000 0.800 rg
+BT 542.924 551.340 Td /F2 12.0 Tf  [(37)] TJ ET
+0.24 w 0 J [  ] 0 d
+542.924 549.946 m 554.924 549.946 l S
+0.000 0.000 0.000 rg
+BT 554.924 551.340 Td /F2 12.0 Tf  [(].)] TJ ET
+BT 34.016 525.084 Td 0.899 Tw /F2 12.0 Tf  [(In AI discourse, the "aesthetic turn" away from a strict Kantian conceptual thought \(e.g., of the kind described )] TJ ET
+BT 34.016 510.828 Td 3.326 Tw /F2 12.0 Tf  [(in Kant's first two )] TJ ET
+BT 136.145 510.828 Td 3.326 Tw /F3 12.0 Tf  [(Critiques)] TJ ET
+BT 180.821 510.828 Td 3.326 Tw /F2 12.0 Tf  [(\) and toward an examination of the roles of the body, the senses, and the )] TJ ET
+BT 34.016 496.572 Td 0.491 Tw /F2 12.0 Tf  [(environment in cognition can be understood as the relaxation of an extreme rationalist, idealist position adopted )] TJ ET
+BT 34.016 482.316 Td 0.479 Tw /F2 12.0 Tf  [(by early-AI researchers and cognitive scientists [)] TJ ET
+0.000 0.000 0.800 rg
+BT 271.491 482.316 Td 0.479 Tw /F2 12.0 Tf  [(38)] TJ ET
+0.24 w 0 J [  ] 0 d
+271.491 480.922 m 283.491 480.922 l S
+0.000 0.000 0.000 rg
+BT 283.491 482.316 Td 0.479 Tw /F2 12.0 Tf  [(]. AI was a critique of social sciences based in )] TJ ET
+BT 513.223 482.316 Td 0.479 Tw /F3 12.0 Tf  [(behaviorism)] TJ ET
+BT 572.551 482.316 Td 0.479 Tw /F2 12.0 Tf  [( [)] TJ ET
+0.000 0.000 0.800 rg
+BT 34.016 468.060 Td 0.409 Tw /F2 12.0 Tf  [(39)] TJ ET
+0.24 w 0 J [  ] 0 d
+34.016 466.666 m 46.016 466.666 l S
+0.000 0.000 0.000 rg
+BT 46.016 468.060 Td 0.409 Tw /F2 12.0 Tf  [(]. As a cognitive science, AI began by almost entirely ignoring "external" entities and behaviors \(the research )] TJ ET
+BT 34.016 453.804 Td 0.000 Tw /F2 12.0 Tf  [(domain of behaviorists\) to concentrate on cognition and "internal", mental representations.)] TJ ET
+BT 34.016 427.548 Td 3.331 Tw /F2 12.0 Tf  [(The concerns of new "aesthetic AI" movements like connectionism [)] TJ ET
+0.000 0.000 0.800 rg
+BT 394.053 427.548 Td 3.331 Tw /F2 12.0 Tf  [(40)] TJ ET
+0.24 w 0 J [  ] 0 d
+394.053 426.154 m 406.053 426.154 l S
+0.000 0.000 0.000 rg
+BT 406.053 427.548 Td 3.331 Tw /F2 12.0 Tf  [(], behavior-based AI [)] TJ ET
+0.000 0.000 0.800 rg
+BT 522.006 427.548 Td 3.331 Tw /F2 12.0 Tf  [(41)] TJ ET
+0.24 w 0 J [  ] 0 d
+522.006 426.154 m 534.006 426.154 l S
+0.000 0.000 0.000 rg
+BT 534.006 427.548 Td 3.331 Tw /F2 12.0 Tf  [(], and )] TJ ET
+BT 34.016 413.292 Td 1.034 Tw /F2 12.0 Tf  [(distributed AI [)] TJ ET
+0.000 0.000 0.800 rg
+BT 110.076 413.292 Td 1.034 Tw /F2 12.0 Tf  [(42)] TJ ET
+0.24 w 0 J [  ] 0 d
+110.076 411.898 m 122.076 411.898 l S
+0.000 0.000 0.000 rg
+BT 122.076 413.292 Td 1.034 Tw /F2 12.0 Tf  [(] could also be understood as a reanimation of cybernetics. So, for instance, cyberneticians', )] TJ ET
+BT 34.016 399.036 Td 4.629 Tw /F2 12.0 Tf  [(Walter Pitts and Warren McCulloch's, interests in homomorphisms between electrical circuits and the )] TJ ET
+BT 34.016 384.780 Td 1.592 Tw /F2 12.0 Tf  [(neurophysiology of the brain can be seen as a direct precursor to "connectionism", a "new" sort of AI [)] TJ ET
+0.000 0.000 0.800 rg
+BT 555.805 384.780 Td 1.592 Tw /F2 12.0 Tf  [(43)] TJ ET
+0.24 w 0 J [  ] 0 d
+555.805 383.386 m 567.805 383.386 l S
+0.000 0.000 0.000 rg
+BT 567.805 384.780 Td 1.592 Tw /F2 12.0 Tf  [(]. )] TJ ET
+BT 34.016 370.524 Td 0.634 Tw /F2 12.0 Tf  [(Many of the founders of AI were former students and junior colleagues of the cyberneticians in the 1940s, 50s, )] TJ ET
+BT 34.016 356.268 Td 1.178 Tw /F2 12.0 Tf  [(and 60s, so that AI might now be re-inventing cybernetics should not come as a complete surprise. In a 1988 )] TJ ET
+BT 34.016 342.012 Td 3.691 Tw /F2 12.0 Tf  [(edited collection of critiques concerning connectionism and "neural nets" AI researcher Seymour Papert )] TJ ET
+BT 34.016 327.756 Td 1.029 Tw /F2 12.0 Tf  [(recounts [)] TJ ET
+0.000 0.000 0.800 rg
+BT 82.697 327.756 Td 1.029 Tw /F2 12.0 Tf  [(44)] TJ ET
+0.24 w 0 J [  ] 0 d
+82.697 326.362 m 94.697 326.362 l S
+0.000 0.000 0.000 rg
+BT 94.697 327.756 Td 1.029 Tw /F2 12.0 Tf  [(] -- and disavows -- the Oedipal narrative in which he and Marvin Minsky -- one of McCulloch's )] TJ ET
+BT 34.016 313.500 Td 3.108 Tw /F2 12.0 Tf  [(former, junior colleagues -- co-authored a mathematical critique of connectionism [)] TJ ET
+0.000 0.000 0.800 rg
+BT 466.002 313.500 Td 3.108 Tw /F2 12.0 Tf  [(45)] TJ ET
+0.24 w 0 J [  ] 0 d
+466.002 312.106 m 478.002 312.106 l S
+0.000 0.000 0.000 rg
+BT 478.002 313.500 Td 3.108 Tw /F2 12.0 Tf  [(] so strong that it )] TJ ET
+BT 34.016 299.244 Td 0.836 Tw /F2 12.0 Tf  [(effectively killed research in the connectionist tradition for years so that, until the mid-1980s, AI funding went )] TJ ET
+BT 34.016 284.988 Td 0.000 Tw /F2 12.0 Tf  [(predominantly to a Kantian, "symbolic" type of research.)] TJ ET
+BT 34.016 258.732 Td 3.201 Tw /F2 12.0 Tf  [(AI criticism \(produced by critics from outside of AI, e.g., philosophers and anthropologists, but also by )] TJ ET
+BT 34.016 244.476 Td 0.353 Tw /F2 12.0 Tf  [(disaffected AI practitioners\) which engendered the "aesthetic turn" largely took an essentialist stance of this sort )] TJ ET
+BT 34.016 230.220 Td 1.380 Tw /F2 12.0 Tf  [(: "AI will not succeed because humans have but computers do not, and cannot, have one or more of these" : )] TJ ET
+BT 34.016 215.964 Td 4.021 Tw /F2 12.0 Tf  [(bodies [)] TJ ET
+0.000 0.000 0.800 rg
+BT 76.365 215.964 Td 4.021 Tw /F2 12.0 Tf  [(46)] TJ ET
+0.24 w 0 J [  ] 0 d
+76.365 214.570 m 88.365 214.570 l S
+0.000 0.000 0.000 rg
+BT 88.365 215.964 Td 4.021 Tw /F2 12.0 Tf  [(], on-going social relationships [)] TJ ET
+0.000 0.000 0.800 rg
+BT 260.102 215.964 Td 4.021 Tw /F2 12.0 Tf  [(47)] TJ ET
+0.24 w 0 J [  ] 0 d
+260.102 214.570 m 272.102 214.570 l S
+0.000 0.000 0.000 rg
+BT 272.102 215.964 Td 4.021 Tw /F2 12.0 Tf  [(], neurobiological brains [)] TJ ET
+0.000 0.000 0.800 rg
+BT 408.809 215.964 Td 4.021 Tw /F2 12.0 Tf  [(48)] TJ ET
+0.24 w 0 J [  ] 0 d
+408.809 214.570 m 420.809 214.570 l S
+0.000 0.000 0.000 rg
+BT 420.809 215.964 Td 4.021 Tw /F2 12.0 Tf  [(]; and, situated, indexical )] TJ ET
+BT 34.016 201.708 Td 2.172 Tw /F2 12.0 Tf  [(representations of the surrounding environment [)] TJ ET
+0.000 0.000 0.800 rg
+BT 279.835 201.708 Td 2.172 Tw /F2 12.0 Tf  [(49)] TJ ET
+0.24 w 0 J [  ] 0 d
+279.835 200.314 m 291.835 200.314 l S
+0.000 0.000 0.000 rg
+BT 291.835 201.708 Td 2.172 Tw /F2 12.0 Tf  [(]. AI researchers' response to these kinds of essentialist )] TJ ET
+BT 34.016 187.452 Td 1.275 Tw /F2 12.0 Tf  [(objections has either been to dismiss them \(e.g., as Herbert Dreyfus' Heideggarian phenomenological inspired )] TJ ET
+BT 34.016 173.196 Td 1.320 Tw /F2 12.0 Tf  [(critiques of AI were hostilely dismissed for years [)] TJ ET
+0.000 0.000 0.800 rg
+BT 287.862 173.196 Td 1.320 Tw /F2 12.0 Tf  [(50)] TJ ET
+0.24 w 0 J [  ] 0 d
+287.862 171.802 m 299.862 171.802 l S
+0.000 0.000 0.000 rg
+BT 299.862 173.196 Td 1.320 Tw /F2 12.0 Tf  [(]\) or to show how computers with features, such as the )] TJ ET
+BT 34.016 158.940 Td 0.518 Tw /F2 12.0 Tf  [(following, could be designed : bodies [)] TJ ET
+0.000 0.000 0.800 rg
+BT 224.109 158.940 Td 0.518 Tw /F2 12.0 Tf  [(51)] TJ ET
+0.24 w 0 J [  ] 0 d
+224.109 157.546 m 236.109 157.546 l S
+0.000 0.000 0.000 rg
+BT 236.109 158.940 Td 0.518 Tw /F2 12.0 Tf  [(], on-going social relationships [)] TJ ET
+0.000 0.000 0.800 rg
+BT 393.834 158.940 Td 0.518 Tw /F2 12.0 Tf  [(52)] TJ ET
+0.24 w 0 J [  ] 0 d
+393.834 157.546 m 405.834 157.546 l S
+0.000 0.000 0.000 rg
+BT 405.834 158.940 Td 0.518 Tw /F2 12.0 Tf  [(], neurobiological brains [)] TJ ET
+0.000 0.000 0.800 rg
+BT 532.033 158.940 Td 0.518 Tw /F2 12.0 Tf  [(53)] TJ ET
+0.24 w 0 J [  ] 0 d
+532.033 157.546 m 544.033 157.546 l S
+0.000 0.000 0.000 rg
+BT 544.033 158.940 Td 0.518 Tw /F2 12.0 Tf  [(], and, )] TJ ET
+BT 34.016 144.684 Td 0.000 Tw /F2 12.0 Tf  [(situated, indexical representations of the surrounding environment [)] TJ ET
+0.000 0.000 0.800 rg
+BT 359.300 144.684 Td /F2 12.0 Tf  [(54)] TJ ET
+0.24 w 0 J [  ] 0 d
+359.300 143.290 m 371.300 143.290 l S
+0.000 0.000 0.000 rg
+BT 371.300 144.684 Td /F2 12.0 Tf  [(].)] TJ ET
+BT 34.016 118.428 Td 1.021 Tw /F2 12.0 Tf  [(Critiques and AI responses of an "aesthetic", neo-behaviorist, neo-cybernetic kind \(like those listed above\) are )] TJ ET
+BT 34.016 104.172 Td 1.109 Tw /F2 12.0 Tf  [(weak in the same ways in which the "romantic reactions" of Weizenbaum and Lanier are weak. From both of )] TJ ET
+BT 34.016 89.916 Td 0.225 Tw /F2 12.0 Tf  [(these perspectives the problem of AI is a problem of mimesis, i.e., to make machines which resemble humans as )] TJ ET
+BT 34.016 75.660 Td 0.441 Tw /F2 12.0 Tf  [(closely as possible. Their only difference is over whether these simulations are "real" or not. The "weakness" of )] TJ ET
+BT 34.016 61.404 Td 2.706 Tw /F2 12.0 Tf  [(these essentialist critiques of AI is that they all 1\) rely on an assumption that computers can \(or cannot\) )] TJ ET
+endstream
+endobj
+87 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 88 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 118.6916 662.0519 130.6916 673.9319 ]
+>>
+endobj
+88 0 obj
+<< /Type /Action
+/S /GoTo
+/D 194 0 R
+>>
+endobj
+89 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 90 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 299.7706 662.0519 311.7706 673.9319 ]
+>>
+endobj
+90 0 obj
+<< /Type /Action
+/S /GoTo
+/D 195 0 R
+>>
+endobj
+91 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 92 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 554.0193 647.7959 566.0193 659.6759 ]
+>>
+endobj
+92 0 obj
+<< /Type /Action
+/S /GoTo
+/D 196 0 R
+>>
+endobj
+93 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 94 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 542.9237 550.2599 554.9237 562.1399 ]
+>>
+endobj
+94 0 obj
+<< /Type /Action
+/S /GoTo
+/D 197 0 R
+>>
+endobj
+95 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 96 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 271.4909 481.2359 283.4909 493.1159 ]
+>>
+endobj
+96 0 obj
+<< /Type /Action
+/S /GoTo
+/D 198 0 R
+>>
+endobj
+97 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 98 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 34.0157 466.9799 46.0157 478.8599 ]
+>>
+endobj
+98 0 obj
+<< /Type /Action
+/S /GoTo
+/D 199 0 R
+>>
+endobj
+99 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 100 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 394.0534 426.4679 406.0534 438.3479 ]
+>>
+endobj
+100 0 obj
+<< /Type /Action
+/S /GoTo
+/D 200 0 R
+>>
+endobj
+101 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 102 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 522.0060 426.4679 534.0060 438.3479 ]
+>>
+endobj
+102 0 obj
+<< /Type /Action
+/S /GoTo
+/D 201 0 R
+>>
+endobj
+103 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 104 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 110.0756 412.2119 122.0756 424.0919 ]
+>>
+endobj
+104 0 obj
+<< /Type /Action
+/S /GoTo
+/D 202 0 R
+>>
+endobj
+105 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 106 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 555.8050 383.6999 567.8050 395.5799 ]
+>>
+endobj
+106 0 obj
+<< /Type /Action
+/S /GoTo
+/D 203 0 R
+>>
+endobj
+107 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 108 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 82.6966 326.6759 94.6966 338.5559 ]
+>>
+endobj
+108 0 obj
+<< /Type /Action
+/S /GoTo
+/D 204 0 R
+>>
+endobj
+109 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 110 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 466.0016 312.4199 478.0016 324.2999 ]
+>>
+endobj
+110 0 obj
+<< /Type /Action
+/S /GoTo
+/D 207 0 R
+>>
+endobj
+111 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 112 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 76.3650 214.8839 88.3650 226.7639 ]
+>>
+endobj
+112 0 obj
+<< /Type /Action
+/S /GoTo
+/D 208 0 R
+>>
+endobj
+113 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 114 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 260.1018 214.8839 272.1018 226.7639 ]
+>>
+endobj
+114 0 obj
+<< /Type /Action
+/S /GoTo
+/D 209 0 R
+>>
+endobj
+115 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 116 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 408.8094 214.8839 420.8094 226.7639 ]
+>>
+endobj
+116 0 obj
+<< /Type /Action
+/S /GoTo
+/D 210 0 R
+>>
+endobj
+117 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 118 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 279.8346 200.6279 291.8346 212.5079 ]
+>>
+endobj
+118 0 obj
+<< /Type /Action
+/S /GoTo
+/D 211 0 R
+>>
+endobj
+119 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 120 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 287.8623 172.1159 299.8623 183.9959 ]
+>>
+endobj
+120 0 obj
+<< /Type /Action
+/S /GoTo
+/D 212 0 R
+>>
+endobj
+121 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 122 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 224.1091 157.8599 236.1091 169.7399 ]
+>>
+endobj
+122 0 obj
+<< /Type /Action
+/S /GoTo
+/D 213 0 R
+>>
+endobj
+123 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 124 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 393.8340 157.8599 405.8340 169.7399 ]
+>>
+endobj
+124 0 obj
+<< /Type /Action
+/S /GoTo
+/D 214 0 R
+>>
+endobj
+125 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 126 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 532.0327 157.8599 544.0327 169.7399 ]
+>>
+endobj
+126 0 obj
+<< /Type /Action
+/S /GoTo
+/D 215 0 R
+>>
+endobj
+127 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 128 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 359.2997 143.6039 371.2997 155.4839 ]
+>>
+endobj
+128 0 obj
+<< /Type /Action
+/S /GoTo
+/D 216 0 R
+>>
+endobj
+129 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Annots [ 131 0 R 133 0 R 135 0 R 137 0 R 139 0 R 141 0 R 143 0 R 145 0 R 147 0 R 149 0 R ]
+/Contents 130 0 R
+>>
+endobj
+130 0 obj
+<<
+/Length 8664 >>
+stream
+
+0.000 0.000 0.000 rg
+0.000 0.000 0.800 RG
+0.24 w 0 J [  ] 0 d
+BT 34.016 746.579 Td 1.837 Tw /F2 12.0 Tf  [(respectably simulate humans; and, 2\) ignore the ways in which ontological boundaries between humans and )] TJ ET
+BT 34.016 732.323 Td 0.000 Tw /F2 12.0 Tf  [(machines are being contested even when humans are not equated to machines.)] TJ ET
+BT 34.016 663.329 Td /F1 14.0 Tf  [(Ethics, Neo-Cybernetics and Narrative)] TJ ET
+BT 34.016 636.588 Td 1.126 Tw /F2 12.0 Tf  [(AI's response to the "aesthetic turn" \(or "reinvention" of cybernetics\) in criticism has been limited due to AI's )] TJ ET
+BT 34.016 622.332 Td 3.136 Tw /F2 12.0 Tf  [(position as a sub-discipline of computer science. Notions of the body, the senses, perception, and social )] TJ ET
+BT 34.016 608.076 Td 1.362 Tw /F2 12.0 Tf  [(discourse have been introduced into newer, aesthetic, AI research, but, as I point out above, researchers have )] TJ ET
+BT 34.016 593.820 Td 1.551 Tw /F2 12.0 Tf  [(attempted to deal with these aesthetic concerns by "incorporating" them into new sorts of computer software )] TJ ET
+BT 34.016 579.564 Td 0.321 Tw /F2 12.0 Tf  [(and hardware [)] TJ ET
+0.000 0.000 0.800 rg
+BT 106.621 579.564 Td 0.321 Tw /F2 12.0 Tf  [(55)] TJ ET
+0.24 w 0 J [  ] 0 d
+106.621 578.170 m 118.621 578.170 l S
+0.000 0.000 0.000 rg
+BT 118.621 579.564 Td 0.321 Tw /F2 12.0 Tf  [(]. Various other fields that are not bound to the disciplinary confines of computer science have )] TJ ET
+BT 34.016 565.308 Td 1.116 Tw /F2 12.0 Tf  [(also "reinvented" cybernetics. For example, the new fields of chaos theory, non-linear dynamics, and artificial )] TJ ET
+BT 34.016 551.052 Td 3.454 Tw /F2 12.0 Tf  [(life include biologists, mathematicians, computer scientists, ecologists, physicists, and others. Within, for )] TJ ET
+BT 34.016 536.796 Td 1.714 Tw /F2 12.0 Tf  [(instance, artificial life researchers have not been limited to the invention of new software and hardware, but )] TJ ET
+BT 34.016 522.540 Td 0.630 Tw /F2 12.0 Tf  [(have also begun to examine other organic and inorganic systems as systems of "life" [)] TJ ET
+0.000 0.000 0.800 rg
+BT 455.234 522.540 Td 0.630 Tw /F2 12.0 Tf  [(56)] TJ ET
+0.24 w 0 J [  ] 0 d
+455.234 521.146 m 467.234 521.146 l S
+0.000 0.000 0.000 rg
+BT 467.234 522.540 Td 0.630 Tw /F2 12.0 Tf  [(]. Artificial life can be )] TJ ET
+BT 34.016 508.284 Td 1.270 Tw /F2 12.0 Tf  [(read as an "aesthetic" critique of AI. However, these other forms of scientific reinvention of cybernetics \(like )] TJ ET
+BT 34.016 494.028 Td 1.642 Tw /F2 12.0 Tf  [(artificial life\) suffer from their own limitations. In these new fields, everything is seen through the "lens" of )] TJ ET
+BT 34.016 479.772 Td 0.996 Tw /F2 12.0 Tf  [(theories of chaos and complexity, which are assumed to be powerful enough to function as "master signifiers" )] TJ ET
+BT 34.016 465.516 Td 0.000 Tw /F2 12.0 Tf  [(or meta-representations.)] TJ ET
+BT 34.016 439.260 Td 1.185 Tw /F2 12.0 Tf  [(Nevertheless, even such limited versions of neo-cybernetics can have ethical and cultural implications beyond )] TJ ET
+BT 34.016 425.004 Td 3.145 Tw /F2 12.0 Tf  [(the rational versus romantic reactions discussed earlier. The ethical implications of a cybernetics-inspired )] TJ ET
+BT 34.016 410.748 Td 3.975 Tw /F2 12.0 Tf  [(criticism hinge around this ecological observation : everyone and everything is potentially, inextricably )] TJ ET
+BT 34.016 396.492 Td 1.945 Tw /F2 12.0 Tf  [(articulated together and thus - at least in principle - worthy of ethical treatment. Unlike Lanier, who would )] TJ ET
+BT 34.016 382.236 Td 0.900 Tw /F2 12.0 Tf  [(reserve ethical treatment for only "what is enough like us", a cybernetics-inspired position eschews essentialist )] TJ ET
+BT 34.016 367.980 Td 0.000 Tw /F2 12.0 Tf  [(definitions of self and other.)] TJ ET
+BT 34.016 341.724 Td 0.757 Tw /F2 12.0 Tf  [(Social, political, and literary criticism has also "reinvented" cybernetics. Of particular interest to these theorists )] TJ ET
+BT 34.016 327.468 Td 0.304 Tw /F2 12.0 Tf  [(has been the articulation of new visions of subjectivity and "human nature" that are not based on "essences" but, )] TJ ET
+BT 34.016 313.212 Td 4.873 Tw /F2 12.0 Tf  [(instead, show how "human nature" is in constant interaction, and thus constantly changing with the )] TJ ET
+BT 34.016 298.956 Td 2.171 Tw /F2 12.0 Tf  [(environment. Jacques Lacan's theories of subjectivity [)] TJ ET
+0.000 0.000 0.800 rg
+BT 310.154 298.956 Td 2.171 Tw /F2 12.0 Tf  [(57)] TJ ET
+0.24 w 0 J [  ] 0 d
+310.154 297.562 m 322.154 297.562 l S
+0.000 0.000 0.000 rg
+BT 322.154 298.956 Td 2.171 Tw /F2 12.0 Tf  [(], Gilles Deleuze's and Felix Guattari's notions of )] TJ ET
+BT 34.016 284.700 Td 0.743 Tw /F2 12.0 Tf  [(schizoanalysis and "desiring machines" [)] TJ ET
+0.000 0.000 0.800 rg
+BT 233.416 284.700 Td 0.743 Tw /F2 12.0 Tf  [(58)] TJ ET
+0.24 w 0 J [  ] 0 d
+233.416 283.306 m 245.416 283.306 l S
+0.000 0.000 0.000 rg
+BT 245.416 284.700 Td 0.743 Tw /F2 12.0 Tf  [(] and Donna Haraway's ironic, utopic vision of cyborgs [)] TJ ET
+0.000 0.000 0.800 rg
+BT 524.877 284.700 Td 0.743 Tw /F2 12.0 Tf  [(59)] TJ ET
+0.24 w 0 J [  ] 0 d
+524.877 283.306 m 536.877 283.306 l S
+0.000 0.000 0.000 rg
+BT 536.877 284.700 Td 0.743 Tw /F2 12.0 Tf  [(] are all )] TJ ET
+BT 34.016 270.444 Td 2.385 Tw /F2 12.0 Tf  [(critical responses to cybernetics that offer anti-essentialist vocabularies for speaking about "human nature". )] TJ ET
+BT 34.016 256.188 Td 0.506 Tw /F2 12.0 Tf  [(Unfortunately, when these new vocabularies have been used to critique AI \(e.g., Manuel De Landa employs the )] TJ ET
+BT 34.016 241.932 Td 1.566 Tw /F2 12.0 Tf  [(theoretics of Deleuze and Guattari [)] TJ ET
+0.000 0.000 0.800 rg
+BT 213.455 241.932 Td 1.566 Tw /F2 12.0 Tf  [(60)] TJ ET
+0.24 w 0 J [  ] 0 d
+213.455 240.538 m 225.455 240.538 l S
+0.000 0.000 0.000 rg
+BT 225.455 241.932 Td 1.566 Tw /F2 12.0 Tf  [(]\), AI has either ignored the critiques or understood them as, in some )] TJ ET
+BT 34.016 227.676 Td 0.000 Tw /F2 12.0 Tf  [(sense, a sort of humanities branch of neo-cybernetics, like artificial life.)] TJ ET
+BT 34.016 201.420 Td 1.537 Tw /F2 12.0 Tf  [(Some critics have encouraged equating these new theories of subjectivity to the scientific work conducted in )] TJ ET
+BT 34.016 187.164 Td 2.279 Tw /F2 12.0 Tf  [(artificial life and elsewhere [)] TJ ET
+0.000 0.000 0.800 rg
+BT 181.084 187.164 Td 2.279 Tw /F2 12.0 Tf  [(61)] TJ ET
+0.24 w 0 J [  ] 0 d
+181.084 185.770 m 193.084 185.770 l S
+0.000 0.000 0.000 rg
+BT 193.084 187.164 Td 2.279 Tw /F2 12.0 Tf  [(]. However, as the critic N. Katherine Hayles points out scientific systems )] TJ ET
+BT 34.016 172.908 Td 0.769 Tw /F2 12.0 Tf  [(analyses can always be supplemented by a narrative which draws together the elements of any given system in )] TJ ET
+BT 34.016 158.652 Td 0.944 Tw /F2 12.0 Tf  [(ways that cannot be articulated in systems theory : in other words, systems theory is )] TJ ET
+BT 454.129 158.652 Td 0.944 Tw /F3 12.0 Tf  [(not)] TJ ET
+BT 469.465 158.652 Td 0.944 Tw /F2 12.0 Tf  [( a meta-representation )] TJ ET
+BT 34.016 144.396 Td 1.455 Tw /F2 12.0 Tf  [(which encompasses narrative [)] TJ ET
+0.000 0.000 0.800 rg
+BT 186.006 144.396 Td 1.455 Tw /F2 12.0 Tf  [(62)] TJ ET
+0.24 w 0 J [  ] 0 d
+186.006 143.002 m 198.006 143.002 l S
+0.000 0.000 0.000 rg
+BT 198.006 144.396 Td 1.455 Tw /F2 12.0 Tf  [(]. Hayles makes her point by closely analyzing the rhetoric and histories of )] TJ ET
+BT 34.016 130.140 Td 0.678 Tw /F2 12.0 Tf  [(Humberto Maturana's work as well as the narrative supplements that he was required to make to his texts [)] TJ ET
+0.000 0.000 0.800 rg
+BT 557.631 130.140 Td 0.678 Tw /F2 12.0 Tf  [(63)] TJ ET
+0.24 w 0 J [  ] 0 d
+557.631 128.746 m 569.631 128.746 l S
+0.000 0.000 0.000 rg
+BT 569.631 130.140 Td 0.678 Tw /F2 12.0 Tf  [(]. )] TJ ET
+BT 34.016 115.884 Td 0.612 Tw /F2 12.0 Tf  [(Maturana's texts were originally written as scientific systems analyses but, during publication and thereafter, he )] TJ ET
+BT 34.016 101.628 Td 1.149 Tw /F2 12.0 Tf  [(was required to add forwards, introductions, summaries, and other narrative forms. Hayles' narrative is, in my )] TJ ET
+BT 34.016 87.372 Td 1.513 Tw /F2 12.0 Tf  [(mind, a good illustration of Donna Haraway's point that all scientific and technological artifacts are not only )] TJ ET
+BT 34.016 73.116 Td 0.000 Tw /F2 12.0 Tf  [(theories and functional objects, but also myths, whether or not their inventors intend them to be [)] TJ ET
+0.000 0.000 0.800 rg
+BT 499.304 73.116 Td /F2 12.0 Tf  [(64)] TJ ET
+0.24 w 0 J [  ] 0 d
+499.304 71.722 m 511.304 71.722 l S
+0.000 0.000 0.000 rg
+BT 511.304 73.116 Td /F2 12.0 Tf  [(].)] TJ ET
+endstream
+endobj
+131 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 132 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 106.6211 578.4839 118.6211 590.3639 ]
+>>
+endobj
+132 0 obj
+<< /Type /Action
+/S /GoTo
+/D 217 0 R
+>>
+endobj
+133 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 134 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 455.2337 521.4599 467.2337 533.3399 ]
+>>
+endobj
+134 0 obj
+<< /Type /Action
+/S /GoTo
+/D 218 0 R
+>>
+endobj
+135 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 136 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 310.1535 297.8759 322.1535 309.7559 ]
+>>
+endobj
+136 0 obj
+<< /Type /Action
+/S /GoTo
+/D 219 0 R
+>>
+endobj
+137 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 138 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 233.4165 283.6199 245.4165 295.4999 ]
+>>
+endobj
+138 0 obj
+<< /Type /Action
+/S /GoTo
+/D 220 0 R
+>>
+endobj
+139 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 140 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 524.8771 283.6199 536.8771 295.4999 ]
+>>
+endobj
+140 0 obj
+<< /Type /Action
+/S /GoTo
+/D 221 0 R
+>>
+endobj
+141 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 142 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 213.4552 240.8519 225.4552 252.7319 ]
+>>
+endobj
+142 0 obj
+<< /Type /Action
+/S /GoTo
+/D 222 0 R
+>>
+endobj
+143 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 144 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 181.0841 186.0839 193.0841 197.9639 ]
+>>
+endobj
+144 0 obj
+<< /Type /Action
+/S /GoTo
+/D 223 0 R
+>>
+endobj
+145 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 146 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 186.0057 143.3159 198.0057 155.1959 ]
+>>
+endobj
+146 0 obj
+<< /Type /Action
+/S /GoTo
+/D 224 0 R
+>>
+endobj
+147 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 148 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 557.6314 129.0599 569.6314 140.9399 ]
+>>
+endobj
+148 0 obj
+<< /Type /Action
+/S /GoTo
+/D 225 0 R
+>>
+endobj
+149 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 150 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 499.3037 72.0359 511.3037 83.9159 ]
+>>
+endobj
+150 0 obj
+<< /Type /Action
+/S /GoTo
+/D 228 0 R
+>>
+endobj
+151 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Annots [ 153 0 R 155 0 R ]
+/Contents 152 0 R
+>>
+endobj
+152 0 obj
+<<
+/Length 6118 >>
+stream
+
+0.000 0.000 0.000 rg
+0.000 0.000 0.800 RG
+0.24 w 0 J [  ] 0 d
+BT 34.016 734.579 Td 1.934 Tw /F2 12.0 Tf  [(Victor Margolin has pointed out that the artificial/natural boundary is continually under contention and it is )] TJ ET
+BT 34.016 720.323 Td 1.298 Tw /F2 12.0 Tf  [(there, at the boundary, that the work of design and design criticism is to be done. Rationalistic, romantic and )] TJ ET
+BT 34.016 706.067 Td 2.049 Tw /F2 12.0 Tf  [("aesthetic" critiques of AI assume that the boundary between "human nature" and "artificial intelligence" is )] TJ ET
+BT 34.016 691.811 Td 1.741 Tw /F2 12.0 Tf  [(either unbridgeable or non-existent. In other words, such critiques assign a timeless, unchanging structure to )] TJ ET
+BT 34.016 677.555 Td 0.422 Tw /F2 12.0 Tf  [(what is better characterized as an on-going struggle to negotiate the ways in which the "artificial" flows into the )] TJ ET
+BT 34.016 663.299 Td 1.813 Tw /F2 12.0 Tf  [("natural" and vice versa. Another set of critics [)] TJ ET
+0.000 0.000 0.800 rg
+BT 277.253 663.299 Td 1.813 Tw /F2 12.0 Tf  [(65)] TJ ET
+0.24 w 0 J [  ] 0 d
+277.253 661.905 m 289.253 661.905 l S
+0.000 0.000 0.000 rg
+BT 289.253 663.299 Td 1.813 Tw /F2 12.0 Tf  [(] has begun to articulate a cybernetics-inspired theory of )] TJ ET
+BT 34.016 649.043 Td 0.212 Tw /F2 12.0 Tf  [("human nature" which is also sensitive to the powers of myth and narrative. These newer critiques are consistent )] TJ ET
+BT 34.016 634.787 Td 2.107 Tw /F2 12.0 Tf  [(with an argument to offer ethical treatment not only to others who are "enough like us", but everyone and )] TJ ET
+BT 34.016 620.531 Td 0.000 Tw /F2 12.0 Tf  [(everything since we may all be interconnected in strange, unconscious and chaotic ways [)] TJ ET
+0.000 0.000 0.800 rg
+BT 464.588 620.531 Td /F2 12.0 Tf  [(66)] TJ ET
+0.24 w 0 J [  ] 0 d
+464.588 619.137 m 476.588 619.137 l S
+0.000 0.000 0.000 rg
+BT 476.588 620.531 Td /F2 12.0 Tf  [(].)] TJ ET
+BT 34.016 551.537 Td /F1 14.0 Tf  [(References)] TJ ET
+BT 64.016 524.796 Td /F2 12.0 Tf  [( )] TJ ET
+BT 48.816 510.545 Td /F2 12.0 Tf  [(1.)] TJ ET
+BT 64.016 510.540 Td /F2 12.0 Tf  [(Victor Margolin, "The Politics of the Artificial". )] TJ ET
+BT 299.456 510.540 Td /F3 12.0 Tf  [(Leonardo)] TJ ET
+BT 346.124 510.540 Td /F2 12.0 Tf  [( 28 \(5 1995\) : 349-356.)] TJ ET
+BT 64.016 496.284 Td /F2 12.0 Tf  [( )] TJ ET
+BT 48.816 482.033 Td /F2 12.0 Tf  [(2.)] TJ ET
+BT 64.016 482.028 Td /F2 12.0 Tf  [(Ibid., page 349.)] TJ ET
+BT 64.016 467.772 Td /F2 12.0 Tf  [( )] TJ ET
+BT 48.816 453.521 Td /F2 12.0 Tf  [(3.)] TJ ET
+BT 64.016 453.516 Td /F2 12.0 Tf  [(Herbert Simon, )] TJ ET
+BT 141.008 453.516 Td /F3 12.0 Tf  [(The Sciences of the Artificial. Second ed.)] TJ ET
+BT 337.652 453.516 Td /F2 12.0 Tf  [(, Cambridge, MA : MIT Press, 1981.)] TJ ET
+BT 64.016 439.260 Td /F2 12.0 Tf  [( )] TJ ET
+BT 48.816 425.009 Td /F2 12.0 Tf  [(4.)] TJ ET
+BT 64.016 425.004 Td /F2 12.0 Tf  [(Op. Cit., Margolin, page 350.)] TJ ET
+BT 64.016 410.748 Td /F2 12.0 Tf  [( )] TJ ET
+BT 48.816 396.497 Td /F2 12.0 Tf  [(5.)] TJ ET
+BT 64.016 396.492 Td /F2 12.0 Tf  [(Ibid., page 354.)] TJ ET
+BT 64.016 382.236 Td /F2 12.0 Tf  [( )] TJ ET
+BT 48.816 367.985 Td /F2 12.0 Tf  [(6.)] TJ ET
+BT 64.016 367.980 Td /F2 12.0 Tf  [(Ibid.)] TJ ET
+BT 64.016 353.724 Td /F2 12.0 Tf  [( )] TJ ET
+BT 48.816 339.473 Td /F2 12.0 Tf  [(7.)] TJ ET
+BT 64.016 339.468 Td /F2 12.0 Tf  [(Ibid.)] TJ ET
+BT 64.016 325.212 Td /F2 12.0 Tf  [( )] TJ ET
+BT 48.816 310.961 Td /F2 12.0 Tf  [(8.)] TJ ET
+BT 64.016 310.956 Td /F2 12.0 Tf  [(Ibid., page 355.)] TJ ET
+BT 64.016 296.700 Td /F2 12.0 Tf  [( )] TJ ET
+BT 48.816 282.449 Td /F2 12.0 Tf  [(9.)] TJ ET
+BT 64.016 282.444 Td 1.825 Tw /F2 12.0 Tf  [(Some AI projects have been attempts to design "intelligent" machines that do not, necessarily, exhibit )] TJ ET
+BT 64.016 268.188 Td 2.134 Tw /F2 12.0 Tf  [("human-like" intelligence \(e.g., the long history of AI, chess-playing programs\). However, even these )] TJ ET
+BT 64.016 253.932 Td 4.759 Tw /F2 12.0 Tf  [(projects assume that the phenomenon of "human intelligence" is "natural intelligence" and thus )] TJ ET
+BT 64.016 239.676 Td 5.082 Tw /F2 12.0 Tf  [(identifiable )] TJ ET
+BT 126.758 239.676 Td 5.082 Tw /F3 12.0 Tf  [(a priori)] TJ ET
+BT 168.848 239.676 Td 5.082 Tw /F2 12.0 Tf  [( to any technological or "artificial" development. Thus, boundaries between )] TJ ET
+BT 64.016 225.420 Td 1.773 Tw /F2 12.0 Tf  [("artificial" and "natural" phenomenon are assumed to be uncontested. Such was the case, for instance, )] TJ ET
+BT 64.016 211.164 Td 0.794 Tw /F2 12.0 Tf  [(with Edward Feigenbaum and others at Stanford developing "expert systems" for the field of chemistry : )] TJ ET
+BT 64.016 196.908 Td 0.517 Tw /F2 12.0 Tf  [("Even though we set out to build a device whose behavior didn't have to match human behavior in detail, )] TJ ET
+BT 64.016 182.652 Td 0.504 Tw /F2 12.0 Tf  [(we ourselves didn't have any particularly good ideas about better ways of doing it, in ways different from )] TJ ET
+BT 64.016 168.396 Td 0.295 Tw /F2 12.0 Tf  [(the way, roughly speaking, human chemists do the same job" \(Feigenbaum quoted in Pamela McCorduck, )] TJ ET
+BT 64.016 154.140 Td 0.000 Tw /F3 12.0 Tf  [(Machines Who Think)] TJ ET
+BT 166.004 154.140 Td /F2 12.0 Tf  [(. San Francisco : W.H. Freeman and Company, 1979, page 283\).)] TJ ET
+BT 64.016 139.884 Td /F2 12.0 Tf  [( )] TJ ET
+BT 42.816 125.633 Td /F2 12.0 Tf  [(10.)] TJ ET
+BT 64.016 125.628 Td /F2 12.0 Tf  [(Donna Haraway, )] TJ ET
+BT 148.316 125.628 Td /F3 12.0 Tf  [(Simians, Cyborgs, and Women)] TJ ET
+BT 295.976 125.628 Td /F2 12.0 Tf  [(. New York : Routledge, 1991.)] TJ ET
+BT 64.016 111.372 Td /F2 12.0 Tf  [( )] TJ ET
+BT 42.816 97.121 Td /F2 12.0 Tf  [(11.)] TJ ET
+BT 64.016 97.116 Td /F2 12.0 Tf  [(Jaron Lanier, "Agents of Alienation". )] TJ ET
+BT 246.776 97.116 Td /F3 12.0 Tf  [(Interactions)] TJ ET
+BT 304.772 97.116 Td /F2 12.0 Tf  [( \(July 1995\), page 66.)] TJ ET
+BT 64.016 82.860 Td /F2 12.0 Tf  [( )] TJ ET
+BT 42.816 68.609 Td /F2 12.0 Tf  [(12.)] TJ ET
+BT 64.016 68.604 Td /F2 12.0 Tf  [(Ibid., page 68.)] TJ ET
+BT 64.016 54.348 Td /F2 12.0 Tf  [( )] TJ ET
+endstream
+endobj
+153 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 154 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 277.2529 662.2195 289.2529 674.0995 ]
+>>
+endobj
+154 0 obj
+<< /Type /Action
+/S /GoTo
+/D 229 0 R
+>>
+endobj
+155 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 156 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 464.5877 619.4515 476.5877 631.3315 ]
+>>
+endobj
+156 0 obj
+<< /Type /Action
+/S /GoTo
+/D 230 0 R
+>>
+endobj
+157 0 obj
+[151 0 R /Fit]
+endobj
+158 0 obj
+[151 0 R /Fit]
+endobj
+159 0 obj
+[151 0 R /Fit]
+endobj
+160 0 obj
+[151 0 R /Fit]
+endobj
+161 0 obj
+[151 0 R /Fit]
+endobj
+162 0 obj
+[151 0 R /Fit]
+endobj
+163 0 obj
+[151 0 R /Fit]
+endobj
+164 0 obj
+[151 0 R /Fit]
+endobj
+165 0 obj
+[151 0 R /Fit]
+endobj
+166 0 obj
+[151 0 R /Fit]
+endobj
+167 0 obj
+[151 0 R /Fit]
+endobj
+168 0 obj
+[151 0 R /Fit]
+endobj
+169 0 obj
+[151 0 R /Fit]
+endobj
+170 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 171 0 R
+>>
+endobj
+171 0 obj
+<<
+/Length 6928 >>
+stream
+
+0.000 0.000 0.000 rg
+0.000 0.000 0.800 RG
+0.24 w 0 J [  ] 0 d
+BT 42.816 746.584 Td /F2 12.0 Tf  [(13.)] TJ ET
+BT 64.016 746.579 Td /F2 12.0 Tf  [(Ibid.)] TJ ET
+BT 64.016 732.323 Td /F2 12.0 Tf  [( )] TJ ET
+BT 42.816 718.072 Td /F2 12.0 Tf  [(14.)] TJ ET
+BT 64.016 718.067 Td /F2 12.0 Tf  [(Ibid., page 70.)] TJ ET
+BT 64.016 703.811 Td /F2 12.0 Tf  [( )] TJ ET
+BT 42.816 689.560 Td /F2 12.0 Tf  [(15.)] TJ ET
+BT 64.016 689.555 Td /F2 12.0 Tf  [(See, for example, Nicholas Negroponte, )] TJ ET
+BT 259.304 689.555 Td /F3 12.0 Tf  [(Being Digital)] TJ ET
+BT 324.308 689.555 Td /F2 12.0 Tf  [(. New York : Knopf, 1995.)] TJ ET
+BT 64.016 675.299 Td /F2 12.0 Tf  [( )] TJ ET
+BT 42.816 661.048 Td /F2 12.0 Tf  [(16.)] TJ ET
+BT 64.016 661.043 Td 0.473 Tw /F2 12.0 Tf  [(Nicholas Negroponte quoted in Stewart Brand, )] TJ ET
+BT 295.152 661.043 Td 0.473 Tw /F3 12.0 Tf  [(The Media Lab: Inventing the Future at MIT)] TJ ET
+BT 513.441 661.043 Td 0.473 Tw /F2 12.0 Tf  [(. New York : )] TJ ET
+BT 64.016 646.787 Td 0.000 Tw /F2 12.0 Tf  [(Viking, 1987, page 251.)] TJ ET
+BT 64.016 632.531 Td /F2 12.0 Tf  [( )] TJ ET
+BT 42.816 618.280 Td /F2 12.0 Tf  [(17.)] TJ ET
+BT 64.016 618.275 Td /F2 12.0 Tf  [(Op. Cit., Lanier, page 72.)] TJ ET
+BT 64.016 604.019 Td /F2 12.0 Tf  [( )] TJ ET
+BT 42.816 589.768 Td /F2 12.0 Tf  [(18.)] TJ ET
+BT 64.016 589.763 Td 1.212 Tw /F2 12.0 Tf  [(Sherry Turkle, )] TJ ET
+BT 139.425 589.763 Td 1.212 Tw /F3 12.0 Tf  [(Life on the Screen: Identity in the Age of the Internet)] TJ ET
+BT 404.845 589.763 Td 1.212 Tw /F2 12.0 Tf  [(. New York : Simon and Schuster, )] TJ ET
+BT 64.016 575.507 Td 0.000 Tw /F2 12.0 Tf  [(1995, page 110.)] TJ ET
+BT 64.016 561.251 Td /F2 12.0 Tf  [( )] TJ ET
+BT 42.816 547.000 Td /F2 12.0 Tf  [(19.)] TJ ET
+BT 64.016 546.995 Td 3.255 Tw /F2 12.0 Tf  [(")] TJ ET
+BT 68.912 546.995 Td 3.255 Tw /F3 12.0 Tf  [(Romanticism)] TJ ET
+BT 131.576 546.995 Td 3.255 Tw /F2 12.0 Tf  [(, an approach that dominated art during the first quarter of the nineteenth century... )] TJ ET
+BT 64.016 532.739 Td 5.132 Tw /F2 12.0 Tf  [(Emotional experience was prized above all, and Romanticism was both a reaction against the )] TJ ET
+BT 64.016 518.483 Td 1.184 Tw /F2 12.0 Tf  [('establishment' -- church, aristocratic state, and rational Enlightenment thought -- and a manifestation of )] TJ ET
+BT 64.016 504.227 Td 0.412 Tw /F2 12.0 Tf  [(the revolutionary political spirit that animated the French and American revolutions... The Romantic ideal )] TJ ET
+BT 64.016 489.971 Td 0.878 Tw /F2 12.0 Tf  [(of a return to nature also included )] TJ ET
+BT 235.124 489.971 Td 0.878 Tw /F3 12.0 Tf  [(human nature)] TJ ET
+BT 302.998 489.971 Td 0.878 Tw /F2 12.0 Tf  [(". In Robert Atkins, )] TJ ET
+BT 404.069 489.971 Td 0.878 Tw /F3 12.0 Tf  [(Artspoke: a guide to modern ideas, )] TJ ET
+BT 64.016 475.715 Td 0.000 Tw /F3 12.0 Tf  [(movements, and buzzwords, 1848-1944)] TJ ET
+BT 253.004 475.715 Td /F2 12.0 Tf  [(. New York : Abbeville Press, 1993, page 185.)] TJ ET
+BT 64.016 461.459 Td /F2 12.0 Tf  [( )] TJ ET
+BT 42.816 447.208 Td /F2 12.0 Tf  [(20.)] TJ ET
+BT 64.016 447.203 Td 0.550 Tw /F2 12.0 Tf  [(Joseph Weizenbaum, "ELIZA - A Computer Program for the Study of Natural Language Communication )] TJ ET
+BT 64.016 432.947 Td 1.189 Tw /F2 12.0 Tf  [(between Man and Machine)] TJ ET
+BT 197.878 432.947 Td 1.189 Tw /F3 12.0 Tf  [(", Communications of the Association for Computing Machinery)] TJ ET
+BT 515.906 432.947 Td 1.189 Tw /F2 12.0 Tf  [( \(9 : 36-45\), )] TJ ET
+BT 64.016 418.691 Td 0.000 Tw /F2 12.0 Tf  [(1966.)] TJ ET
+BT 64.016 404.435 Td /F2 12.0 Tf  [( )] TJ ET
+BT 42.816 390.184 Td /F2 12.0 Tf  [(21.)] TJ ET
+BT 64.016 390.179 Td 0.244 Tw /F2 12.0 Tf  [(Note that examples like this, cyborgs -- the couplings of bodies to computers -- are those which have been )] TJ ET
+BT 64.016 375.923 Td 6.061 Tw /F2 12.0 Tf  [(ironically privileged by various feminist, post-structuralist theorists as an ethically sound and )] TJ ET
+BT 64.016 361.667 Td 0.000 Tw /F2 12.0 Tf  [(sophisticated picture of contemporary, human subjectivity \(cf., op. cit., Haraway\).)] TJ ET
+BT 64.016 347.411 Td /F2 12.0 Tf  [( )] TJ ET
+BT 42.816 333.160 Td /F2 12.0 Tf  [(22.)] TJ ET
+BT 64.016 333.155 Td 4.208 Tw /F2 12.0 Tf  [(Joseph Weizenbaum, )] TJ ET
+BT 177.408 333.155 Td 4.208 Tw /F3 12.0 Tf  [(Computer Power and Human Reason)] TJ ET
+BT 374.228 333.155 Td 4.208 Tw /F2 12.0 Tf  [(. San Francisco : W.H. Freeman and )] TJ ET
+BT 64.016 318.899 Td 0.000 Tw /F2 12.0 Tf  [(Company, 1976, pages 268-269.)] TJ ET
+BT 64.016 304.643 Td /F2 12.0 Tf  [( )] TJ ET
+BT 42.816 290.392 Td /F2 12.0 Tf  [(23.)] TJ ET
+BT 64.016 290.387 Td /F2 12.0 Tf  [(Op.Cit., Turkle, page 110.)] TJ ET
+BT 64.016 276.131 Td /F2 12.0 Tf  [( )] TJ ET
+BT 42.816 261.880 Td /F2 12.0 Tf  [(24.)] TJ ET
+BT 64.016 261.875 Td /F2 12.0 Tf  [(Ibid.)] TJ ET
+BT 64.016 247.619 Td /F2 12.0 Tf  [( )] TJ ET
+BT 42.816 233.368 Td /F2 12.0 Tf  [(25.)] TJ ET
+BT 64.016 233.363 Td 1.453 Tw /F2 12.0 Tf  [(Cf. Richard Coyne, )] TJ ET
+BT 164.698 233.363 Td 1.453 Tw /F3 12.0 Tf  [(Designing Information Technology in the Postmodern Age)] TJ ET
+BT 454.729 233.363 Td 1.453 Tw /F2 12.0 Tf  [(. Cambridge, MA : MIT )] TJ ET
+BT 64.016 219.107 Td 0.000 Tw /F2 12.0 Tf  [(Press, 1995, page 20.)] TJ ET
+BT 64.016 204.851 Td /F2 12.0 Tf  [( )] TJ ET
+BT 42.816 190.600 Td /F2 12.0 Tf  [(26.)] TJ ET
+BT 64.016 190.595 Td /F2 12.0 Tf  [(Op. Cit., Simon.)] TJ ET
+BT 64.016 176.339 Td /F2 12.0 Tf  [( )] TJ ET
+BT 42.816 162.088 Td /F2 12.0 Tf  [(27.)] TJ ET
+BT 64.016 162.083 Td 2.191 Tw /F2 12.0 Tf  [(Stuart Russell and Peter Norvig, )] TJ ET
+BT 232.961 162.083 Td 2.191 Tw /F3 12.0 Tf  [(Artificial Intelligence: A Modern Approach)] TJ ET
+BT 450.367 162.083 Td 2.191 Tw /F2 12.0 Tf  [(. Englewood Cliffs, NJ : )] TJ ET
+BT 64.016 147.827 Td 0.000 Tw /F2 12.0 Tf  [(Prentice Hall, 1995, page 845.)] TJ ET
+BT 64.016 133.571 Td /F2 12.0 Tf  [( )] TJ ET
+BT 42.816 119.320 Td /F2 12.0 Tf  [(28.)] TJ ET
+BT 64.016 119.315 Td 2.793 Tw /F2 12.0 Tf  [(See Gilles Deleuze, )] TJ ET
+BT 169.703 119.315 Td 2.793 Tw /F3 12.0 Tf  [(Kant's Critical Philosophy: The Doctrine of the Faculties)] TJ ET
+BT 465.496 119.315 Td 2.793 Tw /F2 12.0 Tf  [(. Translated by Hugh )] TJ ET
+BT 64.016 105.059 Td 0.288 Tw /F2 12.0 Tf  [(Tomlinson and Barbara Habberjam. Minneapolis : University of Minnesota Press, 1984, page 21. See also )] TJ ET
+BT 64.016 90.803 Td 0.639 Tw /F2 12.0 Tf  [(the following references for different approaches to the AI sub-discipline of "commonsense reasoning", a )] TJ ET
+BT 64.016 76.547 Td 2.438 Tw /F2 12.0 Tf  [(very Kantian endeavor : John McCarthy, )] TJ ET
+BT 277.601 76.547 Td 2.438 Tw /F3 12.0 Tf  [(Formalizing Common Sense)] TJ ET
+BT 418.472 76.547 Td 2.438 Tw /F2 12.0 Tf  [(. Edited by Vladimir Lifschitz. )] TJ ET
+BT 64.016 62.291 Td 1.975 Tw /F2 12.0 Tf  [(Norwood, NJ : Ablex Publishing Corporation, 1990. Jerry Hobbs and Robert Moore \(editors\), Formal )] TJ ET
+endstream
+endobj
+172 0 obj
+[170 0 R /Fit]
+endobj
+173 0 obj
+[170 0 R /Fit]
+endobj
+174 0 obj
+[170 0 R /Fit]
+endobj
+175 0 obj
+[170 0 R /Fit]
+endobj
+176 0 obj
+[170 0 R /Fit]
+endobj
+177 0 obj
+[170 0 R /Fit]
+endobj
+178 0 obj
+[170 0 R /Fit]
+endobj
+179 0 obj
+[170 0 R /Fit]
+endobj
+180 0 obj
+[170 0 R /Fit]
+endobj
+181 0 obj
+[170 0 R /Fit]
+endobj
+182 0 obj
+[170 0 R /Fit]
+endobj
+183 0 obj
+[170 0 R /Fit]
+endobj
+184 0 obj
+[170 0 R /Fit]
+endobj
+185 0 obj
+[170 0 R /Fit]
+endobj
+186 0 obj
+[170 0 R /Fit]
+endobj
+187 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 188 0 R
+>>
+endobj
+188 0 obj
+<<
+/Length 7953 >>
+stream
+
+0.000 0.000 0.000 rg
+0.000 0.000 0.800 RG
+0.24 w 0 J [  ] 0 d
+BT 64.016 746.579 Td 3.890 Tw /F2 12.0 Tf  [(Theories of the Commonsense World. Norwood, NJ : Ablex Publishing Corporation, 1985. Drew )] TJ ET
+BT 64.016 732.323 Td 1.371 Tw /F2 12.0 Tf  [(McDermott, "A Critique of Pure Reason". )] TJ ET
+BT 277.346 732.323 Td 1.371 Tw /F3 12.0 Tf  [(In The Philosophy of Artificial Intelligence)] TJ ET
+BT 490.528 732.323 Td 1.371 Tw /F2 12.0 Tf  [(, ed. Margaret A. )] TJ ET
+BT 64.016 718.067 Td 0.431 Tw /F2 12.0 Tf  [(Boden, New York Oxford University Press, 1990. Douglas Lenat and R. Guha, )] TJ ET
+BT 452.130 718.067 Td 0.431 Tw /F3 12.0 Tf  [(Building large knowledge-)] TJ ET
+BT 64.016 703.811 Td 0.000 Tw /F3 12.0 Tf  [(based systems)] TJ ET
+BT 131.672 703.811 Td /F2 12.0 Tf  [(. Reading, MA : Addison-Wesley, 1990.)] TJ ET
+BT 64.016 689.555 Td /F2 12.0 Tf  [( )] TJ ET
+BT 42.816 675.304 Td /F2 12.0 Tf  [(29.)] TJ ET
+BT 64.016 675.299 Td 0.479 Tw /F2 12.0 Tf  [(Cf., Howard Gardner, )] TJ ET
+BT 173.417 675.299 Td 0.479 Tw /F3 12.0 Tf  [(The Mind's New Science: A History of the Cognitive Revolution)] TJ ET
+BT 483.273 675.299 Td 0.479 Tw /F2 12.0 Tf  [(. New York : Basic )] TJ ET
+BT 64.016 661.043 Td 1.356 Tw /F2 12.0 Tf  [(Books, 1985, page 56-60; Andrew Brook, )] TJ ET
+BT 276.462 661.043 Td 1.356 Tw /F3 12.0 Tf  [(Kant and the Mind)] TJ ET
+BT 370.866 661.043 Td 1.356 Tw /F2 12.0 Tf  [(. Cambridge, UK : Cambridge University )] TJ ET
+BT 64.016 646.787 Td 0.955 Tw /F2 12.0 Tf  [(Press, 1994, pages 12-14; and, Jean-François Lyotard, )] TJ ET
+BT 333.660 646.787 Td 0.955 Tw /F3 12.0 Tf  [(The Inhuman: Reflections on Time)] TJ ET
+BT 503.466 646.787 Td 0.955 Tw /F2 12.0 Tf  [(. Translated by )] TJ ET
+BT 64.016 632.531 Td 0.000 Tw /F2 12.0 Tf  [(Geoffrey Bennington and Rachel Bowlby. Stanford, CA : Stanford University Press, 1991, page 15.)] TJ ET
+BT 64.016 618.275 Td /F2 12.0 Tf  [( )] TJ ET
+BT 42.816 604.024 Td /F2 12.0 Tf  [(30.)] TJ ET
+BT 64.016 604.019 Td 1.120 Tw /F2 12.0 Tf  [(Roger Schank and Robert Abelson, )] TJ ET
+BT 242.260 604.019 Td 1.120 Tw /F3 12.0 Tf  [(Scripts, Plans, Goals, and Understanding)] TJ ET
+BT 447.080 604.019 Td 1.120 Tw /F2 12.0 Tf  [(. Hillsdale, NJ : Lawrence )] TJ ET
+BT 64.016 589.763 Td 0.000 Tw /F2 12.0 Tf  [(Erlbaum, 1977.)] TJ ET
+BT 64.016 575.507 Td /F2 12.0 Tf  [( )] TJ ET
+BT 42.816 561.256 Td /F2 12.0 Tf  [(31.)] TJ ET
+BT 64.016 561.251 Td 0.720 Tw /F2 12.0 Tf  [(Marvin Minsky, "A Framework for Representing Knowledge". )] TJ ET
+BT 374.466 561.251 Td 0.720 Tw /F3 12.0 Tf  [(In Mind Design: Philosophy, Psychology, )] TJ ET
+BT 64.016 546.995 Td 0.000 Tw /F3 12.0 Tf  [(Artificial Intelligence)] TJ ET
+BT 167.012 546.995 Td /F2 12.0 Tf  [(, ed. John Haugeland. Cambridge, MA : MIT Press, 1981.)] TJ ET
+BT 64.016 532.739 Td /F2 12.0 Tf  [( )] TJ ET
+BT 42.816 518.488 Td /F2 12.0 Tf  [(32.)] TJ ET
+BT 64.016 518.483 Td 0.623 Tw /F2 12.0 Tf  [(Margaret Boden, Artificial Intelligence and Natural Man, Second Edition. New York : Basic Books, Inc., )] TJ ET
+BT 64.016 504.227 Td 0.000 Tw /F2 12.0 Tf  [(1987, page 469.)] TJ ET
+BT 64.016 489.971 Td /F2 12.0 Tf  [( )] TJ ET
+BT 42.816 475.720 Td /F2 12.0 Tf  [(33.)] TJ ET
+BT 64.016 475.715 Td /F2 12.0 Tf  [(John Haugeland, )] TJ ET
+BT 147.668 475.715 Td /F3 12.0 Tf  [(Artificial Intelligence: The Very Idea)] TJ ET
+BT 325.640 475.715 Td /F2 12.0 Tf  [(. Cambridge, MA : MIT Press, 1985.)] TJ ET
+BT 64.016 461.459 Td /F2 12.0 Tf  [( )] TJ ET
+BT 42.816 447.208 Td /F2 12.0 Tf  [(34.)] TJ ET
+BT 64.016 447.203 Td 1.567 Tw /F2 12.0 Tf  [(E.g., Hubert Dreyfus, )] TJ ET
+BT 175.026 447.203 Td 1.567 Tw /F3 12.0 Tf  [(What Computers Still Can't Do)] TJ ET
+BT 331.211 447.203 Td 1.567 Tw /F2 12.0 Tf  [(. Cambridge, MA : MIT Press, 1992; and, Philip )] TJ ET
+BT 64.016 432.947 Td 0.639 Tw /F2 12.0 Tf  [(Agre and David Chapman, "Pengi: An Implementation of a Theory of Activity". In )] TJ ET
+BT 474.394 432.947 Td 0.639 Tw /F3 12.0 Tf  [(Proceedings of AAAI-)] TJ ET
+BT 64.016 418.691 Td 0.000 Tw /F3 12.0 Tf  [(87)] TJ ET
+BT 76.016 418.691 Td /F2 12.0 Tf  [( in Seattle, WA, Morgan Kaufmann, 1987, pages 268-272.)] TJ ET
+BT 64.016 404.435 Td /F2 12.0 Tf  [( )] TJ ET
+BT 42.816 390.184 Td /F2 12.0 Tf  [(35.)] TJ ET
+BT 64.016 390.179 Td 7.090 Tw /F2 12.0 Tf  [(Elliot Soloway and Amanda Pryor. "The Next Generation in Human-Computer Interaction". )] TJ ET
+BT 64.016 375.923 Td 0.000 Tw /F3 12.0 Tf  [(Communications of the ACM)] TJ ET
+BT 203.684 375.923 Td /F2 12.0 Tf  [( \(Special Issue on Learner-Centered Design\) 39 \(4 1996\) : 16-18.)] TJ ET
+BT 64.016 361.667 Td /F2 12.0 Tf  [( )] TJ ET
+BT 42.816 347.416 Td /F2 12.0 Tf  [(36.)] TJ ET
+BT 64.016 347.411 Td 0.500 Tw /F2 12.0 Tf  [(Richard Coyne, )] TJ ET
+BT 143.340 347.411 Td 0.500 Tw /F3 12.0 Tf  [(Designing Information Technology in the Postmodern Age)] TJ ET
+BT 427.658 347.411 Td 0.500 Tw /F2 12.0 Tf  [(. Cambridge, MA : MIT Press, )] TJ ET
+BT 64.016 333.155 Td 0.000 Tw /F2 12.0 Tf  [(1995, page 17.)] TJ ET
+BT 64.016 318.899 Td /F2 12.0 Tf  [( )] TJ ET
+BT 42.816 304.648 Td /F2 12.0 Tf  [(37.)] TJ ET
+BT 64.016 304.643 Td /F2 12.0 Tf  [(Terry Eagleton, )] TJ ET
+BT 142.328 304.643 Td /F3 12.0 Tf  [(The Ideology of the Aesthetic)] TJ ET
+BT 282.308 304.643 Td /F2 12.0 Tf  [(. London : Basil Blackwell, 1990, page 13.)] TJ ET
+BT 64.016 290.387 Td /F2 12.0 Tf  [( )] TJ ET
+BT 42.816 276.136 Td /F2 12.0 Tf  [(38.)] TJ ET
+BT 64.016 276.131 Td 1.878 Tw /F2 12.0 Tf  [(For example, Noam Chomsky, "A Review of B.F. Skinner's )] TJ ET
+BT 371.628 276.131 Td 1.878 Tw /F3 12.0 Tf  [(Verbal Behavior)] TJ ET
+BT 453.162 276.131 Td 1.878 Tw /F2 12.0 Tf  [(". In J.A. Fodor and J.J. )] TJ ET
+BT 64.016 261.875 Td 0.000 Tw /F2 12.0 Tf  [(Katz, eds., )] TJ ET
+BT 117.668 261.875 Td /F3 12.0 Tf  [(The Structure of Language: Readings in the Philosophy of Language)] TJ ET
+BT 448.664 261.875 Td /F2 12.0 Tf  [(, pages 547-78.)] TJ ET
+BT 64.016 247.619 Td /F2 12.0 Tf  [( )] TJ ET
+BT 42.816 233.368 Td /F2 12.0 Tf  [(39.)] TJ ET
+BT 64.016 233.363 Td /F2 12.0 Tf  [(Op. Cit., Gardner.)] TJ ET
+BT 64.016 219.107 Td /F2 12.0 Tf  [( )] TJ ET
+BT 42.816 204.856 Td /F2 12.0 Tf  [(40.)] TJ ET
+BT 64.016 204.851 Td 1.361 Tw /F2 12.0 Tf  [(E.g., James L. McClelland David E. Rumelhart \(eds.\), )] TJ ET
+BT 337.869 204.851 Td 1.361 Tw /F3 12.0 Tf  [(Parallel Distributed Processing: Explorations in )] TJ ET
+BT 64.016 190.595 Td 0.000 Tw /F3 12.0 Tf  [(the Microstructure of Cognition; Volumes 1 and 2)] TJ ET
+BT 305.012 190.595 Td /F2 12.0 Tf  [(. Cambridge, MA : MIT Press, 1986.)] TJ ET
+BT 64.016 176.339 Td /F2 12.0 Tf  [( )] TJ ET
+BT 42.816 162.088 Td /F2 12.0 Tf  [(41.)] TJ ET
+BT 64.016 162.083 Td /F2 12.0 Tf  [(E.g., Rodney Brooks, "Intelligence Without Representation". )] TJ ET
+BT 360.116 162.083 Td /F3 12.0 Tf  [(Artificial Intelligence)] TJ ET
+BT 463.112 162.083 Td /F2 12.0 Tf  [( 47 \(1991\) : 139-160.)] TJ ET
+BT 64.016 147.827 Td /F2 12.0 Tf  [( )] TJ ET
+BT 42.816 133.576 Td /F2 12.0 Tf  [(42.)] TJ ET
+BT 64.016 133.571 Td 1.429 Tw /F2 12.0 Tf  [(E.g., Les Gasser, "Social Conceptions of Knowledge and Action: Distributed Artificial Intelligence and )] TJ ET
+BT 64.016 119.315 Td 0.000 Tw /F2 12.0 Tf  [(Open Systems Semantics". )] TJ ET
+BT 196.244 119.315 Td /F3 12.0 Tf  [(Artificial Intelligence)] TJ ET
+BT 299.240 119.315 Td /F2 12.0 Tf  [( 47 \(1991\) : 107-138.)] TJ ET
+BT 64.016 105.059 Td /F2 12.0 Tf  [( )] TJ ET
+BT 42.816 90.808 Td /F2 12.0 Tf  [(43.)] TJ ET
+BT 64.016 90.803 Td 3.771 Tw /F2 12.0 Tf  [(The historian of science, Steve Heims states this historical lineage between Pitts, McCulloch and )] TJ ET
+BT 64.016 76.547 Td 1.617 Tw /F2 12.0 Tf  [(contemporary connectionism. See Steve Heims, )] TJ ET
+BT 305.069 76.547 Td 1.617 Tw /F3 12.0 Tf  [(The Cybernetics Group)] TJ ET
+BT 420.958 76.547 Td 1.617 Tw /F2 12.0 Tf  [(. Cambridge, MA : MIT Press, )] TJ ET
+BT 64.016 62.291 Td 0.000 Tw /F2 12.0 Tf  [(1991, page 278-279.)] TJ ET
+BT 64.016 48.035 Td /F2 12.0 Tf  [( )] TJ ET
+endstream
+endobj
+189 0 obj
+[187 0 R /Fit]
+endobj
+190 0 obj
+[187 0 R /Fit]
+endobj
+191 0 obj
+[187 0 R /Fit]
+endobj
+192 0 obj
+[187 0 R /Fit]
+endobj
+193 0 obj
+[187 0 R /Fit]
+endobj
+194 0 obj
+[187 0 R /Fit]
+endobj
+195 0 obj
+[187 0 R /Fit]
+endobj
+196 0 obj
+[187 0 R /Fit]
+endobj
+197 0 obj
+[187 0 R /Fit]
+endobj
+198 0 obj
+[187 0 R /Fit]
+endobj
+199 0 obj
+[187 0 R /Fit]
+endobj
+200 0 obj
+[187 0 R /Fit]
+endobj
+201 0 obj
+[187 0 R /Fit]
+endobj
+202 0 obj
+[187 0 R /Fit]
+endobj
+203 0 obj
+[187 0 R /Fit]
+endobj
+204 0 obj
+[187 0 R /Fit]
+endobj
+205 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 206 0 R
+>>
+endobj
+206 0 obj
+<<
+/Length 6695 >>
+stream
+
+0.000 0.000 0.000 rg
+0.000 0.000 0.800 RG
+0.24 w 0 J [  ] 0 d
+BT 42.816 746.584 Td /F2 12.0 Tf  [(44.)] TJ ET
+BT 64.016 746.579 Td 0.421 Tw /F2 12.0 Tf  [(Seymour Papert, "One AI or Many?" in )] TJ ET
+BT 260.052 746.579 Td 0.421 Tw /F3 12.0 Tf  [(The Artificial Intelligence Debate: False Starts, Real Foundations)] TJ ET
+BT 64.016 732.323 Td 0.000 Tw /F2 12.0 Tf  [(, ed. Stephen Graubard, Cambridge, MA : MIT Press, 1988.)] TJ ET
+BT 64.016 718.067 Td /F2 12.0 Tf  [( )] TJ ET
+BT 42.816 703.816 Td /F2 12.0 Tf  [(45.)] TJ ET
+BT 64.016 703.811 Td 4.546 Tw /F2 12.0 Tf  [(Marvin Minsky and Seymour Papert, )] TJ ET
+BT 268.063 703.811 Td 4.546 Tw /F3 12.0 Tf  [(Perceptrons: An Introduction to Computational Geometry)] TJ ET
+BT 570.439 703.811 Td 4.546 Tw /F2 12.0 Tf  [(. )] TJ ET
+BT 64.016 689.555 Td 0.000 Tw /F2 12.0 Tf  [(Cambridge, MA : MIT Press, 1969.)] TJ ET
+BT 64.016 675.299 Td /F2 12.0 Tf  [( )] TJ ET
+BT 42.816 661.048 Td /F2 12.0 Tf  [(46.)] TJ ET
+BT 64.016 661.043 Td /F2 12.0 Tf  [(E.g., Op. Cit., Dreyfus.)] TJ ET
+BT 64.016 646.787 Td /F2 12.0 Tf  [( )] TJ ET
+BT 42.816 632.536 Td /F2 12.0 Tf  [(47.)] TJ ET
+BT 64.016 632.531 Td /F2 12.0 Tf  [(E.g., Op. Cit., Winograd and Flores.)] TJ ET
+BT 64.016 618.275 Td /F2 12.0 Tf  [( )] TJ ET
+BT 42.816 604.024 Td /F2 12.0 Tf  [(48.)] TJ ET
+BT 64.016 604.019 Td 1.990 Tw /F2 12.0 Tf  [(E.g., John Searle, "Minds, Brains, and Programs". )] TJ ET
+BT 321.052 604.019 Td 1.990 Tw /F3 12.0 Tf  [(In Mind Design: Philosophy, Psychology, Artificial )] TJ ET
+BT 64.016 589.763 Td 0.000 Tw /F3 12.0 Tf  [(Intelligence)] TJ ET
+BT 120.668 589.763 Td /F2 12.0 Tf  [(, ed. John Haugeland. Cambridge, MA : MIT Press, 1981.)] TJ ET
+BT 64.016 575.507 Td /F2 12.0 Tf  [( )] TJ ET
+BT 42.816 561.256 Td /F2 12.0 Tf  [(49.)] TJ ET
+BT 64.016 561.251 Td 0.360 Tw /F2 12.0 Tf  [(Lucy Suchman, )] TJ ET
+BT 143.059 561.251 Td 0.360 Tw /F3 12.0 Tf  [(Plans and Situated Actions: The Problem of Human/Machine Communication)] TJ ET
+BT 520.589 561.251 Td 0.360 Tw /F2 12.0 Tf  [(. New York )] TJ ET
+BT 64.016 546.995 Td 0.000 Tw /F2 12.0 Tf  [(: Cambridge University Press, 1987.)] TJ ET
+BT 64.016 532.739 Td /F2 12.0 Tf  [( )] TJ ET
+BT 42.816 518.488 Td /F2 12.0 Tf  [(50.)] TJ ET
+BT 64.016 518.483 Td 0.435 Tw /F2 12.0 Tf  [(I do not think Dreyfus intends his critiques to be essentialist, but I do think they are received as such. See )] TJ ET
+BT 64.016 504.227 Td 0.622 Tw /F2 12.0 Tf  [(Charles Spinosa and Hubert Dreyfus, "Two Kinds of Antiessentialism and Their Consequences)] TJ ET
+BT 528.356 504.227 Td 0.622 Tw /F3 12.0 Tf  [(". Critical )] TJ ET
+BT 64.016 489.971 Td 0.000 Tw /F3 12.0 Tf  [(Inquiry)] TJ ET
+BT 99.344 489.971 Td /F2 12.0 Tf  [( 22 \(Summer 1996\) : 735-763.)] TJ ET
+BT 64.016 475.715 Td /F2 12.0 Tf  [( )] TJ ET
+BT 42.816 461.464 Td /F2 12.0 Tf  [(51.)] TJ ET
+BT 64.016 461.459 Td /F2 12.0 Tf  [(E.g., Op. Cit., Brooks.)] TJ ET
+BT 64.016 447.203 Td /F2 12.0 Tf  [( )] TJ ET
+BT 42.816 432.952 Td /F2 12.0 Tf  [(52.)] TJ ET
+BT 64.016 432.947 Td /F2 12.0 Tf  [(E.g., Op. Cit., Gasser.)] TJ ET
+BT 64.016 418.691 Td /F2 12.0 Tf  [( )] TJ ET
+BT 42.816 404.440 Td /F2 12.0 Tf  [(53.)] TJ ET
+BT 64.016 404.435 Td /F2 12.0 Tf  [(E.g., Op. Cit., McClelland and Rumelhart.)] TJ ET
+BT 64.016 390.179 Td /F2 12.0 Tf  [( )] TJ ET
+BT 42.816 375.928 Td /F2 12.0 Tf  [(54.)] TJ ET
+BT 64.016 375.923 Td /F2 12.0 Tf  [(E.g., Op. Cit., Agre and Chapman.)] TJ ET
+BT 64.016 361.667 Td /F2 12.0 Tf  [( )] TJ ET
+BT 42.816 347.416 Td /F2 12.0 Tf  [(55.)] TJ ET
+BT 64.016 347.411 Td 1.998 Tw /F2 12.0 Tf  [(Sherry Turkle speaks of what might be called AI's "incorporations", before its "aesthetic turn", in the )] TJ ET
+BT 64.016 333.155 Td 1.421 Tw /F2 12.0 Tf  [(language of psychoanalytic object-relations theory; Sherry Turkle, )] TJ ET
+BT 395.897 333.155 Td 1.421 Tw /F3 12.0 Tf  [(The Second Self: Computers and the )] TJ ET
+BT 64.016 318.899 Td 0.000 Tw /F3 12.0 Tf  [(Human Spirit)] TJ ET
+BT 129.020 318.899 Td /F2 12.0 Tf  [(. New York : Simon and Schuster, Inc., 1984.)] TJ ET
+BT 64.016 304.643 Td /F2 12.0 Tf  [( )] TJ ET
+BT 42.816 290.392 Td /F2 12.0 Tf  [(56.)] TJ ET
+BT 64.016 290.387 Td 0.292 Tw /F2 12.0 Tf  [(E.g., Rodney A. Brooks and Pattie Maes \(eds.\), )] TJ ET
+BT 296.988 290.387 Td 0.292 Tw /F3 12.0 Tf  [(Artificial life IV : Proceedings of the Fourth International )] TJ ET
+BT 64.016 276.131 Td 0.000 Tw /F3 12.0 Tf  [(Workshop on the Synthesis and Simulation of Living)] TJ ET
+BT 315.020 276.131 Td /F2 12.0 Tf  [(. Cambridge, MA : MIT Press, 1994.)] TJ ET
+BT 64.016 261.875 Td /F2 12.0 Tf  [( )] TJ ET
+BT 42.816 247.624 Td /F2 12.0 Tf  [(57.)] TJ ET
+BT 64.016 247.619 Td 1.819 Tw /F2 12.0 Tf  [(See Jonathan Elmer, "Blinded Me with Science: Motifs of Observation and Temporality in Lacan and )] TJ ET
+BT 64.016 233.363 Td 0.000 Tw /F2 12.0 Tf  [(Luhmann". )] TJ ET
+BT 120.908 233.363 Td /F3 12.0 Tf  [(Cultural Critique)] TJ ET
+BT 204.596 233.363 Td /F2 12.0 Tf  [( 30 \(Spring 1995\) : 101-136.)] TJ ET
+BT 64.016 219.107 Td /F2 12.0 Tf  [( )] TJ ET
+BT 42.816 204.856 Td /F2 12.0 Tf  [(58.)] TJ ET
+BT 64.016 204.851 Td /F2 12.0 Tf  [(See Brian Massumi, "The Autonomy of Affect". )] TJ ET
+BT 299.444 204.851 Td /F3 12.0 Tf  [(Cultural Critique)] TJ ET
+BT 383.132 204.851 Td /F2 12.0 Tf  [( 31 \(Fall 1995\) : 83-109.)] TJ ET
+BT 64.016 190.595 Td /F2 12.0 Tf  [( )] TJ ET
+BT 42.816 176.344 Td /F2 12.0 Tf  [(59.)] TJ ET
+BT 64.016 176.339 Td 1.076 Tw /F2 12.0 Tf  [(See Chris Hables Gray, Steven Mentor and Heidi Figueroa-Sarriera \(eds.\), )] TJ ET
+BT 435.031 176.339 Td 1.076 Tw /F3 12.0 Tf  [(The Cyborg Handbook)] TJ ET
+BT 547.176 176.339 Td 1.076 Tw /F2 12.0 Tf  [(. New )] TJ ET
+BT 64.016 162.083 Td 0.000 Tw /F2 12.0 Tf  [(York : Routledge, 1995.)] TJ ET
+BT 64.016 147.827 Td /F2 12.0 Tf  [( )] TJ ET
+BT 42.816 133.576 Td /F2 12.0 Tf  [(60.)] TJ ET
+BT 64.016 133.571 Td /F2 12.0 Tf  [(Manuel De Landa, )] TJ ET
+BT 156.656 133.571 Td /F3 12.0 Tf  [(War in the Age of Intelligent Machines)] TJ ET
+BT 343.304 133.571 Td /F2 12.0 Tf  [(. New York : Zone Books, 1991.)] TJ ET
+BT 64.016 119.315 Td /F2 12.0 Tf  [( )] TJ ET
+BT 42.816 105.064 Td /F2 12.0 Tf  [(61.)] TJ ET
+BT 64.016 105.059 Td /F2 12.0 Tf  [(E.g., Op. Cit., Massumi, page 93.)] TJ ET
+BT 64.016 90.803 Td /F2 12.0 Tf  [( )] TJ ET
+BT 42.816 76.552 Td /F2 12.0 Tf  [(62.)] TJ ET
+BT 64.016 76.547 Td 0.833 Tw /F2 12.0 Tf  [(N. Katherine Hayles, "Making the Cut: The Interplay of Narrative and System, or What Systems Theory )] TJ ET
+BT 64.016 62.291 Td 0.000 Tw /F2 12.0 Tf  [(Can't See". )] TJ ET
+BT 120.068 62.291 Td /F3 12.0 Tf  [(Cultural Critique)] TJ ET
+BT 203.756 62.291 Td /F2 12.0 Tf  [( 30 \(Spring 1995\) : 71-100.)] TJ ET
+BT 64.016 48.035 Td /F2 12.0 Tf  [( )] TJ ET
+endstream
+endobj
+207 0 obj
+[205 0 R /Fit]
+endobj
+208 0 obj
+[205 0 R /Fit]
+endobj
+209 0 obj
+[205 0 R /Fit]
+endobj
+210 0 obj
+[205 0 R /Fit]
+endobj
+211 0 obj
+[205 0 R /Fit]
+endobj
+212 0 obj
+[205 0 R /Fit]
+endobj
+213 0 obj
+[205 0 R /Fit]
+endobj
+214 0 obj
+[205 0 R /Fit]
+endobj
+215 0 obj
+[205 0 R /Fit]
+endobj
+216 0 obj
+[205 0 R /Fit]
+endobj
+217 0 obj
+[205 0 R /Fit]
+endobj
+218 0 obj
+[205 0 R /Fit]
+endobj
+219 0 obj
+[205 0 R /Fit]
+endobj
+220 0 obj
+[205 0 R /Fit]
+endobj
+221 0 obj
+[205 0 R /Fit]
+endobj
+222 0 obj
+[205 0 R /Fit]
+endobj
+223 0 obj
+[205 0 R /Fit]
+endobj
+224 0 obj
+[205 0 R /Fit]
+endobj
+225 0 obj
+[205 0 R /Fit]
+endobj
+226 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 227 0 R
+>>
+endobj
+227 0 obj
+<<
+/Length 2033 >>
+stream
+
+0.000 0.000 0.000 rg
+0.000 0.000 0.800 RG
+0.24 w 0 J [  ] 0 d
+BT 42.816 746.584 Td /F2 12.0 Tf  [(63.)] TJ ET
+BT 64.016 746.579 Td 0.772 Tw /F2 12.0 Tf  [(Humberto Maturana's work has been used by many AI scientists to re-invigorate the ideas of cybernetics )] TJ ET
+BT 64.016 732.323 Td 0.964 Tw /F2 12.0 Tf  [(within AI and in cognitive science, in general. See, for instance, op. cit., Winograd and Flores; see also, )] TJ ET
+BT 64.016 718.067 Td 1.056 Tw /F2 12.0 Tf  [(Francisco J. Varela, Evan Thompson, Eleanor Rosch, )] TJ ET
+BT 331.026 718.067 Td 1.056 Tw /F3 12.0 Tf  [(The embodied mind: cognitive science and human )] TJ ET
+BT 64.016 703.811 Td 0.000 Tw /F3 12.0 Tf  [(experience)] TJ ET
+BT 115.988 703.811 Td /F2 12.0 Tf  [(. Cambridge, MA : MIT Press, 1991.)] TJ ET
+BT 64.016 689.555 Td /F2 12.0 Tf  [( )] TJ ET
+BT 42.816 675.304 Td /F2 12.0 Tf  [(64.)] TJ ET
+BT 64.016 675.299 Td 0.866 Tw /F2 12.0 Tf  [(Donna Haraway, )] TJ ET
+BT 150.048 675.299 Td 0.866 Tw /F3 12.0 Tf  [(Primate visions: gender, race, and nature in the world of modern science)] TJ ET
+BT 511.869 675.299 Td 0.866 Tw /F2 12.0 Tf  [(. New York : )] TJ ET
+BT 64.016 661.043 Td 0.000 Tw /F2 12.0 Tf  [(Routledge, 1989.)] TJ ET
+BT 64.016 646.787 Td /F2 12.0 Tf  [( )] TJ ET
+BT 42.816 632.536 Td /F2 12.0 Tf  [(65.)] TJ ET
+BT 64.016 632.531 Td 0.457 Tw /F2 12.0 Tf  [(E.g., Op. Cit., Gray, Mentor, and Figueroa-Sarriera; See also, Jonathan Crary and Sanford Kwinter \(eds.\), )] TJ ET
+BT 64.016 618.275 Td 0.000 Tw /F3 12.0 Tf  [(Incorporations)] TJ ET
+BT 136.016 618.275 Td /F2 12.0 Tf  [(. New York : Zone, 1992.)] TJ ET
+BT 64.016 604.019 Td /F2 12.0 Tf  [( )] TJ ET
+BT 42.816 589.768 Td /F2 12.0 Tf  [(66.)] TJ ET
+BT 64.016 589.763 Td 2.845 Tw /F2 12.0 Tf  [(Cf., Julia Kristeva, )] TJ ET
+BT 165.876 589.763 Td 2.845 Tw /F3 12.0 Tf  [(Strangers to Ourselves)] TJ ET
+BT 281.559 589.763 Td 2.845 Tw /F2 12.0 Tf  [(. Translated by Leon S. Roudiez. New York : Columbia )] TJ ET
+BT 64.016 575.507 Td 0.000 Tw /F2 12.0 Tf  [(University Press, 1991.)] TJ ET
+endstream
+endobj
+228 0 obj
+[226 0 R /Fit]
+endobj
+229 0 obj
+[226 0 R /Fit]
+endobj
+230 0 obj
+[226 0 R /Fit]
+endobj
+xref
+0 231
+0000000000 65535 f 
+0000000008 00000 n 
+0000000073 00000 n 
+0000000119 00000 n 
+0000000378 00000 n 
+0000000407 00000 n 
+0000000521 00000 n 
+0000000652 00000 n 
+0000007818 00000 n 
+0000007926 00000 n 
+0000008035 00000 n 
+0000008163 00000 n 
+0000008219 00000 n 
+0000008347 00000 n 
+0000008403 00000 n 
+0000008531 00000 n 
+0000008587 00000 n 
+0000008715 00000 n 
+0000008771 00000 n 
+0000008897 00000 n 
+0000008953 00000 n 
+0000009081 00000 n 
+0000009137 00000 n 
+0000009265 00000 n 
+0000009321 00000 n 
+0000009447 00000 n 
+0000009503 00000 n 
+0000009594 00000 n 
+0000016657 00000 n 
+0000016768 00000 n 
+0000016896 00000 n 
+0000016952 00000 n 
+0000017080 00000 n 
+0000017136 00000 n 
+0000017269 00000 n 
+0000024671 00000 n 
+0000024799 00000 n 
+0000024855 00000 n 
+0000024983 00000 n 
+0000025039 00000 n 
+0000025167 00000 n 
+0000025223 00000 n 
+0000025349 00000 n 
+0000025405 00000 n 
+0000025533 00000 n 
+0000025589 00000 n 
+0000025717 00000 n 
+0000025773 00000 n 
+0000025901 00000 n 
+0000025957 00000 n 
+0000026083 00000 n 
+0000026139 00000 n 
+0000026251 00000 n 
+0000033644 00000 n 
+0000033772 00000 n 
+0000033828 00000 n 
+0000033956 00000 n 
+0000034012 00000 n 
+0000034140 00000 n 
+0000034196 00000 n 
+0000034324 00000 n 
+0000034380 00000 n 
+0000034508 00000 n 
+0000034564 00000 n 
+0000034711 00000 n 
+0000042912 00000 n 
+0000043040 00000 n 
+0000043096 00000 n 
+0000043224 00000 n 
+0000043280 00000 n 
+0000043408 00000 n 
+0000043464 00000 n 
+0000043592 00000 n 
+0000043648 00000 n 
+0000043776 00000 n 
+0000043832 00000 n 
+0000043960 00000 n 
+0000044016 00000 n 
+0000044144 00000 n 
+0000044200 00000 n 
+0000044328 00000 n 
+0000044384 00000 n 
+0000044512 00000 n 
+0000044568 00000 n 
+0000044696 00000 n 
+0000044752 00000 n 
+0000044990 00000 n 
+0000056498 00000 n 
+0000056626 00000 n 
+0000056682 00000 n 
+0000056810 00000 n 
+0000056866 00000 n 
+0000056994 00000 n 
+0000057050 00000 n 
+0000057178 00000 n 
+0000057234 00000 n 
+0000057362 00000 n 
+0000057418 00000 n 
+0000057544 00000 n 
+0000057600 00000 n 
+0000057729 00000 n 
+0000057786 00000 n 
+0000057916 00000 n 
+0000057973 00000 n 
+0000058103 00000 n 
+0000058160 00000 n 
+0000058290 00000 n 
+0000058347 00000 n 
+0000058475 00000 n 
+0000058532 00000 n 
+0000058662 00000 n 
+0000058719 00000 n 
+0000058847 00000 n 
+0000058904 00000 n 
+0000059034 00000 n 
+0000059091 00000 n 
+0000059221 00000 n 
+0000059278 00000 n 
+0000059408 00000 n 
+0000059465 00000 n 
+0000059595 00000 n 
+0000059652 00000 n 
+0000059782 00000 n 
+0000059839 00000 n 
+0000059969 00000 n 
+0000060026 00000 n 
+0000060156 00000 n 
+0000060213 00000 n 
+0000060343 00000 n 
+0000060400 00000 n 
+0000060559 00000 n 
+0000069277 00000 n 
+0000069407 00000 n 
+0000069464 00000 n 
+0000069594 00000 n 
+0000069651 00000 n 
+0000069781 00000 n 
+0000069838 00000 n 
+0000069968 00000 n 
+0000070025 00000 n 
+0000070155 00000 n 
+0000070212 00000 n 
+0000070342 00000 n 
+0000070399 00000 n 
+0000070529 00000 n 
+0000070586 00000 n 
+0000070716 00000 n 
+0000070773 00000 n 
+0000070903 00000 n 
+0000070960 00000 n 
+0000071088 00000 n 
+0000071145 00000 n 
+0000071240 00000 n 
+0000077412 00000 n 
+0000077542 00000 n 
+0000077599 00000 n 
+0000077729 00000 n 
+0000077786 00000 n 
+0000077818 00000 n 
+0000077850 00000 n 
+0000077882 00000 n 
+0000077914 00000 n 
+0000077946 00000 n 
+0000077978 00000 n 
+0000078010 00000 n 
+0000078042 00000 n 
+0000078074 00000 n 
+0000078106 00000 n 
+0000078138 00000 n 
+0000078170 00000 n 
+0000078202 00000 n 
+0000078269 00000 n 
+0000085251 00000 n 
+0000085283 00000 n 
+0000085315 00000 n 
+0000085347 00000 n 
+0000085379 00000 n 
+0000085411 00000 n 
+0000085443 00000 n 
+0000085475 00000 n 
+0000085507 00000 n 
+0000085539 00000 n 
+0000085571 00000 n 
+0000085603 00000 n 
+0000085635 00000 n 
+0000085667 00000 n 
+0000085699 00000 n 
+0000085731 00000 n 
+0000085798 00000 n 
+0000093805 00000 n 
+0000093837 00000 n 
+0000093869 00000 n 
+0000093901 00000 n 
+0000093933 00000 n 
+0000093965 00000 n 
+0000093997 00000 n 
+0000094029 00000 n 
+0000094061 00000 n 
+0000094093 00000 n 
+0000094125 00000 n 
+0000094157 00000 n 
+0000094189 00000 n 
+0000094221 00000 n 
+0000094253 00000 n 
+0000094285 00000 n 
+0000094317 00000 n 
+0000094384 00000 n 
+0000101133 00000 n 
+0000101165 00000 n 
+0000101197 00000 n 
+0000101229 00000 n 
+0000101261 00000 n 
+0000101293 00000 n 
+0000101325 00000 n 
+0000101357 00000 n 
+0000101389 00000 n 
+0000101421 00000 n 
+0000101453 00000 n 
+0000101485 00000 n 
+0000101517 00000 n 
+0000101549 00000 n 
+0000101581 00000 n 
+0000101613 00000 n 
+0000101645 00000 n 
+0000101677 00000 n 
+0000101709 00000 n 
+0000101741 00000 n 
+0000101808 00000 n 
+0000103895 00000 n 
+0000103927 00000 n 
+0000103959 00000 n 
+trailer
+<<
+/Size 231
+/Root 1 0 R
+/Info 5 0 R
+>>
+startxref
+103991
+%%EOF

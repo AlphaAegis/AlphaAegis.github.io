@@ -1,0 +1,381 @@
+<html>
+
+<!-- Mirrored from cyberpunk2021.free.fr/weapons_create.php?lng=us by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 27 Aug 2023 18:16:52 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=iso-8859-1" /><!-- /Added by HTTrack -->
+<head>
+<meta name="description" content="Cyberpunk in general and Cyberpunk 2020 in particular">
+<meta name="keywords" content="cyberpunk, cyberpunk 2020, cyberpunk 2077, role playing game, jeu de rôles, science-fiction, Talsorian, armes, weapons, matériel, equipment, véhicule, vehicle, cyborg, corporation, illustrations, artworks, Arasaka, Militech, Seburo">
+<link rel="icon" type="image/x-icon" href="interface/favicon.ico">
+<script src="fonction_jsfb73.html?lng=us" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="styleac18.css?css=wcreate">
+<title>Création d'armes selon 3G</title>
+</head>
+<body>
+<div align="center"><h1>CREATION D'ARMES SELON 3G</h1></div><br>
+<div class="c">
+
+<p>Assomptions de travail : le niveau technologique équivalent de Cyberpunk 2020 dans le système 3G est 12. Créer des armes de technologie dépassée, ou à l'inverse des prototypes avancés est possible, mais exige pour cela une mise à jour de certaines des formules. Lorsqu'approprié, les différences pour les niveaux technologiques les plus proches sont donnés.</p>
+
+<h2>1.0 Munitions selon 3G</h2>
+<h3>1.1 Calcul de la puissance finale désirée en fonction des dégâts</h3>
+<p>3G utilise une valeur appelée Damage Value (Valeur de Dommage) calculée en fonction de la puissance de pénétration du projectile. La conversion dans le système de dés de Cyberpunk se fait selon la formule suivante :</p>
+<p><i>Dégâts moyens = (19 x Log DV) - 16.5</i></p>
+<table class="i">
+<tr><td><b>DV</b></td><td></td><td><b>Dégâts moyens</b></td><td></td></tr>
+<tr><td><input type="text" size=10 maxlength=5 id="i01" value=50></td><td><b>&nbsp;=&nbsp;</b></td><td id="r0"><b>Résultat</b></td><td><button type="button" onclick="form_math(0)">Calculer</button></td></tr>
+</table>
+<p>Le tableau suivant compile la gamme des équivalents les plus courants (attention : ce tableau ne prend pas en compte le système de dés différents présenté dans Maximum Damage de Cyberpunk 2020).</p>
+
+<table>
+<tr><td><b>Cyberpunk 2020</b></td><td><b>DV</b></td></tr>
+<tr><td>1/2D6</td><td>9</td></tr>
+<tr><td>1D6-1</td><td>10</td></tr>
+<tr><td>1D6</td><td>11</td></tr>
+<tr><td>1/2D6+2</td><td>12</td></tr>
+<tr><td>1D6+1</td><td>13</td></tr>
+<tr><td>1D6+2</td><td>14</td></tr>
+<tr><td>2D6-1</td><td>15-16</td></tr>
+<tr><td>2D6</td><td>17-18</td></tr>
+<tr><td>2D6+1</td><td>19-20</td></tr>
+<tr><td>2D6+2</td><td>21-23</td></tr>
+<tr><td>2D6+3</td><td>24-25</td></tr>
+<tr><td>3D6</td><td>26-28</td></tr>
+<tr><td>3D6+1</td><td>29-31</td></tr>
+<tr><td>3D6+2</td><td>32-35</td></tr>
+<tr><td>3D6+3</td><td>36-39</td></tr>
+<tr><td>4D6</td><td>40-42</td></tr>
+<tr><td>4D6+1</td><td>43-48</td></tr>
+<tr><td>4D6+2</td><td>49-54</td></tr>
+<tr><td>4D6+3</td><td>55-59</td></tr>
+<tr><td>5D6</td><td>60-65</td></tr>
+<tr><td>5D6+1</td><td>66-73</td></tr>
+<tr><td>5D6+2</td><td>74-83</td></tr>
+<tr><td>5D6+3</td><td>84-91</td></tr>
+<tr><td>6D6</td><td>92-99</td></tr>
+<tr><td>6D6+1</td><td>100-112</td></tr>
+<tr><td>6D6+2</td><td>113-127</td></tr>
+<tr><td>7D6</td><td>140-152</td></tr>
+<tr><td>7D6+1</td><td>153-172</td></tr>
+<tr><td>7D6+2</td><td>173-194</td></tr>
+<tr><td>7D6+3</td><td>195-213</td></tr>
+<tr><td>8D6</td><td>214-233</td></tr>
+<tr><td>9D6</td><td>325-356</td></tr>
+<tr><td>10D6</td><td>484-545</td></tr>
+<tr><td>11D6</td><td>739-832</td></tr>
+<tr><td>12D6</td><td>1000-1127</td></tr>
+</table>
+
+<p>La technique la plus simple consiste à choisir une munitions déjà existante et à entrer son score de dégâts dans le tableau pour obtenir la DV équivalente, mais il est aussi possible de créer une munition de toutes pièces. Il est à noter au passage que selon cette échelle calculée sur l'énergie initiale, certaines munitions comme le .44 Magnum (et plusieurs autres munitions d'armes de poing de forte puissance) et le 7,62mm OTAN sont surévalués dans Cyberpunk 2020.</p>
+<p>A titre d'exemple, nous allons créer une arme quelque peu exotique et sa munition, une reproduction dans Cyberpunk de la &quot;Mare's Leg&quot;, la carabine à canon scié de Josh Randall (qui sera traitée comme un pistolet surdimensionné), le genre d'arme qui serait fort populaire auprès des nomades et des posergangs d'ambiance Western.
+La munition sera une cartouche de fusil de puissance moyenne (pour ne pas arracher le bras du tireur) et dont l'énergie initiale sera réduite par rapport à la même cartouche tirée dans un véritable fusil à cause du canon raccourci, tout en restant supérieure à la majorité des pistolets. Nous allons lui donner une valeur de 4D6+2, soit 50 DV (nous aurions pu choisir n'importe quelle valeur dans l'intervalle de 49 à 54 donné par le tableau).</p><br>
+
+<h3>1.2 Calcul de l'énergie initiale</h3>
+<p>A cette étape, il est nécessaire de choisir le calibre de la munition. A titre informatif, les munitions de fusil (de 5 mm à 8 mm pour les plus courantes) sont généralement de plus petit diamètre que celles pour pistolets (de 5 mm à 12 mm pour les plus courantes). Leur vitesse initiale, et donc leur énergie, est par contre plus importante.</p>
+<p><b>Exemple :</b> notre munition sera le .308 Rawhide. Dans la nomenclature anglo-saxonne, .308 signifie que la balle a un diamètre nominal (officiel, certains calibres pouvant avoir un diamètre réel différent de la valeur annoncée) de 0,308 pouces. Un pouce étant égal à 2,54 cm, notre munition a un calibre de 7,62 mm.</p>
+<p>La formule donnant l'énergie (en Joules) en fonction de la DV choisie à l'étape 1 et du diamètre (D) en centimètres du projectile est :</p>
+<p><i>E = (DV)² x D x 1,3605</i></p>
+
+<table class="i">
+<tr><td width=90><b>DV</b></td><td><b>Calibre (cm)</b></td><td></td><td><b>Energie initiale</b></td><td></td></tr>
+<tr><td><input type="text" size=10 maxlength=4 id="i11" value=50></td><td><input type="text" size=10 maxlength=5 id="i12" value=0.762></td><td><b>&nbsp;=&nbsp;</b></td><td id="r1"><b>Résultat</b></td><td><button type="button" onclick="form_math(1)">Calculer</button></td></tr>
+</table>
+
+<p><b>Exemple :</b> l'énergie initiale du .308 Rawhide est donc de 2592 Joules.</p>
+<p>Au niveau technologique de Cyberpunk, seuls les revolvers ont des pertes (dues au fer, l'espace entre le barillet et le canon) exigeant une énergie réelle supérieure à celle calculée. Pour les revolvers, multiplier par 1,04 la valeur obtenue plus haut.</p>
+
+<h3>1.3 Caractéristiques du projectile</h3>
+Trois critères influent sur les propriétés du projectile : le diamètre, la forme et la densité.
+
+<h4>1.3.1 Diamètre</h4>
+<p>Déjà choisi en <b>1.2</b>.</p>
+
+<h4>1.3.2 Forme</h4>
+Définie par le ratio L/W (soit Length/Width ou Longueur/Diamètre), soit le rapport de proportion entre la longueur du projectile et son calibre. Les plus courants sont les suivants :
+<ul>
+<li>1/1 : projectile rond (caractéristique des armes à poudre noires anciennes et très rare à l'époque cyberpunk).</li>
+<li>2/1 : forme classique des balles de pistolet (cylindre surmonté d'une demi sphère ou d'un cône, le tout faisant en longueur 2 fois le calibre).</li>
+<li>3/1 : forme classique des balles de fusil (même construction que les balles de pistolet mais de base plus longue).</li>
+<li>10/1 : forme classique des projectiles d'arcs ou arbalètes. Rares pour les armes à feu (projectiles-flèches sous-calibrés).</li>
+</ul>
+
+<b>Exemple :</b> le .308 Rawhide est à la base une munition de carabine, donc son projectile a un ratio de 3/1.
+
+<h4>1.3.3 Densité</h4>
+<p>Notée dans 3G &quot;specific gravity&quot; ou Sg. Elle représente le matériau du projectile (ou la moyenne des différents matériaux dans le cas de projectiles complexes) et ses effets sur le poids et l'inertie. Une densité de 1 est égale à celle de l'eau ou du bois. Plastiques et céramiques peuvent aussi être pour la plupart rangés dans cette catégorie. Le plomb, le métal le plus courant, a une Sg de 11, tout comme l'uranium appauvri. L'acier, souvent utilisé dans les projectiles perforants, a une Sg de 7. L'aluminium a une Sg de 3.</p>
+<p>A quoi tout cela correspond-t-il ? Un projectile avec un ratio L/W important est difficile à stabiliser sur une trajectoire mais il possède une densité de section importante qui augmente son pouvoir de perforation (d'où la forme des obus-flèches des canons de chars). De même, une densité élevée rend le projectile moins sensible aux forces extérieures comme le frottement de l'air et la gravité, ce qui lui permet de garder sa vitesse plus longtemps. Mais à énergie initiale égale, cette vitesse sera moindre que celle imprimée à un projectile plus léger, d'où une précision moindre.</p><br>
+
+<h3>1.4 Corps de cartouche</h3>
+<p>L'énergie initiale est fournie par la combustion d'une quantité de poudre calculée selon la formule suivante :</p>
+<p><i>Masse (en grammes) = énergie initiale / 1620</i></p>
+<table class="i">
+<tr><td><b>Energie initiale</b></td><td></td><td width=75><b>Masse</b></td><td></td></tr>
+<tr><td><input type="text" size=10 maxlength=5 id="i21" value=2592></td><td><b>&nbsp;=&nbsp;</b></td><td id="r2"><b>Résultat</b></td><td><button type="button" onclick="form_math(2)">Calculer</button></td></tr>
+</table>
+<p><b>Note :</b> cette formule est adaptée au niveau technologique spécifique de l'époque. Les poudres de l'époque moderne ont une énergie spécifique de 1485 joules par gramme. Pour le niveau technologique suivant, l'énergie est de 1755 joules par gramme.
+<p><b>Exemple :</b> la cartouche du .308 Rawhide contient 1,6 grammes de poudre.</p>
+<p>La densité des explosifs et poudres propulsives étant approximée à 1, la masse en grammes correspond au volume en centimètres cube.</p>
+<p>Il existe trois technologies pour charger la poudre dans une arme : en vrac, dans un étui (sous forme d'une cartouche, donc), ou moulée en un bloc avec la balle et l'amorce serties dedans pour former une munition sans étui (&quot;caseless&quot;). La première technique, qui date des premières armes à feu, n'existe plus à l'époque Cyberpunk que pour l'artillerie la plus lourde (l'obus est chargé le premier, puis suivi de sacs de poudres), et n'est donc pas abordée ici.</p>
+<p>Les munitions avec étui (métallique ou polymères) et celles sans ont pour différences la masse (l'absence d'étui rend les munitions caseless plus légères et moins encombrantes) et la capacité maximale (l'étui absorbe une partie non négligeable de la chaleur émise par la combustion, ce qui permet de l'évacuer plus facilement, et il est plus difficile de créer un bloc d'explosif à combustion fiable qu'une cartouche que l'on remplit simplement de poudre).
+Au niveau technologique de Cyberpunk 2020, une cartouche à étui peut contenir une quantité de propulseur égale au maximum à 18 fois le volume du projectile (et rencontrera des problèmes de fiabilité dus à la surpression) et l'étui lui-même aura une masse égale à 2,6 fois celle de la poudre (la masse de l'amorce est jugée négligeable).
+Une munition sans étui pourra elle supporter un volume de poudre maximal de 6 fois celui du projectile.</p>
+<p><b>Note :</b> Pour les munitions du 20e siècle, la quantité de poudre maximale est 16 fois le volume du projectile, la masse de l'étui est 3 fois celle de la poudre et une munition caseless peut supporter 4 fois le volume du projectile en poudre. Pour des munitions avancées technologiquement, la quantité de poudre maximale est 20 fois le volume du projectile, la masse de l'étui est 2,6 fois celle de la poudre et une munition caseless peut supporter 8 fois le volume du projectile en poudre.</p>
+<p>La masse du projectile est calculée grâce au formulaire suivant :</p>
+<table class="i">
+<tr><td width=100><b>Calibre (cm)</b></td><td width=90><b>Ratio l/w</b></td><td><b>Densité (Sg)</b></td><td></td><td width=75><b>Volume</b></td><td width=75><b>Masse</b></td><td></td></tr>
+<tr><td><input type="text" size=10 maxlength=5 id="i31" value=0.762></td><td><input type="text" size=10 maxlength=5 id="i32" value=3></td><td><input type="text" size=10 maxlength=5 id="i33" value=11></td><td><b>&nbsp;=&nbsp;</b></td><td id="r31"><b>Résultat</b></td><td id="r32"><b>Résultat</b></td><td><button type="button" onclick="form_math(3)">Calculer</button></td></tr>
+</table>
+<p><b>Note :</b> les munitions anglo-saxonnes utilisent souvent le grain comme unité de masse pour les balles et la poudre. Un grain (noté gr) est égal à 0,65g.</p>
+<p>La balle standard (en plomb chemisé) du .308 Rawhide fait donc 0,98 cm3, ce qui donne une quantité limite de poudre de 17,64 cm³ pour une cartouche avec étui et 5,88 cm³ pour une munition caseless. Avec 1,6 grammes de poudre, nous sommes largement dans les normes de sécurité quelque soit la technologie choisie.<br>
+Les étuis métalliques maintenant le style &quot;rétro&quot; de l'arme et étant par ailleurs plus résistants aux agressions extérieures (un must pour une arme destinée surtout aux nomades), la munition sera surtout proposée sous ce format. En additionnant la masse de la poudre, du projectile et celle de l'étui (2,8 fois celle de la poudre), chaque cartouche pèse 16,91 grammes.</p><br>
+
+<h3>1.5 Vitesse du projectile</h3>
+<p>La vitesse au sortir du canon se calcule à partir de l'énergie initiale et de la masse du projectile selon la formule :</p>
+<p><i>V = 44.84 x &radic;(E initiale / Masse)</i></p>
+<table class="i">
+<tr><td width=125><b>Energie initiale</b></td><td><b>Masse (g)</b></td><td></td><td><b>Vitesse initiale</b></td><td></td></tr>
+<tr><td><input type="text" size=10 maxlength=5 id="i41" value=2592></td><td><input type="text" size=10 maxlength=6 id="i42" value=10.82></td><td><b>&nbsp;=&nbsp;</b></td><td id="r4"><b>Résultat</b></td><td><button type="button" onclick="form_math(4)">Calculer</button></td></tr>
+</table>
+<p><b>Exemple :</b> : la balle standard de .308 Rawhide a une vitesse initiale de 694 m/s.</p><br>
+
+<h3>1.6 Portée maximale</h3>
+<p>Cette valeur est plus théorique que pratique (il est pratiquement impossible de toucher volontairement quelque chose aussi loin) mais elle peut avoir son utilité pour signaler le risque qu'il y a à tirer sans discrimination (il est toujours possible de toucher quelqu'un ou quelque chose <b>involontairement</b>).<br>
+La portée maximale d'un projectile se calcule approximativement en fonction de sa vitesse initiale et de sa masse selon la formule suivante :</p>
+<p><i>((Vitesse initiale)² / 10) x &radic;(masse en kg)</i></p>
+<table class="i">
+<tr><td width=120><b>Vitesse initiale</b></td><td><b>Masse (g)</b></td><td></td><td><b>Portée maximale</b></td><td></td></tr>
+<tr><td><input type="text" size=10 maxlength=5 id="i51" value=694></td><td><input type="text" size=10 maxlength=6 id="i52" value=10.82></td><td><b>&nbsp;=&nbsp;</b></td><td id="r5"><b>Résultat</b></td><td><button type="button" onclick="form_math(5)">Calculer</button></td></tr>
+</table>
+<p><b>Exemple :</b> une balle de .308 Rawhide porte jusqu'à un peu plus de 5000 mètres.</p><br>
+
+<h3>1.7 Catégorie de portée</h3>
+<p>La Catégorie de Portée (Range Class ou RC) est une approximation de la balistique du projectile dans sa partie utile. Elle se divise en deux, la RC de précision (représentant la stabilité et la prévisibilité du projectile sur sa trajectoire) et la RC de dégâts (représentant la perte progressive d'énergie pendant le vol et donc la perte de pouvoir vulnérant).</p>
+<p>La RC de précision est déterminée en fonction de la forme du projectile (exprimée dans la table ci-dessous par le ratio L/W) et de sa vitesse initiale (en mètres par secondes dans le tableau) :</p>
+
+<table>
+<tr><td></td><td>Ratio 1/1</td><td>Ratio 2/1</td><td>Ratio 3/1</td><td>Ratio 10/1</td></tr>
+<tr><td>RC 1</td><td>200 m/s</td><td>150 m/s</td><td>100 m/s</td><td>50 m/s</td></tr>
+<tr><td>RC 2</td><td>400 m/s</td><td>300 m/s</td><td>250 m/s</td><td>100 m/s</td></tr>
+<tr><td>RC 3</td><td>750 m/s</td><td>600 m/s</td><td>400 m/s</td><td>250 m/s</td></tr>
+<tr><td>RC 4</td><td>1100 m/s</td><td>900 m/s</td><td>750 m/s</td><td>500 m/s</td></tr>
+<tr><td>RC 5</td><td>1500 m/s</td><td>1300 m/s</td><td>1100 m/s</td><td>800 m/s</td></tr>
+<tr><td>RC 6</td><td>2000 m/s</td><td>1750 m/s</td><td>1500 m/s</td><td>1150 m/s</td></tr>
+<tr><td>RC 7</td><td>2600 m/s</td><td>2300 m/s</td><td>2000 m/s</td><td>1600 m/s</td></tr>
+<tr><td>RC 8</td><td>V > 2600m/s</td><td>V > 2300 m/s</td><td>V > 2000 m/s</td><td>V > 1600 m/s</td></tr>
+</table>
+
+<p>La vitesse indiquée est le maximum donnant la RC correspondante pour une forme donnée. Ainsi, un projectile avec un ratio de 2/1 se déplaçant à 800 m/s a une RC de précision de 4 (il est plus rapide que le maximum de son ratio pour une RC 3 et plus lent que le maximum pour une RC 4).</p>
+<p><b>Exemple :</b> le .308 Rawhide, avec sa vitesse initiale de 694 m/s et son projectile &quot;boat-tail&quot; a une RC de précision de 4.</p>
+<p>La RC de dommages se détermine par le tableau suivant à partir du rapport masse du projectile (en grammes) divisé par le carré de son diamètre (en millimètres) :</p>
+
+<table>
+<tr><td></td><td>M/D²</td></tr>
+<tr><td>RC 1</td><td>< 0,05</td></tr>
+<tr><td>RC 2</td><td>0,051-0,1</td></tr>
+<tr><td>RC 3</td><td>0,101-0,15</td></tr>
+<tr><td>RC 4</td><td>0,151-0,3</td></tr>
+<tr><td>RC 5</td><td>0,301-0,5</td></tr>
+<tr><td>RC 6</td><td>0,501-0,75</td></tr>
+<tr><td>RC 7</td><td>0,751-1,05</td></tr>
+<tr><td>RC 8</td><td>> 1,05</td></tr>
+</table>
+<br>
+<table class="i">
+<tr><td width=90><b>Masse (g)</b></td><td><b>Calibre (mm)</b></td><td></td><td><b>Masse/Diamètre²</b></td></tr>
+<tr><td><input type="text" size=10 maxlength=6 id="i61" value=10.82></td><td><input type="text" size=10 maxlength=5 id="i62" value=7.62></td><td><b>&nbsp;=&nbsp;</b></td><td id="r6"><b>Résultat</b></td><td><button type="button" onclick="form_math(6)">Calculer</button></td></tr>
+</table>
+
+<p><b>Exemple :</b> Le .308 Rawhide, avec un rapport de 0,18, a une RC de dommages de 4.</p><br>
+
+<h2>2.0 Conception d'arme</h2>
+<h3>2.1 Choix du mécanisme</h3>
+<p>Une arme à feu se caractérise avant tout par le système utilisé pour stocker et charger les munitions. A chacun est associé un multiplicateur influant sur la masse du mécanisme :</p>
+
+<table>
+<tr><td>Monocoup (toute arme devant être rechargée entièrement à chaque tir)</td><td>0,30</td></tr>
+<tr><td>Revolver (toute arme utilisant un barillet comme magasin)</td><td>0,30</td></tr>
+<tr><td>Culasse manuelle (généralement associé à un magasin interne)</td><td>0,60</td></tr>
+<tr><td>Levier de sous-garde (comme le fameux système Winchester ou les fusils à pompe)</td><td>0,75</td></tr>
+<tr><td>Semi-automatique</td><td>0,90</td></tr>
+<tr><td>Rafales contrôlées</td><td>1,50</td></tr>
+<tr><td>Tir automatique</td><td>1,50</td></tr>
+</table>
+
+<p>Les 3 derniers systèmes sont mécaniquement assez proches pour que l'un soit modifié pour fonctionner dans un ou plusieurs des autres modes, mais utiliser un système au multiplicateur inférieur expose à des problèmes de fiabilité. Ainsi, dimensionner une culasse de fusil d'assaut pour un mode automatique permet d'installer sans risque un sélecteur pour le tir semi-automatique, mais agir en sens inverse expose l'arme à un stress mécanique dangereux.</p>
+<p>La masse minimale du mécanisme (incluant l'ensemble des parties mécaniques comme la culasse et le système de détente) est donnée par la formule suivante :</p>
+<p><i>M (grammes) = 8 x Multiplicateur de mécanisme x Energie élevé à la puissance 0,63</i></p>
+<table class="i">
+<tr><td width=120><b>Multiplicateur</b></td><td><b>Energie initiale</b></td><td></td><td width=75><b>Masse</b></td><td></td></tr>
+<tr><td><input type="text" size=10 maxlength=5 id="i71" value=0.75></td><td><input type="text" size=10 maxlength=5 id="i72" value=3500></td><td><b>&nbsp;=&nbsp;</b></td><td id="r7"><b>Résultat</b></td><td><button type="button" onclick="form_math(7)">Calculer</button></td></tr>
+</table>
+<p><b>Note :</b> pour des armes construites au niveau technologique du 20e siècle, ajouter 10% à la masse. A l'inverse, un niveau technologique supérieur permet de diminuer de 10% la masse.</p>
+<p><b>Exemple :</b> le mécanisme de notre carabine pèserait 847 grammes s'il était construit sur les minimums. Mais étant prévu pour une utilisation intensive et pouvant être utilisé avec des munitions rechargées manuellement, nous allons la renforcer en la rendant capable de supporter une énergie de 3500 Joules. Le mécanisme pèsera donc 1025 g.</p><br>
+
+<h3>2.2 Alimentation en munitions</h3>
+Toute arme dispose d'une réserve de munitions, ne serait-ce que d'une cartouche. Les différents types sont :
+<ul>
+<li>Magasin interne : le type le plus ancien, dans sa version à un seul coup. Fréquent dans les shotguns et les fusils de précision à culasse mobile, il présente l'avantage d'un encombrement et d'une masse supplémentaire faible, au prix d'une capacité généralement plus faible que les autres systèmes, ainsi que d'une rechargement plus long une fois sa capacité épuisée (les nouvelles cartouches doivent être insérées manuellement). La masse d'un magasin interne (représentée entre autres par le magasin lui-même et le ressort d'alimentation) est de 0,1 x la masse d'une cartouche x la capacité du magasin, le tout exprimé en grammes. Ceci représente la masse à vide. Les magasins contiennent en général un maximum de 10 à 12 cartouches.</li><br>
+<li>Chargeur externe : il s'agit d'un conteneur séparé de l'arme et lui transmettant les munitions par un mécanisme approprié. L'exemple le plus courant est la bande de cartouches alimentant une mitrailleuse. Les avantages sont une capacité importante, au prix d'une masse et d'un encombrement pouvant rendre l'arme difficile d'emploi par un homme seul. Le poids vide (incluant la boîte et les maillons de la bande) est 0,3 x la masse d'une cartouche x la capacité du magasin, le tout exprimé en grammes. Les bandes de munitions contiennent en général 50 coups et peuvent être raccordées pour un tir prolongé.</li><br>
+<li>Chargeur amovible : le système le plus courant actuellement, rencontré sur les pistolets automatiques, les pistolets-mitrailleurs, les fusils d'assaut... Un chargeur est aisé à manier et à remplacer, mais la capacité modérée en munitions oblige à en transporter un nombre important, augmentant d'autant le poids mort (non constitué de munitions). La masse à vide d'un chargeur est 0,2 x la masse d'une cartouche x la capacité du magasin, le tout exprimé en grammes. Les chargeurs de pistolet contiennent de 6 à 18 cartouches selon le calibre et la taille de l'arme. Pour les armes longues, la capacité va généralement de 15 à 50 coups.</li><br>
+<li>Barillet : habituellement réservée aux revolvers, cette technologie a été utilisée pour des fusils avant l'invention des mécanismes à levier. La capacité est de 5 pour les modèles compacts, 6 pour la majorité des modèles mais des modèles avec des barillets surdimensionnés (ou tirant des munitions de petit calibre) allant jusqu'à 14 cartouches ont existé. Le principal atout du revolver est la fiabilité (en cas de cartouche défectueuse, il suffit de tirer à nouveau) mais la capacité en munitions est faible, l'encombrement plus important que pour d'autres systèmes (à cause de l'épaisseur du barillet) et le rechargement long. La masse à vide d'un chargeur est 0,166 x la masse d'une cartouche x la capacité du magasin, le tout exprimé en grammes.</li>
+</ul>
+<p><b>Exemple :</b> en se basant sur les données de la véritable &quot;Mare's Leg&quot; de Josh Randall, une capacité raisonnable pour une carabine type Winchester à canon scié est de 6 cartouches dans un magasin tubulaire sous le canon. La munitions de .308 Rawhide pesant 16,91 grammes l'une, le magasin ajoute un total de 10,1 grammes à l'arme.</p><br>
+
+<h3>2.3 Dimensionnement du canon</h3>
+<p>Partie cruciale entre toute puisque c'est elle qui imprime au projectile sa vitesse par la poussée des gaz, ainsi que pour les armes rayées sa stabilité (par la rotation engendrée par les rayures), le canon doit avoir une longueur minimale dépendant du calibre du projectile et de la quantité de poudre de la munition selon la formule suivante :</p>
+<p>Longueur (centimètres) = (33,33 x &radic;(Masse de poudre / 2)) / Diamètre du projectile<br>
+La masse doit être en grammes et le diamètre en centimètres.</p>
+<table class="i">
+<tr><td width=175><b>Masse de poudre (g)</b></td><td><b>Calibre (cm)</b></td><td></td><td><b>Longueur minimale</b></td><td></td></tr>
+<tr><td><input type="text" size=10 maxlength=5 id="i81" value=1.6></td><td><input type="text" size=10 maxlength=5 id="i82" value=0.762></td><td><b>&nbsp;=&nbsp;</b></td><td id="r8"><b>Résultat</b></td><td><button type="button" onclick="form_math(8)">Calculer</button></td></tr>
+</table>
+<p><b>Exemple :</b> la longueur minimale du canon pour que notre carabine exploite correctement sa munition est d'environ 40 cm (l'arme originale avait un canon de 30 cm, ce qui s'explique par sa munition moins puissante).</p>
+<p>Un canon plus long que le minimum requis augmente l'énergie initiale de 1% par 2% d'allongement, avec un plafond de 10% d'augmentation de la DV finale. A l'inverse, diminuer la longueur du canon réduit l'énergie initiale dans les mêmes proportions, la taille minimale possible étant 5 fois le diamètre du projectile.</p>
+<p>La longueur du canon influe aussi sur la précision, la RC de précision maximale de l'arme étant calculée par le rapport entre la longueur du canon et le calibre, une longueur minimale étant nécessaire pour chaque niveau de RC.</p>
+
+<table>
+<tr><td><b>Rapport longueur/calibre</b></td><td><b>Longueur minimale (cm)</b></td><td><b>RC</b></td><td><b>Type d'arme courant à ce niveau</b></td></tr>
+<tr><td><10</td><td><10</td><td>1</td><td>Pistolet de poche</td></tr>
+<tr><td>Entre 11 et 20</td><td>10</td><td>2</td><td>Pistolet </td></tr>
+<tr><td>Entre 21 et 40</td><td>20</td><td>3</td><td>Carabine/pistolet-mitrailleur</td></tr>
+<tr><td>Entre 41 et 80</td><td>40</td><td>4</td><td>Fusil</td></tr>
+<tr><td>Entre 81 et 150</td><td>80</td><td>5</td><td>Auto-canon</td></tr>
+<tr><td>Entre 151 et 300</td><td>150</td><td>6</td><td>Canon de tank</td></tr>
+<tr><td>Entre 301 et 600</td><td>300</td><td>7</td><td>Artillerie lourde</td></tr>
+<tr><td>>600</td><td>600</td><td>8</td><td>Canon de siège super-lourd</td></tr>
+</table>
+
+<p>Aucune arme individuelle ne peut avoir une RC supérieure à 4 sans être sur support.</p>
+<p><b>Exemple :</b> le canon de 40 cm de notre carabine lui donne le minimum pour avoir une RC 4. Le rapport entre la longueur et le calibre étant de 52, la RC de précision est effectivement de 4.</p>
+<p>La masse du canon est calculée en fonction de sa longueur (en cm) et de l'énergie initiale maximale qu'il est censé supporter (elle peut être supérieure à celle libérée par la munition, mais il est fort déconseillé qu'elle soit inférieure) :</p>
+<p><i>Masse = 0,8 x Longueur x &radic;Energie</i></p>
+<table class="i">
+<tr><td width=125><b>Longueur (cm)</b></td><td><b>Energie initiale</b></td><td></td><td width=75><b>Masse</b></td><td></td></tr>
+<tr><td><input type="text" size=10 maxlength=5 id="i91" value=40></td><td><input type="text" size=10 maxlength=5 id="i92" value=3500></td><td><b>&nbsp;=&nbsp;</b></td><td id="r9"><b>Résultat</b></td><td><button type="button" onclick="form_math(9)">Calculer</button></td></tr>
+</table>
+<p><b>Note :</b> la masse varie selon le niveau technologique comme pour le mécanisme.</p>
+<p><b>Exemple :</b> forgé pour supporter l'énergie nominale de la .308 Rawhide, le canon pèserait 1629g. Mais comme pour la culasse, nous allons le renforcer pour supporter jusqu'à 3500 joules, ce qui fait monter sa masse à 1893g.</p><br>
+
+<h3>2.4 Assemblage de l'arme</h3>
+<p>Il reste désormais à &quot;habiller&quot; l'arme avec une crosse, un système de visée... Bref, tout ce qui la rend utilisable. Trois types de construction sont possibles :</p>
+
+<ul>
+<li>Arme fixe : destinée à être placée à demeure à un emplacement, l'arme ne dispose d'aucune aide à la visée ou au maintien. L'utiliser hors de son support est impossible ou inflige de lourds malus. Exemple : mitrailleuse de véhicule. Une telle arme a un multiplicateur final de 1,1 pour le calcul de la masse.</li><br>
+<li>Arme semi-fixe : bien que prévue principalement pour un usage sur support, l'arme dispose d'une crosse et de poignées permettant de s'en servir comme arme individuelle. Une visée métallique avec rail pour lunette optionnelle et un bipied sont aussi considérés comme standard. Exemple : mitrailleuse légère ou moyenne d'infanterie. Le multiplicateur final est 1,3.</li><br>
+<li>Arme individuelle : l'arme est prévue et optimisée pour un usage personnel, avec crosse (pour les armes d'épaule), poignée(s) et visée métallique avec rail pour systèmes de visée optionnels. Sur les armes militaires, des points de fixation sont aussi disponibles pour une arme de sous-garde et une baïonnette. Le multiplicateur final est 1,2.</li>
+</ul>
+
+<p>La masse finale de l'arme est la somme des masses du mécanisme, du canon et d'un éventuel magasin interne ou barillet, le tout multiplié par la valeur spécifique de l'arme.</p>
+<p><b>Exemple :</b> notre carabine est une arme individuelle, donc sa valeur spécifique est 1,2. Tout compris, le poids de l'arme à vide est de 3,5 kg.</p>
+<p>La longueur totale est celle du canon ajoutée à celle de la crosse (environ 30 cm en général pour les armes d'épaule, sauf dans le cas d'une construction &quot;bullpup&quot;) et celle du mécanisme :</p>
+<p>Ratio volume de poudre/volume du projectile x le diamètre du projectile x de 2 à 4 fois la longueur du projectile (2 pour les revolvers et armes à 1 coup, 4 pour les autres mécanismes)</p>
+<p><b>Exemple :</b> en montant pour notre carabine une crosse raccourcie de 15 cm (qui ne permet donc pas un vrai tir épaulé mais par exemple de tirer en appui contre la hanche), la longueur totale est 61 cm.</p><br>
+
+<h3>2.5 Caractéristiques de l'arme</h3>
+<h4>2.5.1 Précision</h4>
+<p>La valeur de base est la moitié de la plus basse valeur entre les RC de précision et celle de portée de la munition et la portée de l'arme, -1 pour une arme au format pistolet (pas de crosse d'épaule en particuliers), -2 pour un pistolet compact (pas de crosse d'épaule et ergonomie sacrifiée pour une meilleure dissimulation).</p>
+<p><b>Exemple :</b> notre carabine a une RC de 4, sa Précision de base est donc +2. Etant plus un pistolet qu'une véritable arme d'épaule, se précision réelle est +1.</p>
+
+<h4>2.5.2 Dissimulation</h4>
+La dissimulation dépend de la longueur et de la masse de l'arme.
+<ul>
+<li>Diviser la longueur (en centimètres) par 15. Cela donne le nombre d'&quot;emplacements&quot; occupé par l'arme (son encombrement général).</li>
+<li>Diviser la masse totale par le nombre d'emplacements de l'arme. Le résultat donne la valeur de taille de chaque emplacement selon le tableau suivant :</li>
+</ul>
+
+<table>
+<tr><td><b>Masse par emplacement</b></td><td><b>Taille par emplacement</b></td></tr>
+<tr><td>< 0.5 kg</td><td>Très petit (Very small VS)</td></tr>
+<tr><td>0.5 - 4 kg</td><td>Petit (Small S)</td></tr>
+<tr><td>4 - 32 kg</td><td>Moyen (Medium M)</td></tr>
+<tr><td>> 32.0 kg</td><td>Large L</td></tr>
+</table>
+
+<p>Les deux valeurs sont combinées ainsi : masse par emplacement / nombre d'emplacement, ainsi par exemple V/2, VS/3, ...<br>
+Les valeurs de dissimulation de Cyberpunk 2020 sont déterminées de la façon suivantes : une arme de taille VS/1, VS/2 et S/1 correspond dans Cyberpunk 2020 à la catégorie P (armes tenant dans une poche). Une arme de type S/2 ou S/3 correspond à la catégorie V (armes dissimulables sous une veste). Une arme de type S/4 ou S/5 peut être dissimulée sous un manteau (Catégorie M). Tout ce qui est plus grand ne peut être caché sur une personne.</p>
+<p><b>Exemple :</b> la longueur totale de 61 cm de la &quot;Mare's Leg&quot;, ce qui représente 4 emplacements. Avec 3,5 kg de masse totale, la masse par emplacement est 875g, soit la catégorie S. notre carabine a donc un code de dissimulation 3G de S/4, ce qui à Cyberpunk 2020 permet de la dissimuler sous un manteau.</p>
+
+<h4>2.5.3 Cadence de tir</h4>
+<p>Le nombre de coups pouvant être tirés par tour de jeu de 3 secondes dépend du mécanisme :<br>
+Semi-automatique : 3<br>
+Culasse mobile, revolver, levier de sous-garde : 1</p>
+<p>Il est à noter que les cadences données ici sont les cadences pratiques, c'est à dire que le tireur prend la peine de viser, de se déplacer d'un couvert à l'autre... Dans des conditions idéales, et en particuliers sans le stress du combat, ou à l'inverse pour un tir de barrage non ajusté, la cadence peut être augmentée de 1. En condition de combat, la précision sera divisée par deux (ou multipliée par deux si elle est négative).</p>
+<p>Mode automatique : déterminé à la conception de l'arme, le maximum supportable sans risques de malfonctions étant calculé par la formule :<br>
+10 / &radic;M où M est la masse en kilogrammes d'une cartouche complète et la cadence étant donnée en coups par seconde.</p>
+<p><b>Exemple :</b> la Mare's Leg, en tant que carabine à levier, à une cadence pratique d'un coup par tour. Avec l'originale, Steve MacQueen était capable de tirer 6 coups ajustés en 3 secondes, qui s'accorde avec la règle optionnelle suggérée plus haut. Dans l'hypothèse où une arme automatique serait créée pour tirer la .308 Rawhide, sa cadence de tir maximale serait 10 / &radic;0,01691 soit 7,6 coups par seconde, soit 461 coups par minute.</p>
+
+<h4>2.5.4 Fiabilité</h4>
+<p>3G compte 6 catégories de fiabilité déterminées en premier lieu par le pourcentage de poudre de la cartouche par rapport au maximum autorisé par la technologie et le niveau technologique (voir le chapitre 1.4).</p>
+<table>
+<tr><td><b>Pourcentage de charge</b></td><td><b>Catégorie</b></td><td><b>Fiabilité équivalente Cyberpunk 2020</b></td><td>
+<tr><td>100%</td><td>VI</td><td>Peu Fiable</td><td>
+<tr><td>80% - 99%</td><td>V</td><td>Peu Fiable</td><td>
+<tr><td>60% - 79%</td><td>IV</td><td>Standard</td><td>
+<tr><td>40% - 59%</td><td>III</td><td>Standard</td><td>
+<tr><td>20% - 39%</td><td>II</td><td>Très Fiable</td><td>
+<tr><td>< 19%</td><td>I</td><td>Très Fiable</td><td>
+</table><br>
+
+Les modificateurs suivants s'appliquent de façon cumulative :
+<ul>
+<li>Mécanisme semi-automatique utilisé pour tirer en rafales : monter d'une ligne.</li><br>
+<li>Arme au rabais (construite à coût réduit) : monter d'une ligne par degré de précision sacrifié (voir point 4 du chapitre 2.5.6).</li><br>
+<li>Pour une arme automatique, cadence de tir égale à la cadence maximale possible pour la munition : monter de trois lignes. Cadence de tir entre 80% et 99% du maximum : monter de deux lignes. Cadence de tir entre 70% et 89% du maximum : monter d'une ligne.</li>
+</ul>
+<p><b>Exemple :</b> la &quot;Mare's Leg&quot; utilise une cartouche dont le volume de poudre (1,6 cm³, la densité de la poudre étant approximée à 1) représente 9% seulement du maximum possible (volume du projectile x capacité maximale de l'étui par rapport au projectile soit : 0,98 x 18 = 17,64 cm³). Sa fiabilité est donc Très Fiable.</p>
+
+<h4>2.5.5 Portée</h4>
+<p>La portée type de Cyberpunk 2020, à savoir la distance pour laquelle la difficulté du tir est égale à 25, est déterminée selon la RC de l'arme :</p>
+
+<table>
+<tr><td><b>RC</b></td><td><b>Portée (mètres)</b></td></tr>
+<tr><td>1</td><td>25</td></tr>
+<tr><td>2</td><td>50</td></tr>
+<tr><td>3</td><td>100</td></tr>
+<tr><td>4</td><td>200</td></tr>
+<tr><td>5</td><td>400</td></tr>
+<tr><td>6</td><td>800</td></tr>
+<tr><td>7</td><td>1600</td></tr>
+<tr><td>8</td><td>3200</td></tr>
+</table>
+
+<p><b>Exemple :</b> notre carabine a une RC de précision de 4, sa portée est donc de 200 mètres.</p>
+<p>La RC de dommage de la munition permet de calculer, en règle optionnelle, la perte d'énergie et donc de dégâts de la munition : croiser la RC de dommage avec la portée. A cette distance et à chacun de ses multiples, la balle inflige deux points de dégâts en moins.</p>
+<p><b>Exemple :</b> le .308 Rawhide a une RC de dégâts de 4. Jusqu'à 200 mètres, elle inflige 4D6+2, puis 4D6+1 entre 200 et 300 mètres et un point de moins tous les 100 mètres.</p>
+
+<h4>2.5.6 Coût</h4>
+Le calcul se fait selon les règles de 3G en fonction de la puissance de la munition (sa DV) selon la formule (DV² / 5) + 100. Le résultat est ensuite multiplié successivement par les modificateurs suivants :
+
+<p>1) Mécanisme :</p>
+<table>
+<tr><td><b>Mécanisme</b></td><td><b>Multiplicateur</b></td></tr>
+<tr><td>Monocoup</td><td>x0,5</td></tr>
+<tr><td>Culasse manuelle</td><td>x0,7</td></tr>
+<tr><td>Revolver</td><td>x0,5</td></tr>
+<tr><td>Semi-automatique</td><td>x1</td></tr>
+<tr><td>Auto et semi-auto</td><td>x1,3</td></tr>
+<tr><td>Auto uniquement</td><td>x1</td></tr>
+<tr><td>Rafales</td><td>x1,5</td></tr>
+<tr><td></td></tr>
+</table>
+
+<p>2) Type d'arme :</p>
+<table>
+<tr><td><b>Type</b></td><td><b>Multiplicateur</b></td></tr>
+<tr><td>Pistolet</td><td>x2</td></tr>
+<tr><td>Arme d'épaule</td><td>x1</td></tr>
+<tr><td>Arme de véhicule</td><td>x1</td></tr>
+</table>
+
+<p>3) Masse différente de celle calculée en 2.4 :</p>
+Chaque diminution de 25% de la masse double le prix, l'allègement maximal étant de 50%. A l'inverse, chaque augmentation de moitié de la masse (pour un maximum du double de celle d'origine) divise le prix par deux.
+
+<p>4) Précision améliorée/diminuée :</p>
+Chaque augmentation de la précision de base (avant soustraction éventuelle selon le type d'arme) a un multiplicateur de coût de x2 par 50%, pour une précision finale maximale égale à 3 fois celle d'origine. A l'inverse, la précision peut être diminuée de 50% en économisant 50% du coût. Au minimum, la valeur de base de précision peut être abaissée à -1. Cette diminution, généralement associée à une construction bâclée, diminue par la même occasion la fiabilité de l'arme (voir chapitre 2.5.4).
+Le coût final, d'après quelques comparaisons avec des armes équivalentes présentes sur le site, est proche de ceux de Cyberpunk 2020 et peut donc être utilisé tel quel.
+</div>
+
+<p align="center"><a href="indexfb73.html?lng=us"><img id="btn_back" src="interface/back_white.png" border=0></a></p>
+</body>
+
+<!-- Mirrored from cyberpunk2021.free.fr/weapons_create.php?lng=us by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 27 Aug 2023 18:16:53 GMT -->
+</html>

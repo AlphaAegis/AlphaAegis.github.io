@@ -1,0 +1,25 @@
+
+body {
+	font-family: verdana;
+	text-align: justify;
+	color: white;
+	background-color: black
+}
+div.c {
+	margin: auto;
+	width: 95%
+}
+table { border-spacing: 0 }
+td, th {
+	padding: 4px;
+	border-width: 1 1 0 1;
+	border-color: white;
+	border-style: solid
+}
+td.e { border-width: 1px }
+td.t {
+	font-size: large;
+	font-weight: bold;
+	text-align: center;
+	border: 0
+}

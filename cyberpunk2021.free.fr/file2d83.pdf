@@ -1,0 +1,164 @@
+%PDF-1.3
+1 0 obj
+<< /Type /Catalog
+/Outlines 2 0 R
+/Pages 3 0 R >>
+endobj
+2 0 obj
+<< /Type /Outlines /Count 0 >>
+endobj
+3 0 obj
+<< /Type /Pages
+/Kids [6 0 R
+10 0 R
+]
+/Count 2
+/Resources <<
+/ProcSet 4 0 R
+/Font << 
+/F1 8 0 R
+/F2 9 0 R
+>>
+>>
+/MediaBox [0.000 0.000 612.000 792.000]
+ >>
+endobj
+4 0 obj
+[/PDF /Text ]
+endobj
+5 0 obj
+<<
+/Creator (DOMPDF)
+/CreationDate (D:20230828024212+02'00')
+/ModDate (D:20230828024212+02'00')
+>>
+endobj
+6 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 7 0 R
+>>
+endobj
+7 0 obj
+<<
+/Length 5683 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 202.248 725.937 Td /F1 18.0 Tf  [(Coding Up a Bit of Privacy)] TJ ET
+BT 264.162 695.200 Td /F1 12.0 Tf  [(Joshua Quittner)] TJ ET
+BT 34.016 668.915 Td /F2 12.0 Tf  [( )] TJ ET
+BT 34.016 630.659 Td 1.518 Tw /F2 12.0 Tf  [(This must be how the Founding Fathers looked when they hacked out the Constitution : a roomful of young )] TJ ET
+BT 34.016 616.403 Td 0.986 Tw /F2 12.0 Tf  [(men, mostly - frazzled hair, eager eyes, wild beards, arms flailing and fingers jabbing the air, reaching for big )] TJ ET
+BT 34.016 602.147 Td 0.540 Tw /F2 12.0 Tf  [(ideas. You can't help but feel it; urgency tempers their voices. The earnest men plan and argue in this corporate )] TJ ET
+BT 34.016 587.891 Td 0.000 Tw /F2 12.0 Tf  [(conference room as the last sun rays of a winter Saturday afternoon fade in through a skylight.)] TJ ET
+BT 34.016 561.635 Td 2.159 Tw /F2 12.0 Tf  [(Time is running out for the Cypherpunks. There is much work to be done before the information highway )] TJ ET
+BT 34.016 547.379 Td 3.265 Tw /F2 12.0 Tf  [(arrives. The information highway - that 500-channel shopping mall / cineplex championed by cable and )] TJ ET
+BT 34.016 533.123 Td 0.706 Tw /F2 12.0 Tf  [(telephone companies - is a noxious concept to the people in this room. They are not technophobes or Luddites, )] TJ ET
+BT 34.016 518.867 Td 0.274 Tw /F2 12.0 Tf  [(these Cypherpunks. Instead, they are a collection of clever computer programers, engineers and wire heads from )] TJ ET
+BT 34.016 504.611 Td 0.000 Tw /F2 12.0 Tf  [(some of the nation's best-known Silicon Valley software houses and hardware shops.)] TJ ET
+BT 34.016 478.355 Td 1.477 Tw /F2 12.0 Tf  [(This is their central question : in a future world where all information is centralized on a network, where all )] TJ ET
+BT 34.016 464.099 Td 0.943 Tw /F2 12.0 Tf  [(information is tracked by the bit, where every purchase you make and every communication can be monitored )] TJ ET
+BT 34.016 449.843 Td 0.337 Tw /F2 12.0 Tf  [(by corporate America, how does privacy survive ? If you go to a bookstore now and buy a book, you can pay in )] TJ ET
+BT 34.016 435.587 Td 0.755 Tw /F2 12.0 Tf  [(cash. No one knows your name or what you purchased. "What happens to cash transactions on the information )] TJ ET
+BT 34.016 421.331 Td 0.000 Tw /F2 12.0 Tf  [(highway ?" they ask.)] TJ ET
+BT 34.016 395.075 Td 1.337 Tw /F2 12.0 Tf  [(The Cypherpunks believe that they can preserve your privacy through good cyphers, or codes. But they must )] TJ ET
+BT 34.016 380.819 Td 1.458 Tw /F2 12.0 Tf  [(hurry, must get their codes out and their networks up and running. "The whole information highway thing is )] TJ ET
+BT 34.016 366.563 Td 0.396 Tw /F2 12.0 Tf  [(now part of the public eye", explains Eric Hughes, a founder of the Cypherpunk movement. "If we don't change )] TJ ET
+BT 34.016 352.307 Td 1.350 Tw /F2 12.0 Tf  [(it now, it'll be impossible later". The Cypherpunks know what technology is capable of. We visit them today )] TJ ET
+BT 34.016 338.051 Td 0.764 Tw /F2 12.0 Tf  [(because they represent one edge of the national debate on the structure of the information highway. And as we )] TJ ET
+BT 34.016 323.795 Td 0.000 Tw /F2 12.0 Tf  [(all know, extreme positions help define the middle.)] TJ ET
+BT 34.016 297.539 Td 0.412 Tw /F2 12.0 Tf  [(Many of the Cypherpunks have been heavy Internet users for years and hope to preserve the communal spirit of )] TJ ET
+BT 34.016 283.283 Td 1.187 Tw /F2 12.0 Tf  [(that freewheeling world of interconnected computer networks. They dread the coming commercial network of )] TJ ET
+BT 34.016 269.027 Td 0.000 Tw /F2 12.0 Tf  [(televisions and computers, saying it will displace the Internet and destroy many of the freedoms they now enjoy.)] TJ ET
+BT 34.016 242.771 Td 2.068 Tw /F2 12.0 Tf  [(So the Cypherpunks, with the kind of zeal they professionally bring to marathon, 72-hour sessions hacking )] TJ ET
+BT 34.016 228.515 Td 1.175 Tw /F2 12.0 Tf  [(computer code, are plotting to keep free networks alive. That's "free" in the sense of unfettered, unmonitored, )] TJ ET
+BT 34.016 214.259 Td 0.000 Tw /F2 12.0 Tf  [(uncensored.)] TJ ET
+BT 34.016 188.003 Td 0.578 Tw /F2 12.0 Tf  [(One way they're going about it is by spreading easy-to-use, cheap cryptography. Cryptography is the science of )] TJ ET
+BT 34.016 173.747 Td 0.592 Tw /F2 12.0 Tf  [(keeping two-way communication private. Computers, it turns out, are revolutionary cryptographic tools, able to )] TJ ET
+BT 34.016 159.491 Td 1.941 Tw /F2 12.0 Tf  [(encode and decode files quickly. For the first time, virtually unbreakable codes are now possible, thanks to )] TJ ET
+BT 34.016 145.235 Td 1.096 Tw /F2 12.0 Tf  [(computers. The Cypherpunks post cryptographic software on the Internet where anyone can access it, and can )] TJ ET
+BT 34.016 130.979 Td 0.000 Tw /F2 12.0 Tf  [(encode their communications, including electronic mail, pictures and video.)] TJ ET
+BT 34.016 104.723 Td 1.005 Tw /F2 12.0 Tf  [(But the U.S. government is concerned, as governments always are, about the spread of powerful cryptography )] TJ ET
+BT 34.016 90.467 Td 1.826 Tw /F2 12.0 Tf  [(\(terrorists could use it, kidnapers could use it, drug dealers could use it, all of them on cellular phones that )] TJ ET
+BT 34.016 76.211 Td 2.031 Tw /F2 12.0 Tf  [(encode conversations\). It currently is pushing its own commercial cryptographic standard, through a special )] TJ ET
+BT 34.016 61.955 Td 0.230 Tw /F2 12.0 Tf  [(chip known as the )] TJ ET
+BT 124.925 61.955 Td 0.230 Tw /F1 12.0 Tf  [(Clipper)] TJ ET
+BT 164.261 61.955 Td 0.230 Tw /F2 12.0 Tf  [(. The chip is reviled by Cypherpunks and other civil libertarians because it provides a )] TJ ET
+endstream
+endobj
+8 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Times-Bold
+/Encoding /WinAnsiEncoding
+>>
+endobj
+9 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F2
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+>>
+endobj
+10 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 11 0 R
+>>
+endobj
+11 0 obj
+<<
+/Length 3272 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 34.016 746.579 Td 0.000 Tw /F2 12.0 Tf  [(back door that law-enforcement agencies could enter, with the proper warrants, for surveillance.)] TJ ET
+BT 34.016 720.323 Td 1.851 Tw /F2 12.0 Tf  [(By getting good, unbreakable cryptography out there now, the Cypherpunks hope, whatever the government )] TJ ET
+BT 34.016 706.067 Td 0.624 Tw /F2 12.0 Tf  [(finally decides will be moot. Software has a wonderful property, the Cypherpunks are fond of saying : once it's )] TJ ET
+BT 34.016 691.811 Td 1.985 Tw /F2 12.0 Tf  [(created, it can never be destroyed. It can be copied infinitely, from computer to computer, spreading like a )] TJ ET
+BT 34.016 677.555 Td 1.506 Tw /F2 12.0 Tf  [(secret. Come what may, unbreakable Cypherpunk code, and Cypherpunk networks, will be out there forever, )] TJ ET
+BT 34.016 663.299 Td 1.827 Tw /F2 12.0 Tf  [(they hope. But just to be safe, the Cypherpunks are toying with different network-related plans to create an )] TJ ET
+BT 34.016 649.043 Td 0.497 Tw /F2 12.0 Tf  [(economy of "digicash" - network money that, like the dollars in your pocket, isn't tied to a user's credit cards or )] TJ ET
+BT 34.016 634.787 Td 0.225 Tw /F2 12.0 Tf  [(other personal identification. Digicash will help pay for Cypherpunk networks and will allow people to purchase )] TJ ET
+BT 34.016 620.531 Td 0.000 Tw /F2 12.0 Tf  [(goods without revealing their identity.)] TJ ET
+BT 34.016 594.275 Td 0.448 Tw /F2 12.0 Tf  [("I'm starting a bank, and it's not going to be a U.S. bank", Hughes says. He's standing at the whiteboard now. A )] TJ ET
+BT 34.016 580.019 Td 0.893 Tw /F2 12.0 Tf  [(strawberry-blond ponytail dangles down his back and he grasps a magic marker in his hand. "We have several )] TJ ET
+BT 34.016 565.763 Td 0.715 Tw /F2 12.0 Tf  [(long-term strategies, one of which is the elimination of central banks". He tells the assembled crowd what they )] TJ ET
+BT 34.016 551.507 Td 0.000 Tw /F2 12.0 Tf  [(already know. Heads nod. Some people take notes.)] TJ ET
+BT 34.016 525.251 Td 3.049 Tw /F2 12.0 Tf  [(Hughes is a self-employed programer in Berkeley. His hand flies across the whiteboard, sketching out a )] TJ ET
+BT 34.016 510.995 Td 0.940 Tw /F2 12.0 Tf  [(schematic diagram, showing how his bank will operate. The bank will store depositers' money \(he's thinking a )] TJ ET
+BT 34.016 496.739 Td 0.484 Tw /F2 12.0 Tf  [($200 minimum deposit\) and disburse payments to anyone - all over the Internet. It will be based abroad, maybe )] TJ ET
+BT 34.016 482.483 Td 3.905 Tw /F2 12.0 Tf  [(in Mexico. A Cypherpunk network bank is one way to pay for a network of truly encrypted, private )] TJ ET
+BT 34.016 468.227 Td 0.000 Tw /F2 12.0 Tf  [(communications, you see.)] TJ ET
+BT 34.016 441.971 Td 1.083 Tw /F2 12.0 Tf  [("Is this going to lead the way to portable laptop ATM machines ?" someone asks in the back. People snicker. )] TJ ET
+BT 34.016 427.715 Td 0.938 Tw /F2 12.0 Tf  [("Have you thought about its name ?" someone else asks. "First Bank of Cyberspace !" yells one person. "First )] TJ ET
+BT 34.016 413.459 Td 0.502 Tw /F2 12.0 Tf  [(Internet Bank !" yells another. "The Nth National Bank !" Laughter. Billy goat beards bob. There is much work )] TJ ET
+BT 34.016 399.203 Td 0.000 Tw /F2 12.0 Tf  [(to be done.)] TJ ET
+endstream
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000008 00000 n 
+0000000073 00000 n 
+0000000119 00000 n 
+0000000290 00000 n 
+0000000319 00000 n 
+0000000433 00000 n 
+0000000496 00000 n 
+0000006231 00000 n 
+0000006339 00000 n 
+0000006448 00000 n 
+0000006513 00000 n 
+trailer
+<<
+/Size 12
+/Root 1 0 R
+/Info 5 0 R
+>>
+startxref
+9838
+%%EOF

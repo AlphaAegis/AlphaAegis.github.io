@@ -1,0 +1,150 @@
+%PDF-1.3
+1 0 obj
+<< /Type /Catalog
+/Outlines 2 0 R
+/Pages 3 0 R >>
+endobj
+2 0 obj
+<< /Type /Outlines /Count 0 >>
+endobj
+3 0 obj
+<< /Type /Pages
+/Kids [6 0 R
+]
+/Count 1
+/Resources <<
+/ProcSet 4 0 R
+/Font << 
+/F1 8 0 R
+/F2 9 0 R
+>>
+>>
+/MediaBox [0.000 0.000 612.000 792.000]
+ >>
+endobj
+4 0 obj
+[/PDF /Text ]
+endobj
+5 0 obj
+<<
+/Creator (DOMPDF)
+/CreationDate (D:20230828023552+02'00')
+/ModDate (D:20230828023552+02'00')
+>>
+endobj
+6 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Annots [ 10 0 R 12 0 R ]
+/Contents 7 0 R
+>>
+endobj
+7 0 obj
+<<
+/Length 2230 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 279.000 725.937 Td /F1 18.0 Tf  [(Robots)] TJ ET
+BT 245.004 695.200 Td /F1 12.0 Tf  [(The Cyberpunk Project)] TJ ET
+BT 34.016 668.915 Td /F2 12.0 Tf  [( )] TJ ET
+BT 34.016 630.659 Td 0.170 Tw /F2 12.0 Tf  [(The word robot is derived from the Czech word robota meaning work. The idea of robots as humanoid machines )] TJ ET
+BT 34.016 616.403 Td 0.805 Tw /F2 12.0 Tf  [(was first introduced in Karel Capek's 1921 play "R.U.R.", where the playwright conceived Rossum's Universal )] TJ ET
+BT 34.016 602.147 Td 3.778 Tw /F2 12.0 Tf  [(Robots. Sci-fi writer Isaac Asimov made robots famous, beginning with his story I, Robot \(1950\) and )] TJ ET
+BT 34.016 587.891 Td 0.267 Tw /F2 12.0 Tf  [(continuing through a string of books known as the Robot Series. Asimov presented the idea of "The Three Laws )] TJ ET
+BT 34.016 573.635 Td 0.000 Tw /F2 12.0 Tf  [(of Robotics", which are :)] TJ ET
+BT 48.816 547.384 Td /F2 12.0 Tf  [(1.)] TJ ET
+BT 64.016 547.379 Td /F2 12.0 Tf  [(A robot may not injure a human being, or, through inaction, allow a human being to come to harm.)] TJ ET
+BT 48.816 533.128 Td /F2 12.0 Tf  [(2.)] TJ ET
+BT 64.016 533.123 Td 0.558 Tw /F2 12.0 Tf  [(A robot must obey the orders given it by human beings except where such orders would conflict with the )] TJ ET
+BT 64.016 518.867 Td 0.000 Tw /F2 12.0 Tf  [(First Law.)] TJ ET
+BT 48.816 504.616 Td /F2 12.0 Tf  [(3.)] TJ ET
+BT 64.016 504.611 Td 2.148 Tw /F2 12.0 Tf  [(A robot must protect its own existence as long as such protection does not conflict with the First or )] TJ ET
+BT 64.016 490.355 Td 0.000 Tw /F2 12.0 Tf  [(Second Law.)] TJ ET
+BT 34.016 447.761 Td /F1 14.0 Tf  [(References & Links)] TJ ET
+0.000 0.000 0.800 rg
+BT 34.016 421.020 Td /F2 12.0 Tf  [(Human Robots)] TJ ET
+0.000 0.000 0.800 RG
+0.24 w 0 J [  ] 0 d
+34.016 419.626 m 106.352 419.626 l S
+0.000 0.000 0.000 rg
+BT 64.016 406.764 Td /F2 12.0 Tf  [(Case and Molly as a human robots \(more like cyborgs\).)] TJ ET
+0.000 0.000 0.800 rg
+BT 34.016 380.508 Td /F2 12.0 Tf  [(Laboratory Robotics)] TJ ET
+0.24 w 0 J [  ] 0 d
+34.016 379.114 m 133.004 379.114 l S
+0.000 0.000 0.000 rg
+BT 64.016 366.252 Td /F2 12.0 Tf  [(Not as sexy as androids, but more reality nowadays.)] TJ ET
+endstream
+endobj
+8 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Times-Bold
+/Encoding /WinAnsiEncoding
+>>
+endobj
+9 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F2
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+>>
+endobj
+10 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 11 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 34.0157 419.9399 106.3517 431.8199 ]
+>>
+endobj
+11 0 obj
+<< /Type /Action
+/S /URI
+/URI (cp_project.php?txt=165&lng=fr)
+>>
+endobj
+12 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 13 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 34.0157 379.4279 133.0037 391.3079 ]
+>>
+endobj
+13 0 obj
+<< /Type /Action
+/S /URI
+/URI (http://lab-robotics.org/)
+>>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000008 00000 n 
+0000000073 00000 n 
+0000000119 00000 n 
+0000000283 00000 n 
+0000000312 00000 n 
+0000000426 00000 n 
+0000000515 00000 n 
+0000002797 00000 n 
+0000002905 00000 n 
+0000003014 00000 n 
+0000003141 00000 n 
+0000003222 00000 n 
+0000003349 00000 n 
+trailer
+<<
+/Size 14
+/Root 1 0 R
+/Info 5 0 R
+>>
+startxref
+3425
+%%EOF

@@ -1,0 +1,367 @@
+%PDF-1.3
+1 0 obj
+<< /Type /Catalog
+/Outlines 2 0 R
+/Pages 3 0 R >>
+endobj
+2 0 obj
+<< /Type /Outlines /Count 0 >>
+endobj
+3 0 obj
+<< /Type /Pages
+/Kids [6 0 R
+10 0 R
+12 0 R
+14 0 R
+16 0 R
+18 0 R
+]
+/Count 6
+/Resources <<
+/ProcSet 4 0 R
+/Font << 
+/F1 8 0 R
+/F2 9 0 R
+>>
+>>
+/MediaBox [0.000 0.000 612.000 792.000]
+ >>
+endobj
+4 0 obj
+[/PDF /Text ]
+endobj
+5 0 obj
+<<
+/Creator (DOMPDF)
+/CreationDate (D:20230828003521+02'00')
+/ModDate (D:20230828003521+02'00')
+>>
+endobj
+6 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 7 0 R
+>>
+endobj
+7 0 obj
+<<
+/Length 5220 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 224.262 725.937 Td /F1 18.0 Tf  [(Artificial Intelligence)] TJ ET
+BT 252.342 695.200 Td /F1 12.0 Tf  [(Darrel Patrick Wash)] TJ ET
+BT 294.000 680.800 Td /F1 12.0 Tf  [(1989)] TJ ET
+BT 34.016 654.515 Td /F2 12.0 Tf  [( )] TJ ET
+BT 34.016 616.259 Td 1.004 Tw /F2 12.0 Tf  [(Do you want an omelet or pancakes for breakfast ? Toast or a muffin ? Just place your order with Robobutler )] TJ ET
+BT 34.016 602.003 Td 0.227 Tw /F2 12.0 Tf  [(and then go take your shower. When you are ready to eat, your personal robot will serve your meal, clean up the )] TJ ET
+BT 34.016 587.747 Td 2.407 Tw /F2 12.0 Tf  [(kitchen, and remind you of your day's business appointments. As this helpful little fellow hands you your )] TJ ET
+BT 34.016 573.491 Td 0.852 Tw /F2 12.0 Tf  [(briefcase at the door, he awaits your instructions for the day; you tell him to vacuum the floor, make the beds, )] TJ ET
+BT 34.016 559.235 Td 0.379 Tw /F2 12.0 Tf  [(do the laundry, and prepare dinner. Then you get in your car, tell it to drive you to work, sit back, and enjoy the )] TJ ET
+BT 34.016 544.979 Td 0.000 Tw /F2 12.0 Tf  [(morning paper.)] TJ ET
+BT 34.016 518.723 Td 1.425 Tw /F2 12.0 Tf  [(If you think these machines sound too good to be real, you're right. Before Robobutler and other mechanical )] TJ ET
+BT 34.016 504.467 Td 0.438 Tw /F2 12.0 Tf  [(helpers can work the way we imagine, they will need to be able to understand human language, see and react to )] TJ ET
+BT 34.016 490.211 Td 0.856 Tw /F2 12.0 Tf  [(what they see the way a person would, and perform many other human-like actions, all of which are examples )] TJ ET
+BT 34.016 475.955 Td 0.982 Tw /F2 12.0 Tf  [(of artificial intelligence. But just what is artificial intelligence ? How much of this technology already exists ? )] TJ ET
+BT 34.016 461.699 Td 0.000 Tw /F2 12.0 Tf  [(And who is working to develop it further ?)] TJ ET
+BT 34.016 435.443 Td 0.408 Tw /F2 12.0 Tf  [(Artificial intelligence \(AI\) is not defined in the same way by all who use the term because of disagreement over )] TJ ET
+BT 34.016 421.187 Td 1.689 Tw /F2 12.0 Tf  [(what intelligent behavior is. One faction within the AI community defines intelligence as the ability to cope )] TJ ET
+BT 34.016 406.931 Td 1.207 Tw /F2 12.0 Tf  [(with change and to incorporate new information in order to improve performance. Existing technologies don't )] TJ ET
+BT 34.016 392.675 Td 1.567 Tw /F2 12.0 Tf  [(appear capable of this. The broader view, however, is that artificial intelligence is that which mimics human )] TJ ET
+BT 34.016 378.419 Td 1.114 Tw /F2 12.0 Tf  [(reasoning or sensing. We already see examples of this capability in expert systems, industrial robots, machine )] TJ ET
+BT 34.016 364.163 Td 0.000 Tw /F2 12.0 Tf  [(vision, parallel processing, and neural networks, all of which are discussed below.)] TJ ET
+BT 34.016 337.907 Td 1.803 Tw /F2 12.0 Tf  [(Because AI is hard to define, it is hard to state who works in it and to describe their occupations. Workers )] TJ ET
+BT 34.016 323.651 Td 1.570 Tw /F2 12.0 Tf  [(include researchers with advanced degrees and software designers who have a bachelor's degree in computer )] TJ ET
+BT 34.016 309.395 Td 1.567 Tw /F2 12.0 Tf  [(science with an emphasis on AI. Currently, relatively few people are engaged in developing AI products, no )] TJ ET
+BT 34.016 295.139 Td 2.070 Tw /F2 12.0 Tf  [(more than 8,000 according to knowledgeable sources. Rapid growth in demand for workers to develop this )] TJ ET
+BT 34.016 280.883 Td 0.000 Tw /F2 12.0 Tf  [(software is expected, but the number of new jobs in this area will still be relatively small.)] TJ ET
+BT 34.016 211.889 Td /F1 14.0 Tf  [(Expert Systems)] TJ ET
+BT 34.016 185.148 Td 0.837 Tw /F2 12.0 Tf  [(The most commercially successful AI application is the expert system. An expert, or knowledge-based, system )] TJ ET
+BT 34.016 170.892 Td 2.191 Tw /F2 12.0 Tf  [(is a computer program that acts as a consultant to decisionmakers. The program contains information on a )] TJ ET
+BT 34.016 156.636 Td 1.893 Tw /F2 12.0 Tf  [(particular subject, known as the knowledge base, that is most frequently represented as a series of "if-then" )] TJ ET
+BT 34.016 142.380 Td 1.093 Tw /F2 12.0 Tf  [(rules, although in some systems the knowledge is represented as frames, objects, or semantic networks. When )] TJ ET
+BT 34.016 128.124 Td 1.139 Tw /F2 12.0 Tf  [(applied to a problem, the system searches for solutions in the same logical patterns that human experts would )] TJ ET
+BT 34.016 113.868 Td 0.753 Tw /F2 12.0 Tf  [(use. The largest and most complex expert systems have over a thousand rules and may take 2 years or more to )] TJ ET
+BT 34.016 99.612 Td 1.393 Tw /F2 12.0 Tf  [(create. Development takes so long because, for the system to be usable, the expertise to be captured must be )] TJ ET
+BT 34.016 85.356 Td 3.206 Tw /F2 12.0 Tf  [(clearly defined, and all the steps a human expert would take to draw a conclusion must be spelled out )] TJ ET
+BT 34.016 71.100 Td 0.819 Tw /F2 12.0 Tf  [(beforehand. This is the job of the knowledge engineer, who is the link between the software developer and the )] TJ ET
+BT 34.016 56.844 Td 0.000 Tw /F2 12.0 Tf  [(end user.)] TJ ET
+endstream
+endobj
+8 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Times-Bold
+/Encoding /WinAnsiEncoding
+>>
+endobj
+9 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F2
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+>>
+endobj
+10 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 11 0 R
+>>
+endobj
+11 0 obj
+<<
+/Length 6225 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 34.016 734.579 Td 0.231 Tw /F2 12.0 Tf  [(Knowledge engineers are somewhat similar to systems analysts. They must not only know the capabilities of the )] TJ ET
+BT 34.016 720.323 Td 3.620 Tw /F2 12.0 Tf  [(computer hardware and software but also understand the user's operation and what he or she wants to )] TJ ET
+BT 34.016 706.067 Td 1.737 Tw /F2 12.0 Tf  [(accomplish through automation. They must also be able to deal effectively with people from many different )] TJ ET
+BT 34.016 691.811 Td 3.918 Tw /F2 12.0 Tf  [(backgrounds -- for example, medical researchers, engineers, financial analysts, and industrial machinery )] TJ ET
+BT 34.016 677.555 Td 0.000 Tw /F2 12.0 Tf  [(mechanics.)] TJ ET
+BT 34.016 651.299 Td 3.048 Tw /F2 12.0 Tf  [(The knowledge engineer interviews one or more experts and then distills the information relevant to the )] TJ ET
+BT 34.016 637.043 Td 2.063 Tw /F2 12.0 Tf  [(application into a set of rules or some other form of knowledge representation that reflects the behavior of )] TJ ET
+BT 34.016 622.787 Td 1.558 Tw /F2 12.0 Tf  [(human experts. It can be difficult to get people to part with knowledge they have spent a lifetime acquiring. )] TJ ET
+BT 34.016 608.531 Td 2.710 Tw /F2 12.0 Tf  [(Even when the experts are eager participants, they can miss the importance of some subtle steps in their )] TJ ET
+BT 34.016 594.275 Td 0.000 Tw /F2 12.0 Tf  [(decisionmaking process.)] TJ ET
+BT 34.016 568.019 Td 1.841 Tw /F2 12.0 Tf  [(When the knowledge representations are complete, a programmer creates the knowledge base by coding the )] TJ ET
+BT 34.016 553.763 Td 2.789 Tw /F2 12.0 Tf  [(information in an AI language. In some situations, the knowledge engineer does the actual programming. )] TJ ET
+BT 34.016 539.507 Td 0.000 Tw /F2 12.0 Tf  [(Finally, there is debugging, testing with trial problems, and refining.)] TJ ET
+BT 34.016 513.251 Td 0.288 Tw /F2 12.0 Tf  [(Expert systems have been around since the early 1970's. One of the classic systems is MYCIN, which diagnoses )] TJ ET
+BT 34.016 498.995 Td 1.253 Tw /F2 12.0 Tf  [(blood infections. MYCIN represents the knowledge of physicians who are experts in this field, and it enables )] TJ ET
+BT 34.016 484.739 Td 0.000 Tw /F2 12.0 Tf  [(other, less knowledgeable, physicians to consult with these experts for help in diagnosis and treatment.)] TJ ET
+BT 34.016 458.483 Td 1.029 Tw /F2 12.0 Tf  [(EMPTY MYCIN, a later development, represented a major advance for AI. It separated the information about )] TJ ET
+BT 34.016 444.227 Td 2.385 Tw /F2 12.0 Tf  [(blood infections from the inference engine, the rules that apply the knowledge. This breakthrough allowed )] TJ ET
+BT 34.016 429.971 Td 0.524 Tw /F2 12.0 Tf  [(MYCIN'S inference engine to be used with other knowledge bases and led to the development of expert system )] TJ ET
+BT 34.016 415.715 Td 0.000 Tw /F2 12.0 Tf  [(shells.)] TJ ET
+BT 34.016 389.459 Td 2.020 Tw /F2 12.0 Tf  [(An expert system shell is, in effect, an expert system without the expertise. More technically, it is a set of )] TJ ET
+BT 34.016 375.203 Td 0.236 Tw /F2 12.0 Tf  [(utilities that programmers can integrate into their existing computer system. Users can then fill the shell with the )] TJ ET
+BT 34.016 360.947 Td 1.363 Tw /F2 12.0 Tf  [(knowledge needed for a specific application. Shell programs permit programmers to create expert systems on )] TJ ET
+BT 34.016 346.691 Td 0.000 Tw /F2 12.0 Tf  [(desktop computers using conventional languages.)] TJ ET
+BT 34.016 320.435 Td 1.314 Tw /F2 12.0 Tf  [(Because shells are much less expensive and more flexible than customized expert systems, their development )] TJ ET
+BT 34.016 306.179 Td 0.208 Tw /F2 12.0 Tf  [(has caused the overall use of expert systems to skyrocket. No one knows precisely how many expert systems are )] TJ ET
+BT 34.016 291.923 Td 2.365 Tw /F2 12.0 Tf  [(currently in operation, partly because companies now recognize these systems as competitive weapons and )] TJ ET
+BT 34.016 277.667 Td 4.034 Tw /F2 12.0 Tf  [(some companies are unwilling to divulge information about them. Nevertheless, knowledgeable sources )] TJ ET
+BT 34.016 263.411 Td 2.484 Tw /F2 12.0 Tf  [(estimate that several thousand are in use, and the number is growing rapidly. Between one-half and three-)] TJ ET
+BT 34.016 249.155 Td 1.981 Tw /F2 12.0 Tf  [(fourths of the Fortune 500 corporations now use expert systems; many large corporations have hundreds of )] TJ ET
+BT 34.016 234.899 Td 0.000 Tw /F2 12.0 Tf  [(systems in use.)] TJ ET
+BT 34.016 208.643 Td 0.295 Tw /F2 12.0 Tf  [(The popularity of expert systems is growing because more and more organizations are finding that they improve )] TJ ET
+BT 34.016 194.387 Td 2.018 Tw /F2 12.0 Tf  [(quality, raise productivity, cut costs, and increase profits by helping their employees "work smarter". These )] TJ ET
+BT 34.016 180.131 Td 1.334 Tw /F2 12.0 Tf  [(tools enable computers to deal with ambiguity and questions of judgment that are too subtle for conventional )] TJ ET
+BT 34.016 165.875 Td 3.409 Tw /F2 12.0 Tf  [(data processing techniques. They also help workers handle much larger quantities of data when making )] TJ ET
+BT 34.016 151.619 Td 4.099 Tw /F2 12.0 Tf  [(decisions. Regardless of the setting, these systems give the user alternatives ranked according to their )] TJ ET
+BT 34.016 137.363 Td 0.299 Tw /F2 12.0 Tf  [(probability of success. These probabilities are based on the data available; as more data are added, the reliability )] TJ ET
+BT 34.016 123.107 Td 0.336 Tw /F2 12.0 Tf  [(of the results improves. Thus, the system appears to learn from the program as it adapts new knowledge into the )] TJ ET
+BT 34.016 108.851 Td 0.000 Tw /F2 12.0 Tf  [(database.)] TJ ET
+BT 34.016 82.595 Td 0.157 Tw /F2 12.0 Tf  [(It also allows users to ask both "What if I do this ?" and "What is the best solution for this problem ?" Users also )] TJ ET
+BT 34.016 68.339 Td 0.573 Tw /F2 12.0 Tf  [(can ask the computer the question "Why is this the best solution ? " before applying the results. Expert systems )] TJ ET
+BT 34.016 54.083 Td 3.135 Tw /F2 12.0 Tf  [(help workers at many levels make better decisions by providing them with additional information and a )] TJ ET
+endstream
+endobj
+12 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 13 0 R
+>>
+endobj
+13 0 obj
+<<
+/Length 5505 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 34.016 746.579 Td 1.108 Tw /F2 12.0 Tf  [(structured way to use that information. These systems are being used in many different types of organizations )] TJ ET
+BT 34.016 732.323 Td 0.210 Tw /F2 12.0 Tf  [(throughout the economy. For example, public utilities use them to monitor and improve the performance of their )] TJ ET
+BT 34.016 718.067 Td 2.584 Tw /F2 12.0 Tf  [(coal-fired boilers. About one-fourth of the Nation's largest insurance carriers currently use expert systems, )] TJ ET
+BT 34.016 703.811 Td 0.518 Tw /F2 12.0 Tf  [(primarily to analyze insurance applications. Manufacturers use them to design products, control processing, and )] TJ ET
+BT 34.016 689.555 Td 1.237 Tw /F2 12.0 Tf  [(to serve customers who have a problem with a product. Sitting at a computer, employees enter the symptoms )] TJ ET
+BT 34.016 675.299 Td 0.202 Tw /F2 12.0 Tf  [(and other data provided by the caller, and the program helps them diagnose the problem and prescribe corrective )] TJ ET
+BT 34.016 661.043 Td 0.000 Tw /F2 12.0 Tf  [(measures.)] TJ ET
+BT 34.016 592.049 Td /F1 14.0 Tf  [(Related Technologies)] TJ ET
+BT 34.016 565.308 Td 2.537 Tw /F2 12.0 Tf  [(Expert systems are only one of a cluster of AI technologies with commercial significance. Others involve )] TJ ET
+BT 34.016 551.052 Td 0.626 Tw /F2 12.0 Tf  [(creating equipment with a human-like ability to move, see, and communicate. The problems encountered so far )] TJ ET
+BT 34.016 536.796 Td 1.492 Tw /F2 12.0 Tf  [(have driven home to scientists just how complex we humans are and how difficult it is to simulate even our )] TJ ET
+BT 34.016 522.540 Td 1.086 Tw /F2 12.0 Tf  [(most basic reasoning processes. Getting a robot to do something that a baby does naturally requires hundreds, )] TJ ET
+BT 34.016 508.284 Td 0.000 Tw /F2 12.0 Tf  [(perhaps thousands, of detailed instructions.)] TJ ET
+BT 34.016 482.028 Td 1.162 Tw /F2 12.0 Tf  [(Most researchers now concede that it could be a long time before the necessary breakthroughs occur that will )] TJ ET
+BT 34.016 467.772 Td 2.319 Tw /F2 12.0 Tf  [(lead to the production of machines that think or reason in any fully human sense of the word, or that act )] TJ ET
+BT 34.016 453.516 Td 0.648 Tw /F2 12.0 Tf  [(autonomously, or that speak and understand human speech in all its complexity. Nevertheless, researchers keep )] TJ ET
+BT 34.016 439.260 Td 0.000 Tw /F2 12.0 Tf  [(making advances in these areas.)] TJ ET
+BT 34.016 409.044 Td /F1 12.0 Tf  [(Robotics)] TJ ET
+BT 34.016 378.828 Td 0.338 Tw /F2 12.0 Tf  [(Although a far cry from Robobutler, robots are increasingly useful. Industrial robots have been around for about )] TJ ET
+BT 34.016 364.572 Td 1.358 Tw /F2 12.0 Tf  [(25 years, doing simple, repetitive tasks requiring no decisionmaking, and doing them with superhuman speed )] TJ ET
+BT 34.016 350.316 Td 2.267 Tw /F2 12.0 Tf  [(and precision. They now perform a remarkably wide variety of tasks, from assembling computers, artillery )] TJ ET
+BT 34.016 336.060 Td 1.425 Tw /F2 12.0 Tf  [(shells, and vacuum cleaners to popping frozen dinners into their trays, inspecting different kinds of products, )] TJ ET
+BT 34.016 321.804 Td 1.004 Tw /F2 12.0 Tf  [(and drilling holes for brain surgery. They are also used in hazardous environments, such as mines and nuclear )] TJ ET
+BT 34.016 307.548 Td 0.000 Tw /F2 12.0 Tf  [(powerplants, and for handling toxic waste.)] TJ ET
+BT 34.016 281.292 Td 0.871 Tw /F2 12.0 Tf  [(Significant improvements have been made in robotics technology in recent years. For example, to reprogram a )] TJ ET
+BT 34.016 267.036 Td 1.134 Tw /F2 12.0 Tf  [(new robot arm, an operator simply selects from among choices that the robot itself offers; a worker can teach )] TJ ET
+BT 34.016 252.780 Td 0.495 Tw /F2 12.0 Tf  [(the robot's eyes to recognize a new part in less than 10 minutes. The number of robots in use has grown to over )] TJ ET
+BT 34.016 238.524 Td 0.961 Tw /F2 12.0 Tf  [(32,000. As prices fall, they will become more attractive to potential users, especially as employers continue to )] TJ ET
+BT 34.016 224.268 Td 0.674 Tw /F2 12.0 Tf  [(experience difficulty attracting workers. Robot technology may be especially desirable in fast-food preparation, )] TJ ET
+BT 34.016 210.012 Td 1.551 Tw /F2 12.0 Tf  [(some areas within health care, building maintenance, and security, industries that traditionally have relied on )] TJ ET
+BT 34.016 195.756 Td 0.000 Tw /F2 12.0 Tf  [(young people.)] TJ ET
+BT 34.016 165.540 Td /F1 12.0 Tf  [(Machine vision)] TJ ET
+BT 34.016 135.324 Td 0.382 Tw /F2 12.0 Tf  [(Advances in computer capabilities and in the understanding of how image processing should be performed have )] TJ ET
+BT 34.016 121.068 Td 1.897 Tw /F2 12.0 Tf  [(led to the development of software that enables vision systems to better simulate the human visual process. )] TJ ET
+BT 34.016 106.812 Td 0.000 Tw /F2 12.0 Tf  [(These systems can store a digitized photograph of an object or scene and recognize a good bit of what is there.)] TJ ET
+BT 34.016 80.556 Td 3.234 Tw /F2 12.0 Tf  [(Machine vision is preferable to human vision in many manufacturing and inspecting processes. Machine )] TJ ET
+BT 34.016 66.300 Td 0.784 Tw /F2 12.0 Tf  [(systems can measure items more precisely and store a standard frame of reference for judging an object over a )] TJ ET
+BT 34.016 52.044 Td 1.159 Tw /F2 12.0 Tf  [(longer period. In addition, machine vision tends to offer faster inspection speeds. These systems are primarily )] TJ ET
+endstream
+endobj
+14 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 15 0 R
+>>
+endobj
+15 0 obj
+<<
+/Length 5626 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 34.016 746.579 Td 1.004 Tw /F2 12.0 Tf  [(used to make robots more effective in industrial settings. However, they are being used more often in medical )] TJ ET
+BT 34.016 732.323 Td 0.362 Tw /F2 12.0 Tf  [(research, such as analyzing blood samples. Natural language processing. AI research has led to the development )] TJ ET
+BT 34.016 718.067 Td 0.874 Tw /F2 12.0 Tf  [(of computers that can understand simple written instructions with limited vocabulary, such as "List all widgets )] TJ ET
+BT 34.016 703.811 Td 1.024 Tw /F2 12.0 Tf  [(sold in July". This is an improvement over conventional programming languages, but it is limited to the small )] TJ ET
+BT 34.016 689.555 Td 0.000 Tw /F2 12.0 Tf  [(number of English words that the computer can digest.)] TJ ET
+BT 34.016 663.299 Td 0.850 Tw /F2 12.0 Tf  [(Artificial intelligence software also is being incorporated into speech recognition systems that make computers )] TJ ET
+BT 34.016 649.043 Td 2.093 Tw /F2 12.0 Tf  [(more user friendly. Systems are available that permit executives to access their data bases without entering )] TJ ET
+BT 34.016 634.787 Td 1.313 Tw /F2 12.0 Tf  [(commands on the keyboard and that enable disabled persons to control computers. Other applications include )] TJ ET
+BT 34.016 620.531 Td 1.180 Tw /F2 12.0 Tf  [(automatic dialers for cellular car phones, thus enabling the driver to keep at least one hand on the wheel, and )] TJ ET
+BT 34.016 606.275 Td 0.000 Tw /F2 12.0 Tf  [(systems that facilitate inventory control in factories and baggage handling at airports.)] TJ ET
+BT 34.016 576.059 Td /F1 12.0 Tf  [(Parallel processing)] TJ ET
+BT 34.016 545.843 Td 0.470 Tw /F2 12.0 Tf  [(Because speech recognition and machine vision applications require computers to sort through a vast amount of )] TJ ET
+BT 34.016 531.587 Td 2.590 Tw /F2 12.0 Tf  [(data, a major research effort has focused on ways to increase the processing speed of computers. Parallel )] TJ ET
+BT 34.016 517.331 Td 1.254 Tw /F2 12.0 Tf  [(processing -- linking large numbers of smaller computers together and assigning each a portion of the overall )] TJ ET
+BT 34.016 503.075 Td 0.000 Tw /F2 12.0 Tf  [(job -- yields much faster speed and greater power at a fraction of the cost of supercomputers or even mainframes.)] TJ ET
+BT 34.016 472.859 Td /F1 12.0 Tf  [(Neural networks)] TJ ET
+BT 34.016 442.643 Td 1.069 Tw /F2 12.0 Tf  [(Another new development is neural network computing, which attempts to duplicate the way the human brain )] TJ ET
+BT 34.016 428.387 Td 0.433 Tw /F2 12.0 Tf  [(processes information. Conventional computer circuits are arranged in series, with each transistor linked to only )] TJ ET
+BT 34.016 414.131 Td 0.954 Tw /F2 12.0 Tf  [(two or three others. In neural networks, each transistor is hooked up to most, if not all, of the others. A signal )] TJ ET
+BT 34.016 399.875 Td 0.160 Tw /F2 12.0 Tf  [(entering the system quickly fans out across the entire network, and all of the transistors process it. This new type )] TJ ET
+BT 34.016 385.619 Td 0.651 Tw /F2 12.0 Tf  [(of processing can be achieved in two different ways, with specially designed neural network computers or with )] TJ ET
+BT 34.016 371.363 Td 0.000 Tw /F2 12.0 Tf  [(advanced software used on standard computers.)] TJ ET
+BT 34.016 345.107 Td 0.776 Tw /F2 12.0 Tf  [(Neural networks are not only faster than conventional computers, they can also develop new if-then rules from )] TJ ET
+BT 34.016 330.851 Td 1.429 Tw /F2 12.0 Tf  [(the data they receive. They also have superb pattern-recognition capability. For example, once a network has )] TJ ET
+BT 34.016 316.595 Td 1.111 Tw /F2 12.0 Tf  [(been shown three or four views of a particular face, it will instantly recognize that face from any other angle. )] TJ ET
+BT 34.016 302.339 Td 1.112 Tw /F2 12.0 Tf  [(This pattern matching has tremendous implications for military applications, product assembly and inspection, )] TJ ET
+BT 34.016 288.083 Td 0.000 Tw /F2 12.0 Tf  [(and natural language processing.)] TJ ET
+BT 34.016 219.089 Td /F1 14.0 Tf  [(Employment Trends)] TJ ET
+BT 34.016 192.348 Td 1.569 Tw /F2 12.0 Tf  [(The demand for AI specialists has changed over the years, reflecting the different stages of development the )] TJ ET
+BT 34.016 178.092 Td 0.487 Tw /F2 12.0 Tf  [(field has undergone. For years, activity in AI was restricted to college campuses and corporate research centers. )] TJ ET
+BT 34.016 163.836 Td 5.736 Tw /F2 12.0 Tf  [(Researchers came from a wide variety of academic backgrounds, including biomechanics, computer )] TJ ET
+BT 34.016 149.580 Td 0.896 Tw /F2 12.0 Tf  [(engineering, computer science, economics, electrical engineering, linguistics, neurobiology, optics engineering, )] TJ ET
+BT 34.016 135.324 Td 3.839 Tw /F2 12.0 Tf  [(physics, and psychology. Most had advanced degrees, usually doctorates. When the technology became )] TJ ET
+BT 34.016 121.068 Td 3.114 Tw /F2 12.0 Tf  [(commercially viable, many of the scientists involved in research left their laboratories to start their own )] TJ ET
+BT 34.016 106.812 Td 0.000 Tw /F2 12.0 Tf  [(companies.)] TJ ET
+BT 34.016 80.556 Td 0.621 Tw /F2 12.0 Tf  [(At this point, the competition for experienced AI specialists intensified, with salaries increasing significantly as )] TJ ET
+BT 34.016 66.300 Td 0.696 Tw /F2 12.0 Tf  [(employers competed for available workers. This development, along with the publicity surrounding the success )] TJ ET
+BT 34.016 52.044 Td 0.766 Tw /F2 12.0 Tf  [(of specific AI products, stimulated more interest in the field. Both the availability of training programs and the )] TJ ET
+endstream
+endobj
+16 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 17 0 R
+>>
+endobj
+17 0 obj
+<<
+/Length 6286 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 34.016 746.579 Td 0.000 Tw /F2 12.0 Tf  [(number of students taking these courses increased.)] TJ ET
+BT 34.016 720.323 Td 2.929 Tw /F2 12.0 Tf  [(Although there are still spot shortages for experienced professionals in certain specialties, the widespread )] TJ ET
+BT 34.016 706.067 Td 0.000 Tw /F2 12.0 Tf  [(shortage seems to have eased. Salary increases for AI professionals have moderated.)] TJ ET
+BT 34.016 679.811 Td 1.858 Tw /F2 12.0 Tf  [(Skill requirements are changing. Requirements are coming down as the field moves out of the research and )] TJ ET
+BT 34.016 665.555 Td 3.865 Tw /F2 12.0 Tf  [(development phase and into product refinement and implementation. Maintaining software based on AI )] TJ ET
+BT 34.016 651.299 Td 1.022 Tw /F2 12.0 Tf  [(principles is less demanding than developing the original technology. The use of expert system shells has also )] TJ ET
+BT 34.016 637.043 Td 2.737 Tw /F2 12.0 Tf  [(played a major role in this change. Developing a complex, standalone expert system requires much more )] TJ ET
+BT 34.016 622.787 Td 0.477 Tw /F2 12.0 Tf  [(programming skill and experience than does adapting a shell to the needs of a user. Because of this evolution, a )] TJ ET
+BT 34.016 608.531 Td 0.608 Tw /F2 12.0 Tf  [(bachelor's degree in computer science, with an emphasis on AI, is acceptable for a wide array of jobs, although )] TJ ET
+BT 34.016 594.275 Td 1.775 Tw /F2 12.0 Tf  [(persons involved in the design of AI software still need advanced degrees. Some employers even let people )] TJ ET
+BT 34.016 580.019 Td 0.000 Tw /F2 12.0 Tf  [(without advanced degrees perform knowledge engineering, generally with shells.)] TJ ET
+BT 34.016 553.763 Td 2.566 Tw /F2 12.0 Tf  [(Demand for computer professionals with AI skills will continue to rise. Even if further advances in basic )] TJ ET
+BT 34.016 539.507 Td 2.680 Tw /F2 12.0 Tf  [(technology aren't made -- and this is highly unlikely -- the development, integration, implementation, and )] TJ ET
+BT 34.016 525.251 Td 1.029 Tw /F2 12.0 Tf  [(maintenance of products based on existing technologies will require many additional skilled workers. Demand )] TJ ET
+BT 34.016 510.995 Td 0.000 Tw /F2 12.0 Tf  [(for workers will also increase as more organizations use AI products.)] TJ ET
+BT 34.016 484.739 Td 0.429 Tw /F2 12.0 Tf  [(Growth will occur in software houses and hardware developers producing AI products and in large corporations )] TJ ET
+BT 34.016 470.483 Td 0.382 Tw /F2 12.0 Tf  [(who are developing their own AI capabilities. In these organizations, demand will be strongest for programmers )] TJ ET
+BT 34.016 456.227 Td 1.279 Tw /F2 12.0 Tf  [(who can program in LISP or other AI languages. Demand is also growing for knowledge engineers, who can )] TJ ET
+BT 34.016 441.971 Td 0.000 Tw /F2 12.0 Tf  [(work closely between the programmer and the user to design expert systems.)] TJ ET
+BT 34.016 415.715 Td 1.338 Tw /F2 12.0 Tf  [(The primary area of growth, however, will be in user organizations. More programmers and systems analysts )] TJ ET
+BT 34.016 401.459 Td 1.018 Tw /F2 12.0 Tf  [(with AI skills will be needed to integrate shell programs into existing systems and to develop and maintain in-)] TJ ET
+BT 34.016 387.203 Td 1.893 Tw /F2 12.0 Tf  [(house systems, much as in-house computer professionals develop accounting or database applications today. )] TJ ET
+BT 34.016 372.947 Td 0.669 Tw /F2 12.0 Tf  [(Artificial intelligence is clearly merging with the field in which most computer professionals are employed, the )] TJ ET
+BT 34.016 358.691 Td 1.725 Tw /F2 12.0 Tf  [(development and maintenance of management information systems \(MIS\). In this environment, the strongest )] TJ ET
+BT 34.016 344.435 Td 0.920 Tw /F2 12.0 Tf  [(demand will be for programmers and systems analysts with experience in regular systems and a good working )] TJ ET
+BT 34.016 330.179 Td 0.000 Tw /F2 12.0 Tf  [(knowledge of AI.)] TJ ET
+BT 34.016 261.185 Td /F1 14.0 Tf  [(Where To Get the Training)] TJ ET
+BT 34.016 234.444 Td 0.564 Tw /F2 12.0 Tf  [(Those with AI training will be better able to deal with changes coming down the road. The trend to incorporate )] TJ ET
+BT 34.016 220.188 Td 2.364 Tw /F2 12.0 Tf  [(AI principles and techniques into software is accelerating, and many observers predict that these advanced )] TJ ET
+BT 34.016 205.932 Td 0.205 Tw /F2 12.0 Tf  [(languages will become the programming standard. If this does occur, those already knowledgeable about AI will )] TJ ET
+BT 34.016 191.676 Td 2.401 Tw /F2 12.0 Tf  [(have a distinct advantage. Between 80 and 100 colleges and universities offer AI courses in the computer )] TJ ET
+BT 34.016 177.420 Td 2.122 Tw /F2 12.0 Tf  [(science department, and the number is growing. At these schools, a student can earn a degree in computer )] TJ ET
+BT 34.016 163.164 Td 0.203 Tw /F2 12.0 Tf  [(science with an emphasis in AI. Students who get extensive training in computer science, especially applications )] TJ ET
+BT 34.016 148.908 Td 1.837 Tw /F2 12.0 Tf  [(development and programming -- coupled with courses in LISP or other advanced languages, expert system )] TJ ET
+BT 34.016 134.652 Td 0.899 Tw /F2 12.0 Tf  [(development, as well as machine vision, natural language, and other applications -- should have very good job )] TJ ET
+BT 34.016 120.396 Td 0.485 Tw /F2 12.0 Tf  [(prospects. Jobseekers with this background are prepared for both the old and the new, enabling them to work in )] TJ ET
+BT 34.016 106.140 Td 0.732 Tw /F2 12.0 Tf  [(a traditional MIS environment as well as in an AI environment. The training situation for knowledge engineers )] TJ ET
+BT 34.016 91.884 Td 1.986 Tw /F2 12.0 Tf  [(is similar to that for systems analysts a decade ago. There are no formal programs for these people, or job )] TJ ET
+BT 34.016 77.628 Td 2.606 Tw /F2 12.0 Tf  [(specifications for that matter. Currently only about 20 schools, mostly on the west coast, offer courses in )] TJ ET
+BT 34.016 63.372 Td 0.457 Tw /F2 12.0 Tf  [(knowledge engineering. However, this number is expected to rise. Training in knowledge engineering and other )] TJ ET
+BT 34.016 49.116 Td 2.285 Tw /F2 12.0 Tf  [(aspects of artificial intelligence is also available through AI consulting firms and professional development )] TJ ET
+endstream
+endobj
+18 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 19 0 R
+>>
+endobj
+19 0 obj
+<<
+/Length 85 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 34.016 746.579 Td 0.000 Tw /F2 12.0 Tf  [(companies.)] TJ ET
+endstream
+endobj
+xref
+0 20
+0000000000 65535 f 
+0000000008 00000 n 
+0000000073 00000 n 
+0000000119 00000 n 
+0000000318 00000 n 
+0000000347 00000 n 
+0000000461 00000 n 
+0000000524 00000 n 
+0000005796 00000 n 
+0000005904 00000 n 
+0000006013 00000 n 
+0000006078 00000 n 
+0000012356 00000 n 
+0000012421 00000 n 
+0000017979 00000 n 
+0000018044 00000 n 
+0000023723 00000 n 
+0000023788 00000 n 
+0000030127 00000 n 
+0000030192 00000 n 
+trailer
+<<
+/Size 20
+/Root 1 0 R
+/Info 5 0 R
+>>
+startxref
+30328
+%%EOF

@@ -1,0 +1,168 @@
+%PDF-1.3
+1 0 obj
+<< /Type /Catalog
+/Outlines 2 0 R
+/Pages 3 0 R >>
+endobj
+2 0 obj
+<< /Type /Outlines /Count 0 >>
+endobj
+3 0 obj
+<< /Type /Pages
+/Kids [6 0 R
+11 0 R
+]
+/Count 2
+/Resources <<
+/ProcSet 4 0 R
+/Font << 
+/F1 8 0 R
+/F2 9 0 R
+/F3 10 0 R
+>>
+>>
+/MediaBox [0.000 0.000 612.000 792.000]
+ >>
+endobj
+4 0 obj
+[/PDF /Text ]
+endobj
+5 0 obj
+<<
+/Creator (DOMPDF)
+/CreationDate (D:20230828024205+02'00')
+/ModDate (D:20230828024205+02'00')
+>>
+endobj
+6 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 7 0 R
+>>
+endobj
+7 0 obj
+<<
+/Length 6754 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 229.509 725.937 Td /F1 18.0 Tf  [(How to be a Hacker)] TJ ET
+BT 265.500 695.200 Td /F1 12.0 Tf  [(Erik K. Sorgatz)] TJ ET
+BT 34.016 668.915 Td /F2 12.0 Tf  [( )] TJ ET
+BT 34.016 630.659 Td 0.426 Tw /F2 12.0 Tf  [(So you wanna be a HACKER huh ? <Bwahahaha !> It's a state-of-MIND !... you can induce it - but only if you )] TJ ET
+BT 34.016 616.403 Td 1.818 Tw /F2 12.0 Tf  [(are willing to drive yourself mad enough ! Go read and practice until you have mastered at least Assembly )] TJ ET
+BT 34.016 602.147 Td 1.592 Tw /F2 12.0 Tf  [(language and Intermediate Level Electronics ! Without this foundation you'll be just another little geek, who )] TJ ET
+BT 34.016 587.891 Td 1.034 Tw /F2 12.0 Tf  [(might know the magic words to the spell but doesn't understand what he's doing ! So RTFM !... so what does )] TJ ET
+BT 34.016 573.635 Td 0.393 Tw /F2 12.0 Tf  [(that mean ? Read The Fucking Manual ! You will be sooo amazed at how easy most things are if you just try to )] TJ ET
+BT 34.016 559.379 Td 0.137 Tw /F2 12.0 Tf  [(read the manual first ! The truth is : most people can't read. Or they read poorly if they read at all. So if you can't )] TJ ET
+BT 34.016 545.123 Td 0.579 Tw /F2 12.0 Tf  [(really read... STOP RIGHT HERE. GO learn to read first. If you can't read at a minimum 12th Grade level you )] TJ ET
+BT 34.016 530.867 Td 0.000 Tw /F2 12.0 Tf  [(can't be a hacker. Reading is the basic skill you must have to do EVERYTHING BEYOND THIS POINT.)] TJ ET
+BT 34.016 504.611 Td 0.688 Tw /F2 12.0 Tf  [(Tell your friends you can't party... you're busy. Spend at least 4 hours a day at your new-found fascination... or )] TJ ET
+BT 34.016 490.355 Td 0.996 Tw /F2 12.0 Tf  [(decide right here and now that you can't cut it ! If you CAN, get a copy of MINIX or LINUX... start learning )] TJ ET
+BT 34.016 476.099 Td 2.258 Tw /F2 12.0 Tf  [(about OPERATING SYSTEMS. Then start your 1st real hack... try building a computer-controlled, DTMF )] TJ ET
+BT 34.016 461.843 Td 0.292 Tw /F2 12.0 Tf  [(dialer card for your cheap PC... write the code to use it with, make it a TSR to keep life interesting... now port it )] TJ ET
+BT 34.016 447.587 Td 0.000 Tw /F2 12.0 Tf  [(to MINIX or whatever... better yet, port it as an IOCTL call at kernel level ! You keep reading...)] TJ ET
+BT 34.016 421.331 Td 2.346 Tw /F2 12.0 Tf  [(Now you're ready to take on something more complex - go to the library, start a literature search; topic : )] TJ ET
+BT 34.016 407.075 Td 0.736 Tw /F2 12.0 Tf  [(Telephone Technologies. RTFM ! Learn about the ancient cross-bar, the Pre-ESS systems, the fab MFTSS, the )] TJ ET
+BT 34.016 392.819 Td 1.514 Tw /F2 12.0 Tf  [(TELEX boxes and circuits... keep reading... buy up an older, cheap \(like under $50\) cellular phone... by this )] TJ ET
+BT 34.016 378.563 Td 0.317 Tw /F2 12.0 Tf  [(time you should already have a subscription to )] TJ ET
+BT 263.195 378.563 Td 0.317 Tw /F3 12.0 Tf  [(Nuts & Volts)] TJ ET
+BT 325.844 378.563 Td 0.317 Tw /F2 12.0 Tf  [( as well as a few other grassroots technology pubs... )] TJ ET
+BT 34.016 364.307 Td 1.517 Tw /F2 12.0 Tf  [(buy a copy of the )] TJ ET
+BT 127.915 364.307 Td 1.517 Tw /F3 12.0 Tf  [(Cellular Hacker's Bible)] TJ ET
+BT 244.841 364.307 Td 1.517 Tw /F2 12.0 Tf  [(... start by doing something simple.. ..disassemble and re-write the )] TJ ET
+BT 34.016 350.051 Td 0.612 Tw /F2 12.0 Tf  [(phone's control ROM to allow it to function as an 800MHZ scanner... hopefully you've assembled a large array )] TJ ET
+BT 34.016 335.795 Td 2.161 Tw /F2 12.0 Tf  [(of tools and test gear by now. You've got a good dual-trace scope, some pc-based PROM burner, a signal )] TJ ET
+BT 34.016 321.539 Td 1.711 Tw /F2 12.0 Tf  [(generator, a logic probe or two, maybe even a microprocessor-emulator for the 5051, the Z80, the 68010 or )] TJ ET
+BT 34.016 307.283 Td 0.514 Tw /F2 12.0 Tf  [(something... you may have been dragged into some fields-afar by life - incorporate them : if somebody dragged )] TJ ET
+BT 34.016 293.027 Td 0.984 Tw /F2 12.0 Tf  [(you into SCUBA, build your own sonar. If you have gotten interested in amateur radio, you can build a lot of )] TJ ET
+BT 34.016 278.771 Td 0.282 Tw /F2 12.0 Tf  [(swell stuff... I recommend you checkout Packet's AX25A level2 protocol... very slick stuff ! If your bud's are all )] TJ ET
+BT 34.016 264.515 Td 0.735 Tw /F2 12.0 Tf  [(into motors, take a whak at doing your own Performance PROMS for GM's F.I. and spark advance curves... or )] TJ ET
+BT 34.016 250.259 Td 1.057 Tw /F2 12.0 Tf  [(try adapting some Volkswagen/BOSCHE Kjetronics F.I. to a Harley Davidson !... maybe you're into music so )] TJ ET
+BT 34.016 236.003 Td 0.836 Tw /F2 12.0 Tf  [(you buy a synthesizer and learn all about electronic music, you start hacking analog modules and build a nicer )] TJ ET
+BT 34.016 221.747 Td 1.578 Tw /F2 12.0 Tf  [(synth than you could buy ! Then you interface it to a MIDI port on a cheap 286AT and then hack up some )] TJ ET
+BT 34.016 207.491 Td 0.000 Tw /F2 12.0 Tf  [(sequencer software, or buy some and then disassemble it to fix all the bugs ! You keep reading...)] TJ ET
+BT 34.016 181.235 Td 1.895 Tw /F2 12.0 Tf  [(By now most of your friends are also "far into the pudding", you have either gained 50 lbs or gone totally )] TJ ET
+BT 34.016 166.979 Td 0.266 Tw /F2 12.0 Tf  [(skinny... your skin tone is 2 shades lighter from being indoors so long... most of the opposite sex is either totally )] TJ ET
+BT 34.016 152.723 Td 0.351 Tw /F2 12.0 Tf  [(freaked by or with you - they either dig you, or they don't !... you're probably knocking on the door of what will )] TJ ET
+BT 34.016 138.467 Td 0.530 Tw /F2 12.0 Tf  [(be a $60K+/yr job as a systems analyst... and you are well-aware that 90% of the people in this world can't talk )] TJ ET
+BT 34.016 124.211 Td 1.078 Tw /F2 12.0 Tf  [(their way out of a badly cooked steak at the local eatery, let alone install a new motherboard in their PC ! So )] TJ ET
+BT 34.016 109.955 Td 0.887 Tw /F2 12.0 Tf  [(you pick up some extra cash on doing shit like that for the straights... you keep reading, and RTFM'ing higher )] TJ ET
+BT 34.016 95.699 Td 2.021 Tw /F2 12.0 Tf  [(and higher, learning about networks... the VCR breaks down and your SO bitches about having to wait till )] TJ ET
+BT 34.016 81.443 Td 2.634 Tw /F2 12.0 Tf  [(monday to have it fixed... you fix it in about 40 minutes... the next day the clothes dryer starts to make )] TJ ET
+BT 34.016 67.187 Td 0.228 Tw /F2 12.0 Tf  [(squeeking noises like a 50' mouse, you've never fixed one before - but somehow it's not that difficult to open the )] TJ ET
+BT 34.016 52.931 Td 0.288 Tw /F2 12.0 Tf  [(bastard up and find the squeek and fix it... and suddenly it dawns on you that hacking code or hardware is pretty )] TJ ET
+endstream
+endobj
+8 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Times-Bold
+/Encoding /WinAnsiEncoding
+>>
+endobj
+9 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F2
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+>>
+endobj
+10 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F3
+/BaseFont /Times-Italic
+/Encoding /WinAnsiEncoding
+>>
+endobj
+11 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 12 0 R
+>>
+endobj
+12 0 obj
+<<
+/Length 1506 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 34.016 746.579 Td 0.000 Tw /F2 12.0 Tf  [(much the same ! You keep reading...)] TJ ET
+BT 34.016 720.323 Td 1.136 Tw /F2 12.0 Tf  [(Congrats, you are now a real hacker. Absolutly nothing but a lack of time \(or in some cases money\) can stop )] TJ ET
+BT 34.016 706.067 Td 1.318 Tw /F2 12.0 Tf  [(you. You are a true Technologic Philosopher... you can function in places a mere engineer or scientist would )] TJ ET
+BT 34.016 691.811 Td 1.406 Tw /F2 12.0 Tf  [(truly FEAR TO TREAD ! You can read better than Evelyn Wood, you have a collection of tools that would )] TJ ET
+BT 34.016 677.555 Td 0.579 Tw /F2 12.0 Tf  [(make a Master Machinist and a Prototype EE or ME cry. You can calculate series and parallel resonant circuits )] TJ ET
+BT 34.016 663.299 Td 0.520 Tw /F2 12.0 Tf  [(in your head. You can fix any consumer appliance - if you can get the parts. Your car has either become one of )] TJ ET
+BT 34.016 649.043 Td 0.520 Tw /F2 12.0 Tf  [(your main hacks or you'ver deligated the job to a mechanic who you have found to be a fellow hacker; and you )] TJ ET
+BT 34.016 634.787 Td 2.272 Tw /F2 12.0 Tf  [(work on his homebrew 68010 unix box... because you've got a 68010 emulator and he works on your car )] TJ ET
+BT 34.016 620.531 Td 2.070 Tw /F2 12.0 Tf  [(because that's the kind he specializes in ! Maybe you trade services with people for 50% of what ordinary )] TJ ET
+BT 34.016 606.275 Td 0.000 Tw /F2 12.0 Tf  [(people have to BUY WITH CASH !... you keep reading...)] TJ ET
+endstream
+endobj
+xref
+0 13
+0000000000 65535 f 
+0000000008 00000 n 
+0000000073 00000 n 
+0000000119 00000 n 
+0000000301 00000 n 
+0000000330 00000 n 
+0000000444 00000 n 
+0000000507 00000 n 
+0000007313 00000 n 
+0000007421 00000 n 
+0000007530 00000 n 
+0000007641 00000 n 
+0000007706 00000 n 
+trailer
+<<
+/Size 13
+/Root 1 0 R
+/Info 5 0 R
+>>
+startxref
+9265
+%%EOF

@@ -1,0 +1,47 @@
+
+a {
+	text-decoration: none;
+	color: white
+}
+a.a { color: #B30000 }
+body {
+	background: black;
+	color: white;
+	font-family: lucida console, courier
+}
+div {
+	margin: auto;
+	width: 95%
+}
+img {
+	border: 0;
+	padding-bottom: 5px
+}
+img.f {
+	padding-bottom: 3px;
+	vertical-align: bottom
+}
+h3 {
+	border-top: 1px solid #C0C0C0;
+	border-bottom: 1px solid #C0C0C0;
+	background-color: #727272;
+	color: black;
+	font-size: x-large;
+	text-align: center
+}
+table { width: 96% }
+th {
+	width: 20%;
+	font-family: verdana;
+	font-weight: bold;
+	vertical-align: top
+}
+th.a { padding-bottom: 30px }
+td {
+	vertical-align: top;
+	text-align: center;
+	padding-bottom: 10px
+}
+ul {
+	width: 90%;
+	text-align: left

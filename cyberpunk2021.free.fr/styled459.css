@@ -1,0 +1,127 @@
+
+a {
+	text-decoration: none;
+	font-family: verdana;
+	outline: none;
+	color: silver
+}
+a.bouton {
+	background-color: #474747;
+	display: block;
+	width: 400px;
+	line-height: 25px
+}
+a.bouton:hover, a.bouton:active {
+	background-color: #ABABAB;
+	color: #474747
+}
+img { border: 0 }
+img.pg { background-color: white }
+img.pg:hover { background-color: silver }
+img.pgn { background-color: black }
+input.page {
+	border: 0px;
+	font-family: verdana;
+	color: silver;
+	background-color: #727272
+}
+input.page:hover {
+	color: black;
+	background-color: white
+}
+div.c {
+	position: relative;
+	top: 5;
+	left: 6
+}
+select.c {
+	border-width: 1px;
+	border-color: #474747, #474747;
+	font-family: verdana;
+	background-color: #D9D9D9
+}
+td { font-size: 13px }
+td.b {
+	width: 200px;
+	text-align: center;
+	background-color: #727272;
+	border-color: silver;
+	border-style: solid;
+	border-width: 0 0 1 0;
+	height: 180
+}
+td.c {
+	width: 200px;
+	text-align: center;
+	background-color: #474747;
+	border-color: silver;
+	border-style: solid;
+	border-width: 0 0 1 0;
+	height: 180
+}
+td.d {
+	height: 25;
+	width: 400px;
+	text-align: center;
+	font-family: verdana;
+	color: silver;
+	background-color: #474747
+}
+td.e { border: 1px solid silver }
+td.f {
+	font-family: verdana;
+	background-color: #727272;
+	border-color: silver;
+	border-style: solid;
+	border-width: 0 0 1 0
+}
+td.gg {
+	background-color: #727272;
+	border-color: silver;
+	border-style: solid;
+	border-width: 0 0 1 0;
+	padding: 3px 0px 3px 5px;
+	width: 50%
+}
+td.hg {
+	background-color: #474747;
+	border-color: silver;
+	border-style: solid;
+	border-width: 0 0 1 0;
+	padding: 3px 0px 3px 5px;
+	width: 50%
+}
+td.gp {
+	color: silver;
+	font-family: verdana;
+	background-color: #727272;
+	border-color: silver;
+	border-style: solid;
+	border-width: 0 0 1 0;
+	padding: 3px 0px 3px 5px;
+	width: 25%
+}
+td.hp {
+	color: silver;
+	font-family: verdana;
+	background-color: #474747;
+	border-color: silver;
+	border-style: solid;
+	border-width: 0 0 1 0;
+	padding: 3px 0px 3px 5px;
+	width: 25%
+}
+td.i {
+	height: 25;
+	width: 150px;
+	text-align: center;
+	font-family: verdana;
+	color: silver;
+	background-color: #474747
+}
+td.j {
+	background-color: #474747;
+	text-align: center;
+	width: 205px;
+	height: 250px
+}

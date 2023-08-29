@@ -1,0 +1,1557 @@
+%PDF-1.3
+1 0 obj
+<< /Type /Catalog
+/Outlines 2 0 R
+/Pages 3 0 R >>
+endobj
+2 0 obj
+<< /Type /Outlines /Count 0 >>
+endobj
+3 0 obj
+<< /Type /Pages
+/Kids [6 0 R
+32 0 R
+43 0 R
+49 0 R
+51 0 R
+63 0 R
+70 0 R
+74 0 R
+]
+/Count 8
+/Resources <<
+/ProcSet 4 0 R
+/Font << 
+/F1 8 0 R
+/F2 9 0 R
+/F3 10 0 R
+>>
+>>
+/MediaBox [0.000 0.000 612.000 792.000]
+ >>
+endobj
+4 0 obj
+[/PDF /Text ]
+endobj
+5 0 obj
+<<
+/Creator (DOMPDF)
+/CreationDate (D:20230827220946+02'00')
+/ModDate (D:20230827220946+02'00')
+>>
+endobj
+6 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Annots [ 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R 29 0 R ]
+/Contents 7 0 R
+>>
+endobj
+7 0 obj
+<<
+/Length 10118 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 211.752 725.937 Td /F1 18.0 Tf  [(New alt.cyberpunk FAQ)] TJ ET
+BT 289.998 695.200 Td /F1 12.0 Tf  [(Frank)] TJ ET
+BT 278.832 680.800 Td /F1 12.0 Tf  [(April 1998)] TJ ET
+BT 34.016 654.515 Td /F2 12.0 Tf  [( )] TJ ET
+BT 34.016 616.259 Td 0.565 Tw /F2 12.0 Tf  [(This is version 4 of the alt.cyberpunk FAQ. Although previous FAQs have not been allocated version numbers, )] TJ ET
+BT 34.016 602.003 Td 2.104 Tw /F2 12.0 Tf  [(due the number of people now involved, I've taken the liberty to do so. Previous maintainers / editors and )] TJ ET
+BT 34.016 587.747 Td 0.000 Tw /F2 12.0 Tf  [(version numbers are given below :)] TJ ET
+BT 34.016 561.376 Td /F2 12.0 Tf  [(- Version 3: Erich Schneider)] TJ ET
+BT 34.016 546.976 Td /F2 12.0 Tf  [(- Version 2: Tim Oerting)] TJ ET
+BT 34.016 532.576 Td /F2 12.0 Tf  [(- Version 1: Andy Hawks)] TJ ET
+BT 34.016 506.291 Td 2.336 Tw /F2 12.0 Tf  [(I would also like to recognise and express my thanks to Jer and Stack for all their help and assistance in )] TJ ET
+BT 34.016 492.035 Td 0.000 Tw /F2 12.0 Tf  [(compiling this version of the FAQ.)] TJ ET
+BT 34.016 465.779 Td 0.936 Tw /F2 12.0 Tf  [(The vast number of the "answers" here should be prefixed with an "in my opinion". It would be ridiculous for )] TJ ET
+BT 34.016 451.523 Td 0.000 Tw /F2 12.0 Tf  [(me to claim to be an ultimate Cyberpunk authority.)] TJ ET
+0.000 0.000 0.000 RG
+34.016 436.672 m 577.984 436.672 l 577.234 435.922 l 34.766 435.922 l  f
+0.160 0.160 0.160 rg
+0.160 0.160 0.160 RG
+34.016 435.172 m 577.984 435.172 l 577.234 435.922 l 34.766 435.922 l  f
+577.984 436.672 m 577.984 435.172 l 577.234 435.922 l 577.234 435.922 l  f
+0.000 0.000 0.000 rg
+0.000 0.000 0.000 RG
+34.016 436.672 m 34.016 435.172 l 34.766 435.922 l 34.766 435.922 l  f
+BT 34.016 409.829 Td /F1 14.0 Tf  [(Contents)] TJ ET
+57.816 386.193 m 
+57.816 386.743 57.589 387.289 57.201 387.678 c
+56.812 388.066 56.266 388.293 55.716 388.293 c
+55.166 388.293 54.620 388.066 54.231 387.678 c
+53.842 387.289 53.616 386.743 53.616 386.193 c
+53.616 385.643 53.842 385.097 54.231 384.708 c
+54.620 384.319 55.166 384.093 55.716 384.093 c
+56.266 384.093 56.812 384.319 57.201 384.708 c
+57.589 385.097 57.816 385.643 57.816 386.193 c f
+0.000 0.000 0.800 rg
+BT 64.016 383.088 Td /F2 12.0 Tf  [(1. What is Cyberpunk, the Literary Movement ?)] TJ ET
+0.000 0.000 0.800 RG
+0.24 w 0 J [  ] 0 d
+64.016 381.694 m 294.980 381.694 l S
+0.000 0.000 0.000 rg
+0.000 0.000 0.000 RG
+57.816 371.937 m 
+57.816 372.487 57.589 373.033 57.201 373.422 c
+56.812 373.810 56.266 374.037 55.716 374.037 c
+55.166 374.037 54.620 373.810 54.231 373.422 c
+53.842 373.033 53.616 372.487 53.616 371.937 c
+53.616 371.387 53.842 370.841 54.231 370.452 c
+54.620 370.063 55.166 369.837 55.716 369.837 c
+56.266 369.837 56.812 370.063 57.201 370.452 c
+57.589 370.841 57.816 371.387 57.816 371.937 c f
+0.000 0.000 0.800 rg
+BT 64.016 368.832 Td /F2 12.0 Tf  [(2. What is Cyberpunk, the Subculture ?)] TJ ET
+0.000 0.000 0.800 RG
+0.24 w 0 J [  ] 0 d
+64.016 367.438 m 253.328 367.438 l S
+0.000 0.000 0.000 rg
+0.000 0.000 0.000 RG
+57.816 357.681 m 
+57.816 358.231 57.589 358.777 57.201 359.166 c
+56.812 359.554 56.266 359.781 55.716 359.781 c
+55.166 359.781 54.620 359.554 54.231 359.166 c
+53.842 358.777 53.616 358.231 53.616 357.681 c
+53.616 357.131 53.842 356.585 54.231 356.196 c
+54.620 355.807 55.166 355.581 55.716 355.581 c
+56.266 355.581 56.812 355.807 57.201 356.196 c
+57.589 356.585 57.816 357.131 57.816 357.681 c f
+0.000 0.000 0.800 rg
+BT 64.016 354.576 Td /F2 12.0 Tf  [(3. What is Cyberspace ?)] TJ ET
+0.000 0.000 0.800 RG
+0.24 w 0 J [  ] 0 d
+64.016 353.182 m 180.320 353.182 l S
+0.000 0.000 0.000 rg
+0.000 0.000 0.000 RG
+57.816 343.425 m 
+57.816 343.975 57.589 344.521 57.201 344.910 c
+56.812 345.298 56.266 345.525 55.716 345.525 c
+55.166 345.525 54.620 345.298 54.231 344.910 c
+53.842 344.521 53.616 343.975 53.616 343.425 c
+53.616 342.875 53.842 342.329 54.231 341.940 c
+54.620 341.551 55.166 341.325 55.716 341.325 c
+56.266 341.325 56.812 341.551 57.201 341.940 c
+57.589 342.329 57.816 342.875 57.816 343.425 c f
+0.000 0.000 0.800 rg
+BT 64.016 340.320 Td /F2 12.0 Tf  [(4. Cyberpunk Literature)] TJ ET
+0.000 0.000 0.800 RG
+0.24 w 0 J [  ] 0 d
+64.016 338.926 m 179.660 338.926 l S
+0.000 0.000 0.000 rg
+0.000 0.000 0.000 RG
+57.816 329.169 m 
+57.816 329.719 57.589 330.265 57.201 330.654 c
+56.812 331.042 56.266 331.269 55.716 331.269 c
+55.166 331.269 54.620 331.042 54.231 330.654 c
+53.842 330.265 53.616 329.719 53.616 329.169 c
+53.616 328.619 53.842 328.073 54.231 327.684 c
+54.620 327.295 55.166 327.069 55.716 327.069 c
+56.266 327.069 56.812 327.295 57.201 327.684 c
+57.589 328.073 57.816 328.619 57.816 329.169 c f
+0.000 0.000 0.800 rg
+BT 64.016 326.064 Td /F2 12.0 Tf  [(5. Magazines About Cyberpunk and Related Topics)] TJ ET
+0.000 0.000 0.800 RG
+0.24 w 0 J [  ] 0 d
+64.016 324.670 m 312.980 324.670 l S
+0.000 0.000 0.000 rg
+0.000 0.000 0.000 RG
+57.816 314.913 m 
+57.816 315.463 57.589 316.009 57.201 316.398 c
+56.812 316.786 56.266 317.013 55.716 317.013 c
+55.166 317.013 54.620 316.786 54.231 316.398 c
+53.842 316.009 53.616 315.463 53.616 314.913 c
+53.616 314.363 53.842 313.817 54.231 313.428 c
+54.620 313.039 55.166 312.813 55.716 312.813 c
+56.266 312.813 56.812 313.039 57.201 313.428 c
+57.589 313.817 57.816 314.363 57.816 314.913 c f
+0.000 0.000 0.800 rg
+BT 64.016 311.808 Td /F2 12.0 Tf  [(6. Cyberpunk in Visual Media \(Movies and TV\))] TJ ET
+0.000 0.000 0.800 RG
+0.24 w 0 J [  ] 0 d
+64.016 310.414 m 295.988 310.414 l S
+0.000 0.000 0.000 rg
+0.000 0.000 0.000 RG
+57.816 300.657 m 
+57.816 301.207 57.589 301.753 57.201 302.142 c
+56.812 302.530 56.266 302.757 55.716 302.757 c
+55.166 302.757 54.620 302.530 54.231 302.142 c
+53.842 301.753 53.616 301.207 53.616 300.657 c
+53.616 300.107 53.842 299.561 54.231 299.172 c
+54.620 298.783 55.166 298.557 55.716 298.557 c
+56.266 298.557 56.812 298.783 57.201 299.172 c
+57.589 299.561 57.816 300.107 57.816 300.657 c f
+0.000 0.000 0.800 rg
+BT 64.016 297.552 Td /F2 12.0 Tf  [(7. Blade Runner)] TJ ET
+0.000 0.000 0.800 RG
+0.24 w 0 J [  ] 0 d
+64.016 296.158 m 142.340 296.158 l S
+0.000 0.000 0.000 rg
+0.000 0.000 0.000 RG
+57.816 286.401 m 
+57.816 286.951 57.589 287.497 57.201 287.886 c
+56.812 288.274 56.266 288.501 55.716 288.501 c
+55.166 288.501 54.620 288.274 54.231 287.886 c
+53.842 287.497 53.616 286.951 53.616 286.401 c
+53.616 285.851 53.842 285.305 54.231 284.916 c
+54.620 284.527 55.166 284.301 55.716 284.301 c
+56.266 284.301 56.812 284.527 57.201 284.916 c
+57.589 285.305 57.816 285.851 57.816 286.401 c f
+0.000 0.000 0.800 rg
+BT 64.016 283.296 Td /F2 12.0 Tf  [(8. Cyberpunk Music / Dress / Aftershave)] TJ ET
+0.000 0.000 0.800 RG
+0.24 w 0 J [  ] 0 d
+64.016 281.902 m 260.984 281.902 l S
+0.000 0.000 0.000 rg
+0.000 0.000 0.000 RG
+57.816 272.145 m 
+57.816 272.695 57.589 273.241 57.201 273.630 c
+56.812 274.018 56.266 274.245 55.716 274.245 c
+55.166 274.245 54.620 274.018 54.231 273.630 c
+53.842 273.241 53.616 272.695 53.616 272.145 c
+53.616 271.595 53.842 271.049 54.231 270.660 c
+54.620 270.271 55.166 270.045 55.716 270.045 c
+56.266 270.045 56.812 270.271 57.201 270.660 c
+57.589 271.049 57.816 271.595 57.816 272.145 c f
+0.000 0.000 0.800 rg
+BT 64.016 269.040 Td /F2 12.0 Tf  [(9. What is "PGP" ?)] TJ ET
+0.000 0.000 0.800 RG
+0.24 w 0 J [  ] 0 d
+64.016 267.646 m 156.140 267.646 l S
+0.000 0.000 0.000 rg
+0.000 0.000 0.000 RG
+57.816 257.889 m 
+57.816 258.439 57.589 258.985 57.201 259.374 c
+56.812 259.762 56.266 259.989 55.716 259.989 c
+55.166 259.989 54.620 259.762 54.231 259.374 c
+53.842 258.985 53.616 258.439 53.616 257.889 c
+53.616 257.339 53.842 256.793 54.231 256.404 c
+54.620 256.015 55.166 255.789 55.716 255.789 c
+56.266 255.789 56.812 256.015 57.201 256.404 c
+57.589 256.793 57.816 257.339 57.816 257.889 c f
+0.000 0.000 0.800 rg
+BT 64.016 254.784 Td /F2 12.0 Tf  [(10. Agrippa : What and Where, is it ?)] TJ ET
+0.000 0.000 0.800 RG
+0.24 w 0 J [  ] 0 d
+64.016 253.390 m 243.980 253.390 l S
+0.000 0.000 0.000 rg
+0.000 0.000 0.000 RG
+34.016 239.933 m 577.984 239.933 l 577.234 239.183 l 34.766 239.183 l  f
+0.160 0.160 0.160 rg
+0.160 0.160 0.160 RG
+34.016 238.433 m 577.984 238.433 l 577.234 239.183 l 34.766 239.183 l  f
+577.984 239.933 m 577.984 238.433 l 577.234 239.183 l 577.234 239.183 l  f
+0.000 0.000 0.000 rg
+0.000 0.000 0.000 RG
+34.016 239.933 m 34.016 238.433 l 34.766 239.183 l 34.766 239.183 l  f
+BT 34.016 213.089 Td /F1 14.0 Tf  [(1. What is Cyberpunk, the Literary Movement ?)] TJ ET
+BT 34.016 186.348 Td 3.000 Tw /F2 12.0 Tf  [(Gardner Dozois, one of the editors of )] TJ ET
+BT 236.970 186.348 Td 3.000 Tw /F3 12.0 Tf  [(Isaac Asimov's Science Fiction Magazine)] TJ ET
+BT 448.169 186.348 Td 3.000 Tw /F2 12.0 Tf  [( during the early '80s, is )] TJ ET
+BT 34.016 172.092 Td 2.063 Tw /F2 12.0 Tf  [(generally acknowledged as the first person to popularize the term "Cyberpunk", when describing a body of )] TJ ET
+BT 34.016 157.836 Td 0.000 Tw /F2 12.0 Tf  [(literature. Dozois doesn't claim to have coined the term; he says he picked it up "on the street somewhere".)] TJ ET
+BT 34.016 131.580 Td 0.494 Tw /F2 12.0 Tf  [(It is probably no coincidence that Bruce Bethke wrote a short story titled "Cyberpunk" in 1980 and submitted it )] TJ ET
+BT 34.016 117.324 Td 0.306 Tw /F2 12.0 Tf  [(Asimov's mag, when Dozois may have been doing first readings, and got it published in )] TJ ET
+BT 463.737 117.324 Td 0.306 Tw /F3 12.0 Tf  [(Amazing)] TJ ET
+BT 505.737 117.324 Td 0.306 Tw /F2 12.0 Tf  [( in 1983, when )] TJ ET
+BT 34.016 103.068 Td 0.660 Tw /F2 12.0 Tf  [(Dozois was editor of1983 Year's Best SF and would be expected to be reading the major SF magazines. But as )] TJ ET
+BT 34.016 88.812 Td 2.208 Tw /F2 12.0 Tf  [(Bethke says, "who gives a rat's ass, anyway ?!". Bethke is not really a Cyberpunk author; in mid-1995 he )] TJ ET
+BT 34.016 74.556 Td 1.809 Tw /F2 12.0 Tf  [(published )] TJ ET
+BT 85.493 74.556 Td 1.809 Tw /F3 12.0 Tf  [(Headcrash)] TJ ET
+BT 138.149 74.556 Td 1.809 Tw /F2 12.0 Tf  [(, which he calls "a cybernetically-aware comedy" \(thanks to Bruce for his help on this )] TJ ET
+BT 34.016 60.300 Td 0.000 Tw /F2 12.0 Tf  [(issue\).)] TJ ET
+endstream
+endobj
+8 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Times-Bold
+/Encoding /WinAnsiEncoding
+>>
+endobj
+9 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F2
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+>>
+endobj
+10 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F3
+/BaseFont /Times-Italic
+/Encoding /WinAnsiEncoding
+>>
+endobj
+11 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 12 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 64.0157 382.0079 294.9797 393.8879 ]
+>>
+endobj
+12 0 obj
+<< /Type /Action
+/S /GoTo
+/D 31 0 R
+>>
+endobj
+13 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 14 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 64.0157 367.7519 253.3277 379.6319 ]
+>>
+endobj
+14 0 obj
+<< /Type /Action
+/S /GoTo
+/D 36 0 R
+>>
+endobj
+15 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 16 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 64.0157 353.4959 180.3197 365.3759 ]
+>>
+endobj
+16 0 obj
+<< /Type /Action
+/S /GoTo
+/D 47 0 R
+>>
+endobj
+17 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 18 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 64.0157 339.2399 179.6597 351.1199 ]
+>>
+endobj
+18 0 obj
+<< /Type /Action
+/S /GoTo
+/D 48 0 R
+>>
+endobj
+19 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 20 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 64.0157 324.9839 312.9797 336.8639 ]
+>>
+endobj
+20 0 obj
+<< /Type /Action
+/S /GoTo
+/D 53 0 R
+>>
+endobj
+21 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 22 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 64.0157 310.7279 295.9877 322.6079 ]
+>>
+endobj
+22 0 obj
+<< /Type /Action
+/S /GoTo
+/D 62 0 R
+>>
+endobj
+23 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 24 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 64.0157 296.4719 142.3397 308.3519 ]
+>>
+endobj
+24 0 obj
+<< /Type /Action
+/S /GoTo
+/D 67 0 R
+>>
+endobj
+25 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 26 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 64.0157 282.2159 260.9837 294.0959 ]
+>>
+endobj
+26 0 obj
+<< /Type /Action
+/S /GoTo
+/D 72 0 R
+>>
+endobj
+27 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 28 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 64.0157 267.9599 156.1397 279.8399 ]
+>>
+endobj
+28 0 obj
+<< /Type /Action
+/S /GoTo
+/D 73 0 R
+>>
+endobj
+29 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 30 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 64.0157 253.7039 243.9797 265.5839 ]
+>>
+endobj
+30 0 obj
+<< /Type /Action
+/S /GoTo
+/D 78 0 R
+>>
+endobj
+31 0 obj
+[6 0 R /Fit]
+endobj
+32 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Annots [ 34 0 R 37 0 R 39 0 R 41 0 R ]
+/Contents 33 0 R
+>>
+endobj
+33 0 obj
+<<
+/Length 9309 >>
+stream
+
+0.000 0.000 0.000 rg
+0.000 0.000 0.000 RG
+0.24 w 0 J [  ] 0 d
+BT 34.016 734.579 Td 0.941 Tw /F2 12.0 Tf  [(Before its christening the "Cyberpunk movement", known to its members as "The Movement", had existed for )] TJ ET
+BT 34.016 720.323 Td 1.990 Tw /F2 12.0 Tf  [(quite some time, centred around Bruce Sterling's samizdat, )] TJ ET
+BT 335.393 720.323 Td 1.990 Tw /F3 12.0 Tf  [(Cheap Truth)] TJ ET
+BT 398.391 720.323 Td 1.990 Tw /F2 12.0 Tf  [(. Authors like Sterling, Rucker and )] TJ ET
+BT 34.016 706.067 Td 2.222 Tw /F2 12.0 Tf  [(Shirley submitted articles pseudonymously to this newsletter, hyping the works of people in the group and )] TJ ET
+BT 34.016 691.811 Td 1.770 Tw /F2 12.0 Tf  [(vigorously attacking the "SF mainstream". This helped form the core "movement consciousness" \(the run of )] TJ ET
+BT 34.016 677.555 Td 0.000 Tw /F2 12.0 Tf  [(Cheap Truth is available )] TJ ET
+0.000 0.000 0.800 rg
+BT 154.664 677.555 Td /F2 12.0 Tf  [(by FTP)] TJ ET
+0.000 0.000 0.800 RG
+0.24 w 0 J [  ] 0 d
+154.664 676.161 m 190.340 676.161 l S
+0.000 0.000 0.000 rg
+BT 190.340 677.555 Td /F2 12.0 Tf  [(\).)] TJ ET
+BT 34.016 651.299 Td 5.673 Tw /F2 12.0 Tf  [(Cyberpunk literature, in general, deals with marginalized people in technologically-enhanced cultural )] TJ ET
+BT 34.016 637.043 Td 3.149 Tw /F2 12.0 Tf  [("systems". In Cyberpunk stories' settings, there is usually a "system" which dominates the lives of most )] TJ ET
+BT 34.016 622.787 Td 5.091 Tw /F2 12.0 Tf  [("ordinary" people, be it an oppressive government, a group of large, paternalistic corporations or a )] TJ ET
+BT 34.016 608.531 Td 5.049 Tw /F2 12.0 Tf  [(fundamentalist religion. These systems are enhanced by certain technologies, particularly "information )] TJ ET
+BT 34.016 594.275 Td 1.028 Tw /F2 12.0 Tf  [(technology" \(computers, the mass media\), making the system better at keeping those within it, inside it. Often )] TJ ET
+BT 34.016 580.019 Td 1.799 Tw /F2 12.0 Tf  [(this technological system extends into its human "components" as well, via brain implants, prosthetic limbs, )] TJ ET
+BT 34.016 565.763 Td 1.797 Tw /F2 12.0 Tf  [(cloned or genetically engineered organs, etc. Humans themselves become part of "the Machine". This is the )] TJ ET
+BT 34.016 551.507 Td 0.742 Tw /F2 12.0 Tf  [("cyber" aspect of Cyberpunk. However, in any cultural system, there are always those who live on its margins, )] TJ ET
+BT 34.016 537.251 Td 0.680 Tw /F2 12.0 Tf  [(on "the Edge" : criminals, outcasts, visionaries or those who simply want freedom for its own sake. Cyberpunk )] TJ ET
+BT 34.016 522.995 Td 0.252 Tw /F2 12.0 Tf  [(literature focuses on these people, and often on how they turn the system's technological tools to their own ends. )] TJ ET
+BT 34.016 508.739 Td 0.000 Tw /F2 12.0 Tf  [(This is the "punk" aspect of Cyberpunk.)] TJ ET
+BT 34.016 482.483 Td 1.044 Tw /F2 12.0 Tf  [(The best Cyberpunk works are distinguished from previous works with similar themes, by a certain style. The )] TJ ET
+BT 34.016 468.227 Td 0.512 Tw /F2 12.0 Tf  [(setting is urban, the mood is dark and pessimistic. Concepts are thrown at the reader without explanation, much )] TJ ET
+BT 34.016 453.971 Td 0.248 Tw /F2 12.0 Tf  [(like new developments are thrown at us in our everyday lives. There is often a sense of moral ambiguity; simply )] TJ ET
+BT 34.016 439.715 Td 0.349 Tw /F2 12.0 Tf  [(fighting "the system" \(to topple it, or just to stay alive\) does not make the main characters "heroes" or "good" in )] TJ ET
+BT 34.016 425.459 Td 0.000 Tw /F2 12.0 Tf  [(the traditional sense.)] TJ ET
+0.000 0.000 0.000 RG
+34.016 410.608 m 577.984 410.608 l 577.234 409.858 l 34.766 409.858 l  f
+0.160 0.160 0.160 rg
+0.160 0.160 0.160 RG
+34.016 409.108 m 577.984 409.108 l 577.234 409.858 l 34.766 409.858 l  f
+577.984 410.608 m 577.984 409.108 l 577.234 409.858 l 577.234 409.858 l  f
+0.000 0.000 0.000 rg
+0.000 0.000 0.000 RG
+34.016 410.608 m 34.016 409.108 l 34.766 409.858 l 34.766 409.858 l  f
+BT 34.016 383.765 Td /F1 14.0 Tf  [(2. What is Cyberpunk, the Subculture ?)] TJ ET
+BT 34.016 357.024 Td 1.060 Tw /F2 12.0 Tf  [(Spurred on by Cyberpunk literature in the mid-1980's, certain groups of people started referring to themselves )] TJ ET
+BT 34.016 342.768 Td 2.234 Tw /F2 12.0 Tf  [(as Cyberpunk, because they correctly noticed the seeds of the fictional "techno-system" in Western society )] TJ ET
+BT 34.016 328.512 Td 1.360 Tw /F2 12.0 Tf  [(today, and because they identified with the marginalized characters in Cyberpunk stories. Within the last few )] TJ ET
+BT 34.016 314.256 Td 0.000 Tw /F2 12.0 Tf  [(years, the mass media has caught on to this, spontaneously dubbing certain people and groups "Cyberpunk".)] TJ ET
+BT 34.016 288.000 Td /F2 12.0 Tf  [(Specific subgroups which are identified with Cyberpunk are : Hackers, Crackers, Phreaks and Cypher-punks.)] TJ ET
+57.816 264.849 m 
+57.816 265.399 57.589 265.945 57.201 266.334 c
+56.812 266.722 56.266 266.949 55.716 266.949 c
+55.166 266.949 54.620 266.722 54.231 266.334 c
+53.842 265.945 53.616 265.399 53.616 264.849 c
+53.616 264.299 53.842 263.753 54.231 263.364 c
+54.620 262.975 55.166 262.749 55.716 262.749 c
+56.266 262.749 56.812 262.975 57.201 263.364 c
+57.589 263.753 57.816 264.299 57.816 264.849 c f
+BT 64.016 261.744 Td 0.899 Tw /F2 12.0 Tf  [("Hackers" are the "wizards" of the computer community; people with a deep understanding of how their )] TJ ET
+BT 64.016 247.488 Td 0.000 Tw /F2 12.0 Tf  [(computers work, and can do things with them that seem "magical".)] TJ ET
+57.816 236.337 m 
+57.816 236.887 57.589 237.433 57.201 237.822 c
+56.812 238.210 56.266 238.437 55.716 238.437 c
+55.166 238.437 54.620 238.210 54.231 237.822 c
+53.842 237.433 53.616 236.887 53.616 236.337 c
+53.616 235.787 53.842 235.241 54.231 234.852 c
+54.620 234.463 55.166 234.237 55.716 234.237 c
+56.266 234.237 56.812 234.463 57.201 234.852 c
+57.589 235.241 57.816 235.787 57.816 236.337 c f
+BT 64.016 233.232 Td 1.035 Tw /F2 12.0 Tf  [("Crackers" are the real-world analogues of the "console cowboys" of Cyberpunk fiction; they break into )] TJ ET
+BT 64.016 218.976 Td 1.568 Tw /F2 12.0 Tf  [(other people's computer systems, without their permission, for illicit gain or simply for the pleasure of )] TJ ET
+BT 64.016 204.720 Td 0.000 Tw /F2 12.0 Tf  [(exercising their skill.)] TJ ET
+57.816 193.569 m 
+57.816 194.119 57.589 194.665 57.201 195.054 c
+56.812 195.442 56.266 195.669 55.716 195.669 c
+55.166 195.669 54.620 195.442 54.231 195.054 c
+53.842 194.665 53.616 194.119 53.616 193.569 c
+53.616 193.019 53.842 192.473 54.231 192.084 c
+54.620 191.695 55.166 191.469 55.716 191.469 c
+56.266 191.469 56.812 191.695 57.201 192.084 c
+57.589 192.473 57.816 193.019 57.816 193.569 c f
+BT 64.016 190.464 Td 3.742 Tw /F2 12.0 Tf  [("Phreaks" are those who do a similar thing with the telephone system, coming up with ways to )] TJ ET
+BT 64.016 176.208 Td 0.000 Tw /F2 12.0 Tf  [(circumvent phone companies' calling charges and doing clever things with the phone network.)] TJ ET
+57.816 165.057 m 
+57.816 165.607 57.589 166.153 57.201 166.542 c
+56.812 166.930 56.266 167.157 55.716 167.157 c
+55.166 167.157 54.620 166.930 54.231 166.542 c
+53.842 166.153 53.616 165.607 53.616 165.057 c
+53.616 164.507 53.842 163.961 54.231 163.572 c
+54.620 163.183 55.166 162.957 55.716 162.957 c
+56.266 162.957 56.812 163.183 57.201 163.572 c
+57.589 163.961 57.816 164.507 57.816 165.057 c f
+BT 64.016 161.952 Td 1.435 Tw /F2 12.0 Tf  [("Cypher-punks", these people think a good way to bollocks "The System" is through cryptography and )] TJ ET
+BT 64.016 147.696 Td 3.220 Tw /F2 12.0 Tf  [(cryptosystems. They believe widespread use of extremely hard-to-break coding schemes will create )] TJ ET
+BT 64.016 133.440 Td 0.000 Tw /F2 12.0 Tf  [("regions of privacy" that "The System" cannot invade.)] TJ ET
+BT 34.016 107.184 Td /F2 12.0 Tf  [(Some other groups which are associated with Cyberpunk are :)] TJ ET
+57.816 84.033 m 
+57.816 84.583 57.589 85.129 57.201 85.518 c
+56.812 85.906 56.266 86.133 55.716 86.133 c
+55.166 86.133 54.620 85.906 54.231 85.518 c
+53.842 85.129 53.616 84.583 53.616 84.033 c
+53.616 83.483 53.842 82.937 54.231 82.548 c
+54.620 82.159 55.166 81.933 55.716 81.933 c
+56.266 81.933 56.812 82.159 57.201 82.548 c
+57.589 82.937 57.816 83.483 57.816 84.033 c f
+BT 64.016 80.928 Td 0.340 Tw /F2 12.0 Tf  [(")] TJ ET
+0.000 0.000 0.800 rg
+BT 68.912 80.928 Td 0.340 Tw /F2 12.0 Tf  [(Transhuman)] TJ ET
+0.000 0.000 0.800 RG
+0.24 w 0 J [  ] 0 d
+68.912 79.534 m 128.900 79.534 l S
+0.000 0.000 0.000 rg
+BT 128.900 80.928 Td 0.340 Tw /F2 12.0 Tf  [(" are actively seeking to become ")] TJ ET
+0.000 0.000 0.800 rg
+BT 294.692 80.928 Td 0.340 Tw /F2 12.0 Tf  [(Posthuman)] TJ ET
+0.24 w 0 J [  ] 0 d
+294.692 79.534 m 348.032 79.534 l S
+0.000 0.000 0.000 rg
+BT 348.032 80.928 Td 0.340 Tw /F2 12.0 Tf  [(". This involves learning about and making use )] TJ ET
+BT 64.016 66.672 Td 3.339 Tw /F2 12.0 Tf  [(of new technologies that can potentially increase their capacities and life expectancy. They follow )] TJ ET
+0.000 0.000 0.800 rg
+BT 64.016 52.416 Td 3.815 Tw /F2 12.0 Tf  [(Transhumanism)] TJ ET
+0.24 w 0 J [  ] 0 d
+64.016 51.022 m 141.344 51.022 l S
+0.000 0.000 0.000 rg
+BT 141.344 52.416 Td 3.815 Tw /F2 12.0 Tf  [(, a set of "philosophies of life" \(such as the Extropian philosophy\) that seek the )] TJ ET
+endstream
+endobj
+34 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 35 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 154.6637 676.4755 190.3397 688.3555 ]
+>>
+endobj
+35 0 obj
+<< /Type /Action
+/S /URI
+/URI (ftp://io.com/pub/usr/shiva/SMOF-BBS/cheap.truth/)
+>>
+endobj
+36 0 obj
+[32 0 R /Fit]
+endobj
+37 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 38 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 68.9117 79.8479 128.8997 91.7279 ]
+>>
+endobj
+38 0 obj
+<< /Type /Action
+/S /URI
+/URI (http://www.aleph.se/Trans/Alliance/)
+>>
+endobj
+39 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 40 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 294.6919 79.8479 348.0319 91.7279 ]
+>>
+endobj
+40 0 obj
+<< /Type /Action
+/S /URI
+/URI (http://www.aleph.se/Trans/Global/Posthumanity/)
+>>
+endobj
+41 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 42 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 64.0157 51.3359 141.3437 63.2159 ]
+>>
+endobj
+42 0 obj
+<< /Type /Action
+/S /URI
+/URI (http://www.aleph.se/Trans/Intro/definitions.html)
+>>
+endobj
+43 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Annots [ 45 0 R ]
+/Contents 44 0 R
+>>
+endobj
+44 0 obj
+<<
+/Length 8068 >>
+stream
+
+0.000 0.000 0.000 rg
+0.000 0.000 0.800 RG
+0.24 w 0 J [  ] 0 d
+BT 64.016 746.579 Td 2.050 Tw /F2 12.0 Tf  [(continuation and acceleration of the evolution of intelligent life beyond its currently human form and )] TJ ET
+BT 64.016 732.323 Td 3.566 Tw /F2 12.0 Tf  [(limits by means of science and technology, guided by life-promoting principles and values, while )] TJ ET
+BT 64.016 718.067 Td 0.000 Tw /F2 12.0 Tf  [(avoiding religion and dogma.)] TJ ET
+0.000 0.000 0.000 RG
+57.816 706.916 m 
+57.816 707.466 57.589 708.012 57.201 708.401 c
+56.812 708.790 56.266 709.016 55.716 709.016 c
+55.166 709.016 54.620 708.790 54.231 708.401 c
+53.842 708.012 53.616 707.466 53.616 706.916 c
+53.616 706.366 53.842 705.820 54.231 705.431 c
+54.620 705.043 55.166 704.816 55.716 704.816 c
+56.266 704.816 56.812 705.043 57.201 705.431 c
+57.589 705.820 57.816 706.366 57.816 706.916 c f
+BT 64.016 703.811 Td 2.931 Tw /F2 12.0 Tf  [(")] TJ ET
+0.000 0.000 0.800 rg
+BT 68.912 703.811 Td 2.931 Tw /F2 12.0 Tf  [(Extropian)] TJ ET
+0.000 0.000 0.800 RG
+0.24 w 0 J [  ] 0 d
+68.912 702.417 m 116.240 702.417 l S
+0.000 0.000 0.000 rg
+BT 116.240 703.811 Td 2.931 Tw /F2 12.0 Tf  [(" are dedicated to the opposition of Entropy. Politically, extropians are close kin to the )] TJ ET
+BT 64.016 689.555 Td 1.866 Tw /F2 12.0 Tf  [(libertarians, including some anarchists, some classical liberals, and even a political neoconservative or )] TJ ET
+BT 64.016 675.299 Td 3.645 Tw /F2 12.0 Tf  [(two. But many extropians have no interest in politics at all, and many are actively anti-political. )] TJ ET
+BT 64.016 661.043 Td 1.410 Tw /F2 12.0 Tf  [(Extropians have a principle called "spontaneous order", but politics is by no means the only domain in )] TJ ET
+BT 64.016 646.787 Td 0.000 Tw /F2 12.0 Tf  [(which they apply it.)] TJ ET
+BT 34.016 620.531 Td 1.349 Tw /F2 12.0 Tf  [(So are Cyberpunks any or all of the above, well not really. One person's "Cyberpunk" is another's obnoxious )] TJ ET
+BT 34.016 606.275 Td 0.315 Tw /F2 12.0 Tf  [(teenager with some technical skill thrown in, a self-designated Cyberpunk looking for the latest trend to identify )] TJ ET
+BT 34.016 592.019 Td 0.727 Tw /F2 12.0 Tf  [(with or yet another mass media label used as a marketing ploy. Whilst most Cyberpunks understand, and some )] TJ ET
+BT 34.016 577.763 Td 1.145 Tw /F2 12.0 Tf  [(have a a good working knowledge of the above definitions, these pursuits are seen as a means, rather than an )] TJ ET
+BT 34.016 563.507 Td 0.000 Tw /F2 12.0 Tf  [(end. The "end" of course depends upon your own personal goals.)] TJ ET
+BT 34.016 537.251 Td 0.682 Tw /F2 12.0 Tf  [(There are those who claim that "Cyberpunk" is indefinable, which in some sense it is. Moreover, most regulars )] TJ ET
+BT 34.016 522.995 Td 0.298 Tw /F2 12.0 Tf  [(on alt.cp are uncomfortable about even implying that there actually are any cyberpunks. The point being that we )] TJ ET
+BT 34.016 508.739 Td 1.069 Tw /F2 12.0 Tf  [(all live in a cyberpunk society today, after all Gisbon himself said "The future has arrived; it's just not evenly )] TJ ET
+BT 34.016 494.483 Td 0.000 Tw /F2 12.0 Tf  [(distributed".)] TJ ET
+BT 34.016 468.227 Td 2.191 Tw /F2 12.0 Tf  [(Therefore, by definition most some people are already Cyberpunks. That is why when some post on alt.cp )] TJ ET
+BT 34.016 453.971 Td 0.953 Tw /F2 12.0 Tf  [(claiming that "I am a cyberpunk" don't get flamed to death, just ignored, whereas statements such as "survival )] TJ ET
+BT 34.016 439.715 Td 0.000 Tw /F2 12.0 Tf  [(through technological superiority" get flamed from here to eternity and back.)] TJ ET
+BT 34.016 413.459 Td 0.949 Tw /F2 12.0 Tf  [(In the end, anybody insisting they are a Cyberpunk will probably get flamed in alt.cyberpunk. Think of it as a )] TJ ET
+BT 34.016 399.203 Td 2.193 Tw /F2 12.0 Tf  [(trial by ordeal. John Shirley \(noted cyberpunk author\) didn't make it through the entrance exam. Chairman )] TJ ET
+BT 34.016 384.947 Td 0.000 Tw /F2 12.0 Tf  [(Bruce might just hack it, but as far as I know he's never come visiting.)] TJ ET
+0.000 0.000 0.000 RG
+34.016 370.096 m 577.984 370.096 l 577.234 369.346 l 34.766 369.346 l  f
+0.160 0.160 0.160 rg
+0.160 0.160 0.160 RG
+34.016 368.596 m 577.984 368.596 l 577.234 369.346 l 34.766 369.346 l  f
+577.984 370.096 m 577.984 368.596 l 577.234 369.346 l 577.234 369.346 l  f
+0.000 0.000 0.000 rg
+0.000 0.000 0.000 RG
+34.016 370.096 m 34.016 368.596 l 34.766 369.346 l 34.766 369.346 l  f
+BT 34.016 343.253 Td /F1 14.0 Tf  [(3. What is cyberspace ?)] TJ ET
+BT 34.016 316.512 Td 0.549 Tw /F2 12.0 Tf  [(To my knowledge, the term "Cyberspace" was first used by William Gibson in his story )] TJ ET
+BT 467.341 316.512 Td 0.549 Tw /F3 12.0 Tf  [(Burning Chrome)] TJ ET
+BT 548.890 316.512 Td 0.549 Tw /F2 12.0 Tf  [(. That )] TJ ET
+BT 34.016 302.256 Td 0.521 Tw /F2 12.0 Tf  [(work first describes users using devices called "cyberdecks" to override their normal sensory organs, presenting )] TJ ET
+BT 34.016 288.000 Td 3.989 Tw /F2 12.0 Tf  [(them with a full-sensory interface to the world computer network. When doing so, said users are "in )] TJ ET
+BT 34.016 273.744 Td 1.792 Tw /F2 12.0 Tf  [(cyberspace" \(the concept had appeared prior to Gibson, most notably in Vernor Vinge's story )] TJ ET
+BT 509.072 273.744 Td 1.792 Tw /F3 12.0 Tf  [(True Names)] TJ ET
+BT 569.196 273.744 Td 1.792 Tw /F2 12.0 Tf  [(\). )] TJ ET
+BT 34.016 259.488 Td 0.000 Tw /F2 12.0 Tf  [("Cyberspace" is thus the metaphorical "place" where one "is" when accessing the world computer net.)] TJ ET
+BT 34.016 233.232 Td 2.913 Tw /F2 12.0 Tf  [(Even though Gibson's vision of how cyberspace is in some sense, surreal, it has stimulated many in the )] TJ ET
+BT 34.016 218.976 Td 0.866 Tw /F2 12.0 Tf  [(computing community. The word "cyberspace" is commonly used in the "mainstream world" with reference to )] TJ ET
+BT 34.016 204.720 Td 2.271 Tw /F2 12.0 Tf  [(the emergent world-wide computer network \(especially the Internet\). Also, some researchers in the "virtual )] TJ ET
+BT 34.016 190.464 Td 0.854 Tw /F2 12.0 Tf  [(reality" arena of computer science are trying to implement something like Gibson's Matrix into a more general )] TJ ET
+BT 34.016 176.208 Td 0.000 Tw /F2 12.0 Tf  [(computer-generated environment, even if its purpose is not "accessing the net".)] TJ ET
+34.016 161.357 m 577.984 161.357 l 577.234 160.607 l 34.766 160.607 l  f
+0.160 0.160 0.160 rg
+0.160 0.160 0.160 RG
+34.016 159.857 m 577.984 159.857 l 577.234 160.607 l 34.766 160.607 l  f
+577.984 161.357 m 577.984 159.857 l 577.234 160.607 l 577.234 160.607 l  f
+0.000 0.000 0.000 rg
+0.000 0.000 0.000 RG
+34.016 161.357 m 34.016 159.857 l 34.766 160.607 l 34.766 160.607 l  f
+BT 34.016 134.513 Td /F1 14.0 Tf  [(4. Cyberpunk Literature)] TJ ET
+BT 34.016 107.772 Td 1.051 Tw /F2 12.0 Tf  [(The following is intended to be a short list of the best in-print Cyberpunk works. Note that quite a few works )] TJ ET
+BT 34.016 93.516 Td 2.211 Tw /F2 12.0 Tf  [(written before 1980 have been retroactively labelled "Cyberpunk" due to stylistic similarities, eg Pynchon's )] TJ ET
+BT 34.016 79.260 Td 0.000 Tw /F3 12.0 Tf  [(Gravity's Rainbow)] TJ ET
+BT 123.584 79.260 Td /F2 12.0 Tf  [(, or similar themes such as Brunner's )] TJ ET
+BT 303.056 79.260 Td /F3 12.0 Tf  [(The Shockwave Rider)] TJ ET
+BT 407.036 79.260 Td /F2 12.0 Tf  [( or Delany's )] TJ ET
+BT 467.516 79.260 Td /F3 12.0 Tf  [(Nova)] TJ ET
+BT 492.848 79.260 Td /F2 12.0 Tf  [(\).)] TJ ET
+57.816 56.109 m 
+57.816 56.659 57.589 57.205 57.201 57.594 c
+56.812 57.983 56.266 58.209 55.716 58.209 c
+55.166 58.209 54.620 57.983 54.231 57.594 c
+53.842 57.205 53.616 56.659 53.616 56.109 c
+53.616 55.559 53.842 55.013 54.231 54.624 c
+54.620 54.236 55.166 54.009 55.716 54.009 c
+56.266 54.009 56.812 54.236 57.201 54.624 c
+57.589 55.013 57.816 55.559 57.816 56.109 c f
+BT 64.016 53.004 Td 3.025 Tw /F2 12.0 Tf  [(William Gibson's )] TJ ET
+BT 156.897 53.004 Td 3.025 Tw /F3 12.0 Tf  [(Neuromancer)] TJ ET
+BT 222.885 53.004 Td 3.025 Tw /F2 12.0 Tf  [(, about a cracker operating in cyberspace, a cybernetically-enhanced )] TJ ET
+endstream
+endobj
+45 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 46 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 68.9117 702.7315 116.2397 714.6115 ]
+>>
+endobj
+46 0 obj
+<< /Type /Action
+/S /URI
+/URI (http://www.aleph.se/Trans/Cultural/Philosophy/princip.html)
+>>
+endobj
+47 0 obj
+[43 0 R /Fit]
+endobj
+48 0 obj
+[43 0 R /Fit]
+endobj
+49 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 50 0 R
+>>
+endobj
+50 0 obj
+<<
+/Length 10635 >>
+stream
+
+0.000 0.000 0.000 rg
+0.000 0.000 0.000 RG
+0.24 w 0 J [  ] 0 d
+BT 64.016 746.579 Td 0.400 Tw /F2 12.0 Tf  [(bodyguard/mercenary, and a pair of mysterious AIs, got the ball rolling as far as Cyberpunk is concerned. )] TJ ET
+BT 64.016 732.208 Td 0.000 Tw /F2 12.0 Tf  [(It won the Hugo, Nebula, P. K. Dick, Seiun, and Ditmar awards, something no other SF work has done.)] TJ ET
+BT 64.016 703.523 Td 1.056 Tw /F2 12.0 Tf  [(Gibson wrote two sequels in the same setting, )] TJ ET
+BT 295.446 703.523 Td 1.056 Tw /F3 12.0 Tf  [(Count Zero)] TJ ET
+BT 351.510 703.523 Td 1.056 Tw /F2 12.0 Tf  [( and )] TJ ET
+BT 376.950 703.523 Td 1.056 Tw /F3 12.0 Tf  [(Mona Lisa Overdrive)] TJ ET
+BT 482.381 703.523 Td 1.056 Tw /F2 12.0 Tf  [(. Gibson also has a )] TJ ET
+BT 64.016 689.267 Td 0.236 Tw /F2 12.0 Tf  [(collection of short stories, )] TJ ET
+BT 192.615 689.267 Td 0.236 Tw /F3 12.0 Tf  [(Burning Chrome)] TJ ET
+BT 273.851 689.267 Td 0.236 Tw /F2 12.0 Tf  [(, which contains three stories in Neuromancer's setting, as well )] TJ ET
+BT 64.016 674.896 Td 0.000 Tw /F2 12.0 Tf  [(as several others, such as the excellent )] TJ ET
+BT 251.300 674.896 Td /F3 12.0 Tf  [(The Winter Market)] TJ ET
+BT 342.620 674.896 Td /F2 12.0 Tf  [( and )] TJ ET
+BT 365.948 674.896 Td /F3 12.0 Tf  [(Dogfight)] TJ ET
+BT 408.620 674.896 Td /F2 12.0 Tf  [(.)] TJ ET
+BT 64.016 646.211 Td 1.992 Tw /F2 12.0 Tf  [(Gibson's two most recent works are )] TJ ET
+BT 250.099 646.211 Td 1.992 Tw /F3 12.0 Tf  [(Virtual Light)] TJ ET
+BT 314.442 646.211 Td 1.992 Tw /F2 12.0 Tf  [( and )] TJ ET
+BT 341.754 646.211 Td 1.992 Tw /F3 12.0 Tf  [(Idoru)] TJ ET
+BT 368.418 646.211 Td 1.992 Tw /F2 12.0 Tf  [(; they share a setting \(San Francisco and )] TJ ET
+BT 64.016 631.955 Td 0.385 Tw /F2 12.0 Tf  [(Tokyo, respectively, of the near future\) and a few characters, but are otherwise independent. Compared to )] TJ ET
+BT 64.016 617.699 Td 0.629 Tw /F2 12.0 Tf  [(his first trilogy, the technology they posit is less advanced in some ways and they are more theme-driven )] TJ ET
+BT 64.016 603.443 Td 1.310 Tw /F2 12.0 Tf  [(than plot-driven, but they deal with many of the same concerns as other cyberpunk works \("Idoru" is a )] TJ ET
+BT 64.016 589.187 Td 0.509 Tw /F2 12.0 Tf  [(Japanese borrowing of the English "idol", and refers to a media-company-manufactured pop-music star, a )] TJ ET
+BT 64.016 574.931 Td 0.000 Tw /F2 12.0 Tf  [("virtual" example of which plays a prominent role in Idoru\).)] TJ ET
+57.816 551.780 m 
+57.816 552.330 57.589 552.876 57.201 553.265 c
+56.812 553.654 56.266 553.880 55.716 553.880 c
+55.166 553.880 54.620 553.654 54.231 553.265 c
+53.842 552.876 53.616 552.330 53.616 551.780 c
+53.616 551.230 53.842 550.684 54.231 550.295 c
+54.620 549.907 55.166 549.680 55.716 549.680 c
+56.266 549.680 56.812 549.907 57.201 550.295 c
+57.589 550.684 57.816 551.230 57.816 551.780 c f
+BT 64.016 548.675 Td 0.799 Tw /F2 12.0 Tf  [(Bruce Sterling's anthology )] TJ ET
+BT 196.901 548.675 Td 0.799 Tw /F3 12.0 Tf  [(Crystal Express)] TJ ET
+BT 274.032 548.675 Td 0.799 Tw /F2 12.0 Tf  [( contains all of the "Shaper/Mechanist" short stories about the )] TJ ET
+BT 64.016 534.419 Td 4.325 Tw /F2 12.0 Tf  [(future humanity and "post-humanity". Those short stories are also available with )] TJ ET
+BT 501.342 534.419 Td 4.325 Tw /F3 12.0 Tf  [(Schismatrix)] TJ ET
+BT 558.006 534.419 Td 4.325 Tw /F2 12.0 Tf  [(, a )] TJ ET
+BT 64.016 520.163 Td 0.833 Tw /F2 12.0 Tf  [(Shaper/Mechanist novel, in the combined volume )] TJ ET
+BT 310.658 520.163 Td 0.833 Tw /F3 12.0 Tf  [(Schismatrix Plus)] TJ ET
+BT 392.491 520.163 Td 0.833 Tw /F2 12.0 Tf  [(. Also to be found in )] TJ ET
+BT 499.153 520.163 Td 0.833 Tw /F3 12.0 Tf  [(Crystal Express)] TJ ET
+BT 64.016 505.907 Td 0.771 Tw /F2 12.0 Tf  [(is )] TJ ET
+BT 75.790 505.907 Td 0.771 Tw /F3 12.0 Tf  [(Green Days in Brunei)] TJ ET
+BT 183.751 505.907 Td 0.771 Tw /F2 12.0 Tf  [(, a story which shares the setting of Sterling's novel )] TJ ET
+BT 441.261 505.907 Td 0.771 Tw /F3 12.0 Tf  [(Islands in the Net)] TJ ET
+BT 527.909 505.907 Td 0.771 Tw /F2 12.0 Tf  [(. Both are )] TJ ET
+BT 64.016 491.651 Td 0.691 Tw /F2 12.0 Tf  [(near-future extrapolations in worlds very similar to our own. Sterling also has another collection in print, )] TJ ET
+BT 64.016 477.280 Td 0.000 Tw /F3 12.0 Tf  [(Globalhead)] TJ ET
+BT 120.680 477.280 Td /F2 12.0 Tf  [(.)] TJ ET
+BT 64.016 448.595 Td 0.525 Tw /F2 12.0 Tf  [(Sterling edited )] TJ ET
+BT 138.398 448.595 Td 0.525 Tw /F3 12.0 Tf  [(Mirrorshades: A Cyberpunk Anthology)] TJ ET
+BT 328.290 448.595 Td 0.525 Tw /F2 12.0 Tf  [(, which contains stories by many authors; some are )] TJ ET
+BT 64.016 434.224 Td 0.000 Tw /F2 12.0 Tf  [(questionably cyberpunk, but it has some real gems \()] TJ ET
+BT 313.652 434.224 Td /F3 12.0 Tf  [(Mozart in Mirrorshades)] TJ ET
+BT 429.656 434.224 Td /F2 12.0 Tf  [( being one\). )] TJ ET
+BT 64.016 405.539 Td 2.141 Tw /F2 12.0 Tf  [(Sterling's latest novel is )] TJ ET
+BT 189.414 405.539 Td 2.141 Tw /F3 12.0 Tf  [(Holy Fire)] TJ ET
+BT 238.547 405.539 Td 2.141 Tw /F2 12.0 Tf  [(, set in a "gerontocratic" late 21st century Earth dominated by the )] TJ ET
+BT 64.016 391.283 Td 5.272 Tw /F2 12.0 Tf  [("medical-industrial complex", and focuses on a group of young European artists, hackers, and )] TJ ET
+BT 64.016 377.027 Td 0.000 Tw /F2 12.0 Tf  [(intellectuals determined to go their own way in a world domianted by elderly wealth.)] TJ ET
+57.816 353.876 m 
+57.816 354.426 57.589 354.972 57.201 355.361 c
+56.812 355.750 56.266 355.976 55.716 355.976 c
+55.166 355.976 54.620 355.750 54.231 355.361 c
+53.842 354.972 53.616 354.426 53.616 353.876 c
+53.616 353.326 53.842 352.780 54.231 352.391 c
+54.620 352.003 55.166 351.776 55.716 351.776 c
+56.266 351.776 56.812 352.003 57.201 352.391 c
+57.589 352.780 57.816 353.326 57.816 353.876 c f
+BT 64.016 350.771 Td 0.482 Tw /F2 12.0 Tf  [(Gibson and Sterling collaboratively wrote )] TJ ET
+BT 270.739 350.771 Td 0.482 Tw /F3 12.0 Tf  [(The Difference Engine)] TJ ET
+BT 380.351 350.771 Td 0.482 Tw /F2 12.0 Tf  [(, a novel called "steampunk" by some; it )] TJ ET
+BT 64.016 336.515 Td 4.769 Tw /F2 12.0 Tf  [(deals with many cyberpunk themes by using an alternate 19th-century Britain where Babbage's )] TJ ET
+BT 64.016 322.259 Td 0.000 Tw /F2 12.0 Tf  [(mechanical computer technology has been fully developed.)] TJ ET
+57.816 299.108 m 
+57.816 299.658 57.589 300.204 57.201 300.593 c
+56.812 300.982 56.266 301.208 55.716 301.208 c
+55.166 301.208 54.620 300.982 54.231 300.593 c
+53.842 300.204 53.616 299.658 53.616 299.108 c
+53.616 298.558 53.842 298.012 54.231 297.623 c
+54.620 297.235 55.166 297.008 55.716 297.008 c
+56.266 297.008 56.812 297.235 57.201 297.623 c
+57.589 298.012 57.816 298.558 57.816 299.108 c f
+BT 64.016 296.003 Td 0.513 Tw /F3 12.0 Tf  [(Snow Crash)] TJ ET
+BT 122.873 296.003 Td 0.513 Tw /F2 12.0 Tf  [(, by Neal Stephenson, carries cyberpunk to a humorous extreme; what else can one say about )] TJ ET
+BT 64.016 281.747 Td 0.000 Tw /F2 12.0 Tf  [(a work where the Mafia delivers pizza and the main character's name is "Hiro Protagonist" ?)] TJ ET
+57.816 258.596 m 
+57.816 259.146 57.589 259.692 57.201 260.081 c
+56.812 260.470 56.266 260.696 55.716 260.696 c
+55.166 260.696 54.620 260.470 54.231 260.081 c
+53.842 259.692 53.616 259.146 53.616 258.596 c
+53.616 258.046 53.842 257.500 54.231 257.111 c
+54.620 256.723 55.166 256.496 55.716 256.496 c
+56.266 256.496 56.812 256.723 57.201 257.111 c
+57.589 257.500 57.816 258.046 57.816 258.596 c f
+BT 64.016 255.491 Td 4.026 Tw /F2 12.0 Tf  [(Larry McCaffrey edited an anthology, )] TJ ET
+BT 270.096 255.491 Td 4.026 Tw /F3 12.0 Tf  [(Storming the Reality Studio)] TJ ET
+BT 414.510 255.491 Td 4.026 Tw /F2 12.0 Tf  [(, which has snippets of many )] TJ ET
+BT 64.016 241.235 Td 0.227 Tw /F2 12.0 Tf  [(cyberpunk works, as well as critical articles about cyberpunk, and a fairly good bibliography. Other works )] TJ ET
+BT 64.016 226.979 Td 0.359 Tw /F2 12.0 Tf  [(of criticism are Bukatman's )] TJ ET
+BT 200.259 226.979 Td 0.359 Tw /F3 12.0 Tf  [(Terminal Identity)] TJ ET
+BT 284.282 226.979 Td 0.359 Tw /F2 12.0 Tf  [( and Slusser and Shippey's )] TJ ET
+BT 416.565 226.979 Td 0.359 Tw /F3 12.0 Tf  [(Fiction 2000: Cyberpunk and the )] TJ ET
+BT 64.016 212.723 Td 0.000 Tw /F3 12.0 Tf  [(Future of Narrative)] TJ ET
+BT 158.684 212.723 Td /F2 12.0 Tf  [(.)] TJ ET
+BT 34.016 186.467 Td /F2 12.0 Tf  [(Some other good cyberpunk works include :)] TJ ET
+57.816 163.316 m 
+57.816 163.866 57.589 164.412 57.201 164.801 c
+56.812 165.190 56.266 165.416 55.716 165.416 c
+55.166 165.416 54.620 165.190 54.231 164.801 c
+53.842 164.412 53.616 163.866 53.616 163.316 c
+53.616 162.766 53.842 162.220 54.231 161.831 c
+54.620 161.443 55.166 161.216 55.716 161.216 c
+56.266 161.216 56.812 161.443 57.201 161.831 c
+57.589 162.220 57.816 162.766 57.816 163.316 c f
+BT 64.016 160.211 Td 2.314 Tw /F2 12.0 Tf  [(Walter Jon Williams, )] TJ ET
+BT 176.280 160.211 Td 2.314 Tw /F3 12.0 Tf  [(Hardwired)] TJ ET
+BT 228.948 160.211 Td 2.314 Tw /F2 12.0 Tf  [( : a smuggler who pilots a hovertank decides to take on the Orbital )] TJ ET
+BT 64.016 145.955 Td 0.000 Tw /F2 12.0 Tf  [(Corporations that control his world.)] TJ ET
+57.816 122.804 m 
+57.816 123.354 57.589 123.900 57.201 124.289 c
+56.812 124.678 56.266 124.904 55.716 124.904 c
+55.166 124.904 54.620 124.678 54.231 124.289 c
+53.842 123.900 53.616 123.354 53.616 122.804 c
+53.616 122.254 53.842 121.708 54.231 121.319 c
+54.620 120.931 55.166 120.704 55.716 120.704 c
+56.266 120.704 56.812 120.931 57.201 121.319 c
+57.589 121.708 57.816 122.254 57.816 122.804 c f
+BT 64.016 119.699 Td 0.514 Tw /F2 12.0 Tf  [(Walter Jon Williams, )] TJ ET
+BT 170.880 119.699 Td 0.514 Tw /F3 12.0 Tf  [(Voice of the Whirlwind)] TJ ET
+BT 283.421 119.699 Td 0.514 Tw /F2 12.0 Tf  [( : a corporate soldier's clone tries to discover what happened )] TJ ET
+BT 64.016 105.443 Td 0.000 Tw /F2 12.0 Tf  [(to his "original copy".)] TJ ET
+57.816 82.292 m 
+57.816 82.842 57.589 83.388 57.201 83.777 c
+56.812 84.166 56.266 84.392 55.716 84.392 c
+55.166 84.392 54.620 84.166 54.231 83.777 c
+53.842 83.388 53.616 82.842 53.616 82.292 c
+53.616 81.742 53.842 81.196 54.231 80.807 c
+54.620 80.419 55.166 80.192 55.716 80.192 c
+56.266 80.192 56.812 80.419 57.201 80.807 c
+57.589 81.196 57.816 81.742 57.816 82.292 c f
+BT 64.016 79.187 Td 2.786 Tw /F2 12.0 Tf  [(Greg Bear, )] TJ ET
+BT 125.232 79.187 Td 2.786 Tw /F3 12.0 Tf  [(Blood Music)] TJ ET
+BT 189.014 79.187 Td 2.786 Tw /F2 12.0 Tf  [( : a genetic engineer "uplifts" some of his own blood cells to human-level )] TJ ET
+BT 64.016 64.931 Td 0.000 Tw /F2 12.0 Tf  [(intelligence, with radical consequences.)] TJ ET
+endstream
+endobj
+51 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Annots [ 54 0 R 56 0 R 58 0 R 60 0 R ]
+/Contents 52 0 R
+>>
+endobj
+52 0 obj
+<<
+/Length 7469 >>
+stream
+
+0.000 0.000 0.000 rg
+0.000 0.000 0.000 RG
+0.24 w 0 J [  ] 0 d
+57.816 749.684 m 
+57.816 750.234 57.589 750.780 57.201 751.169 c
+56.812 751.558 56.266 751.784 55.716 751.784 c
+55.166 751.784 54.620 751.558 54.231 751.169 c
+53.842 750.780 53.616 750.234 53.616 749.684 c
+53.616 749.134 53.842 748.588 54.231 748.199 c
+54.620 747.811 55.166 747.584 55.716 747.584 c
+56.266 747.584 56.812 747.811 57.201 748.199 c
+57.589 748.588 57.816 749.134 57.816 749.684 c f
+BT 64.016 746.579 Td 0.455 Tw /F2 12.0 Tf  [(Pat Cadigan, )] TJ ET
+BT 129.258 746.579 Td 0.455 Tw /F3 12.0 Tf  [(Synners)] TJ ET
+BT 167.250 746.579 Td 0.455 Tw /F2 12.0 Tf  [( : hackers and other misfits pursue a deadly new "virus" when direct brain interfaces )] TJ ET
+BT 64.016 732.323 Td 0.000 Tw /F2 12.0 Tf  [(first appear in near-future LA.)] TJ ET
+57.816 709.172 m 
+57.816 709.722 57.589 710.268 57.201 710.657 c
+56.812 711.046 56.266 711.272 55.716 711.272 c
+55.166 711.272 54.620 711.046 54.231 710.657 c
+53.842 710.268 53.616 709.722 53.616 709.172 c
+53.616 708.622 53.842 708.076 54.231 707.687 c
+54.620 707.299 55.166 707.072 55.716 707.072 c
+56.266 707.072 56.812 707.299 57.201 707.687 c
+57.589 708.076 57.816 708.622 57.816 709.172 c f
+BT 64.016 706.067 Td 0.466 Tw /F2 12.0 Tf  [(Jeff Noon, )] TJ ET
+BT 118.601 706.067 Td 0.466 Tw /F3 12.0 Tf  [(Vurt)] TJ ET
+BT 139.937 706.067 Td 0.466 Tw /F2 12.0 Tf  [( : a Clockwork Orange-esque tale in an England where virtual reality is truly the opiate of )] TJ ET
+BT 64.016 691.811 Td 0.000 Tw /F2 12.0 Tf  [(the masses.)] TJ ET
+BT 34.016 665.555 Td 1.381 Tw /F2 12.0 Tf  [(Some good out-of-print works to look for are Cadigan's )] TJ ET
+BT 316.237 665.555 Td 1.381 Tw /F3 12.0 Tf  [(Mindplayers)] TJ ET
+BT 376.897 665.555 Td 1.381 Tw /F2 12.0 Tf  [(, Michael Swanwick's )] TJ ET
+BT 489.183 665.555 Td 1.381 Tw /F3 12.0 Tf  [(Vacuum Flowers)] TJ ET
+BT 572.223 665.555 Td 1.381 Tw /F2 12.0 Tf  [(, )] TJ ET
+BT 34.016 651.299 Td 0.000 Tw /F2 12.0 Tf  [(Daniel Keyes Moran's )] TJ ET
+BT 143.816 651.299 Td /F3 12.0 Tf  [(The Long Run)] TJ ET
+BT 211.820 651.299 Td /F2 12.0 Tf  [(, and Vernor Vinge's short story )] TJ ET
+BT 368.288 651.299 Td /F3 12.0 Tf  [(True Names)] TJ ET
+BT 426.620 651.299 Td /F2 12.0 Tf  [(.)] TJ ET
+34.016 636.448 m 577.984 636.448 l 577.234 635.698 l 34.766 635.698 l  f
+0.160 0.160 0.160 rg
+0.160 0.160 0.160 RG
+34.016 634.948 m 577.984 634.948 l 577.234 635.698 l 34.766 635.698 l  f
+577.984 636.448 m 577.984 634.948 l 577.234 635.698 l 577.234 635.698 l  f
+0.000 0.000 0.000 rg
+0.000 0.000 0.000 RG
+34.016 636.448 m 34.016 634.948 l 34.766 635.698 l 34.766 635.698 l  f
+BT 34.016 609.605 Td /F1 14.0 Tf  [(5. Magazines About Cyberpunk and Related Topics)] TJ ET
+BT 34.016 582.864 Td /F2 12.0 Tf  [(Some magazines which are popular among Cyberpunk fans are :)] TJ ET
+BT 34.016 556.493 Td /F1 12.0 Tf  [(Mondo 2000)] TJ ET
+BT 34.016 542.208 Td 0.522 Tw /F2 12.0 Tf  [(Many Cyberpunk fans have an uneasy relationship with )] TJ ET
+BT 308.814 542.208 Td 0.522 Tw /F3 12.0 Tf  [(Mondo 2000)] TJ ET
+BT 370.332 542.208 Td 0.522 Tw /F2 12.0 Tf  [(, their esteem for it varies according to the )] TJ ET
+BT 34.016 527.952 Td 0.886 Tw /F2 12.0 Tf  [(amount of technical content and affected hipness in the articles. Nonetheless, if anything could claim to be the )] TJ ET
+BT 34.016 513.696 Td 1.849 Tw /F2 12.0 Tf  [(Cyberpunk "magazine of record", this is it. With the departure of many of those providing creative impetus )] TJ ET
+BT 34.016 499.440 Td 0.000 Tw /F2 12.0 Tf  [(\(notably, R.U. Sirius\), its days may be numbered.)] TJ ET
+BT 34.016 473.069 Td /F1 12.0 Tf  [(bOING-bOING)] TJ ET
+BT 34.016 458.784 Td 3.660 Tw /F2 12.0 Tf  [(bOING-bOING's status is uncertain; most of its writers now work for )] TJ ET
+BT 410.717 458.784 Td 3.660 Tw /F3 12.0 Tf  [(Wired)] TJ ET
+BT 440.045 458.784 Td 3.660 Tw /F2 12.0 Tf  [(, it has ceased newsstand )] TJ ET
+BT 34.016 444.528 Td 0.000 Tw /F2 12.0 Tf  [(distribution and no longer offers subscriptions. However, if one can get a copy, it's worth looking at.)] TJ ET
+0.000 0.000 0.800 rg
+BT 34.016 418.157 Td /F1 12.0 Tf  [(Wired)] TJ ET
+0.000 0.000 0.800 RG
+0.24 w 0 J [  ] 0 d
+34.016 416.363 m 66.680 416.363 l S
+0.000 0.000 0.000 rg
+BT 34.016 403.872 Td 2.068 Tw /F2 12.0 Tf  [(The magazine which, through aggressive positioning, has managed to become the "magazine of record" for )] TJ ET
+BT 34.016 389.616 Td 0.715 Tw /F2 12.0 Tf  [(modern techno-aware culture. It's aimed more at technically-oriented professionals with disposable income, but )] TJ ET
+BT 34.016 375.360 Td 0.000 Tw /F2 12.0 Tf  [(many cyberpunk fans like the articles on network and future related topics.)] TJ ET
+BT 34.016 348.989 Td /F1 12.0 Tf  [(SF EYE)] TJ ET
+BT 34.016 334.704 Td 1.917 Tw /F2 12.0 Tf  [(Described by some as the "house organ of the cyberpunk movement", founded by Stephen P. Brown at the )] TJ ET
+BT 34.016 320.448 Td 0.912 Tw /F2 12.0 Tf  [(urging of his friends Gibson, Shirley, and Sterling. Published semi-annually, and contains a regular column by )] TJ ET
+BT 34.016 306.192 Td 0.000 Tw /F2 12.0 Tf  [(Sterling.)] TJ ET
+BT 34.016 279.821 Td /F1 12.0 Tf  [(Phrack)] TJ ET
+0.000 0.000 0.800 rg
+BT 34.016 265.421 Td /F1 12.0 Tf  [(2600 Magazine)] TJ ET
+0.24 w 0 J [  ] 0 d
+34.016 263.627 m 111.008 263.627 l S
+0.000 0.000 0.000 rg
+BT 34.016 251.136 Td 0.780 Tw /F2 12.0 Tf  [(Two mainstays of the computer underground. Phrack deals more with people and goings-on in the community, )] TJ ET
+BT 34.016 236.880 Td 0.000 Tw /F2 12.0 Tf  [(while 2600 focuses on techinical information.)] TJ ET
+BT 34.016 210.624 Td /F1 12.0 Tf  [(21C)] TJ ET
+0.000 0.000 0.000 RG
+34.016 195.773 m 577.984 195.773 l 577.234 195.023 l 34.766 195.023 l  f
+0.160 0.160 0.160 rg
+0.160 0.160 0.160 RG
+34.016 194.273 m 577.984 194.273 l 577.234 195.023 l 34.766 195.023 l  f
+577.984 195.773 m 577.984 194.273 l 577.234 195.023 l 577.234 195.023 l  f
+0.000 0.000 0.000 rg
+0.000 0.000 0.000 RG
+34.016 195.773 m 34.016 194.273 l 34.766 195.023 l 34.766 195.023 l  f
+BT 34.016 168.929 Td /F1 14.0 Tf  [(6. Cyberpunk in the Visual Media \(Movies and TV\))] TJ ET
+BT 34.016 142.188 Td 0.771 Tw /F2 12.0 Tf  [(TV gave us the late, lamented )] TJ ET
+BT 184.943 142.188 Td 0.771 Tw /F3 12.0 Tf  [(Max Headroom)] TJ ET
+BT 261.362 142.188 Td 0.771 Tw /F2 12.0 Tf  [(, which featured oodles of cyberpunk concepts. The Bravo cable )] TJ ET
+BT 34.016 127.932 Td 0.652 Tw /F2 12.0 Tf  [(network and the Sci-Fi Channel are rerunning the few episodes that were made. TV also gave us the somewhat )] TJ ET
+BT 34.016 113.676 Td 0.000 Tw /F2 12.0 Tf  [(bloated )] TJ ET
+BT 72.344 113.676 Td /F3 12.0 Tf  [(Wild Palms)] TJ ET
+BT 128.012 113.676 Td /F2 12.0 Tf  [(, with a "cyberspace", evil corporations, and a cameo by William Gibson.)] TJ ET
+BT 34.016 87.420 Td 1.122 Tw /F2 12.0 Tf  [(Also shown on the Sci-Fi Channel is )] TJ ET
+BT 220.872 87.420 Td 1.122 Tw /F3 12.0 Tf  [(TekWar)] TJ ET
+BT 258.864 87.420 Td 1.122 Tw /F2 12.0 Tf  [(, a series based on William Shatner's )] TJ ET
+BT 445.517 87.420 Td 1.122 Tw /F3 12.0 Tf  [(Tek)] TJ ET
+BT 462.845 87.420 Td 1.122 Tw /F2 12.0 Tf  [( novels, which evolved )] TJ ET
+BT 34.016 73.164 Td 1.189 Tw /F2 12.0 Tf  [(from a set of TV movies based on those novels. While possessing some traditionally cyberpunk elements and )] TJ ET
+BT 34.016 58.908 Td 0.846 Tw /F2 12.0 Tf  [(extended "cyberspace runs", they \(or at least the TV movies\) tend to boil down to good guys vs. bad guys cop )] TJ ET
+endstream
+endobj
+53 0 obj
+[51 0 R /Fit]
+endobj
+54 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 55 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 34.0157 429.6767 34.0157 429.6767 ]
+>>
+endobj
+55 0 obj
+<< /Type /Action
+/S /URI
+/URI (http://www.wired.com/)
+>>
+endobj
+56 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 57 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 34.0157 417.0767 66.6797 428.9567 ]
+>>
+endobj
+57 0 obj
+<< /Type /Action
+/S /URI
+/URI (http://www.wired.com/)
+>>
+endobj
+58 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 59 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 34.0157 276.9407 34.0157 276.9407 ]
+>>
+endobj
+59 0 obj
+<< /Type /Action
+/S /URI
+/URI (http://www.2600.com/)
+>>
+endobj
+60 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 61 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 34.0157 264.3407 111.0077 276.2207 ]
+>>
+endobj
+61 0 obj
+<< /Type /Action
+/S /URI
+/URI (http://www.2600.com/)
+>>
+endobj
+62 0 obj
+[51 0 R /Fit]
+endobj
+63 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Annots [ 65 0 R 68 0 R ]
+/Contents 64 0 R
+>>
+endobj
+64 0 obj
+<<
+/Length 9332 >>
+stream
+
+0.000 0.000 0.000 rg
+0.000 0.000 0.000 RG
+0.24 w 0 J [  ] 0 d
+BT 34.016 746.579 Td 0.000 Tw /F2 12.0 Tf  [(stories \(TekLords features a central plot element that those who have read )] TJ ET
+BT 391.928 746.579 Td /F3 12.0 Tf  [(Snow Crash)] TJ ET
+BT 450.272 746.579 Td /F2 12.0 Tf  [( will recognize\).)] TJ ET
+BT 34.016 720.323 Td 0.203 Tw /F3 12.0 Tf  [(Blade Runner)] TJ ET
+BT 100.543 720.323 Td 0.203 Tw /F2 12.0 Tf  [(, based loosely on Philip K. Dick's novel )] TJ ET
+BT 300.324 720.323 Td 0.203 Tw /F3 12.0 Tf  [(Do Androids Dream of Electric Sheep ?)] TJ ET
+BT 493.520 720.323 Td 0.203 Tw /F2 12.0 Tf  [( is considered the )] TJ ET
+BT 34.016 706.067 Td 0.963 Tw /F2 12.0 Tf  [(archetypical cyberpunk movie \(Gibson has said that the visuals in )] TJ ET
+BT 362.266 706.067 Td 0.963 Tw /F3 12.0 Tf  [(Blade Runner)] TJ ET
+BT 429.553 706.067 Td 0.963 Tw /F2 12.0 Tf  [( match his vision of the urban )] TJ ET
+BT 34.016 691.811 Td 0.754 Tw /F2 12.0 Tf  [(future in )] TJ ET
+BT 79.516 691.811 Td 0.754 Tw /F3 12.0 Tf  [(Neuromancer)] TJ ET
+BT 145.504 691.811 Td 0.754 Tw /F2 12.0 Tf  [(\). Few other movies have matched it; some that are considered cyberpunk or marginally )] TJ ET
+BT 34.016 677.555 Td 2.016 Tw /F2 12.0 Tf  [(so are )] TJ ET
+BT 69.367 677.555 Td 2.016 Tw /F3 12.0 Tf  [(Alien)] TJ ET
+BT 94.699 677.555 Td 2.016 Tw /F2 12.0 Tf  [( and its sequels, )] TJ ET
+BT 181.759 677.555 Td 2.016 Tw /F3 12.0 Tf  [(Freejack)] TJ ET
+BT 224.407 677.555 Td 2.016 Tw /F2 12.0 Tf  [(, )] TJ ET
+BT 232.423 677.555 Td 2.016 Tw /F3 12.0 Tf  [(The Lawnmower Man)] TJ ET
+BT 341.790 677.555 Td 2.016 Tw /F2 12.0 Tf  [(, )] TJ ET
+BT 349.806 677.555 Td 2.016 Tw /F3 12.0 Tf  [(Until the End of the World)] TJ ET
+BT 487.553 677.555 Td 2.016 Tw /F2 12.0 Tf  [(, the )] TJ ET
+BT 515.249 677.555 Td 2.016 Tw /F3 12.0 Tf  [(Terminator)] TJ ET
+BT 34.016 663.299 Td 0.000 Tw /F2 12.0 Tf  [(movies, )] TJ ET
+BT 74.684 663.299 Td /F3 12.0 Tf  [(Total Recall)] TJ ET
+BT 133.688 663.299 Td /F2 12.0 Tf  [(, )] TJ ET
+BT 139.688 663.299 Td /F3 12.0 Tf  [(Strange Days)] TJ ET
+BT 204.680 663.299 Td /F2 12.0 Tf  [(, and )] TJ ET
+BT 231.008 663.299 Td /F3 12.0 Tf  [(Brainstorm)] TJ ET
+BT 285.680 663.299 Td /F2 12.0 Tf  [(.)] TJ ET
+BT 34.016 637.043 Td 0.647 Tw /F2 12.0 Tf  [(Cyberpunk stories can also be found in Japanese anime films, including the )] TJ ET
+BT 406.736 637.043 Td 0.647 Tw /F3 12.0 Tf  [(Bubblegum Crisis)] TJ ET
+BT 493.723 637.043 Td 0.647 Tw /F2 12.0 Tf  [( series and )] TJ ET
+BT 549.316 637.043 Td 0.647 Tw /F3 12.0 Tf  [(Ghost )] TJ ET
+BT 34.016 622.787 Td 0.000 Tw /F3 12.0 Tf  [(in the Shell)] TJ ET
+BT 88.016 622.787 Td /F2 12.0 Tf  [(.)] TJ ET
+BT 34.016 596.531 Td 1.916 Tw /F2 12.0 Tf  [(There is an hourlong documentary called )] TJ ET
+BT 245.466 596.531 Td 1.916 Tw /F3 12.0 Tf  [(Cyberpunk)] TJ ET
+BT 298.122 596.531 Td 1.916 Tw /F2 12.0 Tf  [( available on video from Mystic Fire Video. It features )] TJ ET
+BT 34.016 582.275 Td 0.290 Tw /F2 12.0 Tf  [(some interview-style conversation with Gibson, is generally low-budget, and the consensus opinion on the net is )] TJ ET
+BT 34.016 568.019 Td 0.000 Tw /F2 12.0 Tf  [(that it isn't really worth anyone's time. Gibson is apparently embarrassed by it.)] TJ ET
+BT 34.016 541.763 Td 4.141 Tw /F2 12.0 Tf  [(Regarding films based on Gibson stories : at one point a fly-by-night operation called "Cabana Boys )] TJ ET
+BT 34.016 527.507 Td 1.508 Tw /F2 12.0 Tf  [(Productions" had the rights to )] TJ ET
+BT 187.453 527.507 Td 1.508 Tw /F3 12.0 Tf  [(Neuromancer)] TJ ET
+BT 253.441 527.507 Td 1.508 Tw /F2 12.0 Tf  [(; this is why the front of the Neuromancer computer game's box )] TJ ET
+BT 34.016 513.251 Td 0.845 Tw /F2 12.0 Tf  [(claims it is "soon to be a motion picture from Cabana Boys". The rights have since reverted to Gibson, who is )] TJ ET
+BT 34.016 498.995 Td 0.000 Tw /F2 12.0 Tf  [(sitting on them at the moment.)] TJ ET
+BT 34.016 472.739 Td 1.061 Tw /F2 12.0 Tf  [(Gibson's short story )] TJ ET
+BT 135.694 472.739 Td 1.061 Tw /F3 12.0 Tf  [(Johnny Mnemonic)] TJ ET
+BT 225.063 472.739 Td 1.061 Tw /F2 12.0 Tf  [( was made into a big-budget full-length motion picture. Gibson himself )] TJ ET
+BT 34.016 458.483 Td 1.399 Tw /F2 12.0 Tf  [(wrote the screenplay and was a close consultant to the director; the result "has his blessing", so to speak. As )] TJ ET
+BT 34.016 444.227 Td 0.558 Tw /F2 12.0 Tf  [(might be expected, there are many additions to the short story as well as outright differences. The film contains )] TJ ET
+BT 34.016 429.971 Td 1.414 Tw /F2 12.0 Tf  [(elements not only from the original story, but also from Neuromancer and Virtual Light; there is much more )] TJ ET
+BT 34.016 415.715 Td 0.388 Tw /F2 12.0 Tf  [(violent action, and the ending is more upbeat. Very significantly, Molly does not appear in the film; her place is )] TJ ET
+BT 34.016 401.459 Td 0.665 Tw /F2 12.0 Tf  [(taken by a character named "Jane" \(who has no inset eyeglasses or retractable claws\) due to issues surrounding )] TJ ET
+BT 34.016 387.203 Td 1.888 Tw /F2 12.0 Tf  [(use of the Molly character in any future Neuromancer production. The film was not a critical or box-office )] TJ ET
+BT 34.016 372.947 Td 2.563 Tw /F2 12.0 Tf  [(success in the U.S., which Gibson has partly blamed on the post-production editing; he claims the longer )] TJ ET
+BT 34.016 358.691 Td 0.000 Tw /F2 12.0 Tf  [(Japanese release is the better one.)] TJ ET
+BT 34.016 332.435 Td 1.630 Tw /F3 12.0 Tf  [(The Gernsback Continuum)] TJ ET
+BT 166.599 332.435 Td 1.630 Tw /F2 12.0 Tf  [( was adapted into a short \(15 minute\) film in Britain; it has been shown on some )] TJ ET
+BT 34.016 318.179 Td 1.001 Tw /F2 12.0 Tf  [(European TV networks, but I don't know if it's available in the US. Rumors also abound that )] TJ ET
+BT 497.653 318.179 Td 1.001 Tw /F3 12.0 Tf  [(New Rose Hotel)] TJ ET
+BT 34.016 303.923 Td 0.818 Tw /F2 12.0 Tf  [(will be brought to the big screen by various directors. Other rumors claim that )] TJ ET
+BT 423.079 303.923 Td 0.818 Tw /F3 12.0 Tf  [(Count Zero)] TJ ET
+BT 478.904 303.923 Td 0.818 Tw /F2 12.0 Tf  [( will be made into a )] TJ ET
+BT 34.016 289.667 Td 0.000 Tw /F2 12.0 Tf  [(film titled )] TJ ET
+BT 84.692 289.667 Td /F3 12.0 Tf  [(The Zen Differential)] TJ ET
+BT 182.696 289.667 Td /F2 12.0 Tf  [(.)] TJ ET
+BT 34.016 263.411 Td 1.317 Tw /F2 12.0 Tf  [(William Gibson wrote one of the many scripts for )] TJ ET
+BT 288.177 263.411 Td 1.317 Tw /F3 12.0 Tf  [(Alien 3)] TJ ET
+BT 323.826 263.411 Td 1.317 Tw /F2 12.0 Tf  [(. According to him, only one detail from his script )] TJ ET
+BT 34.016 249.155 Td 0.313 Tw /F2 12.0 Tf  [(made its way to the actual film : the bar codes visible on the backs of the prisoners' shaved heads. A synopsis of )] TJ ET
+BT 34.016 234.899 Td 0.000 Tw /F2 12.0 Tf  [(Gibson's script can be found in part 3 of the )] TJ ET
+0.000 0.000 0.800 rg
+BT 246.812 234.899 Td /F2 12.0 Tf  [(Alien Movies FAQ)] TJ ET
+0.000 0.000 0.800 RG
+0.24 w 0 J [  ] 0 d
+246.812 233.505 m 339.476 233.505 l S
+0.000 0.000 0.000 rg
+BT 339.476 234.899 Td /F2 12.0 Tf  [( list.)] TJ ET
+0.000 0.000 0.000 RG
+34.016 220.048 m 577.984 220.048 l 577.234 219.298 l 34.766 219.298 l  f
+0.160 0.160 0.160 rg
+0.160 0.160 0.160 RG
+34.016 218.548 m 577.984 218.548 l 577.234 219.298 l 34.766 219.298 l  f
+577.984 220.048 m 577.984 218.548 l 577.234 219.298 l 577.234 219.298 l  f
+0.000 0.000 0.000 rg
+0.000 0.000 0.000 RG
+34.016 220.048 m 34.016 218.548 l 34.766 219.298 l 34.766 219.298 l  f
+BT 34.016 193.205 Td /F1 14.0 Tf  [(7. Blade Runner)] TJ ET
+BT 34.016 166.464 Td 2.003 Tw /F2 12.0 Tf  [(The )] TJ ET
+0.000 0.000 0.800 rg
+BT 57.679 166.464 Td 2.003 Tw /F2 12.0 Tf  [(Blade Runner FAQ)] TJ ET
+0.000 0.000 0.800 RG
+0.24 w 0 J [  ] 0 d
+57.679 165.070 m 155.009 165.070 l S
+0.000 0.000 0.000 rg
+BT 155.009 166.464 Td 2.003 Tw /F2 12.0 Tf  [( answers many of the more common questions. Here are short answers to the most )] TJ ET
+BT 34.016 152.208 Td 0.000 Tw /F2 12.0 Tf  [(common.)] TJ ET
+0.000 0.000 0.000 RG
+57.816 129.057 m 
+57.816 129.607 57.589 130.153 57.201 130.542 c
+56.812 130.930 56.266 131.157 55.716 131.157 c
+55.166 131.157 54.620 130.930 54.231 130.542 c
+53.842 130.153 53.616 129.607 53.616 129.057 c
+53.616 128.507 53.842 127.961 54.231 127.572 c
+54.620 127.183 55.166 126.957 55.716 126.957 c
+56.266 126.957 56.812 127.183 57.201 127.572 c
+57.589 127.961 57.816 128.507 57.816 129.057 c f
+BT 64.016 125.952 Td 0.429 Tw /F2 12.0 Tf  [(There are several alternate versions. The original theatrical release in the US omitted the Batty-Tyrell eye-)] TJ ET
+BT 64.016 111.696 Td 0.374 Tw /F2 12.0 Tf  [(gouging sequence and a few other bits; these were added back in Europe and the video release. In 1992, a )] TJ ET
+BT 64.016 97.440 Td 0.267 Tw /F2 12.0 Tf  [("director's cut" was released, now available on video, which omits the Deckard voiceover and the "happy" )] TJ ET
+BT 64.016 83.184 Td 4.783 Tw /F2 12.0 Tf  [(ending, and reinserts the "unicorn scene". Before that, however, a different cut \(known as the )] TJ ET
+BT 64.016 68.928 Td 0.400 Tw /F2 12.0 Tf  [("workprint"\) was shown at two theaters, one in LA, the other in San Francisco, for a brief period; this has )] TJ ET
+BT 64.016 54.672 Td 0.449 Tw /F2 12.0 Tf  [(a different title sequence and soundtrack, some different dialogue, no voiceover and no happy ending, but )] TJ ET
+endstream
+endobj
+65 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 66 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 246.8117 233.8195 339.4757 245.6995 ]
+>>
+endobj
+66 0 obj
+<< /Type /Action
+/S /URI
+/URI (ftp://rtfm.mit.edu/pub/usenet/news.answers/movies/alien-faq)
+>>
+endobj
+67 0 obj
+[63 0 R /Fit]
+endobj
+68 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 69 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 57.6788 165.3839 155.0090 177.2639 ]
+>>
+endobj
+69 0 obj
+<< /Type /Action
+/S /URI
+/URI (ftp://rtfm.mit.edu/pub/usenet/news.answers/movies/bladerunner-faq)
+>>
+endobj
+70 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 71 0 R
+>>
+endobj
+71 0 obj
+<<
+/Length 7191 >>
+stream
+
+0.000 0.000 0.000 rg
+0.000 0.000 0.000 RG
+0.24 w 0 J [  ] 0 d
+BT 64.016 746.579 Td 0.000 Tw /F2 12.0 Tf  [(no unicorn sequence.)] TJ ET
+57.816 723.428 m 
+57.816 723.978 57.589 724.524 57.201 724.913 c
+56.812 725.302 56.266 725.528 55.716 725.528 c
+55.166 725.528 54.620 725.302 54.231 724.913 c
+53.842 724.524 53.616 723.978 53.616 723.428 c
+53.616 722.878 53.842 722.332 54.231 721.943 c
+54.620 721.555 55.166 721.328 55.716 721.328 c
+56.266 721.328 56.812 721.555 57.201 721.943 c
+57.589 722.332 57.816 722.878 57.816 723.428 c f
+BT 64.016 720.323 Td 1.863 Tw /F2 12.0 Tf  [(The 5/6 replicants problem : this is widely accepted as an editing glitch which slipped through to the )] TJ ET
+BT 64.016 706.067 Td 3.166 Tw /F2 12.0 Tf  [(release. The film originally featured a fifth "live" replicant, "Mary", who was later deleted. In the )] TJ ET
+BT 64.016 691.811 Td 0.450 Tw /F2 12.0 Tf  [(workprint, the line "one got fried7" is changed to "two got fried...". Bryant does not include Rachel in the )] TJ ET
+BT 64.016 677.555 Td 0.000 Tw /F2 12.0 Tf  [(original six escaped replicants. However...)] TJ ET
+57.816 654.404 m 
+57.816 654.954 57.589 655.500 57.201 655.889 c
+56.812 656.278 56.266 656.504 55.716 656.504 c
+55.166 656.504 54.620 656.278 54.231 655.889 c
+53.842 655.500 53.616 654.954 53.616 654.404 c
+53.616 653.854 53.842 653.308 54.231 652.919 c
+54.620 652.531 55.166 652.304 55.716 652.304 c
+56.266 652.304 56.812 652.531 57.201 652.919 c
+57.589 653.308 57.816 653.854 57.816 654.404 c f
+BT 64.016 651.299 Td 0.713 Tw /F2 12.0 Tf  [(Internal clues, such as lack of emotion, the photographs, and the reflective eyes, do suggest that Deckard )] TJ ET
+BT 64.016 637.043 Td 0.365 Tw /F2 12.0 Tf  [(is a replicant. However, this is not explicitly stated in any cut. The "unicorn scene" gives this theory more )] TJ ET
+BT 64.016 622.787 Td 0.000 Tw /F2 12.0 Tf  [(weight.)] TJ ET
+BT 34.016 596.531 Td 0.882 Tw /F2 12.0 Tf  [(An excellent resource for any fan is Paul Sammon's in-depth book )] TJ ET
+BT 364.824 596.531 Td 0.882 Tw /F3 12.0 Tf  [(Future Noir: The Making of Blade Runner)] TJ ET
+BT 574.102 596.531 Td 0.882 Tw /F2 12.0 Tf  [(, )] TJ ET
+BT 34.016 582.275 Td 0.000 Tw /F2 12.0 Tf  [(which goes over the differences between the various version in minute detail.)] TJ ET
+BT 34.016 556.019 Td 1.069 Tw /F2 12.0 Tf  [(K.W. Jeter has written two novels which are sequels to the movie : )] TJ ET
+BT 371.529 556.019 Td 1.069 Tw /F3 12.0 Tf  [(Blade Runner 2: The Edge of Human)] TJ ET
+BT 556.587 556.019 Td 1.069 Tw /F2 12.0 Tf  [( and )] TJ ET
+BT 34.016 541.763 Td 0.653 Tw /F3 12.0 Tf  [(Blade Runner: Replicant Night)] TJ ET
+BT 184.966 541.763 Td 0.653 Tw /F2 12.0 Tf  [(. One's judgement of the "appropriateness" of this may be influenced by the fact )] TJ ET
+BT 34.016 527.507 Td 1.216 Tw /F2 12.0 Tf  [(that Jeter was a good friend of Philip K. Dick's. The first sequel deals very directly with the "extra replicant" )] TJ ET
+BT 34.016 513.251 Td 0.320 Tw /F2 12.0 Tf  [(and "Deckard a replicant ?" issues. The second sequel involves Deckard's participation in making a movie about )] TJ ET
+BT 34.016 498.995 Td 1.036 Tw /F2 12.0 Tf  [(his experiences hunting Roy Batty et al. \(as seen by us in the movie\). More sequels by Jeter are apparently to )] TJ ET
+BT 34.016 484.739 Td 0.000 Tw /F2 12.0 Tf  [(come.)] TJ ET
+34.016 469.888 m 577.984 469.888 l 577.234 469.138 l 34.766 469.138 l  f
+0.160 0.160 0.160 rg
+0.160 0.160 0.160 RG
+34.016 468.388 m 577.984 468.388 l 577.234 469.138 l 34.766 469.138 l  f
+577.984 469.888 m 577.984 468.388 l 577.234 469.138 l 577.234 469.138 l  f
+0.000 0.000 0.000 rg
+0.000 0.000 0.000 RG
+34.016 469.888 m 34.016 468.388 l 34.766 469.138 l 34.766 469.138 l  f
+BT 34.016 443.045 Td /F1 14.0 Tf  [(8. Cyberpunk Music / Dress / Aftershave)] TJ ET
+BT 34.016 416.304 Td 1.382 Tw /F2 12.0 Tf  [(There are a lot of posts to alt.cyberpunk asking what Cyberpunk's like, do, wear etc. These posts are seen as )] TJ ET
+BT 34.016 402.048 Td 0.347 Tw /F2 12.0 Tf  [(inane due to the reason they are asked, ie, "Cyberpunk sounds cool, how can I become one". Cyberpunk is not a )] TJ ET
+BT 34.016 387.792 Td 0.000 Tw /F2 12.0 Tf  [(fashion statement,therefore little of this FAQ is taken up with such matters.)] TJ ET
+BT 34.016 361.536 Td 0.928 Tw /F2 12.0 Tf  [(In late 1993 Billy Idol released an album called )] TJ ET
+BT 273.336 361.536 Td 0.928 Tw /F3 12.0 Tf  [(Cyberpunk)] TJ ET
+BT 325.992 361.536 Td 0.928 Tw /F2 12.0 Tf  [(, which garnered some media attention; it seems to )] TJ ET
+BT 34.016 347.280 Td 0.190 Tw /F2 12.0 Tf  [(have been a commercial and critical flop. Billy made some token appearances on the net in alt.cyberpunk and on )] TJ ET
+BT 34.016 333.024 Td 0.651 Tw /F2 12.0 Tf  [(the WELL, but his public interest in the area seems to have waned. No matter how sincere his intentions might )] TJ ET
+BT 34.016 318.768 Td 0.000 Tw /F2 12.0 Tf  [(have been, scorn and charges of commercialization have been heaped upon him in this and other forums.)] TJ ET
+34.016 303.917 m 577.984 303.917 l 577.234 303.167 l 34.766 303.167 l  f
+0.160 0.160 0.160 rg
+0.160 0.160 0.160 RG
+34.016 302.417 m 577.984 302.417 l 577.234 303.167 l 34.766 303.167 l  f
+577.984 303.917 m 577.984 302.417 l 577.234 303.167 l 577.234 303.167 l  f
+0.000 0.000 0.000 rg
+0.000 0.000 0.000 RG
+34.016 303.917 m 34.016 302.417 l 34.766 303.167 l 34.766 303.167 l  f
+BT 34.016 277.073 Td /F1 14.0 Tf  [(9. What is "PGP" ?)] TJ ET
+BT 34.016 250.332 Td 1.547 Tw /F2 12.0 Tf  [("PGP" is short for "Pretty Good Privacy", a public-key cryptosystem that is the mainstay of the Cypherpunk )] TJ ET
+BT 34.016 236.076 Td 0.199 Tw /F2 12.0 Tf  [(movement. However, before you rush off and obtain a copy of PGP, I think it may be of useful to explain why it )] TJ ET
+BT 34.016 221.820 Td 0.000 Tw /F2 12.0 Tf  [(should be used, and the best reason I've heard comes from the guy who developed it, Phil Zimmerman.)] TJ ET
+BT 34.016 195.564 Td /F2 12.0 Tf  [(Why use PGP ?)] TJ ET
+BT 34.016 169.308 Td 2.048 Tw /F2 12.0 Tf  [("It's personal. It's private. And it's no one's business but yours. You may be planning a political campaign, )] TJ ET
+BT 34.016 155.052 Td 1.844 Tw /F2 12.0 Tf  [(discussing your taxes, or having an illicit affair. Or you may be doing something that you feel shouldn't be )] TJ ET
+BT 34.016 140.796 Td 1.471 Tw /F2 12.0 Tf  [(illegal, but is. Whatever it is, you don't want your private electronic mail \(E-mail\) or confidential documents )] TJ ET
+BT 34.016 126.540 Td 3.494 Tw /F2 12.0 Tf  [(read by anyone else. There's nothing wrong with asserting your privacy. Privacy is as apple-pie as the )] TJ ET
+BT 34.016 112.284 Td 0.000 Tw /F2 12.0 Tf  [(Constitution.)] TJ ET
+BT 34.016 86.028 Td 2.023 Tw /F2 12.0 Tf  [(Perhaps you think your E-mail is legitimate enough that encryption is unwarranted. If you really are a law-)] TJ ET
+BT 34.016 71.772 Td 0.975 Tw /F2 12.0 Tf  [(abiding citizen with nothing to hide, then why don't you always send your paper mail on postcards ? Why not )] TJ ET
+BT 34.016 57.516 Td 0.337 Tw /F2 12.0 Tf  [(submit to drug testing on demand ? Why require a warrant for police searches of your house ? Are you trying to )] TJ ET
+endstream
+endobj
+72 0 obj
+[70 0 R /Fit]
+endobj
+73 0 obj
+[70 0 R /Fit]
+endobj
+74 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Annots [ 76 0 R ]
+/Contents 75 0 R
+>>
+endobj
+75 0 obj
+<<
+/Length 3975 >>
+stream
+
+0.000 0.000 0.000 rg
+0.000 0.000 0.000 RG
+0.24 w 0 J [  ] 0 d
+BT 34.016 746.579 Td 0.352 Tw /F2 12.0 Tf  [(hide something ? You must be a subversive or a drug dealer if you hide your mail inside envelopes. Or maybe a )] TJ ET
+BT 34.016 732.323 Td 0.000 Tw /F2 12.0 Tf  [(paranoid nut. Do law-abiding citizens have any need to encrypt their E-mail ?)] TJ ET
+BT 34.016 706.067 Td 1.592 Tw /F2 12.0 Tf  [(What if everyone believed that law-abiding citizens should use postcards for their mail ? If some brave soul )] TJ ET
+BT 34.016 691.811 Td 1.334 Tw /F2 12.0 Tf  [(tried to assert his privacy by using an envelope for his mail, it would draw suspicion. Perhaps the authorities )] TJ ET
+BT 34.016 677.555 Td 0.686 Tw /F2 12.0 Tf  [(would open his mail to see what he's hiding. Fortunately, we don't live in that kind of world, because everyone )] TJ ET
+BT 34.016 663.299 Td 2.629 Tw /F2 12.0 Tf  [(protects most of their mail with envelopes. So no one draws suspicion by asserting their privacy with an )] TJ ET
+BT 34.016 649.043 Td 0.390 Tw /F2 12.0 Tf  [(envelope. There's safety in numbers. Analogously, it would be nice if everyone routinely used encryption for all )] TJ ET
+BT 34.016 634.787 Td 1.021 Tw /F2 12.0 Tf  [(their E-mail, innocent or not, so that no one drew suspicion by asserting their E-mail privacy with encryption. )] TJ ET
+BT 34.016 620.531 Td 0.000 Tw /F2 12.0 Tf  [(Think of it as a form of solidarity.")] TJ ET
+BT 34.016 594.275 Td 0.689 Tw /F2 12.0 Tf  [(PGP site can be found )] TJ ET
+0.000 0.000 0.800 rg
+BT 147.119 594.275 Td 0.689 Tw /F2 12.0 Tf  [(here)] TJ ET
+0.000 0.000 0.800 RG
+0.24 w 0 J [  ] 0 d
+147.119 592.881 m 167.771 592.881 l S
+0.000 0.000 0.000 rg
+BT 167.771 594.275 Td 0.689 Tw /F2 12.0 Tf  [(. Alternatively, there are two newsgroups dealing with PGP and encryption, namely )] TJ ET
+BT 34.016 580.019 Td 0.000 Tw /F2 12.0 Tf  [(alt.cypherpunk and comp.security.pgp.)] TJ ET
+0.000 0.000 0.000 RG
+34.016 565.168 m 577.984 565.168 l 577.234 564.418 l 34.766 564.418 l  f
+0.160 0.160 0.160 rg
+0.160 0.160 0.160 RG
+34.016 563.668 m 577.984 563.668 l 577.234 564.418 l 34.766 564.418 l  f
+577.984 565.168 m 577.984 563.668 l 577.234 564.418 l 577.234 564.418 l  f
+0.000 0.000 0.000 rg
+0.000 0.000 0.000 RG
+34.016 565.168 m 34.016 563.668 l 34.766 564.418 l 34.766 564.418 l  f
+BT 34.016 538.325 Td /F1 14.0 Tf  [(10. What is "Agrippa" ?)] TJ ET
+BT 34.016 511.584 Td 0.635 Tw /F3 12.0 Tf  [(Agrippa: A Book of the Dead)] TJ ET
+BT 177.505 511.584 Td 0.635 Tw /F2 12.0 Tf  [(, the textual component of an art project, was written by William Gibson in 1992. )] TJ ET
+BT 34.016 497.328 Td 1.199 Tw /F2 12.0 Tf  [(Gibson wrote a semi-autobiographical poem, which was placed onto a computer disk. This disk was part of a )] TJ ET
+BT 34.016 483.072 Td 0.486 Tw /F2 12.0 Tf  [(limited release of special "reader" screens; the reader units themselves had etchings by Dennis Ashbaugh which )] TJ ET
+BT 34.016 468.816 Td 0.544 Tw /F2 12.0 Tf  [(were light-sensitive, andslowly changed from one form to another, final, form, when exposed to light. Also, the )] TJ ET
+BT 34.016 454.560 Td 0.000 Tw /F2 12.0 Tf  [(text of the poem, when read, was erased from the disk - it could only be read once.)] TJ ET
+BT 34.016 428.304 Td 1.676 Tw /F2 12.0 Tf  [(On the net, opinion on the Agrippa project ranged from "what an interesting concept; it challenges what we )] TJ ET
+BT 34.016 414.048 Td 0.338 Tw /F2 12.0 Tf  [(think 'art' should be" to "Gibson has sold out to the artsy-fartsy crowd" to "Gibson is right to make a quick buck )] TJ ET
+BT 34.016 399.792 Td 0.000 Tw /F2 12.0 Tf  [(off these art people".)] TJ ET
+BT 34.016 373.536 Td 0.238 Tw /F2 12.0 Tf  [(Naturally \(some would say according to Gibson's plan\), someone got hold of the text of )] TJ ET
+BT 461.029 373.536 Td 0.238 Tw /F3 12.0 Tf  [(Agrippa)] TJ ET
+BT 500.365 373.536 Td 0.238 Tw /F2 12.0 Tf  [( and posted it to )] TJ ET
+BT 34.016 359.280 Td 0.000 Tw /F2 12.0 Tf  [(Usenet.)] TJ ET
+endstream
+endobj
+76 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 77 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 147.1190 593.1955 167.7710 605.0755 ]
+>>
+endobj
+77 0 obj
+<< /Type /Action
+/S /URI
+/URI (http://www.pgp.net/pgpnet/)
+>>
+endobj
+78 0 obj
+[74 0 R /Fit]
+endobj
+xref
+0 79
+0000000000 65535 f 
+0000000008 00000 n 
+0000000073 00000 n 
+0000000119 00000 n 
+0000000343 00000 n 
+0000000372 00000 n 
+0000000486 00000 n 
+0000000631 00000 n 
+0000010802 00000 n 
+0000010910 00000 n 
+0000011019 00000 n 
+0000011130 00000 n 
+0000011257 00000 n 
+0000011312 00000 n 
+0000011439 00000 n 
+0000011494 00000 n 
+0000011621 00000 n 
+0000011676 00000 n 
+0000011803 00000 n 
+0000011858 00000 n 
+0000011985 00000 n 
+0000012040 00000 n 
+0000012167 00000 n 
+0000012222 00000 n 
+0000012349 00000 n 
+0000012404 00000 n 
+0000012531 00000 n 
+0000012586 00000 n 
+0000012713 00000 n 
+0000012768 00000 n 
+0000012895 00000 n 
+0000012950 00000 n 
+0000012979 00000 n 
+0000013084 00000 n 
+0000022446 00000 n 
+0000022574 00000 n 
+0000022674 00000 n 
+0000022704 00000 n 
+0000022829 00000 n 
+0000022916 00000 n 
+0000023042 00000 n 
+0000023140 00000 n 
+0000023265 00000 n 
+0000023365 00000 n 
+0000023449 00000 n 
+0000031570 00000 n 
+0000031697 00000 n 
+0000031807 00000 n 
+0000031837 00000 n 
+0000031867 00000 n 
+0000031932 00000 n 
+0000042621 00000 n 
+0000042726 00000 n 
+0000050248 00000 n 
+0000050278 00000 n 
+0000050404 00000 n 
+0000050477 00000 n 
+0000050603 00000 n 
+0000050676 00000 n 
+0000050802 00000 n 
+0000050874 00000 n 
+0000051001 00000 n 
+0000051073 00000 n 
+0000051103 00000 n 
+0000051194 00000 n 
+0000060579 00000 n 
+0000060707 00000 n 
+0000060818 00000 n 
+0000060848 00000 n 
+0000060975 00000 n 
+0000061092 00000 n 
+0000061157 00000 n 
+0000068401 00000 n 
+0000068431 00000 n 
+0000068461 00000 n 
+0000068545 00000 n 
+0000072573 00000 n 
+0000072701 00000 n 
+0000072779 00000 n 
+trailer
+<<
+/Size 79
+/Root 1 0 R
+/Info 5 0 R
+>>
+startxref
+72809
+%%EOF

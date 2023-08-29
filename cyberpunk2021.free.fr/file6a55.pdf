@@ -1,0 +1,170 @@
+%PDF-1.3
+1 0 obj
+<< /Type /Catalog
+/Outlines 2 0 R
+/Pages 3 0 R >>
+endobj
+2 0 obj
+<< /Type /Outlines /Count 0 >>
+endobj
+3 0 obj
+<< /Type /Pages
+/Kids [6 0 R
+11 0 R
+]
+/Count 2
+/Resources <<
+/ProcSet 4 0 R
+/Font << 
+/F1 8 0 R
+/F2 9 0 R
+/F3 10 0 R
+>>
+>>
+/MediaBox [0.000 0.000 612.000 792.000]
+ >>
+endobj
+4 0 obj
+[/PDF /Text ]
+endobj
+5 0 obj
+<<
+/Creator (DOMPDF)
+/CreationDate (D:20230828024211+02'00')
+/ModDate (D:20230828024211+02'00')
+>>
+endobj
+6 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 7 0 R
+>>
+endobj
+7 0 obj
+<<
+/Length 5679 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 201.492 725.937 Td /F1 18.0 Tf  [(A Cypherpunk's Manifesto)] TJ ET
+BT 274.164 695.200 Td /F1 12.0 Tf  [(Eric Hughes)] TJ ET
+BT 269.172 680.800 Td /F1 12.0 Tf  [(March 9, 1993)] TJ ET
+BT 34.016 654.515 Td /F2 12.0 Tf  [( )] TJ ET
+BT 34.016 616.259 Td 2.523 Tw /F2 12.0 Tf  [(Privacy is necessary for an open society in the electronic age. Privacy is not secrecy. A private matter is )] TJ ET
+BT 34.016 602.003 Td 2.727 Tw /F2 12.0 Tf  [(something one doesn't want the whole world to know, but a secret matter is something one doesn't want )] TJ ET
+BT 34.016 587.747 Td 0.000 Tw /F2 12.0 Tf  [(anybody to know. Privacy is the power to selectively reveal oneself to the world.)] TJ ET
+BT 34.016 561.491 Td 1.426 Tw /F2 12.0 Tf  [(If two parties have some sort of dealings, then each has a memory of their interaction. Each party can speak )] TJ ET
+BT 34.016 547.235 Td 0.552 Tw /F2 12.0 Tf  [(about their own memory of this; how could anyone prevent it ? One could pass laws against it, but the freedom )] TJ ET
+BT 34.016 532.979 Td 0.195 Tw /F2 12.0 Tf  [(of speech, even more than privacy, is fundamental to an open society; we seek not to restrict any speech at all. If )] TJ ET
+BT 34.016 518.723 Td 3.064 Tw /F2 12.0 Tf  [(many parties speak together in the same forum, each can speak to all the others and aggregate together )] TJ ET
+BT 34.016 504.467 Td 0.266 Tw /F2 12.0 Tf  [(knowledge about individuals and other parties. The power of electronic communications has enabled such group )] TJ ET
+BT 34.016 490.211 Td 0.000 Tw /F2 12.0 Tf  [(speech, and it will not go away merely because we might want it to.)] TJ ET
+BT 34.016 463.955 Td 0.846 Tw /F2 12.0 Tf  [(Since we desire privacy, we must ensure that each party to a transaction have knowledge only of that which is )] TJ ET
+BT 34.016 449.699 Td 0.190 Tw /F2 12.0 Tf  [(directly necessary for that transaction. Since any information can be spoken of, we must ensure that we reveal as )] TJ ET
+BT 34.016 435.443 Td 0.569 Tw /F2 12.0 Tf  [(little as possible. In most cases personal identity is not salient. When I purchase a magazine at a store and hand )] TJ ET
+BT 34.016 421.187 Td 1.761 Tw /F2 12.0 Tf  [(cash to the clerk, there is no need to know who I am. When I ask my electronic mail provider to send and )] TJ ET
+BT 34.016 406.931 Td 0.954 Tw /F2 12.0 Tf  [(receive messages, my provider need not know to whom I am speaking or what I am saying or what others are )] TJ ET
+BT 34.016 392.675 Td 1.304 Tw /F2 12.0 Tf  [(saying to me; my provider only need know how to get the message there and how much I owe them in fees. )] TJ ET
+BT 34.016 378.419 Td 0.708 Tw /F2 12.0 Tf  [(When my identity is revealed by the underlying mechanism of the transaction, I have no privacy. I cannot here )] TJ ET
+BT 34.016 364.163 Td 0.000 Tw /F2 12.0 Tf  [(selectively reveal myself; I must )] TJ ET
+BT 192.992 364.163 Td /F3 12.0 Tf  [(always)] TJ ET
+BT 226.328 364.163 Td /F2 12.0 Tf  [( reveal myself.)] TJ ET
+BT 34.016 337.907 Td 1.605 Tw /F2 12.0 Tf  [(Therefore, privacy in an open society requires anonymous transaction systems. Until now, cash has been the )] TJ ET
+BT 34.016 323.651 Td 2.430 Tw /F2 12.0 Tf  [(primary such system. An anonymous transaction system is not a secret transaction system. An anonymous )] TJ ET
+BT 34.016 309.395 Td 0.571 Tw /F2 12.0 Tf  [(system empowers individuals to reveal their identity when desired and only when desired; this is the essence of )] TJ ET
+BT 34.016 295.139 Td 0.000 Tw /F2 12.0 Tf  [(privacy.)] TJ ET
+BT 34.016 268.883 Td 1.740 Tw /F2 12.0 Tf  [(Privacy in an open society also requires cryptography. If I say something, I want it heard only by those for )] TJ ET
+BT 34.016 254.627 Td 1.714 Tw /F2 12.0 Tf  [(whom I intend it. If the content of my speech is available to the world, I have no privacy. To encrypt is to )] TJ ET
+BT 34.016 240.371 Td 1.504 Tw /F2 12.0 Tf  [(indicate the desire for privacy, and to encrypt with weak cryptography is to indicate not too much desire for )] TJ ET
+BT 34.016 226.115 Td 3.278 Tw /F2 12.0 Tf  [(privacy. Furthermore, to reveal one's identity with assurance when the default is anonymity requires the )] TJ ET
+BT 34.016 211.859 Td 0.000 Tw /F2 12.0 Tf  [(cryptographic signature.)] TJ ET
+BT 34.016 185.603 Td 1.384 Tw /F2 12.0 Tf  [(We cannot expect governments, corporations, or other large, faceless organizations to grant us privacy out of )] TJ ET
+BT 34.016 171.347 Td 1.178 Tw /F2 12.0 Tf  [(their beneficence. It is to their advantage to speak of us, and we should expect that they will speak. To try to )] TJ ET
+BT 34.016 157.091 Td 0.827 Tw /F2 12.0 Tf  [(prevent their speech is to fight against the realities of information. Information does not just want to be free, it )] TJ ET
+BT 34.016 142.835 Td 2.704 Tw /F2 12.0 Tf  [(longs to be free. Information expands to fill the available storage space. Information is Rumor's younger, )] TJ ET
+BT 34.016 128.579 Td 0.000 Tw /F2 12.0 Tf  [(stronger cousin; Information is fleeter of foot, has more eyes, knows more, and understands less than Rumor.)] TJ ET
+BT 34.016 102.323 Td 0.952 Tw /F2 12.0 Tf  [(We must defend our own privacy if we expect to have any. We must come together and create systems which )] TJ ET
+BT 34.016 88.067 Td 1.249 Tw /F2 12.0 Tf  [(allow anonymous transactions to take place. People have been defending their own privacy for centuries with )] TJ ET
+BT 34.016 73.811 Td 1.148 Tw /F2 12.0 Tf  [(whispers, darkness, envelopes, closed doors, secret handshakes, and couriers. The technologies of the past did )] TJ ET
+BT 34.016 59.555 Td 0.000 Tw /F2 12.0 Tf  [(not allow for strong privacy, but electronic technologies do.)] TJ ET
+endstream
+endobj
+8 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Times-Bold
+/Encoding /WinAnsiEncoding
+>>
+endobj
+9 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F2
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+>>
+endobj
+10 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F3
+/BaseFont /Times-Italic
+/Encoding /WinAnsiEncoding
+>>
+endobj
+11 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 12 0 R
+>>
+endobj
+12 0 obj
+<<
+/Length 2512 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 34.016 734.579 Td 3.409 Tw /F2 12.0 Tf  [(We the Cypherpunks are dedicated to building anonymous systems. We are defending our privacy with )] TJ ET
+BT 34.016 720.323 Td 0.000 Tw /F2 12.0 Tf  [(cryptography, with anonymous mail forwarding systems, with digital signatures, and with electronic money.)] TJ ET
+BT 34.016 694.067 Td 0.366 Tw /F2 12.0 Tf  [(Cypherpunks write code. We know that someone has to write software to defend privacy, and since we can't get )] TJ ET
+BT 34.016 679.811 Td 1.730 Tw /F2 12.0 Tf  [(privacy unless we all do, we're going to write it. We publish our code so that our fellow Cypherpunks may )] TJ ET
+BT 34.016 665.555 Td 0.459 Tw /F2 12.0 Tf  [(practice and play with it. Our code is free for all to use, worldwide. We don't much care if you don't approve of )] TJ ET
+BT 34.016 651.299 Td 1.339 Tw /F2 12.0 Tf  [(the software we write. We know that software can't be destroyed and that a widely dispersed system can't be )] TJ ET
+BT 34.016 637.043 Td 0.000 Tw /F2 12.0 Tf  [(shut down.)] TJ ET
+BT 34.016 610.787 Td 2.053 Tw /F2 12.0 Tf  [(Cypherpunks deplore regulations on cryptography, for encryption is fundamentally a private act. The act of )] TJ ET
+BT 34.016 596.531 Td 1.071 Tw /F2 12.0 Tf  [(encryption, in fact, removes information from the public realm. Even laws against cryptography reach only so )] TJ ET
+BT 34.016 582.275 Td 0.698 Tw /F2 12.0 Tf  [(far as a nation's border and the arm of its violence. Cryptography will ineluctably spread over the whole globe, )] TJ ET
+BT 34.016 568.019 Td 0.000 Tw /F2 12.0 Tf  [(and with it the anonymous transactions systems that it makes possible.)] TJ ET
+BT 34.016 541.763 Td 0.950 Tw /F2 12.0 Tf  [(For privacy to be widespread it must be part of a social contract. People must come and together deploy these )] TJ ET
+BT 34.016 527.507 Td 0.222 Tw /F2 12.0 Tf  [(systems for the common good. Privacy only extends so far as the cooperation of one's fellows in society. We the )] TJ ET
+BT 34.016 513.251 Td 1.189 Tw /F2 12.0 Tf  [(Cypherpunks seek your questions and your concerns and hope we may engage you so that we do not deceive )] TJ ET
+BT 34.016 498.995 Td 0.000 Tw /F2 12.0 Tf  [(ourselves. We will not, however, be moved out of our course because some may disagree with our goals.)] TJ ET
+BT 34.016 472.739 Td /F2 12.0 Tf  [(The Cypherpunks are actively engaged in making the networks safer for privacy. Let us proceed together apace.)] TJ ET
+BT 34.016 446.483 Td /F2 12.0 Tf  [(Onward.)] TJ ET
+endstream
+endobj
+xref
+0 13
+0000000000 65535 f 
+0000000008 00000 n 
+0000000073 00000 n 
+0000000119 00000 n 
+0000000301 00000 n 
+0000000330 00000 n 
+0000000444 00000 n 
+0000000507 00000 n 
+0000006238 00000 n 
+0000006346 00000 n 
+0000006455 00000 n 
+0000006566 00000 n 
+0000006631 00000 n 
+trailer
+<<
+/Size 13
+/Root 1 0 R
+/Info 5 0 R
+>>
+startxref
+9196
+%%EOF
