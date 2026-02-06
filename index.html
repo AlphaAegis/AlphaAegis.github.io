@@ -1,17 +1,29 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-<title>CP2020Wild Home</title>
+  <head>
+  <title>CP2020Wild Home</title>
 <link rel="icon" type="image/x-icon" href="amog me emote.png">
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="./bootstrap.min.css" />
+  </head>
+  
+  <style>
 * {
   box-sizing: border-box;
 }
-.container {
-	width: auto;
-    white-space: pre-wrap;
+tr {
+	background-color: #1f1f1f;
+}
+.button {
+  background-color: green; /* Green */
+  border: none;
+  color: white;
+  padding: 7px 18px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
 }
 h2 {
 	color: white;
@@ -24,75 +36,134 @@ p {
 body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
+  background-image: url("background.png");
+            /* Additional properties for better control */
+  background-repeat: no-repeat; /* Prevents the image from repeating */
+  background-size: cover;      /* Scales the image to cover the entire container */
+  background-attachment: fixed;
   background-color: #1f1f1f;
 }
 
-/* Style the side navigation */
-.sidenav {
-  height: 100%;
-  width: 200px;
-  position: fixed;
-  z-index: 1;
-  top: 0;
-  left: 0;
-  background-color: #111;
-  overflow-x: hidden;
-}
-
-
-/* Side navigation links */
-.sidenav a {
-  color: darkgray;
-  padding: 16px;
-  text-decoration: none;
-  display: block;
-}
-
-/* Change color on hover */
-.sidenav a:hover {
-  background-color: #474747;
-  color: white;
-}
-
-/* Style the content */
-.content {
-  margin-left: 200px;
-  padding-left: 20px;
-}
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-</style>
-</head>
-<body>
-
-<div class="sidenav">
-  <a href="Characters/default">Characters</a>
-  <a href="Story/default">Story</a>
-  <a href="Background/default">Background</a>
-  <a href="Gear/default">Gear</a>
-  <a href="Goons/default">Goons</a>
-  <a href="Player/default">Player Characters</a>
-  <a href="books/default">Rule Books</a>
-<a href="Soundboard/default">Soundboard</a>
-<a href="Songs/default">Songs</a>
-  <a href="https://www.cyberpunkwild.com/">Player Interface</a>
-  <a href="Items/default">Item List</a>
-<a href="paperclip/index2">Paperclip</a>
-<a href="http://mc.cyberpunkwild.com:8000">PokeRouge</a>
+  </style>
+  
+  
+  
+  
+  <body>
+  <h2> Josh Servers </h2>
+  <p></p>
+  <p></p>
+  <p></p><p></p>
+    <div class="container">
+    <div class="row">
+        <div class="col-6">
+            <a href="http://192.168.0.2:8006" class="button">PROX_MC</a>
+            <table class="table table-hover">
+                <thead>
+                    <tr>
+                        <th scope="col">Service</th>
+                        <th scope="col">IP</th>
+                        <th scope="col">Link</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Minecraft Panel</td>
+                        <td>
+                            192.168.0.10:23333
+                        </td>
+                        <td><a href="http://192.168.0.10:23333" class="button">Panel</a></td>
+                    </tr>
+                    <tr>
+                        <td>Minecraft Server</td>
+                        <td>
+                            192.168.0.10:2556x
+                        </td>
+                        <td>N/A</td>
+                    </tr>
+                    <tr>
+                        <td>Wireguard Server</td>
+                        <td>
+                            192.168.0.200:51820
+                        </td>
+                        <td>N/A</td>
+                    </tr>
+                    
+                </tbody>
+            </table>
+            <a href="http://192.168.0.9:8006" class="button">Network Box</a>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th scope="col">
+                            Service
+                        </th>
+                        <th scope="col">IP</th>
+                        <th scope="col">Link</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Jellyfin_BAK</td>
+                        <td>192.168.0.31:8096</td>
+                        <td><a href="http://192.168.0.31:8096" class="button">Jellyfin</a></td></td>
+                    </tr>
+                    
+                </tbody>
+            </table>
+        </div>
+        <div class="col-6">
+            <a href="http://192.168.0.20:8006" class="button">NAS</a>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th scope="col">
+                            Service
+                        </th>
+                        <th scope="col">IP</th>
+                        <th scope="col">Link</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Qbittorrent</td>
+                        <td>192.168.0.30:8080</td>
+                        <td><a href="http://192.168.0.30:8080" class="button">Qbittorrent</a></td>
+                    </tr>
+                    <tr>
+                        <td>Jellyseer</td>
+                        <td>192.168.0.30:5055</td>
+                        <td><a href="http://192.168.0.30:5055" class="button">Jellyseer</a></td>
+                    </tr>
+                    <tr>
+                        <td>Prowlarr</td>
+                        <td>192.168.0.30:9696</td>
+                        <td><a href="http://192.168.0.30:9696" class="button">Prowlarr</a></td>
+                    </tr>
+                    <tr>
+                        <td>Sonarr</td>
+                        <td>
+                            192.168.0.30:8989
+                            <br />
+                        </td>
+                        <td><a href="http://192.168.0.30:8989" class="button">Sonarr</a></td>
+                    </tr>
+					 <tr>
+                        <td>Radarr</td>
+                        <td>192.168.0.30:7878</td>
+                        <td><a href="http://192.168.0.30:7878" class="button">Radarr</a></td>
+                    </tr>
+                    <tr>
+                        <td>NAS</td>
+                        <td>192.168.0.100</td>
+                        <td>N/A</td>
+                    </tr>
+                </tbody>
+            </table>
+            
+        </div>
+    </div>
 </div>
-
-<div class="content">
-  <img src="../CyberpunkWildLogo.png" alt="balls" class="center">
-  <h2>Notes:</h2>
-
-</div>
-<iframe src="https://docs.google.com/document/d/1lbWJ-a6m86tm6fLDA8Ov2VG13M4nV9RNvR6w6ajnZnM/edit" height="1000" width="1800" class="content"></iframe>
-
-</body>
+    <script src="./bootstrap.bundle.min.js"></script>
+  </body>
 </html>
-
-
